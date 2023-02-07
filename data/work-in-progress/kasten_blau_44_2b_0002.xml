@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_2b_0002.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2b_0002.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,12 +44,12 @@
                      <msIdentifier>
                         <country>Deutschland</country>
                         <settlement>München</settlement>
-                        <repository>some archive in munich</repository>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1686-07-07"></origDate></origin>
+                        <origin><origDate when-iso="1686-07-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -66,15 +62,15 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-         
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>Schreiber</term>
          </ab>
-         <ab type="abstract-terms">offizielles Schreiben. keine Foliierung im ganzen Faszikel</ab>
-            
+         <ab type="notes">offizielles Schreiben. keine Foliierung im ganzen Faszikel</ab>
         </abstract>
-         <abstract n="regest"><p>REGEST BALBALA</p></abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
@@ -82,22 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1686-07-07"></date>
+               <date when-iso="1686-07-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="aspitzbart" when="2022-12-21">template populated with script "create_templates.py"</change>
-         <change who="pandorfer" when="2022-12-16">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+   <facsimile>
   <surface ulx="0" uly="0" lrx="800" lry="1210" xml:id="facs_1">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1210px"/>
+    <graphic url="Kasten_blau_44_2b_0002.jpg" width="800px" height="1210px"/>
     <zone points="56,86 56,1146 770,1146 770,86" rendition="TextRegion" xml:id="facs_1_r1">
         <zone points="76,199 185,172 762,180 762,142 699,132 485,149 239,126 213,148 134,119 76,141" rendition="Line" xml:id="facs_1_r1l3"/>
         <zone points="184,234 218,209 301,226 366,206 551,206 697,237 764,212 764,191 734,181 674,197 616,172 586,189 557,170 449,182 422,168 395,191 367,171 184,175" rendition="Line" xml:id="facs_1_r1l4"/>
@@ -122,7 +118,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1209" xml:id="facs_2">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1209px"/>
+    <graphic url="Kasten_blau_44_2b_0003.jpg" width="800px" height="1209px"/>
     <zone points="190,152 190,470 774,470 774,152" rendition="TextRegion" xml:id="facs_2_r1">
         <zone points="185,186 348,181 384,202 434,177 631,195 751,176 751,147 647,133 589,149 423,129 223,156 185,139" rendition="Line" xml:id="facs_2_r1l1"/>
         <zone points="191,233 215,216 394,206 485,232 531,214 574,239 614,216 765,226 765,197 727,174 632,195 560,177 520,193 422,178 353,198 252,179 191,195" rendition="Line" xml:id="facs_2_r1l2"/>
@@ -134,7 +130,7 @@
       </zone>
   </surface>
   <surface ulx="0" uly="0" lrx="800" lry="1171" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1171px"/>
+    <graphic url="Kasten_blau_44_2b_0004.jpg" width="800px" height="1171px"/>
     <zone points="22,628 22,893 359,893 359,628" rendition="TextRegion" xml:id="facs_3_r1">
         <zone points="17,671 120,649 152,659 166,651 220,661 233,651 349,658 348,628 324,618 302,635 283,628 245,639 152,611 111,635 74,609 16,621" rendition="Line" xml:id="facs_3_r1l1"/>
         <zone points="63,684 107,673 189,677 221,690 266,677 275,686 314,678 343,686 344,652 325,660 317,651 251,659 233,651 217,662 184,651 131,657 121,648 102,657 65,636" rendition="Line" xml:id="facs_3_r1l2"/>
@@ -151,10 +147,10 @@
 </facsimile>
 
    <text type="letter">
-   <body xmlns="http://www.tei-c.org/ns/1.0">
+   <body>
   <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001"/>
-    <ab facs="#facs_1_r1" >
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2b_0002.jpg"/>
+    <ab facs="#facs_1_r1">
       <lb facs="#facs_1_r1l3" n="N001"/>Durchleüchtig-hochgebohrner Churfürst, freünd-
       <lb facs="#facs_1_r1l4" n="N002"/>licher lieber herr vatter. An mich haben eüer
       <lb facs="#facs_1_r1l5" n="N003"/><choice><expan>Liebden</expan><abbr>Ldn</abbr></choice> noch dem 29. april diß jahrs deß mehrern
@@ -167,25 +163,25 @@
       <lb facs="#facs_1_r1l12" n="N010"/>dieses werckh pro justitia secundirn wolle, nach-
       <lb facs="#facs_1_r1l13" n="N011"/>truckhlich gebetten werde. Obwolen nun vorhin
       <lb facs="#facs_1_r1l14" n="N012"/>weldtkhündig, daß höchstgedacht meines herrn ge-
-      <lb facs="#facs_1_r1l15" n="N013"/>mahls, Mayestät vnd <choice><expan>LIebden</expan><abbr>Ldn</abbr></choice>, zu nichts anders, dan was
+      <lb facs="#facs_1_r1l15" n="N013"/>mahls, Mayestät vnd <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice>, zu nichts anders, dan was
       <lb facs="#facs_1_r1l16" n="N014"/>die gottliebende justitia erfordert, vnd zue-
       <lb facs="#facs_1_r1l17" n="N015"/>last, genaigt sein khönnen. So werde ich doch
       <lb facs="#facs_1_r1l18" n="N016"/>zu befürderung der sachen an allem deme, was
       <lb facs="#facs_1_r1l19" n="N017"/>mir zu erlangung eüer <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice>, vnd der Fürstin in-
       <lb facs="#facs_1_r1l20" n="N018"/>tention auf den weeg der gerechtigkheit bey-
       <lb facs="#facs_1_r1l21" n="N019"/>zutragen möglich sein wirdt, gnedigst nichts er-
-      <lb facs="#facs_1_r1l22" n="N020"/>winden lasßen, sondern eüern <choice><expan>LIebden</expan><abbr>Ldn</abbr></choice> so wol mainende</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002"/>
-    <ab facs="#facs_2_r1" >
+      <lb facs="#facs_1_r1l22" n="N020"/>winden lasßen, sondern eüern <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice> so wol mainende</ab>
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2b_0003.jpg"/>
+    <ab facs="#facs_2_r1">
       <lb facs="#facs_2_r1l1" n="N001"/>intervention zusecundieren möglichst gedacht
-      <lb facs="#facs_2_r1l2" n="N002"/>sein; wormit euer <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice> dem schuz deß aller-
+      <lb facs="#facs_2_r1l2" n="N002"/>sein; wormit eüer <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice> dem schuz deß aller-
       <lb facs="#facs_2_r1l3" n="N003"/>höchsten getreülich empfehle. Wienn, den 7ten
       <lb facs="#facs_2_r1l4" n="N004"/>julii, <unclear>au</unclear> 1686
       <lb facs="#facs_2_r1l5" n="N005"/>eüer <choice><expan>Liebden</expan><abbr>Ldn</abbr></choice>
-      <lb facs="#facs_2_r1l6" n="N006"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> getr<supplied >e</supplied>wgehorsamst dochter
+      <lb facs="#facs_2_r1l6" n="N006"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> getr<supplied>e</supplied>wgehorsamst dochter
       <lb facs="#facs_2_r1l7" n="N007"/>Eleonora Magdalena Therisia</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003"/>
-    <ab facs="#facs_3_r1" >
+    <pb facs="#facs_3" n="3" xml:id="Kasten_blau_44_2b_0004.jpg"/>
+    <ab facs="#facs_3_r1">
       <lb facs="#facs_3_r1l1" n="N001"/>Dem durchleüchtigen hochge-
       <lb facs="#facs_3_r1l2" n="N002"/>bohrnen Fürsten Philipp Wil-
       <lb facs="#facs_3_r1l3" n="N003"/>helmben Pfalzgrauen bey Rhein,

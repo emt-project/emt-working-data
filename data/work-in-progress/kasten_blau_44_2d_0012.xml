@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0012.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Laxenburg am 1679.06.12</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1679-06-12"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">130361</idno>
+                  <idno type="transkribus-doc-id">870289</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__31">Laxenburg</placeName>
+               <date when-iso="1679-06-12"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1231" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_2d_0012.jpg" width="800px" height="1231px"/>
+    <zone points="72,239 72,1006 771,1006 771,239" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="150,308 228,296 267,323 352,316 407,286 489,310 543,280 590,294 773,276 769,199 520,262 465,243 230,254 146,230" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="149,366 266,337 324,364 441,343 500,370 532,340 617,352 749,326 747,276 512,313 402,286 326,327 194,296 147,308" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="148,385 237,383 261,402 286,384 340,408 366,386 475,404 595,377 680,400 767,356 766,323 679,332 651,355 531,341 498,369 389,342 330,366 265,337 147,365" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="139,446 333,421 446,452 476,429 522,447 563,418 599,433 634,410 761,408 759,379 732,376 659,400 592,378 423,412 369,388 339,408 136,389" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="147,501 224,466 293,466 349,492 393,467 488,487 575,460 739,459 737,414 702,411 669,435 531,446 477,428 449,451 387,450 331,421 280,422 247,454 210,433 145,445" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="148,526 273,537 311,514 362,525 478,507 621,526 721,495 719,461 684,454 443,500 281,467 147,503" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="149,585 238,562 369,586 508,556 607,575 724,539 723,517 498,528 466,511 308,543 146,528" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="144,630 194,606 288,629 354,598 561,619 590,600 761,600 759,567 718,556 143,588" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="145,662 259,683 376,652 411,683 638,638 745,651 729,594 526,611 441,641 360,638 325,614 287,629 251,606 144,630" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="150,726 214,702 268,726 352,706 414,723 569,684 641,709 757,679 756,647 725,646 681,667 631,645 444,677 371,659 242,681 148,660" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="146,772 212,751 261,766 288,745 524,766 571,732 628,747 763,729 760,676 704,700 500,703 442,727 271,728 214,702 144,728" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="144,816 274,820 307,784 363,813 466,781 566,775 603,792 633,772 713,772 695,734 657,756 584,734 540,764 452,767 392,746 142,772" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="249,866 256,866 264,859 271,862 282,858 302,864 312,873 333,872 331,792 319,792 307,784 274,819 259,815 248,817" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="504,944 522,945 546,923 575,939 628,907 672,924 681,917 713,920 727,915 723,874 670,866 615,889 599,877 560,886 534,875 497,877" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="499,965 511,959 523,965 541,954 590,968 614,947 630,949 648,940 645,910 629,907 577,938 544,923 525,943 496,944" rendition="Line" xml:id="facs_1_r1l16"/>
+        <zone points="509,1019 533,1006 566,1009 584,997 651,999 723,981 751,985 776,972 772,933 719,957 671,941 587,968 550,962 505,981" rendition="Line" xml:id="facs_1_r1l17"/>
+        <zone points="67,973 117,982 161,971 217,982 247,971 279,982 312,959 354,969 382,960 379,891 344,877 287,897 188,883 170,893 102,886 64,894" rendition="Line" xml:id="facs_1_r1l15"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div>
+    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0012.jpg"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr brueder
+      <lb facs="#facs_1_r1l2" n="N002"/>Ich bediene mich der gelegenheit, das ihr Mayestät,
+      <lb facs="#facs_1_r1l3" n="N003"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, seinen Cammerern, den Grau
+      <lb facs="#facs_1_r1l4" n="N004"/>von Lamberg, hinauf schiket, selbigen mit <seg type="blackening">zue</seg>
+      <lb facs="#facs_1_r1l5" n="N005"/>diesem brief zue aco<supplied>m</supplied>pagniren. Er wirt dero Liebden
+      <lb facs="#facs_1_r1l6" n="N006"/>mit mehr<supplied>e</supplied>rem meiner trewen affection
+      <lb facs="#facs_1_r1l7" n="N007"/>versicheren, warauf ich mich bezihe. Was
+      <lb facs="#facs_1_r1l8" n="N008"/>ich vohr große freüdt hab wegen der gelükligen
+      <lb facs="#facs_1_r1l9" n="N009"/>nider kunft ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice>, kan <supplied>ich</supplied> nit beschreiben.
+      <lb facs="#facs_1_r1l10" n="N010"/>Hoffe, mein Erzherzogin werde balt nachfolgen,
+      <lb facs="#facs_1_r1l11" n="N011"/>es mues aber ein sohn sein. Ich versichere
+      <lb facs="#facs_1_r1l12" n="N012"/>vnterdeßen dero Liebden, das ich allezeit verbleiben werde
+      <lb facs="#facs_1_r1l13" n="N013"/>dero Liebden
+      <lb facs="#facs_1_r1l14" n="N014"/>getreweste schwester
+      <lb facs="#facs_1_r1l16" n="N015"/>bis in doht
+      <lb facs="#facs_1_r1l17" n="N016"/>Eleonora Magdalen <choice><expan>Theresia</expan><abbr>Thers</abbr></choice>
+      <lb facs="#facs_1_r1l15" n="N017"/>Laxenburg den 12 junij 1679</ab>
+  </div>
+</body>
+
+   </text>
+</TEI>
