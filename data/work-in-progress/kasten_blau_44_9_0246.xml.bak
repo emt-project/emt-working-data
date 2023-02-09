@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_9_0246.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1708.06.07</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1708-06-07"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">142911</idno>
+                  <idno type="transkribus-doc-id">950902</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when-iso="1708-06-07"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1226" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_9_0246.jpg" width="800px" height="1226px"/>
+    <zone points="65,0 65,1166 732,1166 732,0" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="102,406 162,383 208,402 275,372 391,396 433,370 468,387 589,365 618,384 738,358 736,306 711,298 654,317 564,295 466,312 232,286 99,299" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="70,469 98,454 192,474 354,440 627,459 712,426 710,383 645,371 406,401 288,377 207,402 184,385 67,392" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="61,538 112,512 205,536 239,509 279,530 342,507 454,521 532,494 696,512 714,503 712,449 536,457 514,438 448,469 269,451 220,475 143,458 59,485" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="67,595 136,571 196,588 359,562 435,596 482,560 539,573 571,549 656,570 687,553 685,502 525,508 453,532 318,513 281,540 243,508 205,536 113,512 65,540" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="68,627 417,644 446,621 541,644 573,617 689,608 688,570 608,556 482,561 433,596 386,582 348,598 300,576 249,595 136,571 68,594" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="74,707 191,685 227,704 263,684 307,712 335,691 441,699 545,676 574,692 713,660 711,623 599,614 530,639 442,622 418,643 71,636" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="69,751 134,778 169,749 560,765 615,733 660,767 719,758 716,676 641,669 613,692 452,693 391,723 335,692 232,715 187,688 68,702" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="66,817 194,816 252,843 306,806 346,824 377,805 438,842 513,802 720,810 719,758 661,767 611,744 507,784 273,765 228,787 177,753 143,782 63,770" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="76,888 155,907 175,889 262,901 289,872 339,896 382,874 503,891 652,851 721,868 727,811 648,810 612,834 514,806 436,842 375,805 256,845 197,816 73,816" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="71,959 110,945 153,971 205,942 314,980 357,945 440,964 592,913 715,923 714,866 670,865 624,897 579,872 464,896 350,887 295,919 69,915" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="89,1025 391,992 431,1020 584,1008 683,976 681,922 612,948 461,946 434,967 356,946 315,980 216,946 166,974 86,953" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="87,1114 152,1102 183,1078 221,1085 263,1060 302,1075 384,1042 427,1063 455,1048 450,993 426,1002 386,993 360,1011 319,1005 208,1035 172,1019 147,1031 120,1011 81,1031" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="204,1145 210,1146 214,1143 215,1145 220,1144 223,1147 230,1144 238,1147 247,1082 240,1080 234,1084 229,1079 221,1084 213,1082" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="477,1102 494,1105 511,1091 532,1101 553,1081 576,1096 591,1090 604,1098 618,1091 625,1096 643,1083 665,1083 676,1078 673,1018 637,1021 627,1013 592,1034 575,1033 536,1052 517,1048 475,1067" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="520,1095 540,1112 629,1092 697,1102 697,1154 626,1168 588,1148 562,1158 530,1144 509,1157 490,1141" rendition="Line" xml:id="facs_1_line_1657199643600_65"/>
+        <zone points="277,1087 414,1062 454,1089 493,1104 519,1094 520,1095 490,1141 483,1135 433,1133 373,1166 274,1159" rendition="Line" xml:id="facs_1_line_1657199643601_66"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="800" lry="1239" xml:id="facs_2">
+    <graphic url="Kasten_blau_44_9_0247.jpg" width="800px" height="1239px"/>
+    <zone points="501,810 301,810 301,488 501,488" rendition="TextRegion" xml:id="facs_2_region_1657199762134_102">
+        <zone points="323,792 320,505 370,505 373,792" rendition="Line" xml:id="facs_2_line_1657199769511_105"/>
+        <zone points="374,774 372,506 422,506 424,774" rendition="Line" xml:id="facs_2_line_1657199792689_115"/>
+        <zone points="426,768 462,604 512,645 463,655 468,654 476,766" rendition="Line" xml:id="facs_2_line_1657199800872_120"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div>
+    <pb facs="#facs_1" n="42 r" xml:id="Kasten_blau_44_9_0246.jpg" ed="145 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb facs="#facs_1_r1l2" n="N002"/>Dise zeilen dienen nuhr mich zu entschuldigen, das ich
+      <lb facs="#facs_1_r1l3" n="N003"/>dero Liebden liebste schreiben, so mihr geste<supplied>r</supplied>n der Diemantstein
+      <lb facs="#facs_1_r1l4" n="N004"/>überliuert hatt, nit beantworten <supplied>kann</supplied>, weilen heündt bey
+      <lb facs="#facs_1_r1l5" n="N005"/>antrettender reiße meiner braut so vill zu
+      <lb facs="#facs_1_r1l6" n="N006"/>duen gibt, das vnmöglich kan, auch das herz zimlich
+      <lb facs="#facs_1_r1l7" n="N007"/>voll ist. Werd hernach alles ersezen. Dero Liebden werden
+      <lb facs="#facs_1_r1l8" n="N008"/>vom Diemanstein vernemmen, in was terminis
+      <lb facs="#facs_1_r1l9" n="N009"/>die bohmische sach steht. Bitt, dero Liebden wollen alles möglige
+      <lb facs="#facs_1_r1l10" n="N010"/>eingehen, weil sie sagen, das <choice><expan>wegen</expan><abbr>weg</abbr></choice> Schw<supplied>e</supplied>den geschicht, vndt
+      <lb facs="#facs_1_r1l11" n="N011"/>hernach könne es remedi<supplied>r</supplied>t werden. Ich due mich dero Liebden
+      <lb facs="#facs_1_r1l12" n="N012"/>bef<supplied>e</supplied>hlen, werde l<supplied>e</supplied>ben vnd ste<supplied>r</supplied>ben
+      <lb facs="#facs_1_r1l14" n="N013"/>dero Liebden
+      <lb facs="#facs_1_r1l13" n="N014"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
+      <lb facs="#facs_1_line_1657199643600_65" n="N015"/>Eleonora
+      <lb facs="#facs_1_line_1657199643601_66" n="N016"/>Wien den 7ten junij 1708</ab>
+    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_9_0247.jpg"/>
+    <ab facs="#facs_2_region_1657199762134_102">
+      <lb facs="#facs_2_line_1657199769511_105" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Cuhrfürsten zu
+      <lb facs="#facs_2_line_1657199792689_115" n="N002"/>Pfalz, mein h<supplied>er</supplied>zallerlibsten
+      <lb facs="#facs_2_line_1657199800872_120" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brude<supplied>r</supplied>n</ab>
+  </div>
+</body>
+
+   </text>
+</TEI>

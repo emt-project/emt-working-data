@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0098.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, o.O. am o.D.</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">136452</idno>
+                  <idno type="transkribus-doc-id">1260641</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+         <ab type="notes">Chiffre (ca. halbe Seite) mit Auflösung überschrieben, und zwar französisch! Deutscher Rahmentext Handschrift Eleonora Magdalena von Pfalz-Neuburgs, kein Übergang von 54 v. Geht um Friedensverhandlung, ein Bote wurde an Henri d’Harcourt, Marquis de Beuvron et de Thary-Harcourt (frz. Feldherr, Oberkommandierender in Luxemburg) geschickt</ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch und französisch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#">o.O.</placeName>
+               <date/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1234" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_7_0098.jpg" width="800px" height="1234px"/>
+    <zone points="36,31 36,1146 760,1146 760,31" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="405,136 482,123 506,135 568,125 590,138 618,127 762,124 761,87 652,109 624,86 563,100 547,87 505,90 477,108 404,102" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="72,178 200,157 457,164 497,143 762,151 748,120 71,133" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="80,185 768,180 767,145 677,140 548,169 323,151 80,172" rendition="Line" xml:id="facs_1_line_1646727749481_200"/>
+        <zone points="77,195 680,210 756,200 757,174 78,173" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="84,245 373,224 498,239 554,229 553,196 331,219 205,198 134,223 83,214" rendition="Line" xml:id="facs_1_line_1646727758437_206"/>
+        <zone points="52,265 727,247 740,204 574,209 503,235 123,243 51,226" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="51,290 508,267 738,268 737,246 673,246 606,243 574,260 515,243 51,265" rendition="Line" xml:id="facs_1_line_1646727764971_210"/>
+        <zone points="77,326 434,287 500,302 523,284 726,305 747,286 513,267 231,292 76,282" rendition="Line" xml:id="facs_1_line_1646727803666_224"/>
+        <zone points="48,331 458,317 525,301 761,320 749,291 553,283 447,296 295,295 48,319" rendition="Line" xml:id="facs_1_line_1646727828190_229"/>
+        <zone points="58,330 82,333 104,331 150,330 187,326 228,324 276,322 314,322 369,319 410,321 443,319 488,315 545,310 605,309 664,306 696,305 726,305 742,303 748,353 728,355 697,355 666,356 607,359 547,360 492,365 446,369 410,371 369,369 315,372 277,372 230,374 191,376 153,380 106,381 82,383 52,380" rendition="Line" xml:id="facs_1_line_1653730862707_1154"/>
+        <zone points="53,353 199,351 304,344 398,347 470,336 570,335 631,331 682,327 740,326 741,376 684,377 634,381 572,385 474,386 401,397 305,394 201,401 54,403" rendition="Line" xml:id="facs_1_line_1650523861967_352"/>
+        <zone points="45,401 746,374 739,339 365,367 336,343 266,367 44,351" rendition="Line" xml:id="facs_1_r1l26"/>
+        <zone points="48,400 188,386 577,370 601,381 601,400 557,405 362,424 49,439" rendition="Line" xml:id="facs_1_line_1653731073864_1192"/>
+        <zone points="362,410 715,387 716,409 362,424" rendition="Line" xml:id="facs_1_line_1653731064351_1186"/>
+        <zone points="53,480 106,457 523,453 755,421 51,439" rendition="Line" xml:id="facs_1_line_1646727916281_265"/>
+        <zone points="49,488 254,473 274,489 318,468 358,486 462,460 506,478 533,454 596,470 717,445 754,460 738,429 82,474 48,457" rendition="Line" xml:id="facs_1_r1l33"/>
+        <zone points="38,512 753,489 755,461 37,491" rendition="Line" xml:id="facs_1_line_1646906322283_307"/>
+        <zone points="45,534 538,526 680,496 727,511 742,480 44,510" rendition="Line" xml:id="facs_1_r1l36"/>
+        <zone points="54,510 83,508 110,505 158,500 203,509 235,507 265,508 292,505 329,504 330,554 295,555 267,558 236,557 200,559 156,550 116,555 87,558 57,560" rendition="Line" xml:id="facs_1_line_1653731287803_1215"/>
+        <zone points="32,581 686,567 720,558 719,512 624,535 594,515 521,537 323,524 289,555 216,528 171,553 31,548" rendition="Line" xml:id="facs_1_r1l38"/>
+        <zone points="36,627 658,619 746,590 699,561 576,567 535,596 500,570 339,604 264,583 188,607 145,586 35,596" rendition="Line" xml:id="facs_1_r1l39"/>
+        <zone points="43,682 81,696 199,678 245,691 311,674 332,688 353,670 382,686 434,673 432,630 402,648 372,638 330,656 246,635 187,653 120,640 84,660 42,659" rendition="Line" xml:id="facs_1_r1l40"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div>
+    <pb facs="#facs_1" n="55 r" xml:id="Kasten_blau_44_7_0098.jpg" ed="49 r"/>
+    <ab facs="#facs_1_r1">
+      <lb facs="#facs_1_r1l4" n="N001"/><seg type="comment">der <unclear>Quiros</unclear> aus dem</seg>
+      <lb facs="#facs_1_r1l5" n="N002"/>Kan dero Liebden auch nit bergen was <unclear>der Kuiros aus dem </unclear> 
+      <lb facs="#facs_1_line_1646727749481_200" n="N003"/>Hag hier her schreibt und ich mit
+      <lb facs="#facs_1_r1l8" n="N004"/><unclear>Hag hier her schreibt und ich mit</unclear>
+      <lb facs="#facs_1_line_1646727758437_206" n="N005"/>verwunderung gelesen
+      <lb facs="#facs_1_r1l11" n="N006"/><unclear>verwunderung gelesen</unclear> dise formalia
+      <lb facs="#facs_1_line_1646727764971_210" n="N007"/>l'on m'aaverty la semaine passée qu'<unclear>u</unclear>n
+      <lb facs="#facs_1_line_1646727803666_224" n="N008"/><unclear>l'on m'aaverty la semaine passee qu'on </unclear> 
+      <lb facs="#facs_1_line_1646727828190_229" n="N009"/>des princes alliées (qu'on veut mes-
+      <lb facs="#facs_1_line_1653730862707_1154" n="N010"/><unclear>des princes alliez (qu'on veut mes</unclear>
+      <lb facs="#facs_1_line_1650523861967_352" n="N011"/>me soit un electeur) avoit veut anvoie
+      <lb facs="#facs_1_r1l26" n="N012"/><unclear>me soit un electeur) avoit envoier </unclear>
+      <lb facs="#facs_1_line_1653731073864_1192" n="N013"/>un emissaire au comte d' Arcourt 
+      <lb facs="#facs_1_line_1653731064351_1186" n="N014"/><unclear>un emissaire au comte d'Arcourt</unclear>
+      <lb facs="#facs_1_line_1646727916281_265" n="N015"/>gouuerneur de Luxenbourgh pour en-
+      <lb facs="#facs_1_r1l33" n="N016"/><unclear>gouuerneur de luxenbuirg pour en</unclear>
+      <lb facs="#facs_1_line_1646906322283_307" n="N017"/>ramer quelque negotiantion secu
+      <lb facs="#facs_1_r1l36" n="N018"/><unclear>tamer quelque negotiation sec</unclear>
+      <lb facs="#facs_1_line_1653731287803_1215" n="N019"/>rete de pai<seg type="comment">n</seg>
+      <lb facs="#facs_1_r1l38" n="N020"/><unclear>rete de paix</unclear>, also das dero Liebden sehn, das die sach
+      <lb facs="#facs_1_r1l39" n="N021"/>nit so secret wie mihr glauben, weswegen dan mit
+      <lb facs="#facs_1_r1l40" n="N022"/>grösten cautela zue gehen ist.</ab>
+  </div>
+</body>
+
+   </text>
+</TEI>
