@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0421.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0421.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -135,42 +135,37 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="250 r" xml:id="Kasten_blau_45_9_0421.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich mues abermahl kommen vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebung <supplied>zu</supplied>
-      <lb facs="#facs_1_r1l3" n="N003"/>bitten, das wider kurz mueß antworten, seint heünt
-      <lb facs="#facs_1_r1l4" n="N004"/>ausgewesen vnd schpaht heim kommen in der Neü-
-      <lb facs="#facs_1_r1l5" n="N005"/>statt. Will alles ersezen, woh mihr, wan gott niks anderst
-      <lb facs="#facs_1_r1l6" n="N006"/>schikt, könftigen montag werden <supplied>dorthin</supplied> gehen, damit ihr Mayestät dort
-      <lb facs="#facs_1_r1l7" n="N007"/>die beys mögen haben, weil es von hier aus gahr
-      <lb facs="#facs_1_r1l8" n="N008"/>zue weit ist. Weil mihr vohrgestern dero glükhseh<supplied>l</supplied>igen
-      <lb facs="#facs_1_r1l9" n="N009"/>nahmensdag begangen, als wüntsche ich ewer Durchlaucht aus kintl<supplied>i</supplied>gen
-      <lb facs="#facs_1_r1l10" n="N010"/>herzen alles erdenklige wollergehn mit deren vnzahl-
-      <lb facs="#facs_1_r1l11" n="N011"/>bahren villen volgenden <supplied>jahren</supplied>, aller deren <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> kindern zum
-      <lb facs="#facs_1_r1l12" n="N012"/>trost. Der Josephl hett auch sein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schuldichkeit
-      <lb facs="#facs_1_r1l13" n="N013"/>abgelegt, wegen seines groben cattars aber hatt er noch
-      <lb facs="#facs_1_r1l14" n="N014"/>nit schreiben können. Wirt auch deswegen izt nit mit
-      <lb facs="#facs_1_r1l15" n="N015"/>auf die Neüstatt, bis er vergangen ist, es ist doch
-      <lb facs="#facs_1_r1l16" n="N016"/>alsgemach etwas beßer, hatt gottlob kein alteration
-      <lb facs="#facs_1_r1l17" n="N017"/>darb<supplied>e</supplied>y, so hoff werd balt gahr auf hören. Wegen</ab>
-    <pb facs="#facs_2" n="250 v" xml:id="Kasten_blau_45_9_0422.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l2" n="N001"/>des Reichenbach haben ihr Mayestät schon befohlen vnd will ich
-      <lb facs="#facs_2_r1l3" n="N002"/>dreiben, das mitt nechster post mög überschikt werden.
-      <lb facs="#facs_2_r1l4" n="N003"/>Wegen der Erzherzogin, so ist sie wider wollauf
-      <lb facs="#facs_2_r1l5" n="N004"/>vnd die Kaiserin will durchaus, das sie kommen
-      <lb facs="#facs_2_r1l6" n="N005"/>solle, sagt, es lige ihr gesuntheit vnd leben dran,
-      <lb facs="#facs_2_r1l7" n="N006"/>so förchte, es werd schwehr zue verhindern sein,
-      <lb facs="#facs_2_r1l8" n="N007"/>dan ewer Durchlaucht kennen woll, wie es dort bestelt ist, wan
-      <lb facs="#facs_2_r1l9" n="N008"/>man sich in ein sach incapricirt. Due mich hermit
-      <lb facs="#facs_2_r1l10" n="N009"/>nochmahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>fehlen vnd werde sterben
-      <lb facs="#facs_2_r1l11" n="N010"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l12" n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied>w</supplied>gehorsa<supplied>m</supplied>ste d<supplied>oc</supplied>hter
-      <lb facs="#facs_2_r1l14" n="N012"/>EMT
-      <lb facs="#facs_2_r1l13" n="N013"/>Wien den 3ten maij 1685</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="250 r" xml:id="Kasten_blau_45_9_0421.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+      <lb n="N002"/>Ich mues abermahl kommen vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebung <supplied>zu</supplied>
+      <lb n="N003"/>bitten, das wider kurz mueß antworten, seint heünt
+      <lb n="N004"/>ausgewesen vnd schpaht heim kommen in der Neü-
+      <lb n="N005"/>statt. Will alles ersezen, woh mihr, wan gott niks anderst
+      <lb n="N006"/>schikt, könftigen montag werden <supplied>dorthin</supplied> gehen, damit ihr Mayestät dort
+      <lb n="N007"/>die beys mögen haben, weil es von hier aus gahr
+      <lb n="N008"/>zue weit ist. Weil mihr vohrgestern dero glükhseh<supplied>l</supplied>igen
+      <lb n="N009"/>nahmensdag begangen, als wüntsche ich ewer Durchlaucht aus kintl<supplied>i</supplied>gen
+      <lb n="N010"/>herzen alles erdenklige wollergehn mit deren vnzahl-
+      <lb n="N011"/>bahren villen volgenden <supplied>jahren</supplied>, aller deren <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> kindern zum
+      <lb n="N012"/>trost. Der Josephl hett auch sein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schuldichkeit
+      <lb n="N013"/>abgelegt, wegen seines groben cattars aber hatt er noch
+      <lb n="N014"/>nit schreiben können. Wirt auch deswegen izt nit mit
+      <lb n="N015"/>auf die Neüstatt, bis er vergangen ist, es ist doch
+      <lb n="N016"/>alsgemach etwas beßer, hatt gottlob kein alteration
+      <lb n="N017"/>darb<supplied>e</supplied>y, so hoff werd balt gahr auf hören. Wegen</p></div><div type="page"><pb facs="#facs_2" n="250 v" xml:id="Kasten_blau_45_9_0422.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>des Reichenbach haben ihr Mayestät schon befohlen vnd will ich
+      <lb n="N002"/>dreiben, das mitt nechster post mög überschikt werden.
+      <lb n="N003"/>Wegen der Erzherzogin, so ist sie wider wollauf
+      <lb n="N004"/>vnd die Kaiserin will durchaus, das sie kommen
+      <lb n="N005"/>solle, sagt, es lige ihr gesuntheit vnd leben dran,
+      <lb n="N006"/>so förchte, es werd schwehr zue verhindern sein,
+      <lb n="N007"/>dan ewer Durchlaucht kennen woll, wie es dort bestelt ist, wan
+      <lb n="N008"/>man sich in ein sach incapricirt. Due mich hermit
+      <lb n="N009"/>nochmahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>fehlen vnd werde sterben
+      <lb n="N010"/>ewer Durchlaucht
+      <lb n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied>w</supplied>gehorsa<supplied>m</supplied>ste d<supplied>oc</supplied>hter
+      <lb n="N012"/>EMT
+      <lb n="N013"/>Wien den 3ten maij 1685</p></div>
 </body>
 
    </text>

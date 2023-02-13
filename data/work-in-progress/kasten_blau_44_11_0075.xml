@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0075.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0075.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -148,53 +148,47 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="37 r" xml:id="Kasten_blau_44_11_0075.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>
-      <lb facs="#facs_1_r1l2" n="N002"/>
-      <lb facs="#facs_1_r1l3" n="N003"/>
-      <lb facs="#facs_1_r1l4" n="N004"/>
-      <lb facs="#facs_1_r1l5" n="N005"/>
-      <lb facs="#facs_1_r1l6" n="N006"/>
-      <lb facs="#facs_1_r1l7" n="N007"/></ab>
-    <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/>
-      <lb facs="#facs_1_r2l2" n="N002"/>
-      <lb facs="#facs_1_r2l3" n="N003"/>
-      <lb facs="#facs_1_r2l4" n="N004"/>
-      <lb facs="#facs_1_r2l5" n="N005"/>
-      <lb facs="#facs_1_r2l6" n="N006"/>
-      <lb facs="#facs_1_r2l7" n="N007"/>
-      <lb facs="#facs_1_r2l8" n="N008"/>
-      <lb facs="#facs_1_r2l9" n="N009"/>
-      <lb facs="#facs_1_r2l10" n="N010"/>
-      <lb facs="#facs_1_r2l11" n="N011"/>
-      <lb facs="#facs_1_r2l12" n="N012"/>
-      <lb facs="#facs_1_r2l13" n="N013"/>
-      <lb facs="#facs_1_r2l14" n="N014"/>
-      <lb facs="#facs_1_r2l15" n="N015"/>
-      <lb facs="#facs_1_r2l16" n="N016"/>
-      <lb facs="#facs_1_r2l17" n="N017"/>
-      <lb facs="#facs_1_r2l18" n="N018"/>
-      <lb facs="#facs_1_r2l19" n="N019"/>
-      <lb facs="#facs_1_r2l20" n="N020"/>
-      <lb facs="#facs_1_r2l21" n="N021"/>
-      <lb facs="#facs_1_r2l22" n="N022"/>
-      <lb facs="#facs_1_r2l23" n="N023"/>
-      <lb facs="#facs_1_r2l24" n="N024"/>
-      <lb facs="#facs_1_r2l25" n="N025"/>
-      <lb facs="#facs_1_r2l26" n="N026"/></ab>
-    <pb facs="#facs_2" n="37 v" xml:id="Kasten_blau_44_11_0076.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>
-      <lb facs="#facs_2_r1l2" n="N002"/>
-      <lb facs="#facs_2_r1l3" n="N003"/>
-      <lb facs="#facs_2_r1l4" n="N004"/>
-      <lb facs="#facs_2_r1l5" n="N005"/>
-      <lb facs="#facs_2_r1l6" n="N006"/>
-      <lb facs="#facs_2_r1l7" n="N007"/></ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="37 r" xml:id="Kasten_blau_44_11_0075.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>
+      <lb n="N002"/>
+      <lb n="N003"/>
+      <lb n="N004"/>
+      <lb n="N005"/>
+      <lb n="N006"/>
+      <lb n="N007"/></p><p facs="#facs_1_r2">
+      <lb n="N001"/>
+      <lb n="N002"/>
+      <lb n="N003"/>
+      <lb n="N004"/>
+      <lb n="N005"/>
+      <lb n="N006"/>
+      <lb n="N007"/>
+      <lb n="N008"/>
+      <lb n="N009"/>
+      <lb n="N010"/>
+      <lb n="N011"/>
+      <lb n="N012"/>
+      <lb n="N013"/>
+      <lb n="N014"/>
+      <lb n="N015"/>
+      <lb n="N016"/>
+      <lb n="N017"/>
+      <lb n="N018"/>
+      <lb n="N019"/>
+      <lb n="N020"/>
+      <lb n="N021"/>
+      <lb n="N022"/>
+      <lb n="N023"/>
+      <lb n="N024"/>
+      <lb n="N025"/>
+      <lb n="N026"/></p></div><div type="page"><pb facs="#facs_2" n="37 v" xml:id="Kasten_blau_44_11_0076.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>
+      <lb n="N002"/>
+      <lb n="N003"/>
+      <lb n="N004"/>
+      <lb n="N005"/>
+      <lb n="N006"/>
+      <lb n="N007"/></p></div>
 </body>
 
    </text>

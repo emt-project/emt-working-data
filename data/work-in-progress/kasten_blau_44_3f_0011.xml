@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0011.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0011.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -112,22 +112,19 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0011.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>29 <choice><expan>januar</expan><abbr>janu</abbr></choice> 95</unclear>
-      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l3" n="N003"/>Ich hab dero sch<supplied>rei</supplied>ben wegen aufrichtung des regiments
-      <lb facs="#facs_1_r1l4" n="N004"/>zue recht empfangen, die puncta hab dem Deütsch-
-      <lb facs="#facs_1_r1l5" n="N005"/>meister überschikt, das andre dem Schellerer geben,
-      <lb facs="#facs_1_r1l6" n="N006"/>das er darüber mit dem Starenbe<supplied>r</supplied>g riuistire.
-      <lb facs="#facs_1_r1l7" n="N007"/>Due mich in allem auf ihn bezien, mich dero Liebden
-      <lb facs="#facs_1_r1l8" n="N008"/>bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
-      <lb facs="#facs_1_r1l11" n="N009"/>dero Liebden
-      <lb facs="#facs_1_r1l12" n="N010"/>g<supplied>e</supplied>trewste schwester
-      <lb facs="#facs_1_r1l14" n="N011"/>Eleonora
-      <lb facs="#facs_1_r1l13" n="N012"/>Wien den 29ten jener 1695</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0011.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear>29 <choice><expan>januar</expan><abbr>janu</abbr></choice> 95</unclear>
+      <lb n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N003"/>Ich hab dero sch<supplied>rei</supplied>ben wegen aufrichtung des regiments
+      <lb n="N004"/>zue recht empfangen, die puncta hab dem Deütsch-
+      <lb n="N005"/>meister überschikt, das andre dem Schellerer geben,
+      <lb n="N006"/>das er darüber mit dem Starenbe<supplied>r</supplied>g riuistire.
+      <lb n="N007"/>Due mich in allem auf ihn bezien, mich dero Liebden
+      <lb n="N008"/>bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
+      <lb n="N009"/>dero Liebden
+      <lb n="N010"/>g<supplied>e</supplied>trewste schwester
+      <lb n="N011"/>Eleonora
+      <lb n="N012"/>Wien den 29ten jener 1695</p></div>
 </body>
 
    </text>

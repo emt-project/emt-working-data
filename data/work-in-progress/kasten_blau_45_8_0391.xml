@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0391.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0391.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -117,29 +117,25 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_390" n="232 r" xml:id="Kasten_blau_45_8_0391.jpg"/>
-<ab facs="#facs_390_r1">
-               <lb facs="#facs_390_r1l1" n="N001"/>Durchleüchtiger Fürst herzallerliebster herr vatter
-               <lb facs="#facs_390_r1l2" n="N002"/>In der großen freüdt, das ich habe, balt die <choice><expan>gnade</expan><abbr>g</abbr></choice> zue
-               <lb facs="#facs_390_r1l3" n="N003"/>haben ewer Durchlaucht zue bedienen, wehre mihr nit möglich,
-               <lb facs="#facs_390_r1l4" n="N004"/>solche mit worten auszueschprechen. Erwarte mitt
-               <lb facs="#facs_390_r1l5" n="N005"/>vnauschprechligem verlangen dieße glükhsehlige stund.
-               <lb facs="#facs_390_line_1622277957220_1220" n="N006"/>Der <rs type="person">Grau von Öttingen</rs> wirt solliches ewer Durchlaucht
-               <lb facs="#facs_390_line_1622277963930_1224" n="N007"/>mit mehrerem contestiren, auf welchen ich
-               <lb facs="#facs_390_line_1622277970881_1229" n="N008"/>mich bezihe. Weilen auch gestren der glükhsehlige
-               <lb facs="#facs_390_r1l16" n="N009"/>geburzdag ewer Durchlaucht gewesen, als due ich hiermit
-               <lb facs="#facs_390_line_1622277988954_1239" n="N010"/>deroselben hierzue alles erwüntschte wohlergehn
-               <lb facs="#facs_390_line_1622277994163_1243" n="N011"/>mitt nach villen volgenden <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> anwüntschen
-               <lb facs="#facs_390_line_1622277998292_1247" n="N012"/>vndt mich in dero beharlige <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich
-               <lb facs="#facs_390_r1l28" n="N013"/>sterben werde
-               <lb facs="#facs_390_r1l29" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_390_r1l30" n="N015"/>ganzergebenste trew g<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
-               <lb facs="#facs_390_line_1622278018001_1258" n="N016"/>dochter
-               <lb facs="#facs_390_line_1622278045518_1264" n="N017"/>EMT
-               <lb facs="#facs_390_line_1622278006594_1254" n="N018"/><rs type="place">Linz</rs> den <date month="11" day="26" year="1680">26 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1680</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_390" n="232 r" xml:id="Kasten_blau_45_8_0391.jpg"/><p facs="#facs_390_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst herzallerliebster herr vatter
+               <lb n="N002"/>In der großen freüdt, das ich habe, balt die <choice><expan>gnade</expan><abbr>g</abbr></choice> zue
+               <lb n="N003"/>haben ewer Durchlaucht zue bedienen, wehre mihr nit möglich,
+               <lb n="N004"/>solche mit worten auszueschprechen. Erwarte mitt
+               <lb n="N005"/>vnauschprechligem verlangen dieße glükhsehlige stund.
+               <lb n="N006"/>Der <rs type="person">Grau von Öttingen</rs> wirt solliches ewer Durchlaucht
+               <lb n="N007"/>mit mehrerem contestiren, auf welchen ich
+               <lb n="N008"/>mich bezihe. Weilen auch gestren der glükhsehlige
+               <lb n="N009"/>geburzdag ewer Durchlaucht gewesen, als due ich hiermit
+               <lb n="N010"/>deroselben hierzue alles erwüntschte wohlergehn
+               <lb n="N011"/>mitt nach villen volgenden <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> anwüntschen
+               <lb n="N012"/>vndt mich in dero beharlige <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich
+               <lb n="N013"/>sterben werde
+               <lb n="N014"/>ewer Durchlaucht
+               <lb n="N015"/>ganzergebenste trew g<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
+               <lb n="N016"/>dochter
+               <lb n="N017"/>EMT
+               <lb n="N018"/><rs type="place">Linz</rs> den <date month="11" day="26" year="1680">26 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1680</date>
+            </p></div></body>
    </text>
 </TEI>

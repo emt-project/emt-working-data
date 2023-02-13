@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0222.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0222.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -118,30 +118,26 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_222" n="129 r" xml:id="Kasten_blau_45_8_0222.jpg"/>
-<ab facs="#facs_222_r1">
-               <lb facs="#facs_222_r1l2" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_222_r1l3" n="N002"/>Ich <seg type="blackening">???</seg> verlaße mich auf dero große
-               <lb facs="#facs_222_r1l4" n="N003"/>güette, das sie mihr nit in vngnaden
-               <lb facs="#facs_222_line_1619792048285_3166" n="N004"/>werden aufnemmen, das ich bey diesem
-               <lb facs="#facs_222_line_1619792051153_3170" n="N005"/>meinem stant nit recht meiner schuldichkeit
-               <lb facs="#facs_222_r1l9" n="N006"/>nachkommen. Befinde mich aber iezt ganz
-               <lb facs="#facs_222_line_1619792055335_3175" n="N007"/>wohl vndt schon auser des bets. Was ewer
-               <lb facs="#facs_222_line_1619792058533_3179" n="N008"/>Durchlaucht in dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben in einem vndt andern
-               <lb facs="#facs_222_line_1619792066040_3183" n="N009"/>vermelden, will alles fleisig in acht nemmen
-               <lb facs="#facs_222_line_1619792070630_3187" n="N010"/>vndt mit nechster post darauf antworten,
-               <lb facs="#facs_222_line_1619792074244_3191" n="N011"/>dan es mihr noch nit erlaubt. Also due
-               <lb facs="#facs_222_line_1619792080397_3196" n="N012"/>mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vndt sterb
-               <lb facs="#facs_222_r1l28" n="N013"/>ewer Durchlaucht
-               <lb facs="#facs_222_line_1619792095603_3209" n="N014"/>ganz ergebenste trewgehors-
-               <lb facs="#facs_222_r1l34" n="N015"/>amste dochter
-               <lb facs="#facs_222_r1l35" n="N016"/>EMT
-               <lb facs="#facs_222_r1l32" n="N017"/><rs type="place">Wien</rs> den <date month="6" day="29" year="1679">29 junij 1679</date>
-               <lb facs="#facs_222_line_1620975771134_55" n="N018"/>Man hat hier die zeitung, als solte die heiraht mit
-               <lb facs="#facs_222_line_1619792195276_3229" n="N019"/><rs type="place">Portugal</rs> vndt <rs type="place">Sauoia</rs> schon geschloßen sein.
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_222" n="129 r" xml:id="Kasten_blau_45_8_0222.jpg"/><p facs="#facs_222_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Ich <seg type="blackening">???</seg> verlaße mich auf dero große
+               <lb n="N003"/>güette, das sie mihr nit in vngnaden
+               <lb n="N004"/>werden aufnemmen, das ich bey diesem
+               <lb n="N005"/>meinem stant nit recht meiner schuldichkeit
+               <lb n="N006"/>nachkommen. Befinde mich aber iezt ganz
+               <lb n="N007"/>wohl vndt schon auser des bets. Was ewer
+               <lb n="N008"/>Durchlaucht in dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben in einem vndt andern
+               <lb n="N009"/>vermelden, will alles fleisig in acht nemmen
+               <lb n="N010"/>vndt mit nechster post darauf antworten,
+               <lb n="N011"/>dan es mihr noch nit erlaubt. Also due
+               <lb n="N012"/>mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vndt sterb
+               <lb n="N013"/>ewer Durchlaucht
+               <lb n="N014"/>ganz ergebenste trewgehors-
+               <lb n="N015"/>amste dochter
+               <lb n="N016"/>EMT
+               <lb n="N017"/><rs type="place">Wien</rs> den <date month="6" day="29" year="1679">29 junij 1679</date>
+               <lb n="N018"/>Man hat hier die zeitung, als solte die heiraht mit
+               <lb n="N019"/><rs type="place">Portugal</rs> vndt <rs type="place">Sauoia</rs> schon geschloßen sein.
+            </p></div></body>
    </text>
 </TEI>

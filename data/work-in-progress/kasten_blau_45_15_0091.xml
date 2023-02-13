@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0091.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0091.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -133,39 +133,34 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="58 r" xml:id="Kasten_blau_45_15_0091.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Damit ewer Durchlaucht balt die frölige zeitung
-      <lb facs="#facs_1_r1l3" n="N003"/>mögen bekommen von der großen gnad, so vns
-      <lb facs="#facs_1_line_1642069555623_22" n="N004"/>der güttige gott gedahn, <add>vns</add> Offen zue <unclear>geben</unclear>, <unclear>also</unclear>
-      <lb facs="#facs_1_r1l6" n="N005"/>due ich ganz kurz auf dismahl schreiben. Dis hat <seg type="blackening">er</seg>
-      <lb facs="#facs_1_r1l7" n="N006"/>er woll allein gedan vnd mihr <supplied>sind</supplied> ihm allein
-      <lb facs="#facs_1_r1l8" n="N007"/>zue danken darumb schuldich, dan nit bald wirt
-      <lb facs="#facs_1_r1l9" n="N008"/>erhört worden sein, das ein ort von solcher impor-
-      <lb facs="#facs_1_r1l10" n="N009"/>tanz a la barbe des ennemi mit sturmb
-      <lb facs="#facs_1_r1l11" n="N010"/>sey über gangen, wie den der feint in völliger
-      <lb facs="#facs_1_r1l12" n="N011"/>bataille zue geschaudt, aber so balt er gesehen,
-      <lb facs="#facs_1_r1l13" n="N012"/>das die vnsrigen auf der maur, hatt er sich
-      <lb facs="#facs_1_r1l14" n="N013"/>verlohren, gott sey ewich gelobt. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> brueder,
-      <lb facs="#facs_1_r1l15" n="N014"/>der Deütschmeister, hatt vns diese erfreülige
-      <lb facs="#facs_1_r1l16" n="N015"/>zeitung gebracht, hat aber 4 nacht nit geschloffen,
-      <lb facs="#facs_1_r1l17" n="N016"/>so duet ers heünt in etwas herein bringen, also
-      <lb facs="#facs_1_r1l18" n="N017"/>wan der Weiks etwas schpehter keme, wollen ihms
-      <lb facs="#facs_1_r1l20" n="N018"/>ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verzeien. Dise beygelegte b<supplied>r</supplied>if hab ich</ab>
-    <pb facs="#facs_2" n="58 v" xml:id="Kasten_blau_45_15_0092.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>die einen amb sambstag, die andern heünt
-      <lb facs="#facs_2_r1l2" n="N002"/>bekommen, dah doch mein <choice><expan>herr</expan><abbr>h</abbr></choice> brueder schon geste<supplied>r</supplied>n
-      <lb facs="#facs_2_r1l3" n="N003"/>vmb 8 auf den abent hier gottlob gelükhlich
-      <lb facs="#facs_2_r1l4" n="N004"/>ankommen. Mit nechster post werde dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> 
-      <lb facs="#facs_2_r1l5" n="N005"/>schreiben <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> beantworten. Schließe vnd sterbe
-      <lb facs="#facs_2_line_1638801171898_1803" n="N006"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l8" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
-      <lb facs="#facs_2_r1l9" n="N008"/>EMT
-      <lb facs="#facs_2_r1l7" n="N009"/>Wien den 4ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1686</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="58 r" xml:id="Kasten_blau_45_15_0091.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+      <lb n="N002"/>Damit ewer Durchlaucht balt die frölige zeitung
+      <lb n="N003"/>mögen bekommen von der großen gnad, so vns
+      <lb n="N004"/>der güttige gott gedahn, <add>vns</add> Offen zue <unclear>geben</unclear>, <unclear>also</unclear>
+      <lb n="N005"/>due ich ganz kurz auf dismahl schreiben. Dis hat <seg type="blackening">er</seg>
+      <lb n="N006"/>er woll allein gedan vnd mihr <supplied>sind</supplied> ihm allein
+      <lb n="N007"/>zue danken darumb schuldich, dan nit bald wirt
+      <lb n="N008"/>erhört worden sein, das ein ort von solcher impor-
+      <lb n="N009"/>tanz a la barbe des ennemi mit sturmb
+      <lb n="N010"/>sey über gangen, wie den der feint in völliger
+      <lb n="N011"/>bataille zue geschaudt, aber so balt er gesehen,
+      <lb n="N012"/>das die vnsrigen auf der maur, hatt er sich
+      <lb n="N013"/>verlohren, gott sey ewich gelobt. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> brueder,
+      <lb n="N014"/>der Deütschmeister, hatt vns diese erfreülige
+      <lb n="N015"/>zeitung gebracht, hat aber 4 nacht nit geschloffen,
+      <lb n="N016"/>so duet ers heünt in etwas herein bringen, also
+      <lb n="N017"/>wan der Weiks etwas schpehter keme, wollen ihms
+      <lb n="N018"/>ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verzeien. Dise beygelegte b<supplied>r</supplied>if hab ich</p></div><div type="page"><pb facs="#facs_2" n="58 v" xml:id="Kasten_blau_45_15_0092.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>die einen amb sambstag, die andern heünt
+      <lb n="N002"/>bekommen, dah doch mein <choice><expan>herr</expan><abbr>h</abbr></choice> brueder schon geste<supplied>r</supplied>n
+      <lb n="N003"/>vmb 8 auf den abent hier gottlob gelükhlich
+      <lb n="N004"/>ankommen. Mit nechster post werde dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> 
+      <lb n="N005"/>schreiben <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> beantworten. Schließe vnd sterbe
+      <lb n="N006"/>ewer Durchlaucht
+      <lb n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
+      <lb n="N008"/>EMT
+      <lb n="N009"/>Wien den 4ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1686</p></div>
 </body>
 
    </text>

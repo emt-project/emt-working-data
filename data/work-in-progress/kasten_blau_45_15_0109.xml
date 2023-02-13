@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0109.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0109.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -133,40 +133,35 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="39 r2" xml:id="Kasten_blau_45_15_0109.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herzall<supplied>erl</supplied>iebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich hab nit verhofft, das ich so balt werde
-      <lb facs="#facs_1_r1l3" n="N003"/>müeßen ewer Durchlaucht die bedrüebte zeitung
-      <lb facs="#facs_1_r1l4" n="N004"/>des dötligen hintrits der Kais<supplied>e</supplied>rin berichten. In dem
-      <lb facs="#facs_1_r1l5" n="N005"/>es auch so <seg type="comment">geh</seg> kommen, ist desto schmerzliger vnd
-      <lb facs="#facs_1_r1l6" n="N006"/>hab ich es woll herzlich empfunden, dan sie mihr
-      <lb facs="#facs_1_r1l7" n="N007"/>allezeit absonderlige lieb erzeigt vnd allen den meinig<supplied>e</supplied>n.
-      <lb facs="#facs_1_r1l8" n="N008"/>Auch <supplied>hat sie</supplied>, wie sie den lezten abschit genommen, vm ver-
-      <lb facs="#facs_1_r1l9" n="N009"/>zeiung gebetten, wan sie mihr was gedahn hette, doch mit
-      <lb facs="#facs_1_r1l10" n="N010"/>ihren willen, sachte sie, wer woll nit geschehn, vnd sie
-      <lb facs="#facs_1_r1l11" n="N011"/>verschpreche mihr, das sie wolle eifrig bey gott
-      <lb facs="#facs_1_r1l12" n="N012"/>vohr mich vnd meine kinder betten, welche sie
-      <lb facs="#facs_1_r1l13" n="N013"/>so lieb hab als ihre eigne. Sie hatt so gutt selbig
-      <lb facs="#facs_1_r1l14" n="N014"/>mahl gerett, das glaubt <supplied>habe</supplied>, aufs wehnigst werd sie
-      <lb facs="#facs_1_r1l15" n="N015"/>noch den andren dag vnd noch lenger leben. Aber wehnig
-      <lb facs="#facs_1_r1l16" n="N016"/>vatterunser drauf kert sie sich vmb, so merken
-      <lb facs="#facs_1_r1l17" n="N017"/>ihre leütt, das sie schwecher wi<supplied>r</supplied>t, ruefen den beichtvatter,
-      <lb facs="#facs_1_r1l18" n="N018"/>welcher kaum die recomendation der sehlen geb<supplied>e</supplied>tt vnd
-      <lb facs="#facs_1_line_1638801754795_2022" n="N019"/>ihr etwas wehnigs zuegeschprochen vnd absoluirt, so war</ab>
-    <pb facs="#facs_2" n="39 v2" xml:id="Kasten_blau_45_15_0110.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>sie schon doht. Meinen alle, es hab sie der schlag troffen,
-      <lb facs="#facs_2_r1l2" n="N002"/>gott woll ihr genedig sein. Bitt <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung,
-      <lb facs="#facs_2_r1l3" n="N003"/>das nit mehr schreib, mus heüt so vill sch<supplied>r</supplied>eiben mit
-      <lb facs="#facs_2_r1l4" n="N004"/>den curir<supplied>e</supplied>n hin vnd her, das nit mehr zeit hab. B<supplied>e</supplied>f<supplied>e</supplied>hl
-      <lb facs="#facs_2_r1l5" n="N005"/>mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde st<supplied>er</supplied>ben
-      <lb facs="#facs_2_r1l6" n="N006"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l8" n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>itrges</abbr></choice> dochter
-      <lb facs="#facs_2_r1l9" n="N008"/>EMT
-      <lb facs="#facs_2_r1l7" n="N009"/>Wien den 7ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1686</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="39 r2" xml:id="Kasten_blau_45_15_0109.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, herzall<supplied>erl</supplied>iebster herr vatter
+      <lb n="N002"/>Ich hab nit verhofft, das ich so balt werde
+      <lb n="N003"/>müeßen ewer Durchlaucht die bedrüebte zeitung
+      <lb n="N004"/>des dötligen hintrits der Kais<supplied>e</supplied>rin berichten. In dem
+      <lb n="N005"/>es auch so <seg type="comment">geh</seg> kommen, ist desto schmerzliger vnd
+      <lb n="N006"/>hab ich es woll herzlich empfunden, dan sie mihr
+      <lb n="N007"/>allezeit absonderlige lieb erzeigt vnd allen den meinig<supplied>e</supplied>n.
+      <lb n="N008"/>Auch <supplied>hat sie</supplied>, wie sie den lezten abschit genommen, vm ver-
+      <lb n="N009"/>zeiung gebetten, wan sie mihr was gedahn hette, doch mit
+      <lb n="N010"/>ihren willen, sachte sie, wer woll nit geschehn, vnd sie
+      <lb n="N011"/>verschpreche mihr, das sie wolle eifrig bey gott
+      <lb n="N012"/>vohr mich vnd meine kinder betten, welche sie
+      <lb n="N013"/>so lieb hab als ihre eigne. Sie hatt so gutt selbig
+      <lb n="N014"/>mahl gerett, das glaubt <supplied>habe</supplied>, aufs wehnigst werd sie
+      <lb n="N015"/>noch den andren dag vnd noch lenger leben. Aber wehnig
+      <lb n="N016"/>vatterunser drauf kert sie sich vmb, so merken
+      <lb n="N017"/>ihre leütt, das sie schwecher wi<supplied>r</supplied>t, ruefen den beichtvatter,
+      <lb n="N018"/>welcher kaum die recomendation der sehlen geb<supplied>e</supplied>tt vnd
+      <lb n="N019"/>ihr etwas wehnigs zuegeschprochen vnd absoluirt, so war</p></div><div type="page"><pb facs="#facs_2" n="39 v2" xml:id="Kasten_blau_45_15_0110.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>sie schon doht. Meinen alle, es hab sie der schlag troffen,
+      <lb n="N002"/>gott woll ihr genedig sein. Bitt <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung,
+      <lb n="N003"/>das nit mehr schreib, mus heüt so vill sch<supplied>r</supplied>eiben mit
+      <lb n="N004"/>den curir<supplied>e</supplied>n hin vnd her, das nit mehr zeit hab. B<supplied>e</supplied>f<supplied>e</supplied>hl
+      <lb n="N005"/>mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde st<supplied>er</supplied>ben
+      <lb n="N006"/>ewer Durchlaucht
+      <lb n="N007"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>itrges</abbr></choice> dochter
+      <lb n="N008"/>EMT
+      <lb n="N009"/>Wien den 7ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1686</p></div>
 </body>
 
    </text>

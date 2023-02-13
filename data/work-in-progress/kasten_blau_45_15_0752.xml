@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0752.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0752.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -112,21 +112,18 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="122 r" xml:id="Kasten_blau_45_15_0752.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Zu ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter, glükhs<supplied>e</supplied>hligsten
-      <lb facs="#facs_1_r1l3" n="N003"/>nahmens dag due <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> ewer Durchlaucht von grundt
-      <lb facs="#facs_1_r1l4" n="N004"/>meines he<supplied>r</supplied>zen gratuliren. Der almechtige
-      <lb facs="#facs_1_r1l5" n="N005"/>überheüfe diselbe mit allem wollerg<supplied>e</supplied>hen
-      <lb facs="#facs_1_r1l6" n="N006"/>vnd laße ewer Durchlaucht bede deren vnzahlbar
-      <lb facs="#facs_1_r1l7" n="N007"/>mit aller vergnügu<supplied>n</supplied>g erleben. Ich aber
-      <lb facs="#facs_1_r1l8" n="N008"/>werde st<supplied>e</supplied>rben
-      <lb facs="#facs_1_line_1654178775795_698" n="N009"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l9" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghors</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_1_r1l10" n="N011"/>EMT</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="122 r" xml:id="Kasten_blau_45_15_0752.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
+      <lb n="N002"/>Zu ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter, glükhs<supplied>e</supplied>hligsten
+      <lb n="N003"/>nahmens dag due <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> ewer Durchlaucht von grundt
+      <lb n="N004"/>meines he<supplied>r</supplied>zen gratuliren. Der almechtige
+      <lb n="N005"/>überheüfe diselbe mit allem wollerg<supplied>e</supplied>hen
+      <lb n="N006"/>vnd laße ewer Durchlaucht bede deren vnzahlbar
+      <lb n="N007"/>mit aller vergnügu<supplied>n</supplied>g erleben. Ich aber
+      <lb n="N008"/>werde st<supplied>e</supplied>rben
+      <lb n="N009"/>ewer Durchlaucht
+      <lb n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghors</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N011"/>EMT</p></div>
 </body>
 
    </text>

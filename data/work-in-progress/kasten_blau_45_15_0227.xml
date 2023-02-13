@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0227.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0227.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -114,23 +114,20 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="113 r" xml:id="Kasten_blau_45_15_0227.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Zue dem glükhsehligen nahmensdag ihr Durchlaucht, meiner
-      <lb facs="#facs_1_r1l3" n="N003"/><choice><expan>geliebsten</expan><abbr>g</abbr></choice> fraw muetter, due ich durch dise <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> zeilen
-      <lb facs="#facs_1_r1l4" n="N004"/>ewer Durchlaucht aus küntligen herzen alles erdenklige
-      <lb facs="#facs_1_r1l5" n="N005"/>vergnügen, so sie selbst verlangen mögen
-      <lb facs="#facs_1_r1l6" n="N006"/><choice><expan>gehorsamst</expan><abbr>gehos</abbr></choice> anwüntschen. Der almechtige verleye, das
-      <lb facs="#facs_1_r1l7" n="N007"/>ewer Durchlaucht disen da<supplied>c</supplied>h noch vnzahlbare m<supplied>a</supplied>hl
-      <lb facs="#facs_1_r1l8" n="N008"/>mit hochsten wohlstandt celebriern mögen zu
-      <lb facs="#facs_1_r1l9" n="N009"/>vns aller dero <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> kinder trost vnd
-      <lb facs="#facs_1_r1l10" n="N010"/>absonderli<supplied>c</supplied>h deriengen, so ste<supplied>r</supplied>ben wirt
-      <lb facs="#facs_1_r1l11" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_1_r1l12" n="N012"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied>oc</supplied>hter
-      <lb facs="#facs_1_r1l13" n="N013"/>EMT</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="113 r" xml:id="Kasten_blau_45_15_0227.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
+      <lb n="N002"/>Zue dem glükhsehligen nahmensdag ihr Durchlaucht, meiner
+      <lb n="N003"/><choice><expan>geliebsten</expan><abbr>g</abbr></choice> fraw muetter, due ich durch dise <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> zeilen
+      <lb n="N004"/>ewer Durchlaucht aus küntligen herzen alles erdenklige
+      <lb n="N005"/>vergnügen, so sie selbst verlangen mögen
+      <lb n="N006"/><choice><expan>gehorsamst</expan><abbr>gehos</abbr></choice> anwüntschen. Der almechtige verleye, das
+      <lb n="N007"/>ewer Durchlaucht disen da<supplied>c</supplied>h noch vnzahlbare m<supplied>a</supplied>hl
+      <lb n="N008"/>mit hochsten wohlstandt celebriern mögen zu
+      <lb n="N009"/>vns aller dero <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> kinder trost vnd
+      <lb n="N010"/>absonderli<supplied>c</supplied>h deriengen, so ste<supplied>r</supplied>ben wirt
+      <lb n="N011"/>ewer Durchlaucht
+      <lb n="N012"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied>oc</supplied>hter
+      <lb n="N013"/>EMT</p></div>
 </body>
 
    </text>

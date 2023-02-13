@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0140.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0140.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -117,29 +117,25 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_140" n="11 r" xml:id="Kasten_blau_45_8_0140.jpg"/>
-<ab facs="#facs_140_r1">
-               <lb facs="#facs_140_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_140_line_1618563508802_271" n="N002"/>Dieweilen mihr heütt bey einer einkleidung gewesen,
-               <lb facs="#facs_140_line_1618563513194_275" n="N003"/>also mueß gehorsamb vmb vergebung bitten,
-               <lb facs="#facs_140_r1l6" n="N004"/>das nit fill schreiben kan. Ich verhoffe, ewer Durchlaucht
-               <lb facs="#facs_140_line_1618563517522_279" n="N005"/>werden nuhnmehr ihro reis gelüklich vortgesezt
-               <lb facs="#facs_140_line_1618563520885_283" n="N006"/>haben vndt <supplied>dass</supplied> ich balt dero glüklige ankonft
-               <lb facs="#facs_140_r1l11" n="N007"/>auf <rs type="place">Neüburg</rs> vernemmen werde. Wan ich filleicht
-               <lb facs="#facs_140_line_1618563526955_287" n="N008"/>mit nechster post mein schuldichkeit nit könte
-               <lb facs="#facs_140_line_1618563531221_291" n="N009"/>ablegen, so bitte mihr nit in vngenahd zue
-               <lb facs="#facs_140_r1l17" n="N010"/>nemmen. Es wirt eine von mein freülen hochzeit
-               <lb facs="#facs_140_line_1618563535192_295" n="N011"/>haben, die <rs type="person">Hoffmanin</rs>, mit dem <rs type="person" continued="true">Seichfridt von Diet-</rs>
-               <lb facs="#facs_140_r1l20" n="N012"/><rs type="person" continued="true">richstein</rs>. Mueß auch iezt wider meinen willen
-               <lb facs="#facs_140_r1l21" n="N013"/>schliesen wegen mangel der zeit. Werde sterben
-               <lb facs="#facs_140_r1l22" n="N014"/>ewer Durchlaucht	
-               <lb facs="#facs_140_line_1618563573757_301" n="N015"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_140_r1l30" n="N016"/>dochter	
-               <lb facs="#facs_140_line_1618563604229_309" n="N017"/>EMT
-               <lb facs="#facs_140_r1l29" n="N018"/><rs type="place">Wien</rs> den <date month="4" day="21" year="1678">21 apprill 1678</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_140" n="11 r" xml:id="Kasten_blau_45_8_0140.jpg"/><p facs="#facs_140_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+               <lb n="N002"/>Dieweilen mihr heütt bey einer einkleidung gewesen,
+               <lb n="N003"/>also mueß gehorsamb vmb vergebung bitten,
+               <lb n="N004"/>das nit fill schreiben kan. Ich verhoffe, ewer Durchlaucht
+               <lb n="N005"/>werden nuhnmehr ihro reis gelüklich vortgesezt
+               <lb n="N006"/>haben vndt <supplied>dass</supplied> ich balt dero glüklige ankonft
+               <lb n="N007"/>auf <rs type="place">Neüburg</rs> vernemmen werde. Wan ich filleicht
+               <lb n="N008"/>mit nechster post mein schuldichkeit nit könte
+               <lb n="N009"/>ablegen, so bitte mihr nit in vngenahd zue
+               <lb n="N010"/>nemmen. Es wirt eine von mein freülen hochzeit
+               <lb n="N011"/>haben, die <rs type="person">Hoffmanin</rs>, mit dem <rs type="person" continued="true">Seichfridt von Diet-</rs>
+               <lb n="N012"/><rs type="person" continued="true">richstein</rs>. Mueß auch iezt wider meinen willen
+               <lb n="N013"/>schliesen wegen mangel der zeit. Werde sterben
+               <lb n="N014"/>ewer Durchlaucht	
+               <lb n="N015"/>ganzergebenste trewgehorsamste
+               <lb n="N016"/>dochter	
+               <lb n="N017"/>EMT
+               <lb n="N018"/><rs type="place">Wien</rs> den <date month="4" day="21" year="1678">21 apprill 1678</date>
+            </p></div></body>
    </text>
 </TEI>

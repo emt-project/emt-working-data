@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0416.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0416.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -137,43 +137,38 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="263 r" xml:id="Kasten_blau_44_6_0416.jpg" ed="12 r"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l3" n="N001"/><unclear>29 maij 99</unclear>
-      <lb facs="#facs_1_r1l5" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l6" n="N003"/>Zue vodrist bedankh mich zum schönsten vohr mein <choice><expan>fraw</expan><abbr>f</abbr></choice>
-      <lb facs="#facs_1_r1l7" n="N004"/>dochter vnd vohr mich vmb den pumpernikel, welcher
-      <lb facs="#facs_1_r1l8" n="N005"/>meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> dochter gahr gutt geschmekt <supplied>hat</supplied> vndt woll bekomen
-      <lb facs="#facs_1_r1l9" n="N006"/>ist. Sie befind sich gottlob woll bey ihrer dragt
-      <lb facs="#facs_1_r1l10" n="N007"/>vndt duet man ihrs schon zimlich ansehen.
-      <lb facs="#facs_1_r1l11" n="N008"/>Hierbey überschike dero Liebden ein schreiben, was vnser
-      <lb facs="#facs_1_r1l12" n="N009"/>schwagerin mihr schreibt, habs dero Liebden deswegen comu-
-      <lb facs="#facs_1_r1l13" n="N010"/>nicirn woll, damit sie mihr an die handt geben,
-      <lb facs="#facs_1_r1l14" n="N011"/>was zue antworten habe, dan ich ganz niks infor-
-      <lb facs="#facs_1_r1l15" n="N012"/>mirt bin, wie die ehpacten seindt. Ich wolt <unclear>balt</unclear>
-      <lb facs="#facs_1_r1l16" n="N013"/>gern so antworten, das dise eh widerumb beßer
-      <lb facs="#facs_1_r1l17" n="N014"/>vereiniget wurde. Bitte aber diese comunica-
-      <lb facs="#facs_1_r1l19" n="N015"/>tion zue secretirn <add>vnd mihr wider zurukh zu schiken</add>, dan sie sonst die confidenz
-      <lb facs="#facs_1_r1l20" n="N016"/>gegen mihr verliren vnd ich also vndauglich gema<supplied>c</supplied>ht</ab>
-    <pb facs="#facs_2" n="263 v" xml:id="Kasten_blau_44_6_0417.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>wurde, etwaß guttes zu richten. Due mich
-      <lb facs="#facs_2_r1l2" n="N002"/>hirmit dero Liebden bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
-      <lb facs="#facs_2_r1l3" n="N003"/>dero Liebden
-      <lb facs="#facs_2_line_1645106443705_1152" n="N004"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
-      <lb facs="#facs_2_r1l6" n="N005"/>Eleonora
-      <lb facs="#facs_2_line_1645106443705_1153" n="N006"/>auf der beis den 29ten
-      <lb facs="#facs_2_r1l5" n="N007"/>maij 1699
-      <lb facs="#facs_2_r1l7" n="N008"/>Diser brif ist zimlich alt, mus halt
-      <lb facs="#facs_2_r1l8" n="N009"/>mein schuld bekennen, hab vermeindt,
-      <lb facs="#facs_2_r1l10" n="N010"/>sey nuhr ein compliment vnd ihn
-      <lb facs="#facs_2_r1l11" n="N011"/>nit geleßen bis iezt, das ihn hab beant-
-      <lb facs="#facs_2_r1l12" n="N012"/>worten wollen, welches ich aber aufschieben
-      <lb facs="#facs_2_r1l13" n="N013"/>werde, bis die antwort von dero Liebden erhalte.
-      <lb facs="#facs_2_r1l14" n="N014"/>Bitt dero gemahl<supplied>i</supplied>n von mihr vnerhört vill
-      <lb facs="#facs_2_r1l15" n="N015"/>zue exprimirn.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="263 r" xml:id="Kasten_blau_44_6_0416.jpg" ed="12 r"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear>29 maij 99</unclear>
+      <lb n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N003"/>Zue vodrist bedankh mich zum schönsten vohr mein <choice><expan>fraw</expan><abbr>f</abbr></choice>
+      <lb n="N004"/>dochter vnd vohr mich vmb den pumpernikel, welcher
+      <lb n="N005"/>meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> dochter gahr gutt geschmekt <supplied>hat</supplied> vndt woll bekomen
+      <lb n="N006"/>ist. Sie befind sich gottlob woll bey ihrer dragt
+      <lb n="N007"/>vndt duet man ihrs schon zimlich ansehen.
+      <lb n="N008"/>Hierbey überschike dero Liebden ein schreiben, was vnser
+      <lb n="N009"/>schwagerin mihr schreibt, habs dero Liebden deswegen comu-
+      <lb n="N010"/>nicirn woll, damit sie mihr an die handt geben,
+      <lb n="N011"/>was zue antworten habe, dan ich ganz niks infor-
+      <lb n="N012"/>mirt bin, wie die ehpacten seindt. Ich wolt <unclear>balt</unclear>
+      <lb n="N013"/>gern so antworten, das dise eh widerumb beßer
+      <lb n="N014"/>vereiniget wurde. Bitte aber diese comunica-
+      <lb n="N015"/>tion zue secretirn <add>vnd mihr wider zurukh zu schiken</add>, dan sie sonst die confidenz
+      <lb n="N016"/>gegen mihr verliren vnd ich also vndauglich gema<supplied>c</supplied>ht</p></div><div type="page"><pb facs="#facs_2" n="263 v" xml:id="Kasten_blau_44_6_0417.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>wurde, etwaß guttes zu richten. Due mich
+      <lb n="N002"/>hirmit dero Liebden bef<supplied>e</supplied>hlen vndt werde st<supplied>er</supplied>ben
+      <lb n="N003"/>dero Liebden
+      <lb n="N004"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
+      <lb n="N005"/>Eleonora
+      <lb n="N006"/>auf der beis den 29ten
+      <lb n="N007"/>maij 1699
+      <lb n="N008"/>Diser brif ist zimlich alt, mus halt
+      <lb n="N009"/>mein schuld bekennen, hab vermeindt,
+      <lb n="N010"/>sey nuhr ein compliment vnd ihn
+      <lb n="N011"/>nit geleßen bis iezt, das ihn hab beant-
+      <lb n="N012"/>worten wollen, welches ich aber aufschieben
+      <lb n="N013"/>werde, bis die antwort von dero Liebden erhalte.
+      <lb n="N014"/>Bitt dero gemahl<supplied>i</supplied>n von mihr vnerhört vill
+      <lb n="N015"/>zue exprimirn.</p></div>
 </body>
 
    </text>

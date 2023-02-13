@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0333.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0333.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -134,39 +134,33 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="180 r" xml:id="Kasten_blau_45_15_0333.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich kom dismahl nuhr, <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung zue
-      <lb facs="#facs_1_r1l3" n="N003"/>bitten, das heünt wehnig mit meinen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> zeilen ewer Durchlaucht
-      <lb facs="#facs_1_r1l4" n="N004"/>bediene, dan ich sonst mich eines fils beförchte,
-      <lb facs="#facs_1_r1l5" n="N005"/>weil ich heünt mein cuhr angefangen vnd eingenomen,
-      <lb facs="#facs_1_r1l6" n="N006"/>wie ich <unclear>alle zeit</unclear> g<supplied>e</supplied>dan, befindt mich gahr woll auf darbey.
-      <lb facs="#facs_1_r1l7" n="N007"/>Mihr seindt gestern von der Neüstatt hir ankommen,
-      <lb facs="#facs_1_r1l8" n="N008"/>woh mihr der Windischgräz den schwarzen schleier geben <supplied>lassen haben</supplied>. Ich
-      <lb facs="#facs_1_r1l9" n="N009"/>hab woll ein große consolation an ihr, das sie
-      <lb facs="#facs_1_r1l10" n="N010"/>so content vnd alle nit genuech rüemen können,
-      <lb facs="#facs_1_r1l11" n="N011"/>wie ein eifrige vnd guette nune sie ist, insonderheit,
-      <lb facs="#facs_1_r1l12" n="N012"/>weil luterisch ist gew<supplied>e</supplied>st, ist desto größer gnad von
-      <lb facs="#facs_1_r1l13" n="N013"/>gott. Heündt haben ihr Mayestät nit aus konnen, <unclear>dan</unclear>
-      <lb facs="#facs_1_r1l14" n="N014"/>es geste<supplied>r</supplied>n vnd heünt fast stehts geregent, geschniben
-      <lb facs="#facs_1_r1l15" n="N015"/>vnd gehagelt hatt, izt auf den abent scheünt
-      <lb facs="#facs_1_r1l16" n="N016"/>es, als wolt sichs aufheite<supplied>r</supplied>n. Ich mues auch <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice></ab>
-    <pb facs="#facs_2" n="180 v" xml:id="Kasten_blau_45_15_0334.jpg"/>
-    <ab facs="#facs_2_r1"/>
-    <ab facs="#facs_2_r2">
-      <lb facs="#facs_2_r2l1" n="N001"/>vmb vergebung bitten, das könftige post villeicht
-      <lb facs="#facs_2_r2l2" n="N002"/>nit wert schr<supplied>e</supplied>iben können, weil mihr selben dag auf
-      <lb facs="#facs_2_r2l3" n="N003"/>Wien zue prozession das geb<supplied>e</supplied>tt anzuefangen gehen
-      <lb facs="#facs_2_r2l4" n="N004"/>werden. Den Herzoch erwart däglich, darnach wirt
-      <lb facs="#facs_2_r2l5" n="N005"/>der Cau<supplied>n</supplied>izen gleich wider hinauf geschikt werden.
-      <lb facs="#facs_2_r2l6" n="N006"/>Mit disen be<supplied>fe</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werd st<supplied>e</supplied>rben
-      <lb facs="#facs_2_r2l7" n="N007"/>ewer Durchlaucht
-      <lb facs="#facs_2_r2l8" n="N008"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r2l10" n="N009"/>EMT
-      <lb facs="#facs_2_r2l9" n="N010"/>Laxenbu<supplied>r</supplied>g den 29ten ap<supplied>r</supplied>ill 1688</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="180 r" xml:id="Kasten_blau_45_15_0333.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
+      <lb n="N002"/>Ich kom dismahl nuhr, <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb vergebung zue
+      <lb n="N003"/>bitten, das heünt wehnig mit meinen <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> zeilen ewer Durchlaucht
+      <lb n="N004"/>bediene, dan ich sonst mich eines fils beförchte,
+      <lb n="N005"/>weil ich heünt mein cuhr angefangen vnd eingenomen,
+      <lb n="N006"/>wie ich <unclear>alle zeit</unclear> g<supplied>e</supplied>dan, befindt mich gahr woll auf darbey.
+      <lb n="N007"/>Mihr seindt gestern von der Neüstatt hir ankommen,
+      <lb n="N008"/>woh mihr der Windischgräz den schwarzen schleier geben <supplied>lassen haben</supplied>. Ich
+      <lb n="N009"/>hab woll ein große consolation an ihr, das sie
+      <lb n="N010"/>so content vnd alle nit genuech rüemen können,
+      <lb n="N011"/>wie ein eifrige vnd guette nune sie ist, insonderheit,
+      <lb n="N012"/>weil luterisch ist gew<supplied>e</supplied>st, ist desto größer gnad von
+      <lb n="N013"/>gott. Heündt haben ihr Mayestät nit aus konnen, <unclear>dan</unclear>
+      <lb n="N014"/>es geste<supplied>r</supplied>n vnd heünt fast stehts geregent, geschniben
+      <lb n="N015"/>vnd gehagelt hatt, izt auf den abent scheünt
+      <lb n="N016"/>es, als wolt sichs aufheite<supplied>r</supplied>n. Ich mues auch <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice></p></div><div type="page"><pb facs="#facs_2" n="180 v" xml:id="Kasten_blau_45_15_0334.jpg"/><p facs="#facs_2_r1"/><p facs="#facs_2_r2">
+      <lb n="N001"/>vmb vergebung bitten, das könftige post villeicht
+      <lb n="N002"/>nit wert schr<supplied>e</supplied>iben können, weil mihr selben dag auf
+      <lb n="N003"/>Wien zue prozession das geb<supplied>e</supplied>tt anzuefangen gehen
+      <lb n="N004"/>werden. Den Herzoch erwart däglich, darnach wirt
+      <lb n="N005"/>der Cau<supplied>n</supplied>izen gleich wider hinauf geschikt werden.
+      <lb n="N006"/>Mit disen be<supplied>fe</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werd st<supplied>e</supplied>rben
+      <lb n="N007"/>ewer Durchlaucht
+      <lb n="N008"/><choice><expan>vnterdehnigste</expan><abbr>vt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N009"/>EMT
+      <lb n="N010"/>Laxenbu<supplied>r</supplied>g den 29ten ap<supplied>r</supplied>ill 1688</p></div>
 </body>
 
    </text>

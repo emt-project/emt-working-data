@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0043.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0043.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -114,26 +114,22 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_43" n="61 r" xml:id="Kasten_blau_45_8_0043.jpg"/>
-<ab facs="#facs_43_r1">
-               <lb facs="#facs_43_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter 
-               <lb facs="#facs_43_r1l2" n="N002"/>Es erfreüet mich von herzen, das ihr Durchlaucht sich anoch
-               <lb facs="#facs_43_r1l3" n="N003"/>in so guettem wohlstant befinden, bitte <unclear reason="unsichere Lesart wegen Korrektur">vnterdehnig</unclear>
-               <lb facs="#facs_43_r1l4" n="N004"/>vmb vergebung, das dis mahl auf dero wertistes
-               <lb facs="#facs_43_r1l5" n="N005"/>schreiben nit geantwort. In dem stant, warin mich
-               <lb facs="#facs_43_r1l6" n="N006"/>jest der allerhöchste gesezt, will mihr es nit zulassen.
-               <lb facs="#facs_43_r1l7" n="N007"/>Also befehle mich vnterdehnig vndt sterbe
-               <lb facs="#facs_43_line_1591783483721_41" n="N008"/>ihr Durchlaucht
-               <lb facs="#facs_43_line_1591783580040_58" n="N009"/>gantz ergebenste trew gehorsam-
-               <lb facs="#facs_43_r1l11" n="N010"/>ste dochter
-               <lb facs="#facs_43_line_1591783722647_73" n="N011"/>EMT
-               <lb facs="#facs_43_line_1591783580041_59" n="N012"/><rs type="place">Laxenburg</rs> den <date month="6" day="3" year="1677">3 junij 1677</date>
-               <lb facs="#facs_43_r1l14" n="N013"/>Der <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Danner</rs> wirt ihr Durchlaucht berichten, wie
-               <lb facs="#facs_43_line_1591783766488_81" n="N014"/>eins vndt anderst steht deßen, was ihr Durchlaucht
-               <lb facs="#facs_43_line_1591783816470_87" n="N015"/>von mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verlanget.
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_43" n="61 r" xml:id="Kasten_blau_45_8_0043.jpg"/><p facs="#facs_43_r1">
+               <lb n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter 
+               <lb n="N002"/>Es erfreüet mich von herzen, das ihr Durchlaucht sich anoch
+               <lb n="N003"/>in so guettem wohlstant befinden, bitte <unclear reason="unsichere Lesart wegen Korrektur">vnterdehnig</unclear>
+               <lb n="N004"/>vmb vergebung, das dis mahl auf dero wertistes
+               <lb n="N005"/>schreiben nit geantwort. In dem stant, warin mich
+               <lb n="N006"/>jest der allerhöchste gesezt, will mihr es nit zulassen.
+               <lb n="N007"/>Also befehle mich vnterdehnig vndt sterbe
+               <lb n="N008"/>ihr Durchlaucht
+               <lb n="N009"/>gantz ergebenste trew gehorsam-
+               <lb n="N010"/>ste dochter
+               <lb n="N011"/>EMT
+               <lb n="N012"/><rs type="place">Laxenburg</rs> den <date month="6" day="3" year="1677">3 junij 1677</date>
+               <lb n="N013"/>Der <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Danner</rs> wirt ihr Durchlaucht berichten, wie
+               <lb n="N014"/>eins vndt anderst steht deßen, was ihr Durchlaucht
+               <lb n="N015"/>von mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> verlanget.
+            </p></div></body>
    </text>
 </TEI>

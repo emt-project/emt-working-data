@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_7_0085.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_7_0085.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -139,46 +139,41 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="44 r" xml:id="Kasten_blau_45_7_0085.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> <choice><expan>bruder</expan><abbr>brd</abbr></choice>
-      <lb facs="#facs_1_r1l3" n="N002"/>Vmb kein gelegenheit aus zu laßen, komme auch
-      <lb facs="#facs_1_r1l4" n="N003"/>mit dißer, dero Liebden 3 liebste sch<supplied>rei</supplied>ben zue beantworten, das erste
-      <lb facs="#facs_1_r1l5" n="N004"/>wegen des Sinzendorf, so werden ihr Mayestät so ein brif
-      <lb facs="#facs_1_r1l6" n="N005"/>an dero Liebden machen laßen, den sie können Cur Mains
-      <lb facs="#facs_1_r1l7" n="N006"/>comuniciren, die andren bede, die nachrichten in ciffer,
-      <lb facs="#facs_1_r1l9" n="N007"/>auch <add>des Lecherain vnd</add> wegen Münster, warfohr ich dero Liebden schuldigen dankh
-      <lb facs="#facs_1_r1l10" n="N008"/>erstatte, vndt habe alles ihr Mayestät vohrgedragen.
-      <lb facs="#facs_1_r1l11" n="N009"/>Wegen Beyren wirt mitt negsten ein resolution
-      <lb facs="#facs_1_r1l12" n="N010"/>herauß kommen, so dero Liebden aprobiren werden, der
-      <lb facs="#facs_1_r1l13" n="N011"/>Lebestein <supplied>soll</supplied> auch balt hinn expedirt werden.
-      <lb facs="#facs_1_r1l14" n="N012"/>Das archiu vndt pretiosa werden mit
-      <lb facs="#facs_1_r1l15" n="N013"/>nechsten zue waßer abfahren, seint die schiff schon <supplied><unclear>bereit</unclear></supplied>.</ab>
-    <pb facs="#facs_2" n="44 v" xml:id="Kasten_blau_45_7_0086.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>Wegen des <choice><expan>Marchese</expan><abbr>M</abbr></choice> Prie, so finden ihr Mayestät einige difficul-
-      <lb facs="#facs_2_r1l2" n="N002"/>teten, absonderlich, das es der Herzoch von Sauoi etwa
-      <lb facs="#facs_2_r1l3" n="N003"/>nit gern sehn vndt übelnemmen <supplied>sollte</supplied>, also die confi-
-      <lb facs="#facs_2_r1l4" n="N004"/>dens gegen ihn verlieren möchte, welches dem
-      <lb facs="#facs_2_r1l5" n="N005"/>publico höchst schädlich wäre, den dise heren
-      <lb facs="#facs_2_r1l6" n="N006"/>haben nit gern, das man ihre vnterdahnen zum
-      <lb facs="#facs_2_r1l7" n="N007"/>fürstenstandt erhebe. Mihr gehn heündt
-      <lb facs="#facs_2_r1l8" n="N008"/>auf Laxenbu<supplied>r</supplied>g, also mus ich abkü<supplied>r</supplied>zen,
-      <lb facs="#facs_2_r1l9" n="N009"/>due mich dero Liebden befehlen, werde sterben
-      <lb facs="#facs_2_r1l10" n="N010"/>dero Liebden
-      <lb facs="#facs_2_r1l12" n="N011"/>getrewsteschwester
-      <lb facs="#facs_2_r1l13" n="N012"/>Eleonora
-      <lb facs="#facs_2_r1l11" n="N013"/>Wien den 30ten m<supplied>e</supplied>rz 1705
-      <lb facs="#facs_2_r1l15" n="N014"/>Mit verwunderung sein die grüen <unclear>bartches</unclear> so frisch
-      <lb facs="#facs_2_r1l16" n="N015"/>vnd gutt ankommen, das über 8 dag dauon geßen
-      <lb facs="#facs_2_r1l17" n="N016"/>haben, ist woll ein große raritet.
-      <lb facs="#facs_2_r1l18" n="N017"/><choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl ist zwar hier, aber dise dag mit ein
-      <lb facs="#facs_2_r1l19" n="N018"/>geschwollen gesicht, catarr vnd halsweh incomodi<supplied>r</supplied>t,
-      <lb facs="#facs_2_r1l20" n="N019"/>wirt aber gottlob schon beßer. Indeßen duet man schon
-      <lb facs="#facs_2_r1l21" n="N020"/>alles einrichten. Ich hör, dero Liebden troppen marschirn schon, vergelts gott
-      <lb facs="#facs_2_r1l22" n="N021"/>4000 mahl.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="44 r" xml:id="Kasten_blau_45_7_0085.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> <choice><expan>bruder</expan><abbr>brd</abbr></choice>
+      <lb n="N002"/>Vmb kein gelegenheit aus zu laßen, komme auch
+      <lb n="N003"/>mit dißer, dero Liebden 3 liebste sch<supplied>rei</supplied>ben zue beantworten, das erste
+      <lb n="N004"/>wegen des Sinzendorf, so werden ihr Mayestät so ein brif
+      <lb n="N005"/>an dero Liebden machen laßen, den sie können Cur Mains
+      <lb n="N006"/>comuniciren, die andren bede, die nachrichten in ciffer,
+      <lb n="N007"/>auch <add>des Lecherain vnd</add> wegen Münster, warfohr ich dero Liebden schuldigen dankh
+      <lb n="N008"/>erstatte, vndt habe alles ihr Mayestät vohrgedragen.
+      <lb n="N009"/>Wegen Beyren wirt mitt negsten ein resolution
+      <lb n="N010"/>herauß kommen, so dero Liebden aprobiren werden, der
+      <lb n="N011"/>Lebestein <supplied>soll</supplied> auch balt hinn expedirt werden.
+      <lb n="N012"/>Das archiu vndt pretiosa werden mit
+      <lb n="N013"/>nechsten zue waßer abfahren, seint die schiff schon <supplied><unclear>bereit</unclear></supplied>.</p></div><div type="page"><pb facs="#facs_2" n="44 v" xml:id="Kasten_blau_45_7_0086.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>Wegen des <choice><expan>Marchese</expan><abbr>M</abbr></choice> Prie, so finden ihr Mayestät einige difficul-
+      <lb n="N002"/>teten, absonderlich, das es der Herzoch von Sauoi etwa
+      <lb n="N003"/>nit gern sehn vndt übelnemmen <supplied>sollte</supplied>, also die confi-
+      <lb n="N004"/>dens gegen ihn verlieren möchte, welches dem
+      <lb n="N005"/>publico höchst schädlich wäre, den dise heren
+      <lb n="N006"/>haben nit gern, das man ihre vnterdahnen zum
+      <lb n="N007"/>fürstenstandt erhebe. Mihr gehn heündt
+      <lb n="N008"/>auf Laxenbu<supplied>r</supplied>g, also mus ich abkü<supplied>r</supplied>zen,
+      <lb n="N009"/>due mich dero Liebden befehlen, werde sterben
+      <lb n="N010"/>dero Liebden
+      <lb n="N011"/>getrewsteschwester
+      <lb n="N012"/>Eleonora
+      <lb n="N013"/>Wien den 30ten m<supplied>e</supplied>rz 1705
+      <lb n="N014"/>Mit verwunderung sein die grüen <unclear>bartches</unclear> so frisch
+      <lb n="N015"/>vnd gutt ankommen, das über 8 dag dauon geßen
+      <lb n="N016"/>haben, ist woll ein große raritet.
+      <lb n="N017"/><choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl ist zwar hier, aber dise dag mit ein
+      <lb n="N018"/>geschwollen gesicht, catarr vnd halsweh incomodi<supplied>r</supplied>t,
+      <lb n="N019"/>wirt aber gottlob schon beßer. Indeßen duet man schon
+      <lb n="N020"/>alles einrichten. Ich hör, dero Liebden troppen marschirn schon, vergelts gott
+      <lb n="N021"/>4000 mahl.</p></div>
 </body>
 
    </text>

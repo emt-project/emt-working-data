@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0900.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0900.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -127,34 +127,29 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="211 r" xml:id="Kasten_blau_45_15_0900.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>Ad acta</unclear>
-      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l3" n="N003"/>Was ich vohr ein vnauschprechlige freüdt empfindt,
-      <lb facs="#facs_1_r1l4" n="N004"/>so woll aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben als von dem <unclear>v</unclear> Schpiring
-      <lb facs="#facs_1_r1l5" n="N005"/>zue vernemmen, das ich anheündt noch so glükhlich
-      <lb facs="#facs_1_r1l6" n="N006"/>sein werde, ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vndt</abbr></choice> zue bedienen, wehre <seg type="comment"><supplied>m</supplied></seg>ihr
-      <lb facs="#facs_1_r1l7" n="N007"/>vnmöglich zue exprimiren. Vmso vill mehr, w<supplied>ei</supplied>len
-      <lb facs="#facs_1_r1l8" n="N008"/>aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben, so ich gestren von Neüburg aus emp-
-      <lb facs="#facs_1_r1l9" n="N009"/>fangen, ersehn, das sie wegen größe des waße<supplied>r</supplied>s am
-      <lb facs="#facs_1_r1l10" n="N010"/>mitwoch nit haben abreisen können, vnd ich mihr
-      <lb facs="#facs_1_r1l11" n="N011"/>also auf heündt diese höchsten trost vnd freüdt gahr nit
-      <lb facs="#facs_1_r1l12" n="N012"/>eingebilt hette. Dem almechtigen sey dankh, das ewer Durchlaucht
-      <lb facs="#facs_1_r1l13" n="N013"/>dero reis so glükhlich vnd gesundt vericht haben. Heündt
-      <lb facs="#facs_1_r1l14" n="N014"/>bin ich ein wehnig in sorgen, dan das wetter zimlich
-      <lb facs="#facs_1_r1l15" n="N015"/>küel, das nit etwan ewer Durchlaucht einige vngelegenheit</ab>
-    <pb facs="#facs_2" n="211 v" xml:id="Kasten_blau_45_15_0901.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>möge veruhrsachen. Der Schpiring wirt mit mehren meine
-      <lb facs="#facs_2_r1l2" n="N002"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> sentimenten ewer Durchlaucht vohr dragen, in dero beharlige
-      <lb facs="#facs_2_r1l3" n="N003"/>vätterlige <choice><expan>gnade</expan><abbr>g</abbr></choice> mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfehle, die ich ste<supplied>r</supplied>ben werde
-      <lb facs="#facs_2_r1l4" n="N004"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l6" n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied>w</supplied>g<supplied>e</supplied>horsa<supplied>m</supplied>ste dochter
-      <lb facs="#facs_2_r1l7" n="N006"/>Eleonora
-      <lb facs="#facs_2_r1l5" n="N007"/>Wien den 10ten julij 1690</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="211 r" xml:id="Kasten_blau_45_15_0900.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear>Ad acta</unclear>
+      <lb n="N002"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
+      <lb n="N003"/>Was ich vohr ein vnauschprechlige freüdt empfindt,
+      <lb n="N004"/>so woll aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben als von dem <unclear>v</unclear> Schpiring
+      <lb n="N005"/>zue vernemmen, das ich anheündt noch so glükhlich
+      <lb n="N006"/>sein werde, ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vndt</abbr></choice> zue bedienen, wehre <seg type="comment"><supplied>m</supplied></seg>ihr
+      <lb n="N007"/>vnmöglich zue exprimiren. Vmso vill mehr, w<supplied>ei</supplied>len
+      <lb n="N008"/>aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben, so ich gestren von Neüburg aus emp-
+      <lb n="N009"/>fangen, ersehn, das sie wegen größe des waße<supplied>r</supplied>s am
+      <lb n="N010"/>mitwoch nit haben abreisen können, vnd ich mihr
+      <lb n="N011"/>also auf heündt diese höchsten trost vnd freüdt gahr nit
+      <lb n="N012"/>eingebilt hette. Dem almechtigen sey dankh, das ewer Durchlaucht
+      <lb n="N013"/>dero reis so glükhlich vnd gesundt vericht haben. Heündt
+      <lb n="N014"/>bin ich ein wehnig in sorgen, dan das wetter zimlich
+      <lb n="N015"/>küel, das nit etwan ewer Durchlaucht einige vngelegenheit</p></div><div type="page"><pb facs="#facs_2" n="211 v" xml:id="Kasten_blau_45_15_0901.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>möge veruhrsachen. Der Schpiring wirt mit mehren meine
+      <lb n="N002"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> sentimenten ewer Durchlaucht vohr dragen, in dero beharlige
+      <lb n="N003"/>vätterlige <choice><expan>gnade</expan><abbr>g</abbr></choice> mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfehle, die ich ste<supplied>r</supplied>ben werde
+      <lb n="N004"/>ewer Durchlaucht
+      <lb n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tre<supplied>w</supplied>g<supplied>e</supplied>horsa<supplied>m</supplied>ste dochter
+      <lb n="N006"/>Eleonora
+      <lb n="N007"/>Wien den 10ten julij 1690</p></div>
 </body>
 
    </text>

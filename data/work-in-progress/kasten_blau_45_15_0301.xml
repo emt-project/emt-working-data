@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0301.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0301.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -131,38 +131,33 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="161 r" xml:id="Kasten_blau_45_15_0301.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das ich heündt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice>
-      <lb facs="#facs_1_r1l3" n="N003"/>schreiben nit meiner schuldichkeit nach beantworte.
-      <lb facs="#facs_1_r1l4" n="N004"/>Es wirt mein bruder, der Bischoff, morgen wekh,
-      <lb facs="#facs_1_r1l5" n="N005"/>so ist heündt mit dem abschit nemmen neben
-      <lb facs="#facs_1_r1l6" n="N006"/>der welischen predich die zeit wekh genommen,
-      <lb facs="#facs_1_r1l7" n="N007"/>in dem er mihr in der cölnischen sag wegen der
-      <lb facs="#facs_1_r1l8" n="N008"/>prokuren, so er Konisek vnd Baden schiken sollen, <supplied>gesagt hat,</supplied>
-      <lb facs="#facs_1_r1l9" n="N009"/>vmb welche man sich erstens bewerben wirt.
-      <lb facs="#facs_1_r1l10" n="N010"/>Frewet mich von herzen, das ewer Durchlaucht da ein
-      <lb facs="#facs_1_r1l11" n="N011"/>galantes festel gehabt, mues woll schön gewesen
-      <lb facs="#facs_1_r1l12" n="N012"/>sein. Gottlob, das der Deutschmeister wider so beßer
-      <lb facs="#facs_1_r1l13" n="N013"/>wirt, freüdt mich von herzen. Von des <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl seiner
-      <lb facs="#facs_1_r1l14" n="N014"/>heirat hör ich niks, <unclear>so</unclear> wirt er gewis die campagna
-      <lb facs="#facs_1_r1l15" n="N015"/>duen, die dame wirt biß dorthin schon wekh sein.</ab>
-    <pb facs="#facs_2" n="161 v" xml:id="Kasten_blau_45_15_0302.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>Die ander, hoff ich, werd auch balt hochzeit haben.
-      <lb facs="#facs_2_r1l2" n="N002"/>Mus enden wider mein willen, bef<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
-      <lb facs="#facs_2_r1l3" n="N003"/>in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vnd werde sterbe<supplied>n</supplied>
-      <lb facs="#facs_2_r1l4" n="N004"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1644828300668_37" n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_line_1644828374285_42" n="N006"/>EMT
-      <lb facs="#facs_2_r1l5" n="N007"/>Wien den 7ten m<supplied>e</supplied>rz 1688
-      <lb facs="#facs_2_line_1644828300667_36" n="N008"/>Der Cauniz wirt
-      <lb facs="#facs_2_line_1644828374286_43" n="N009"/>ehistens auf München geschikt
-      <lb facs="#facs_2_r1l8" n="N010"/>werden, das haubt werk zue aiustiren vnter dem
-      <lb facs="#facs_2_r1l9" n="N011"/>pretext der cölnischen sach.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="161 r" xml:id="Kasten_blau_45_15_0301.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> vatter
+      <lb n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das ich heündt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice>
+      <lb n="N003"/>schreiben nit meiner schuldichkeit nach beantworte.
+      <lb n="N004"/>Es wirt mein bruder, der Bischoff, morgen wekh,
+      <lb n="N005"/>so ist heündt mit dem abschit nemmen neben
+      <lb n="N006"/>der welischen predich die zeit wekh genommen,
+      <lb n="N007"/>in dem er mihr in der cölnischen sag wegen der
+      <lb n="N008"/>prokuren, so er Konisek vnd Baden schiken sollen, <supplied>gesagt hat,</supplied>
+      <lb n="N009"/>vmb welche man sich erstens bewerben wirt.
+      <lb n="N010"/>Frewet mich von herzen, das ewer Durchlaucht da ein
+      <lb n="N011"/>galantes festel gehabt, mues woll schön gewesen
+      <lb n="N012"/>sein. Gottlob, das der Deutschmeister wider so beßer
+      <lb n="N013"/>wirt, freüdt mich von herzen. Von des <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl seiner
+      <lb n="N014"/>heirat hör ich niks, <unclear>so</unclear> wirt er gewis die campagna
+      <lb n="N015"/>duen, die dame wirt biß dorthin schon wekh sein.</p></div><div type="page"><pb facs="#facs_2" n="161 v" xml:id="Kasten_blau_45_15_0302.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>Die ander, hoff ich, werd auch balt hochzeit haben.
+      <lb n="N002"/>Mus enden wider mein willen, bef<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
+      <lb n="N003"/>in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vnd werde sterbe<supplied>n</supplied>
+      <lb n="N004"/>ewer Durchlaucht
+      <lb n="N005"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N006"/>EMT
+      <lb n="N007"/>Wien den 7ten m<supplied>e</supplied>rz 1688
+      <lb n="N008"/>Der Cauniz wirt
+      <lb n="N009"/>ehistens auf München geschikt
+      <lb n="N010"/>werden, das haubt werk zue aiustiren vnter dem
+      <lb n="N011"/>pretext der cölnischen sach.</p></div>
 </body>
 
    </text>

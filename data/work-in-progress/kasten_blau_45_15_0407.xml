@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0407.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0407.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,24 +115,21 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="225 r" xml:id="Kasten_blau_45_15_0407.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtige <seg type="comment">Cuhrfürstin, mein herz allerlibste <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter</seg>
-      <lb facs="#facs_1_r1l2" n="N002"/>Heündt mus ich aber mahl vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebu<supplied>n</supplied>g
-      <lb facs="#facs_1_r1l3" n="N003"/>bitten, das ich meine schuldichkeit nit ab-
-      <lb facs="#facs_1_r1l4" n="N004"/>legen due, weil mihr izt zu den nonnen
-      <lb facs="#facs_1_r1l5" n="N005"/>vnd nachmitag wekh gehn, gestern auch vill
-      <lb facs="#facs_1_r1l6" n="N006"/>audienzen gehabt. Verhoff, ewer Durchlaucht werden
-      <lb facs="#facs_1_r1l7" n="N007"/>sich in b<supplied>e</supplied>stem wohlstandt befinden, welches
-      <lb facs="#facs_1_r1l8" n="N008"/>mich über alles erfr<supplied>e</supplied>in wirt zue vernemmen.
-      <lb facs="#facs_1_r1l9" n="N009"/>Mues enden wider mein willen in hochster eil,
-      <lb facs="#facs_1_r1l10" n="N010"/>b<supplied>e</supplied>f<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde sterben
-      <lb facs="#facs_1_r1l11" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_1_line_1646318519003_182" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_1_r1l13" n="N013"/>EMT
-      <lb facs="#facs_1_line_1646318519005_183" n="N014"/>Wien den 12ten aug<supplied>u</supplied>st 1688</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="225 r" xml:id="Kasten_blau_45_15_0407.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtige <seg type="comment">Cuhrfürstin, mein herz allerlibste <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter</seg>
+      <lb n="N002"/>Heündt mus ich aber mahl vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebu<supplied>n</supplied>g
+      <lb n="N003"/>bitten, das ich meine schuldichkeit nit ab-
+      <lb n="N004"/>legen due, weil mihr izt zu den nonnen
+      <lb n="N005"/>vnd nachmitag wekh gehn, gestern auch vill
+      <lb n="N006"/>audienzen gehabt. Verhoff, ewer Durchlaucht werden
+      <lb n="N007"/>sich in b<supplied>e</supplied>stem wohlstandt befinden, welches
+      <lb n="N008"/>mich über alles erfr<supplied>e</supplied>in wirt zue vernemmen.
+      <lb n="N009"/>Mues enden wider mein willen in hochster eil,
+      <lb n="N010"/>b<supplied>e</supplied>f<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd werde sterben
+      <lb n="N011"/>ewer Durchlaucht
+      <lb n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N013"/>EMT
+      <lb n="N014"/>Wien den 12ten aug<supplied>u</supplied>st 1688</p></div>
 </body>
 
    </text>

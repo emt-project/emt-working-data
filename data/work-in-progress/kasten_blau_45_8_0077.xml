@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0077.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0077.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -120,31 +120,27 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_77" n="[?]8 r" xml:id="Kasten_blau_45_8_0077.jpg"/>
-<ab facs="#facs_77_r1">
-               <lb facs="#facs_77_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_77_r1l2" n="N002"/>Ich bitte gehorsamb vmb vergebung, das dismahl
-               <lb facs="#facs_77_r1l4" n="N003"/>so wehnig mit meinem üblen zeilen aufwarten kan.
-               <lb facs="#facs_77_line_1615894840966_22" n="N004"/>Ihr Mayestät, die verwittibte <rs type="person">Kaiserin</rs>, seint heüt
-               <lb facs="#facs_77_r1l10" n="N005"/>hierausen gewesen, vndt nach dem sie wekh, seint mihr
-               <lb facs="#facs_77_r1l11" n="N006"/>auf das lerchen iagen. Was sie wegen meines <rs type="person">brueders</rs>
-               <lb facs="#facs_77_r1l12" n="N007"/>mit den <rs type="person">Schellerer</rs> gerett, werden ihr Durchlaucht von ihme
-               <lb facs="#facs_77_r1l13" n="N008"/>vernommen haben. Was die coadiutori anlanget,
-               <lb facs="#facs_77_r1l14" n="N009"/>werden ihr <rs type="person">Mayestät</rs> gern duen was sein kan. Werden ihr Durchlaucht
-               <lb facs="#facs_77_r1l17" n="N010"/>aber selber schreiben, dan weil die Keiserin dah
-               <lb facs="#facs_77_r1l18" n="N011"/>gewesen, haben sie gesacht, sie wolten an ihr
-               <lb facs="#facs_77_line_1615895053375_47" n="N012"/>Durchlaucht schreiben, vnd seint ihn ihr zimmer
-               <lb facs="#facs_77_r1l21" n="N013"/>gangen. Befinden sich gottlob sonsten wohl
-               <lb facs="#facs_77_r1l23" n="N014"/>auf, wie auch die <rs type="person">Erzherzogin</rs>. Befel mich
-               <lb facs="#facs_77_line_1615895096549_63" n="N015"/>in ihr Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt sterbe
-               <lb facs="#facs_77_r1l31" n="N016"/>ihr Durchlaucht
-               <lb facs="#facs_77_r1l32" n="N017"/>ganz errgebenste trew gehor-
-               <lb facs="#facs_77_r1l35" n="N018"/>samste dochter
-               <lb facs="#facs_77_r1l38" n="N019"/>EMT
-               <lb facs="#facs_77_line_1615895112053_67" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="1" year="1677"><supplied>1</supplied> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1677</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_77" n="[?]8 r" xml:id="Kasten_blau_45_8_0077.jpg"/><p facs="#facs_77_r1">
+               <lb n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Ich bitte gehorsamb vmb vergebung, das dismahl
+               <lb n="N003"/>so wehnig mit meinem üblen zeilen aufwarten kan.
+               <lb n="N004"/>Ihr Mayestät, die verwittibte <rs type="person">Kaiserin</rs>, seint heüt
+               <lb n="N005"/>hierausen gewesen, vndt nach dem sie wekh, seint mihr
+               <lb n="N006"/>auf das lerchen iagen. Was sie wegen meines <rs type="person">brueders</rs>
+               <lb n="N007"/>mit den <rs type="person">Schellerer</rs> gerett, werden ihr Durchlaucht von ihme
+               <lb n="N008"/>vernommen haben. Was die coadiutori anlanget,
+               <lb n="N009"/>werden ihr <rs type="person">Mayestät</rs> gern duen was sein kan. Werden ihr Durchlaucht
+               <lb n="N010"/>aber selber schreiben, dan weil die Keiserin dah
+               <lb n="N011"/>gewesen, haben sie gesacht, sie wolten an ihr
+               <lb n="N012"/>Durchlaucht schreiben, vnd seint ihn ihr zimmer
+               <lb n="N013"/>gangen. Befinden sich gottlob sonsten wohl
+               <lb n="N014"/>auf, wie auch die <rs type="person">Erzherzogin</rs>. Befel mich
+               <lb n="N015"/>in ihr Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt sterbe
+               <lb n="N016"/>ihr Durchlaucht
+               <lb n="N017"/>ganz errgebenste trew gehor-
+               <lb n="N018"/>samste dochter
+               <lb n="N019"/>EMT
+               <lb n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="1" year="1677"><supplied>1</supplied> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1677</date>
+            </p></div></body>
    </text>
 </TEI>

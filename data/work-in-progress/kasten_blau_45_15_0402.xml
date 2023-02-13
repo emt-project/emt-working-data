@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0402.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0402.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -137,43 +137,38 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="222 r" xml:id="Kasten_blau_45_15_0402.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich bitte ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
-      <lb facs="#facs_1_r1l3" n="N003"/>ich heündt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 23ten verwichnen
-      <lb facs="#facs_1_r1l4" n="N004"/>monats nit ausführlich beantworte. Ist die
-      <lb facs="#facs_1_r1l5" n="N005"/>vhrsach, das mihr heündt beyn Himmelporten
-      <lb facs="#facs_1_r1l6" n="N006"/>bey der Stresoldin, meiner gewesten freile,
-      <lb facs="#facs_1_r1l7" n="N007"/>proffession geweßen, von welcher mihr etwas
-      <lb facs="#facs_1_r1l8" n="N008"/>schpaht heim kommen, darumb ich auch mit
-      <lb facs="#facs_1_r1l9" n="N009"/>ihr Mayestät so woll wegen meinen schwestern als
-      <lb facs="#facs_1_r1l11" n="N010"/>wegen der lütischen wahl ewer Durchlaucht befehl gemeß
-      <lb facs="#facs_1_r1l12" n="N011"/>nit hab reden können, werd es aber heündt
-      <lb facs="#facs_1_r1l13" n="N012"/>noch duen vnd mit nechstem alles berichten.
-      <lb facs="#facs_1_r1l14" n="N013"/>Die recomendationen vohr meinen bruder Carl</ab>
-    <pb facs="#facs_2" n="222 v" xml:id="Kasten_blau_45_15_0403.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>seindt schon lengst durch einen eigenen <supplied>curier</supplied> auf
-      <lb facs="#facs_2_r1l2" n="N002"/>Berlin geschikt worden, das disfals mein bruder
-      <lb facs="#facs_2_r1l3" n="N003"/>reisen kan, wan er will. Gott geb im glükh, das
-      <lb facs="#facs_2_r1l4" n="N004"/>nach verlangen mög auschlagen. Bericht aber
-      <lb facs="#facs_2_r1l5" n="N005"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>, das ich gehört vohr gewis, das man sicher
-      <lb facs="#facs_2_r1l6" n="N006"/>weis, das sie keine kinder wirt dragen, obs wahr
-      <lb facs="#facs_2_r1l7" n="N007"/>ist, steht dahin. Bey dem von Brandenburg ist
-      <lb facs="#facs_2_r1l8" n="N008"/>sie woll nie in keiner hoffnung gewesen.
-      <lb facs="#facs_2_r1l9" n="N009"/>Ich sage ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr aler
-      <lb facs="#facs_2_r1l10" n="N010"/><choice><expan>gnädigste</expan><abbr>g</abbr></choice> wunsch, die sie mihr zu <choice><expan>Sankt</expan><abbr>S</abbr></choice> Anna dag vnd
-      <lb facs="#facs_2_r1l11" n="N011"/>so<supplied>n</supplied>sten duen wollen, werde mich befleisen, alles
-      <lb facs="#facs_2_r1l12" n="N012"/>zue ewer Durchlaucht dienst anzuewenden. Mues enden
-      <lb facs="#facs_2_r1l13" n="N013"/>wider mein willen, ist gahr schpaht vnd
-      <lb facs="#facs_2_r1l14" n="N014"/>erste<supplied>r</supplied>be
-      <lb facs="#facs_2_r1l15" n="N015"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1646311930369_55" n="N016"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r1l17" n="N017"/>EMT
-      <lb facs="#facs_2_line_1646311930369_56" n="N018"/>Wien den <seg type="blackening">23ten</seg> 1ten aug<supplied>u</supplied>st 1688</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="222 r" xml:id="Kasten_blau_45_15_0402.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
+      <lb n="N002"/>Ich bitte ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
+      <lb n="N003"/>ich heündt dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 23ten verwichnen
+      <lb n="N004"/>monats nit ausführlich beantworte. Ist die
+      <lb n="N005"/>vhrsach, das mihr heündt beyn Himmelporten
+      <lb n="N006"/>bey der Stresoldin, meiner gewesten freile,
+      <lb n="N007"/>proffession geweßen, von welcher mihr etwas
+      <lb n="N008"/>schpaht heim kommen, darumb ich auch mit
+      <lb n="N009"/>ihr Mayestät so woll wegen meinen schwestern als
+      <lb n="N010"/>wegen der lütischen wahl ewer Durchlaucht befehl gemeß
+      <lb n="N011"/>nit hab reden können, werd es aber heündt
+      <lb n="N012"/>noch duen vnd mit nechstem alles berichten.
+      <lb n="N013"/>Die recomendationen vohr meinen bruder Carl</p></div><div type="page"><pb facs="#facs_2" n="222 v" xml:id="Kasten_blau_45_15_0403.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>seindt schon lengst durch einen eigenen <supplied>curier</supplied> auf
+      <lb n="N002"/>Berlin geschikt worden, das disfals mein bruder
+      <lb n="N003"/>reisen kan, wan er will. Gott geb im glükh, das
+      <lb n="N004"/>nach verlangen mög auschlagen. Bericht aber
+      <lb n="N005"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>, das ich gehört vohr gewis, das man sicher
+      <lb n="N006"/>weis, das sie keine kinder wirt dragen, obs wahr
+      <lb n="N007"/>ist, steht dahin. Bey dem von Brandenburg ist
+      <lb n="N008"/>sie woll nie in keiner hoffnung gewesen.
+      <lb n="N009"/>Ich sage ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr aler
+      <lb n="N010"/><choice><expan>gnädigste</expan><abbr>g</abbr></choice> wunsch, die sie mihr zu <choice><expan>Sankt</expan><abbr>S</abbr></choice> Anna dag vnd
+      <lb n="N011"/>so<supplied>n</supplied>sten duen wollen, werde mich befleisen, alles
+      <lb n="N012"/>zue ewer Durchlaucht dienst anzuewenden. Mues enden
+      <lb n="N013"/>wider mein willen, ist gahr schpaht vnd
+      <lb n="N014"/>erste<supplied>r</supplied>be
+      <lb n="N015"/>ewer Durchlaucht
+      <lb n="N016"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N017"/>EMT
+      <lb n="N018"/>Wien den <seg type="blackening">23ten</seg> 1ten aug<supplied>u</supplied>st 1688</p></div>
 </body>
 
    </text>

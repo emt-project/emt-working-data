@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0808.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0808.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -136,43 +136,38 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="155 r" xml:id="Kasten_blau_45_15_0808.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Bericht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das mihr vnser reis bis dahto
-      <lb facs="#facs_1_r1l3" n="N003"/>gükhlich volbracht. Zue Altenöting hab nit
-      <lb facs="#facs_1_r1l4" n="N004"/>mein schuldichkeit vnterlaßen, mein vnandechtigs
-      <lb facs="#facs_1_r1l5" n="N005"/>geb<supplied>e</supplied>tt vohr ewer Durchlaucht zue offeriren. Der Josepl
-      <lb facs="#facs_1_r1l6" n="N006"/>hatt dort ein dag ein kleine alteration gehabt,
-      <lb facs="#facs_1_r1l7" n="N007"/>aber alles wider gutt. Heündt haben mihr einen
-      <lb facs="#facs_1_r1l8" n="N008"/>langen dag vnd üblen weg überstanden, gott sey
-      <lb facs="#facs_1_r1l9" n="N009"/>gedankt. Disen mitag seint mihr dise schr<supplied>e</supplied>iben
-      <lb facs="#facs_1_r1l10" n="N010"/>von vnserer Königin in Schpanien zue kommen.
-      <lb facs="#facs_1_r1l11" n="N011"/>Der Deütschmeister <unclear>beförcht</unclear> sich in <unclear>brif</unclear> noch aufgehalden
-      <lb facs="#facs_1_r1l12" n="N012"/>zue sein, weil sich der windt verendert hatt, aber
-      <lb facs="#facs_1_r1l13" n="N013"/>das eine paquet vom 27ten, welches der Crampre<supplied>c</supplied>ht
-      <lb facs="#facs_1_r1l14" n="N014"/>accusirt, an welchem dag sie abgesegelt, haben
-      <lb facs="#facs_1_r1l15" n="N015"/>mihr noch nit bekommen, glauben, <supplied>es</supplied> sey auf Wien gangen.</ab>
-    <pb facs="#facs_2" n="155 v" xml:id="Kasten_blau_45_15_0809.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>So balt ichs bekomm, werdts <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> überschiken.
-      <lb facs="#facs_2_r1l2" n="N002"/>Man hatt auch zeitung aus Engeland, das sie
-      <lb facs="#facs_2_r1l3" n="N003"/>soll den 29ten ankommen sei vnd der König
-      <lb facs="#facs_2_r1l4" n="N004"/>sie mit wagen auf Potzmut oder Bleibmut
-      <lb facs="#facs_2_r1l5" n="N005"/>füren laßen, gott geb ihr glükh. Izt hoff ich,
-      <lb facs="#facs_2_r1l6" n="N006"/>s<supplied>e</supplied>y sie nit weit von Madrit. Ich hoff, dise
-      <lb facs="#facs_2_r1l7" n="N007"/>zeitung wert balt autentische comfirmation bekomen,
-      <lb facs="#facs_2_r1l8" n="N008"/>dan dis nuhr in einem fogliet gestanden.
-      <lb facs="#facs_2_r1l9" n="N009"/>Mues wider mein willen enden, dan mihr etwas
-      <lb facs="#facs_2_r1l10" n="N010"/>schpaht ankommen vnd ich nit eh gewist,
-      <lb facs="#facs_2_r1l12" n="N011"/>das heüt die post g<supplied>e</supplied>ht. Bef<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd
-      <lb facs="#facs_2_r1l13" n="N012"/>werde sterben
-      <lb facs="#facs_2_r1l14" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1652114916641_213" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r1l17" n="N015"/>Eleonora
-      <lb facs="#facs_2_line_1652114916641_214" n="N016"/>Lambach den 21ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1690</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="155 r" xml:id="Kasten_blau_45_15_0808.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
+      <lb n="N002"/>Bericht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das mihr vnser reis bis dahto
+      <lb n="N003"/>gükhlich volbracht. Zue Altenöting hab nit
+      <lb n="N004"/>mein schuldichkeit vnterlaßen, mein vnandechtigs
+      <lb n="N005"/>geb<supplied>e</supplied>tt vohr ewer Durchlaucht zue offeriren. Der Josepl
+      <lb n="N006"/>hatt dort ein dag ein kleine alteration gehabt,
+      <lb n="N007"/>aber alles wider gutt. Heündt haben mihr einen
+      <lb n="N008"/>langen dag vnd üblen weg überstanden, gott sey
+      <lb n="N009"/>gedankt. Disen mitag seint mihr dise schr<supplied>e</supplied>iben
+      <lb n="N010"/>von vnserer Königin in Schpanien zue kommen.
+      <lb n="N011"/>Der Deütschmeister <unclear>beförcht</unclear> sich in <unclear>brif</unclear> noch aufgehalden
+      <lb n="N012"/>zue sein, weil sich der windt verendert hatt, aber
+      <lb n="N013"/>das eine paquet vom 27ten, welches der Crampre<supplied>c</supplied>ht
+      <lb n="N014"/>accusirt, an welchem dag sie abgesegelt, haben
+      <lb n="N015"/>mihr noch nit bekommen, glauben, <supplied>es</supplied> sey auf Wien gangen.</p></div><div type="page"><pb facs="#facs_2" n="155 v" xml:id="Kasten_blau_45_15_0809.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>So balt ichs bekomm, werdts <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> überschiken.
+      <lb n="N002"/>Man hatt auch zeitung aus Engeland, das sie
+      <lb n="N003"/>soll den 29ten ankommen sei vnd der König
+      <lb n="N004"/>sie mit wagen auf Potzmut oder Bleibmut
+      <lb n="N005"/>füren laßen, gott geb ihr glükh. Izt hoff ich,
+      <lb n="N006"/>s<supplied>e</supplied>y sie nit weit von Madrit. Ich hoff, dise
+      <lb n="N007"/>zeitung wert balt autentische comfirmation bekomen,
+      <lb n="N008"/>dan dis nuhr in einem fogliet gestanden.
+      <lb n="N009"/>Mues wider mein willen enden, dan mihr etwas
+      <lb n="N010"/>schpaht ankommen vnd ich nit eh gewist,
+      <lb n="N011"/>das heüt die post g<supplied>e</supplied>ht. Bef<supplied>e</supplied>hl mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vnd
+      <lb n="N012"/>werde sterben
+      <lb n="N013"/>ewer Durchlaucht
+      <lb n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N015"/>Eleonora
+      <lb n="N016"/>Lambach den 21ten <choice><expan>Februarij</expan><abbr>feb</abbr></choice> 1690</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0156.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0156.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -117,29 +117,25 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_156" n="20 r" xml:id="Kasten_blau_45_8_0156.jpg"/>
-<ab facs="#facs_156_r1">
-               <lb facs="#facs_156_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_156_line_1618570190437_1215" n="N002"/>Die freüdt so ich habe, ewer Durchlaucht hoffentlich morgen
-               <lb facs="#facs_156_r1l4" n="N003"/>selbst zue bedienen, dreibet mich an, durch diese
-               <lb facs="#facs_156_r1l5" n="N004"/>zeylen ewer Durchlaucht aufzuwarten in hoffnung, sie werden
-               <lb facs="#facs_156_line_1618570195936_1219" n="N005"/>sich auf die vngelegenheit dero reis in guettem
-               <lb facs="#facs_156_line_1618570199590_1223" n="N006"/>wohlstant befinden. Wie sehr ich verlange, diese
-               <lb facs="#facs_156_r1l10" n="N007"/>große gluksehlichkeit zue haben, wirt der <rs type="person" continued="true">Grau</rs>
-               <lb facs="#facs_156_line_1618570210164_1227" n="N008"/><rs type="person" continued="true">von Mansfelt</rs> mit mehrerem contestiren.
-               <lb facs="#facs_156_line_1618570219543_1234" n="N009"/>Ich habe auch so eben ein <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben von dem
-               <lb facs="#facs_156_line_1618570223966_1238" n="N010"/>ort aller meiner glüksehlichkeit durch den <rs type="person">Schellerer</rs>
-               <lb facs="#facs_156_line_1618570227868_1242" n="N011"/>empfangen. Mihr wirt der groste trost sein, wan
-               <lb facs="#facs_156_line_1618570234739_1246" n="N012"/>ich darbey gelegenheit haben werde, ewer Durchlaucht durch
-               <lb facs="#facs_156_line_1618570240389_1250" n="N013"/>meine dienst zue erweisen, das ich sterben werde
-               <lb facs="#facs_156_line_1618570281271_1276" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_156_line_1618570255862_1261" n="N015"/>ganzergebenste trewgehor-
-               <lb facs="#facs_156_line_1618570259424_1265" n="N016"/>samste dochter
-               <lb facs="#facs_156_line_1618570263531_1269" n="N017"/>EMT
-               <lb facs="#facs_156_line_1618570246261_1254" n="N018"/><rs type="place">Wien</rs> den <date month="7" day="15" year="1678">15 julij 1678</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_156" n="20 r" xml:id="Kasten_blau_45_8_0156.jpg"/><p facs="#facs_156_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Die freüdt so ich habe, ewer Durchlaucht hoffentlich morgen
+               <lb n="N003"/>selbst zue bedienen, dreibet mich an, durch diese
+               <lb n="N004"/>zeylen ewer Durchlaucht aufzuwarten in hoffnung, sie werden
+               <lb n="N005"/>sich auf die vngelegenheit dero reis in guettem
+               <lb n="N006"/>wohlstant befinden. Wie sehr ich verlange, diese
+               <lb n="N007"/>große gluksehlichkeit zue haben, wirt der <rs type="person" continued="true">Grau</rs>
+               <lb n="N008"/><rs type="person" continued="true">von Mansfelt</rs> mit mehrerem contestiren.
+               <lb n="N009"/>Ich habe auch so eben ein <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben von dem
+               <lb n="N010"/>ort aller meiner glüksehlichkeit durch den <rs type="person">Schellerer</rs>
+               <lb n="N011"/>empfangen. Mihr wirt der groste trost sein, wan
+               <lb n="N012"/>ich darbey gelegenheit haben werde, ewer Durchlaucht durch
+               <lb n="N013"/>meine dienst zue erweisen, das ich sterben werde
+               <lb n="N014"/>ewer Durchlaucht
+               <lb n="N015"/>ganzergebenste trewgehor-
+               <lb n="N016"/>samste dochter
+               <lb n="N017"/>EMT
+               <lb n="N018"/><rs type="place">Wien</rs> den <date month="7" day="15" year="1678">15 julij 1678</date>
+            </p></div></body>
    </text>
 </TEI>

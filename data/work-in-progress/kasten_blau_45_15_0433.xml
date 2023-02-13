@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0433.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0433.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -137,43 +137,37 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="243 r" xml:id="Kasten_blau_45_15_0433.jpg"/>
-    <ab facs="#facs_1_r1"/>
-    <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
-      <lb facs="#facs_1_r2l2" n="N002"/>Ich hab aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom 7ten dis gehorsa<supplied>m</supplied>bst
-      <lb facs="#facs_1_r2l3" n="N003"/>ersehen, wie das sich ewer Durchlaucht gottlob etwas beßer
-      <lb facs="#facs_1_r2l5" n="N004"/>befinden. Der almechtige gebe weiters sein
-      <lb facs="#facs_1_r2l6" n="N005"/>göttlige gnad, das ewer Durchlaucht balt völlich mögen
-      <lb facs="#facs_1_r2l7" n="N006"/>restituirt werden, welches ich woll mit höchstem
-      <lb facs="#facs_1_r2l8" n="N007"/>verlangen erwarte zue vernemmen, vnd so lang
-      <lb facs="#facs_1_r2l9" n="N008"/>in sorgen bleibe, gott aber wirt so viller geb<supplied>e</supplied>t
-      <lb facs="#facs_1_r2l10" n="N009"/>erhören vnd vns alen dero <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> kindern diesen trost
-      <lb facs="#facs_1_r2l11" n="N010"/>verleyen. Ich bin nuhr in sorgen, das ewer Durchlaucht auch
-      <lb facs="#facs_1_r2l12" n="N011"/>das vnterschreiben möge schaden, bitt also nochmahlen
-      <lb facs="#facs_1_r2l13" n="N012"/>auf den knien, ewer Durchlaucht wollen sich meinetwegen
-      <lb facs="#facs_1_r2l14" n="N013"/>nit die geringste vngelegenheit machen.</ab>
-    <pb facs="#facs_2" n="243 v" xml:id="Kasten_blau_45_15_0434.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>Wegen Lüttich, meines brude<supplied>r</supplied>n Carl, wie auch Brandenburg
-      <lb facs="#facs_2_r1l2" n="N002"/>in guetten intention zue erhalten, werden ihr Mayestät alles
-      <lb facs="#facs_2_r1l3" n="N003"/>anwenden, wie auch izt hier ein secretari vom
-      <lb facs="#facs_2_r1l4" n="N004"/>Fürst Lubomirski, welcher in nahm seines princi-
-      <lb facs="#facs_2_r1l5" n="N005"/>palen alles gutts offerirt. Er ist geste<supplied>r</supplied>n bey
-      <lb facs="#facs_2_r1l6" n="N006"/>mihr geweßen, sacht, das sein herr auf alle weis sich
-      <lb facs="#facs_2_r1l7" n="N007"/>meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied>e</supplied>rin annemmen werde, wirt auch mihr
-      <lb facs="#facs_2_r1l8" n="N008"/>an handt geben, was man darin duen könne, welchs
-      <lb facs="#facs_2_r1l9" n="N009"/>ich alles ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> berichten werde. Ewer Durchlaucht iezt
-      <lb facs="#facs_2_r1l10" n="N010"/>nit mit langen schreiben zue beunruigen, due ich schließen,
-      <lb facs="#facs_2_r1l11" n="N011"/>mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfelendt
-      <lb facs="#facs_2_r1l12" n="N012"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1646418793330_303" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r1l14" n="N014"/>EMT
-      <lb facs="#facs_2_line_1646418793332_304" n="N015"/>Wien den 16ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1688
-      <lb facs="#facs_2_r1l15" n="N016"/><choice><expan>Nota Bene</expan><abbr>NB</abbr></choice><seg type="comment"> was oben gezaichnet,</seg>
-      <lb facs="#facs_2_r1l16" n="N017"/><seg type="comment">zue extrahieren</seg> </ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="243 r" xml:id="Kasten_blau_45_15_0433.jpg"/><p facs="#facs_1_r1"/><p facs="#facs_1_r2">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
+      <lb n="N002"/>Ich hab aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom 7ten dis gehorsa<supplied>m</supplied>bst
+      <lb n="N003"/>ersehen, wie das sich ewer Durchlaucht gottlob etwas beßer
+      <lb n="N004"/>befinden. Der almechtige gebe weiters sein
+      <lb n="N005"/>göttlige gnad, das ewer Durchlaucht balt völlich mögen
+      <lb n="N006"/>restituirt werden, welches ich woll mit höchstem
+      <lb n="N007"/>verlangen erwarte zue vernemmen, vnd so lang
+      <lb n="N008"/>in sorgen bleibe, gott aber wirt so viller geb<supplied>e</supplied>t
+      <lb n="N009"/>erhören vnd vns alen dero <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> kindern diesen trost
+      <lb n="N010"/>verleyen. Ich bin nuhr in sorgen, das ewer Durchlaucht auch
+      <lb n="N011"/>das vnterschreiben möge schaden, bitt also nochmahlen
+      <lb n="N012"/>auf den knien, ewer Durchlaucht wollen sich meinetwegen
+      <lb n="N013"/>nit die geringste vngelegenheit machen.</p></div><div type="page"><pb facs="#facs_2" n="243 v" xml:id="Kasten_blau_45_15_0434.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>Wegen Lüttich, meines brude<supplied>r</supplied>n Carl, wie auch Brandenburg
+      <lb n="N002"/>in guetten intention zue erhalten, werden ihr Mayestät alles
+      <lb n="N003"/>anwenden, wie auch izt hier ein secretari vom
+      <lb n="N004"/>Fürst Lubomirski, welcher in nahm seines princi-
+      <lb n="N005"/>palen alles gutts offerirt. Er ist geste<supplied>r</supplied>n bey
+      <lb n="N006"/>mihr geweßen, sacht, das sein herr auf alle weis sich
+      <lb n="N007"/>meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied>e</supplied>rin annemmen werde, wirt auch mihr
+      <lb n="N008"/>an handt geben, was man darin duen könne, welchs
+      <lb n="N009"/>ich alles ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> berichten werde. Ewer Durchlaucht iezt
+      <lb n="N010"/>nit mit langen schreiben zue beunruigen, due ich schließen,
+      <lb n="N011"/>mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> empfelendt
+      <lb n="N012"/>ewer Durchlaucht
+      <lb n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N014"/>EMT
+      <lb n="N015"/>Wien den 16ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1688
+      <lb n="N016"/><choice><expan>Nota Bene</expan><abbr>NB</abbr></choice><seg type="comment"> was oben gezaichnet,</seg>
+      <lb n="N017"/><seg type="comment">zue extrahieren</seg> </p></div>
 </body>
 
    </text>

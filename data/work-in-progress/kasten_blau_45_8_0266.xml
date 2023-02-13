@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0266.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0266.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -112,24 +112,20 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_266" n="157 r" xml:id="Kasten_blau_45_8_0266.jpg"/>
-<ab facs="#facs_266_r1">
-               <lb facs="#facs_266_r1l1" n="N001"/>Durchleüchtigster Fürst, herzaller liebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vater</expan><abbr>v</abbr></choice>
-               <lb facs="#facs_266_line_1620803362109_525" n="N002"/>Mues diesmahl wohl vnterdehnig vmb
-               <lb facs="#facs_266_r1l4" n="N003"/>vergebung bitten, das nit mit schreiben recht
-               <lb facs="#facs_266_line_1620803375407_533" n="N004"/>kan aufwarten. Mihr kommen so schpaht
-               <lb facs="#facs_266_line_1620803380399_537" n="N005"/>heütt heim von <rs type="place">Brandeis</rs>, das vohrdismahl
-               <lb facs="#facs_266_line_1620803392704_544" n="N006"/>mich hiermit ewer Durchlaucht vnterdehnigst
-               <lb facs="#facs_266_line_1620803401158_551" n="N007"/>mues befehlen, dan heündt ist noch darzue
-               <lb facs="#facs_266_line_1620803405523_555" n="N008"/>vesper dag. Lebe vndt sterbe
-               <lb facs="#facs_266_line_1620803432899_567" n="N009"/>ewer Durchlaucht
-               <lb facs="#facs_266_r1l25" n="N010"/>ganzergebenste trew gehorsamste
-               <lb facs="#facs_266_r1l26" n="N011"/>dochter
-               <lb facs="#facs_266_r1l27" n="N012"/>EMT
-               <lb facs="#facs_266_r1l23" n="N013"/><rs type="place">Prag</rs> den <date month="12" day="17" year="1679">17 10br 1679</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_266" n="157 r" xml:id="Kasten_blau_45_8_0266.jpg"/><p facs="#facs_266_r1">
+               <lb n="N001"/>Durchleüchtigster Fürst, herzaller liebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>vater</expan><abbr>v</abbr></choice>
+               <lb n="N002"/>Mues diesmahl wohl vnterdehnig vmb
+               <lb n="N003"/>vergebung bitten, das nit mit schreiben recht
+               <lb n="N004"/>kan aufwarten. Mihr kommen so schpaht
+               <lb n="N005"/>heütt heim von <rs type="place">Brandeis</rs>, das vohrdismahl
+               <lb n="N006"/>mich hiermit ewer Durchlaucht vnterdehnigst
+               <lb n="N007"/>mues befehlen, dan heündt ist noch darzue
+               <lb n="N008"/>vesper dag. Lebe vndt sterbe
+               <lb n="N009"/>ewer Durchlaucht
+               <lb n="N010"/>ganzergebenste trew gehorsamste
+               <lb n="N011"/>dochter
+               <lb n="N012"/>EMT
+               <lb n="N013"/><rs type="place">Prag</rs> den <date month="12" day="17" year="1679">17 10br 1679</date>
+            </p></div></body>
    </text>
 </TEI>

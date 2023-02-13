@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0544.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0544.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -136,42 +136,36 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="307 r" xml:id="Kasten_blau_45_15_0544.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster her vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich verhoffe, das ewer Durchlaucht sich nuhnmehro widrumb
-      <lb facs="#facs_1_r1l3" n="N003"/>in bestem wohlstandt befinden werden, welches mich
-      <lb facs="#facs_1_r1l4" n="N004"/>überalles erfreien wirt zue vernemmen, vnd des-
-      <lb facs="#facs_1_r1l5" n="N005"/>wegen hart auf die post alzeit warte. Weil ich aber
-      <lb facs="#facs_1_r1l6" n="N006"/>die brif allzeit zimlich schpaht bekomm, so due
-      <lb facs="#facs_1_r1l7" n="N007"/>vohran mein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schu<supplied>l</supplied>dichkeit ablegen. Gott geb sein
-      <lb facs="#facs_1_r1l8" n="N008"/>gnad, das balt beßere zeitungen mögen hören, doch
-      <lb facs="#facs_1_r1l9" n="N009"/>izt, sider die saxen in Franken <supplied>sind</supplied>, duen die fra<supplied>n</supplied>zosen
-      <lb facs="#facs_1_r1l10" n="N010"/>sich etwas einhalten, wie woll die saxen dort nit
-      <lb facs="#facs_1_r1l11" n="N011"/>vill beßer hausen, wie mihr der Deütschmeister schreibt.
-      <lb facs="#facs_1_r1l12" n="N012"/>Vnsere regimenter seint schon auf den <seg type="comment">granizen</seg>, aber
-      <lb facs="#facs_1_r1l13" n="N013"/>die franken wollens izt nit haben, weil sie schon mit</ab>
-    <pb facs="#facs_2" n="307 v" xml:id="Kasten_blau_45_15_0545.jpg"/>
-    <ab facs="#facs_2_r1"/>
-    <ab facs="#facs_2_r2">
-      <lb facs="#facs_2_r2l1" n="N001"/>den saxen tractirt haben, doch haben ihr Mayestät Prinz Louis von
-      <lb facs="#facs_2_r2l2" n="N002"/>Baden hinauf geschikt, die sach einz<supplied>u</supplied>ericht<supplied>en</supplied>. Beyren schpandt
-      <lb facs="#facs_2_r2l3" n="N003"/>seine pretensiones gahr hoch, man wirt duen, was möglich
-      <lb facs="#facs_2_r2l4" n="N004"/>ist, gott wolle alles zum besten schiken. Iezt nach
-      <lb facs="#facs_2_r2l5" n="N005"/>der vesper empfange ich ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben vom
-      <lb facs="#facs_2_r2l6" n="N006"/>21ten. Der Staremberg hats herein bracht, weils aber schon
-      <lb facs="#facs_2_r2l7" n="N007"/>schpaht, hab nit mit ihm reden können, werds
-      <lb facs="#facs_2_r2l8" n="N008"/>morgen duen. Mues auch deswegen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb verg<supplied>e</supplied>bung
-      <lb facs="#facs_2_r2l9" n="N009"/>bitten, das auf dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben nit gleich izt beant-
-      <lb facs="#facs_2_r2l10" n="N010"/>wort, ist einmahl vnmöglich wegen der zeit, mit
-      <lb facs="#facs_2_r2l11" n="N011"/>nechstem werd es nit vnterlaßen. Mues wider mein
-      <lb facs="#facs_2_r2l12" n="N012"/>willen enden vnd werde ste<supplied>r</supplied>ben
-      <lb facs="#facs_2_r2l13" n="N013"/>ewer Durchlaucht
-      <lb facs="#facs_2_r2l15" n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r2l16" n="N015"/>EMT
-      <lb facs="#facs_2_r2l14" n="N016"/>Wien den 26ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1688</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="307 r" xml:id="Kasten_blau_45_15_0544.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster her vatter
+      <lb n="N002"/>Ich verhoffe, das ewer Durchlaucht sich nuhnmehro widrumb
+      <lb n="N003"/>in bestem wohlstandt befinden werden, welches mich
+      <lb n="N004"/>überalles erfreien wirt zue vernemmen, vnd des-
+      <lb n="N005"/>wegen hart auf die post alzeit warte. Weil ich aber
+      <lb n="N006"/>die brif allzeit zimlich schpaht bekomm, so due
+      <lb n="N007"/>vohran mein <choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> schu<supplied>l</supplied>dichkeit ablegen. Gott geb sein
+      <lb n="N008"/>gnad, das balt beßere zeitungen mögen hören, doch
+      <lb n="N009"/>izt, sider die saxen in Franken <supplied>sind</supplied>, duen die fra<supplied>n</supplied>zosen
+      <lb n="N010"/>sich etwas einhalten, wie woll die saxen dort nit
+      <lb n="N011"/>vill beßer hausen, wie mihr der Deütschmeister schreibt.
+      <lb n="N012"/>Vnsere regimenter seint schon auf den <seg type="comment">granizen</seg>, aber
+      <lb n="N013"/>die franken wollens izt nit haben, weil sie schon mit</p></div><div type="page"><pb facs="#facs_2" n="307 v" xml:id="Kasten_blau_45_15_0545.jpg"/><p facs="#facs_2_r1"/><p facs="#facs_2_r2">
+      <lb n="N001"/>den saxen tractirt haben, doch haben ihr Mayestät Prinz Louis von
+      <lb n="N002"/>Baden hinauf geschikt, die sach einz<supplied>u</supplied>ericht<supplied>en</supplied>. Beyren schpandt
+      <lb n="N003"/>seine pretensiones gahr hoch, man wirt duen, was möglich
+      <lb n="N004"/>ist, gott wolle alles zum besten schiken. Iezt nach
+      <lb n="N005"/>der vesper empfange ich ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben vom
+      <lb n="N006"/>21ten. Der Staremberg hats herein bracht, weils aber schon
+      <lb n="N007"/>schpaht, hab nit mit ihm reden können, werds
+      <lb n="N008"/>morgen duen. Mues auch deswegen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> vmb verg<supplied>e</supplied>bung
+      <lb n="N009"/>bitten, das auf dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben nit gleich izt beant-
+      <lb n="N010"/>wort, ist einmahl vnmöglich wegen der zeit, mit
+      <lb n="N011"/>nechstem werd es nit vnterlaßen. Mues wider mein
+      <lb n="N012"/>willen enden vnd werde ste<supplied>r</supplied>ben
+      <lb n="N013"/>ewer Durchlaucht
+      <lb n="N014"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N015"/>EMT
+      <lb n="N016"/>Wien den 26ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1688</p></div>
 </body>
 
    </text>

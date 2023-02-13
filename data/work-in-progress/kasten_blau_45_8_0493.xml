@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0493.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0493.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -133,43 +133,37 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_492" n="293 r" xml:id="Kasten_blau_45_8_0493.jpg"/>
-<ab facs="#facs_492_r1">
-               <lb facs="#facs_492_r1l1" n="N001"/>Durchleuchtigster Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_492_r1l2" n="N002"/>Ich mues dismahl widerumb auf ewer Durchlaucht güette mich
-               <lb facs="#facs_492_r1l3" n="N003"/>verlaßen vndt umb <choice><expan>gnädige</expan><abbr>g</abbr></choice> vergebung bitten, das werde kurz
-               <lb facs="#facs_492_r1l5" n="N004"/>schreiben, dan ich gesteh mein schuldt, bin einwehnig müdt
-               <lb facs="#facs_492_r1l6" n="N005"/>von der gestrigen fonction. Hab gahr hart an dem
-               <lb facs="#facs_492_r1l7" n="N006"/>guardinfant gedragen, ist vnerhörst schwehr geweßen, bin
-               <lb facs="#facs_492_line_1623081614053_2658" n="N007"/>woll froh, das vohrbey <supplied>ist</supplied>. Ist gottlob alles wohl
-               <lb facs="#facs_492_line_1623081633720_2663" n="N008"/>abgangen, ohne hendel vndt confusion, welches
-               <lb facs="#facs_492_line_1623081649575_2673" n="N009"/>sonst ordinari in dergleichen occasionen geschicht.
-               <lb facs="#facs_492_line_1623081653707_2677" n="N010"/>Izt, hoff ich, solt der landtdag auch balt ein guetts
-               <lb facs="#facs_492_line_1623081656779_2681" n="N011"/>endt nemmen. Ich hoff, der <rs type="person">Locowiz</rs> wirt noch sein
-               <lb facs="#facs_492_line_1623081661394_2685" n="N012"/>a tempo kommen zue anfang des kreistags.
-               <lb facs="#facs_492_line_1623081665015_2689" n="N013"/>In <rs type="place">Schweden</rs> werden ihr <rs type="person">Mayestät</rs> auch schiken, ist halt
-               <lb facs="#facs_492_line_1623081671834_2696" n="N014"/>izt mit der krönung so vill zue duen geweßen,
-               <lb facs="#facs_492_line_1623081675633_2700" n="N015"/>das in negotis nit so vill geschehn können.
-               <lb facs="#facs_492_line_1623081688077_2710" n="N016"/>Den brief wegen <rs type="person">vetter Pfilipp</rs> vndt des <rs type="person">Castell</rs> hab
-               <lb facs="#facs_492_line_1623081696220_2717" n="N017"/>ich ihr Mayestät <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> überliuert, sie werden ewer
-               <lb facs="#facs_492_line_1623081709096_2724" n="N018"/><unclear>May</unclear> selber mit heüntiger post beantworten.
-               <lb facs="#facs_492_line_1623081718182_2731" n="N019"/>Sie werden gahr gern suechen auf alleweis zue
-               <lb facs="#facs_492_line_1623081722408_2735" n="N020"/>verhindern, das vetter Pfilipp <rs type="place">dorten</rs> nit
-            </ab>
-<pb facs="#facs_493" n="293 v" xml:id="Kasten_blau_45_8_0494.jpg"/>
-<ab facs="#facs_493_r1">
-               <lb facs="#facs_493_r1l1" n="N001"/>vble consilia zugewine oder ein gefahr wegen der
-               <lb facs="#facs_493_r1l2" n="N002"/>sucsession erfolge. Es ligt ihr <rs type="person">Mayestät</rs> interesse
-               <lb facs="#facs_493_line_1623081745082_2749" n="N003"/>selbsten dran, auch wegen des <rs type="person">Castell</rs>. Ich due mich
-               <lb facs="#facs_493_line_1623081751273_2753" n="N004"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vndt werde sterben
-               <lb facs="#facs_493_line_1623081813596_2777" n="N005"/>ewer Durchlaucht
-               <lb facs="#facs_493_line_1623081797715_2770" n="N006"/>ganzergebenste trewg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
-               <lb facs="#facs_493_r1l17" n="N007"/>do<supplied>c</supplied>hter
-               <lb facs="#facs_493_line_1623081819616_2782" n="N008"/>EMT
-               <lb facs="#facs_493_line_1623081791925_2766" n="N009"/><rs type="place">Edenburg</rs> den <date month="12" day="10" year="1681">10ten 10ber 1681</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_492" n="293 r" xml:id="Kasten_blau_45_8_0493.jpg"/><p facs="#facs_492_r1">
+               <lb n="N001"/>Durchleuchtigster Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Ich mues dismahl widerumb auf ewer Durchlaucht güette mich
+               <lb n="N003"/>verlaßen vndt umb <choice><expan>gnädige</expan><abbr>g</abbr></choice> vergebung bitten, das werde kurz
+               <lb n="N004"/>schreiben, dan ich gesteh mein schuldt, bin einwehnig müdt
+               <lb n="N005"/>von der gestrigen fonction. Hab gahr hart an dem
+               <lb n="N006"/>guardinfant gedragen, ist vnerhörst schwehr geweßen, bin
+               <lb n="N007"/>woll froh, das vohrbey <supplied>ist</supplied>. Ist gottlob alles wohl
+               <lb n="N008"/>abgangen, ohne hendel vndt confusion, welches
+               <lb n="N009"/>sonst ordinari in dergleichen occasionen geschicht.
+               <lb n="N010"/>Izt, hoff ich, solt der landtdag auch balt ein guetts
+               <lb n="N011"/>endt nemmen. Ich hoff, der <rs type="person">Locowiz</rs> wirt noch sein
+               <lb n="N012"/>a tempo kommen zue anfang des kreistags.
+               <lb n="N013"/>In <rs type="place">Schweden</rs> werden ihr <rs type="person">Mayestät</rs> auch schiken, ist halt
+               <lb n="N014"/>izt mit der krönung so vill zue duen geweßen,
+               <lb n="N015"/>das in negotis nit so vill geschehn können.
+               <lb n="N016"/>Den brief wegen <rs type="person">vetter Pfilipp</rs> vndt des <rs type="person">Castell</rs> hab
+               <lb n="N017"/>ich ihr Mayestät <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> überliuert, sie werden ewer
+               <lb n="N018"/><unclear>May</unclear> selber mit heüntiger post beantworten.
+               <lb n="N019"/>Sie werden gahr gern suechen auf alleweis zue
+               <lb n="N020"/>verhindern, das vetter Pfilipp <rs type="place">dorten</rs> nit
+            </p></div><div type="page"><pb facs="#facs_493" n="293 v" xml:id="Kasten_blau_45_8_0494.jpg"/><p facs="#facs_493_r1">
+               <lb n="N001"/>vble consilia zugewine oder ein gefahr wegen der
+               <lb n="N002"/>sucsession erfolge. Es ligt ihr <rs type="person">Mayestät</rs> interesse
+               <lb n="N003"/>selbsten dran, auch wegen des <rs type="person">Castell</rs>. Ich due mich
+               <lb n="N004"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vndt werde sterben
+               <lb n="N005"/>ewer Durchlaucht
+               <lb n="N006"/>ganzergebenste trewg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
+               <lb n="N007"/>do<supplied>c</supplied>hter
+               <lb n="N008"/>EMT
+               <lb n="N009"/><rs type="place">Edenburg</rs> den <date month="12" day="10" year="1681">10ten 10ber 1681</date>
+            </p></div></body>
    </text>
 </TEI>

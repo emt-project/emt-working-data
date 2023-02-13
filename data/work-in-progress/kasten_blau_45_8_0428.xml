@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0428.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0428.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -128,40 +128,36 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_427" n="255 r" xml:id="Kasten_blau_45_8_0428.jpg"/>
-<ab facs="#facs_427_r1">
-               <lb facs="#facs_427_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_427_line_1622979838501_546" n="N002"/>Mitt großen freüden habe aus dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> zeilen, so sie in <unclear>ihr Durchlaucht</unclear>,
-               <lb facs="#facs_427_r1l5" n="N003"/>meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>, brief geschriben, ersehn, das sie sich
-               <lb facs="#facs_427_r1l7" n="N004"/>widerumb wohlauf sich befinden. Hoffe, die mattichkeit
-               <lb facs="#facs_427_r1l8" n="N005"/>vndt der schmerzen vom stein werden iezt auch follich
-               <lb facs="#facs_427_r1l9" n="N006"/>nachgelaßen haben. <unclear>Wan</unclear> ich nit diese guette zeitung
-               <lb facs="#facs_427_r1l10" n="N007"/>vernommen, das ewer Durchlaucht das fieber verlaßen, so währe
-               <lb facs="#facs_427_r1l11" n="N008"/>der <rs type="person">doctor Hueber</rs> schon lengst zue <rs type="place">Neüburg</rs>, gott
-               <lb facs="#facs_427_r1l13" n="N009"/>lob, das ewer Durchlaucht seiner nimmer von nöten haben.
-               <lb facs="#facs_427_line_1622979856657_556" n="N010"/>Steh allein in sorgen, das ewer Durchlaucht <supplied>sich</supplied> durch die bemüehung
-               <lb facs="#facs_427_r1l18" n="N011"/>mit schreiben möchten geschatt haben, bitte <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, sich
-               <lb facs="#facs_427_line_1622979875874_566" n="N012"/>meinetwegen gans kein vngelegenheit anzueduen, dan
-               <lb facs="#facs_427_r1l21" n="N013"/>mich dieses überaus bedrüeben dahte. Ihr <rs type="person">Mayestät</rs>, mein
-               <lb facs="#facs_427_line_1622979884467_570" n="N014"/><choice><expan/><abbr>g</abbr></choice> Kaiser, laßen ewer Durchlaucht auch gahr <choice><expan>gnädig</expan><abbr>g</abbr></choice> grüeßen vndt verlangen,
-               <lb facs="#facs_427_line_1622979888978_574" n="N015"/>das ewer Durchlaucht auf keine weis schreiben sollen, bis sie
-               <lb facs="#facs_427_line_1622979913232_588" n="N016"/>die kräften widerumb völlich erholt werden haben, welches
-               <lb facs="#facs_427_r1l36" n="N017"/>hofentlich balt geschehn wirt. Mihr seindt gestern <rs type="place">hie</rs> wohl
-               <lb facs="#facs_427_r1l37" n="N018"/>ankommen, vndt vergangen freitag ist der <rs type="person">Esterhasi</rs> Palatinus
-               <lb facs="#facs_427_r1l38" n="N019"/>worden. Der arme <rs type="person">Forgatsch</rs> ist etlich dag vohr gestorben,
-               <lb facs="#facs_427_r1l39" n="N020"/>eh der lantag hatt angefangen. Gott geb, das ferners
-               <lb facs="#facs_427_r1l40" n="N021"/>so wohl ab geh als es sich bis dato zeiget. Ich will
-               <lb facs="#facs_427_r1l41" n="N022"/>ewer Durchlaucht auch noch nit mit langen leßen bemüen, dan es inen
-               <lb facs="#facs_427_line_1622979924540_592" n="N023"/>gahr nit guett <supplied>tut</supplied>. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> befehlen,
-               <lb facs="#facs_427_r1l45" n="N024"/>die ich sterben werde
-               <lb facs="#facs_427_r1l47" n="N025"/>ewer Durchlaucht
-               <lb facs="#facs_427_r1l46" n="N026"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_427_r1l48" n="N027"/>do<supplied>c</supplied>hter
-               <lb facs="#facs_427_r1l50" n="N028"/>EMT
-               <lb facs="#facs_427_r1l49" n="N029"/><rs type="place">Neustatt</rs> den <date month="6" day="18" year="1681">18 junij 1681</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_427" n="255 r" xml:id="Kasten_blau_45_8_0428.jpg"/><p facs="#facs_427_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+               <lb n="N002"/>Mitt großen freüden habe aus dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> zeilen, so sie in <unclear>ihr Durchlaucht</unclear>,
+               <lb n="N003"/>meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>, brief geschriben, ersehn, das sie sich
+               <lb n="N004"/>widerumb wohlauf sich befinden. Hoffe, die mattichkeit
+               <lb n="N005"/>vndt der schmerzen vom stein werden iezt auch follich
+               <lb n="N006"/>nachgelaßen haben. <unclear>Wan</unclear> ich nit diese guette zeitung
+               <lb n="N007"/>vernommen, das ewer Durchlaucht das fieber verlaßen, so währe
+               <lb n="N008"/>der <rs type="person">doctor Hueber</rs> schon lengst zue <rs type="place">Neüburg</rs>, gott
+               <lb n="N009"/>lob, das ewer Durchlaucht seiner nimmer von nöten haben.
+               <lb n="N010"/>Steh allein in sorgen, das ewer Durchlaucht <supplied>sich</supplied> durch die bemüehung
+               <lb n="N011"/>mit schreiben möchten geschatt haben, bitte <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, sich
+               <lb n="N012"/>meinetwegen gans kein vngelegenheit anzueduen, dan
+               <lb n="N013"/>mich dieses überaus bedrüeben dahte. Ihr <rs type="person">Mayestät</rs>, mein
+               <lb n="N014"/><choice><expan/><abbr>g</abbr></choice> Kaiser, laßen ewer Durchlaucht auch gahr <choice><expan>gnädig</expan><abbr>g</abbr></choice> grüeßen vndt verlangen,
+               <lb n="N015"/>das ewer Durchlaucht auf keine weis schreiben sollen, bis sie
+               <lb n="N016"/>die kräften widerumb völlich erholt werden haben, welches
+               <lb n="N017"/>hofentlich balt geschehn wirt. Mihr seindt gestern <rs type="place">hie</rs> wohl
+               <lb n="N018"/>ankommen, vndt vergangen freitag ist der <rs type="person">Esterhasi</rs> Palatinus
+               <lb n="N019"/>worden. Der arme <rs type="person">Forgatsch</rs> ist etlich dag vohr gestorben,
+               <lb n="N020"/>eh der lantag hatt angefangen. Gott geb, das ferners
+               <lb n="N021"/>so wohl ab geh als es sich bis dato zeiget. Ich will
+               <lb n="N022"/>ewer Durchlaucht auch noch nit mit langen leßen bemüen, dan es inen
+               <lb n="N023"/>gahr nit guett <supplied>tut</supplied>. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> befehlen,
+               <lb n="N024"/>die ich sterben werde
+               <lb n="N025"/>ewer Durchlaucht
+               <lb n="N026"/>ganzergebenste trewgehorsamste
+               <lb n="N027"/>do<supplied>c</supplied>hter
+               <lb n="N028"/>EMT
+               <lb n="N029"/><rs type="place">Neustatt</rs> den <date month="6" day="18" year="1681">18 junij 1681</date>
+            </p></div></body>
    </text>
 </TEI>

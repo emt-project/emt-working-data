@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0242.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0242.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -137,43 +137,38 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="133 r" xml:id="Kasten_blau_44_7_0242.jpg" ed="14 r"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>21 jenner 96</unclear>
-      <lb facs="#facs_1_r1l7" n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brud</abbr></choice>
-      <lb facs="#facs_1_r1l8" n="N003"/>Ich hab alle dero sch<supplied>re</supplied>iben woll empfangen von 12ten passato,
-      <lb facs="#facs_1_r1l9" n="N004"/>5ten vnd 2 von 9ten dis. Die heßische sach hab ihr Mayestät vber
-      <lb facs="#facs_1_r1l10" n="N005"/>g<supplied>e</supplied>ben, werd auch nit vnterl<supplied>a</supplied>ßen, so woll dis als
-      <lb facs="#facs_1_r1l11" n="N006"/>die subsiden vnd Stubenberg ihr Mayestät bestens zue recc-
-      <lb facs="#facs_1_r1l12" n="N007"/>ommendirn. Hab mich aber sehr verwundert, das
-      <lb facs="#facs_1_r1l13" n="N008"/>dero Liebden in der andren sach, so woll <unclear>des Königs</unclear>
-      <lb facs="#facs_1_r1l14" n="N009"/><unclear>brif</unclear> als das übrige mihr so in clariß 
-      <lb facs="#facs_1_r1l15" n="N010"/>überschikt vnd nit in ziffra, dan am secreto
-      <lb facs="#facs_1_r1l16" n="N011"/>diser sach henkt alles. Diser brif hatt mich
-      <lb facs="#facs_1_r1l17" n="N012"/>übrigens sehr erfreüet, in dem ich daraus</ab>
-    <pb facs="#facs_2" n="133 v" xml:id="Kasten_blau_44_7_0243.jpg" ed="14 v"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>sehe, das <unclear>er verlangt, <supplied>das</supplied> sein dochte</unclear>
-      <lb facs="#facs_2_r1l2" n="N002"/><unclear>r recht catolisch werde, das   </unclear>
-      <lb facs="#facs_2_r1l3" n="N003"/><unclear>aber dero Liebden ein <choice><expan>das müsste ein p sein für Pater</expan><abbr>b</abbr></choice> geschikt sol </unclear>
-      <lb facs="#facs_2_r1l4" n="N004"/><unclear>haben</unclear>, ihr Mayestät, mein Keiser, <unclear>hier einen</unclear>
-      <lb facs="#facs_2_r1l5" n="N005"/><unclear>darzu erkisen, den mir wol </unclear>
-      <lb facs="#facs_2_r1l6" n="N006"/><unclear>kennen und ein treffliche</unclear> ia special
-      <lb facs="#facs_2_r1l7" n="N007"/><unclear>gnad hat der bekerung</unclear>. Heündt
-      <lb facs="#facs_2_r1l8" n="N008"/>hab nit mehr zeit in diser materi zue
-      <lb facs="#facs_2_r1l9" n="N009"/>schr<supplied>e</supplied>iben, nuhr dies, das desthalben ihr Mayestät, mein Keiser,
-      <lb facs="#facs_2_r1l10" n="N010"/>verlangen, dero Liebden möchten durch <unclear>eigenen</unclear>
-      <lb facs="#facs_2_r1l11" n="N011"/><unclear>curir den <choice><expan>das müsste ein P sein für Pater</expan><abbr>P</abbr></choice> gleich wider</unclear>
-      <lb facs="#facs_2_r1l12" n="N012"/><unclear>zurukruffen</unclear>, vnderdeßen kan man hernach
-      <lb facs="#facs_2_r1l13" n="N013"/>über das, was ich oben gemeld, weiters sich
-      <lb facs="#facs_2_r1l14" n="N014"/>vernemmen. Due mich hiermit dero Liebden befehlen
-      <lb facs="#facs_2_r1l15" n="N015"/>vndt werde st<supplied>er</supplied>ben
-      <lb facs="#facs_2_line_1647875173115_640" n="N016"/>dero Liebden
-      <lb facs="#facs_2_r1l17" n="N017"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
-      <lb facs="#facs_2_r1l18" n="N018"/>Eleonora
-      <lb facs="#facs_2_r1l16" n="N019"/>Wien den 21ten jener 1696</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="133 r" xml:id="Kasten_blau_44_7_0242.jpg" ed="14 r"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear>21 jenner 96</unclear>
+      <lb n="N002"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>brud</abbr></choice>
+      <lb n="N003"/>Ich hab alle dero sch<supplied>re</supplied>iben woll empfangen von 12ten passato,
+      <lb n="N004"/>5ten vnd 2 von 9ten dis. Die heßische sach hab ihr Mayestät vber
+      <lb n="N005"/>g<supplied>e</supplied>ben, werd auch nit vnterl<supplied>a</supplied>ßen, so woll dis als
+      <lb n="N006"/>die subsiden vnd Stubenberg ihr Mayestät bestens zue recc-
+      <lb n="N007"/>ommendirn. Hab mich aber sehr verwundert, das
+      <lb n="N008"/>dero Liebden in der andren sach, so woll <unclear>des Königs</unclear>
+      <lb n="N009"/><unclear>brif</unclear> als das übrige mihr so in clariß 
+      <lb n="N010"/>überschikt vnd nit in ziffra, dan am secreto
+      <lb n="N011"/>diser sach henkt alles. Diser brif hatt mich
+      <lb n="N012"/>übrigens sehr erfreüet, in dem ich daraus</p></div><div type="page"><pb facs="#facs_2" n="133 v" xml:id="Kasten_blau_44_7_0243.jpg" ed="14 v"/><p facs="#facs_2_r1">
+      <lb n="N001"/>sehe, das <unclear>er verlangt, <supplied>das</supplied> sein dochte</unclear>
+      <lb n="N002"/><unclear>r recht catolisch werde, das   </unclear>
+      <lb n="N003"/><unclear>aber dero Liebden ein <choice><expan>das müsste ein p sein für Pater</expan><abbr>b</abbr></choice> geschikt sol </unclear>
+      <lb n="N004"/><unclear>haben</unclear>, ihr Mayestät, mein Keiser, <unclear>hier einen</unclear>
+      <lb n="N005"/><unclear>darzu erkisen, den mir wol </unclear>
+      <lb n="N006"/><unclear>kennen und ein treffliche</unclear> ia special
+      <lb n="N007"/><unclear>gnad hat der bekerung</unclear>. Heündt
+      <lb n="N008"/>hab nit mehr zeit in diser materi zue
+      <lb n="N009"/>schr<supplied>e</supplied>iben, nuhr dies, das desthalben ihr Mayestät, mein Keiser,
+      <lb n="N010"/>verlangen, dero Liebden möchten durch <unclear>eigenen</unclear>
+      <lb n="N011"/><unclear>curir den <choice><expan>das müsste ein P sein für Pater</expan><abbr>P</abbr></choice> gleich wider</unclear>
+      <lb n="N012"/><unclear>zurukruffen</unclear>, vnderdeßen kan man hernach
+      <lb n="N013"/>über das, was ich oben gemeld, weiters sich
+      <lb n="N014"/>vernemmen. Due mich hiermit dero Liebden befehlen
+      <lb n="N015"/>vndt werde st<supplied>er</supplied>ben
+      <lb n="N016"/>dero Liebden
+      <lb n="N017"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
+      <lb n="N018"/>Eleonora
+      <lb n="N019"/>Wien den 21ten jener 1696</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0064.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0064.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -132,37 +132,31 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="40 r" xml:id="Kasten_blau_45_15_0064.jpg"/>
-    <ab facs="#facs_1_r1"/>
-    <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfüst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r2l2" n="N002"/>Ich bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
-      <lb facs="#facs_1_r2l3" n="N003"/>ich bey vohriger post mein schuldichkeit vnterlaßen.
-      <lb facs="#facs_1_r2l4" n="N004"/>Mueß aber auch heünt ebenfals vmb selbige
-      <lb facs="#facs_1_r2l5" n="N005"/><choice><expan>gehorsamst</expan><abbr>gehor</abbr></choice> anhalten, dan diese dag her mit der gale
-      <lb facs="#facs_1_r2l6" n="N006"/>vnd comedie zuegebracht worden. Vnd haben meine
-      <lb facs="#facs_1_r2l7" n="N007"/>beden <choice><expan>herren</expan><abbr>h</abbr></choice> brüeder verwunderlich ein balett in zw<supplied>e</supplied>y
-      <lb facs="#facs_1_r2l8" n="N008"/>dagen gelernt, welcher gewis so müesamb
-      <lb facs="#facs_1_r2l9" n="N009"/>schwehr gew<supplied>e</supplied>sen vnd so woll gedanzt worden, das
-      <lb facs="#facs_1_r2l10" n="N010"/>es fast vnglaublich. Die kinder haben darnach auch
-      <lb facs="#facs_1_r2l11" n="N011"/>gedanzt, aber wehnig wegen der hiz. Heünt ist
-      <lb facs="#facs_1_r2l12" n="N012"/>der dag mit der procession vnd auch nachmitag
-      <lb facs="#facs_1_r2l13" n="N013"/>in der kirchen zuegebracht worden, also ist die
-      <lb facs="#facs_1_r2l14" n="N014"/>zeit zue kurrz, mit nechstem werd alles herein
-      <lb facs="#facs_1_r2l15" n="N015"/>bringen. Der Deütschmeister ist gottlob woll an-
-      <lb facs="#facs_1_r2l16" n="N016"/>kommen, wirt könftigen samstag oder montag
-      <lb facs="#facs_1_r2l17" n="N017"/>zur armée <supplied>gehen</supplied>. Die gehen grad auf Offen, gott
-      <lb facs="#facs_1_r2l18" n="N018"/>steh ihnen bey mit seiner gnad. Befehl
-      <lb facs="#facs_1_r2l19" n="N019"/>mich hiermit <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice></ab>
-    <pb facs="#facs_2" n="40 v" xml:id="Kasten_blau_45_15_0065.jpg"/>
-    <ab facs="#facs_2_r2">
-      <lb facs="#facs_2_r2l1" n="N001"/>vnd werde st<supplied>e</supplied>rben
-      <lb facs="#facs_2_r2l2" n="N002"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1639837529026_388" n="N003"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_line_1638789022674_1385" n="N004"/>EMT
-      <lb facs="#facs_2_line_1639837529024_387" n="N005"/>Wien den <unclear>13ten</unclear> junij 1686</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="40 r" xml:id="Kasten_blau_45_15_0064.jpg"/><p facs="#facs_1_r1"/><p facs="#facs_1_r2">
+      <lb n="N001"/>Durchleüchtiger Cuhrfüst, herzallerliebster herr vatter
+      <lb n="N002"/>Ich bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
+      <lb n="N003"/>ich bey vohriger post mein schuldichkeit vnterlaßen.
+      <lb n="N004"/>Mueß aber auch heünt ebenfals vmb selbige
+      <lb n="N005"/><choice><expan>gehorsamst</expan><abbr>gehor</abbr></choice> anhalten, dan diese dag her mit der gale
+      <lb n="N006"/>vnd comedie zuegebracht worden. Vnd haben meine
+      <lb n="N007"/>beden <choice><expan>herren</expan><abbr>h</abbr></choice> brüeder verwunderlich ein balett in zw<supplied>e</supplied>y
+      <lb n="N008"/>dagen gelernt, welcher gewis so müesamb
+      <lb n="N009"/>schwehr gew<supplied>e</supplied>sen vnd so woll gedanzt worden, das
+      <lb n="N010"/>es fast vnglaublich. Die kinder haben darnach auch
+      <lb n="N011"/>gedanzt, aber wehnig wegen der hiz. Heünt ist
+      <lb n="N012"/>der dag mit der procession vnd auch nachmitag
+      <lb n="N013"/>in der kirchen zuegebracht worden, also ist die
+      <lb n="N014"/>zeit zue kurrz, mit nechstem werd alles herein
+      <lb n="N015"/>bringen. Der Deütschmeister ist gottlob woll an-
+      <lb n="N016"/>kommen, wirt könftigen samstag oder montag
+      <lb n="N017"/>zur armée <supplied>gehen</supplied>. Die gehen grad auf Offen, gott
+      <lb n="N018"/>steh ihnen bey mit seiner gnad. Befehl
+      <lb n="N019"/>mich hiermit <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice></p></div><div type="page"><pb facs="#facs_2" n="40 v" xml:id="Kasten_blau_45_15_0065.jpg"/><p facs="#facs_2_r2">
+      <lb n="N001"/>vnd werde st<supplied>e</supplied>rben
+      <lb n="N002"/>ewer Durchlaucht
+      <lb n="N003"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N004"/>EMT
+      <lb n="N005"/>Wien den <unclear>13ten</unclear> junij 1686</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0157.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0157.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -117,29 +117,25 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_157" n="29 r" xml:id="Kasten_blau_45_8_0157.jpg"/>
-<ab facs="#facs_157_r2">
-               <lb facs="#facs_157_r2l1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_157_line_1618570329526_1299" n="N002"/>Mitt was großem trost ich ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
-               <lb facs="#facs_157_r2l5" n="N003"/>durch den <rs type="person">Grau Hamilton</rs> empfangen, ist nit zue
-               <lb facs="#facs_157_r2l6" n="N004"/>beschreiben, in deme ich daraus ewer Durchlaucht wohlstant
-               <lb facs="#facs_157_line_1618570337122_1303" n="N005"/>vernommen, vndt das sie dero reis gelüklich
-               <lb facs="#facs_157_r2l9" n="N006"/>bis auf <rs type="place">Filshofen</rs> volendet. Der allerhochste
-               <lb facs="#facs_157_line_1618570340966_1307" n="N007"/>gebe weiters seine gnadt. Ich vermeine, <supplied>ich</supplied> könne
-               <lb facs="#facs_157_line_1618570348046_1311" n="N008"/>der zeit nit erwarten, bis mit dero so lang
-               <lb facs="#facs_157_r2l17" n="N009"/>erwüntschten gegenhwart werde erfreüet werden,
-               <lb facs="#facs_157_r2l18" n="N010"/>welches ewer Durchlaucht vom Grau Hamilton mit mehrerem
-               <lb facs="#facs_157_line_1618570365120_1324" n="N011"/>vernehmen werden. In erwartung dieses so hochverlang-
-               <lb facs="#facs_157_line_1618570373924_1331" n="N012"/>ten glüks due ich mich in ewer Durchlaucht beharlige
-               <lb facs="#facs_157_line_1618570380376_1335" n="N013"/>affection <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> empfehlen, die ich sterben werde
-               <lb facs="#facs_157_line_1618570460589_1343" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_157_line_1618570483627_1354" n="N015"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_157_line_1618570531084_1368" n="N016"/>dochter
-               <lb facs="#facs_157_line_1618570536052_1373" n="N017"/>EMT
-               <lb facs="#facs_157_line_1618570525415_1363" n="N018"/><rs type="place">Wien</rs> den <date month="7" day="17" year="1678">17 julij 1678</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_157" n="29 r" xml:id="Kasten_blau_45_8_0157.jpg"/><p facs="#facs_157_r2">
+               <lb n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Mitt was großem trost ich ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
+               <lb n="N003"/>durch den <rs type="person">Grau Hamilton</rs> empfangen, ist nit zue
+               <lb n="N004"/>beschreiben, in deme ich daraus ewer Durchlaucht wohlstant
+               <lb n="N005"/>vernommen, vndt das sie dero reis gelüklich
+               <lb n="N006"/>bis auf <rs type="place">Filshofen</rs> volendet. Der allerhochste
+               <lb n="N007"/>gebe weiters seine gnadt. Ich vermeine, <supplied>ich</supplied> könne
+               <lb n="N008"/>der zeit nit erwarten, bis mit dero so lang
+               <lb n="N009"/>erwüntschten gegenhwart werde erfreüet werden,
+               <lb n="N010"/>welches ewer Durchlaucht vom Grau Hamilton mit mehrerem
+               <lb n="N011"/>vernehmen werden. In erwartung dieses so hochverlang-
+               <lb n="N012"/>ten glüks due ich mich in ewer Durchlaucht beharlige
+               <lb n="N013"/>affection <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> empfehlen, die ich sterben werde
+               <lb n="N014"/>ewer Durchlaucht
+               <lb n="N015"/>ganzergebenste trewgehorsamste
+               <lb n="N016"/>dochter
+               <lb n="N017"/>EMT
+               <lb n="N018"/><rs type="place">Wien</rs> den <date month="7" day="17" year="1678">17 julij 1678</date>
+            </p></div></body>
    </text>
 </TEI>

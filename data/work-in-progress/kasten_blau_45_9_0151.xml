@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0151.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0151.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -139,46 +139,41 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="87 r" xml:id="Kasten_blau_45_9_0151.jpg"/>
-    <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-      <lb facs="#facs_1_r2l2" n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das mit
-      <lb facs="#facs_1_r2l3" n="N003"/>gestriger post mein schuldichkeit nit abgelegt,
-      <lb facs="#facs_1_r2l4" n="N004"/>hab verhofft, wie auch gottlob nit vergebens,
-      <lb facs="#facs_1_r2l5" n="N005"/>heünt ewer Durchlaucht ein guette zeitung von Preslaw
-      <lb facs="#facs_1_r2l6" n="N006"/>zue überschiken. Es ist, wie sie schreiben, vna-
-      <lb facs="#facs_1_r2l7" n="N007"/>nimiter, schier per modum aclamationis, die
-      <lb facs="#facs_1_r2l8" n="N008"/>postulation gelükhlich abgangen. Izt hoffe,
-      <lb facs="#facs_1_r2l9" n="N009"/>werde zue Rohm k<supplied>ei</supplied>n difficultet mehr sein.
-      <lb facs="#facs_1_r2l10" n="N010"/>Der Schafcotsch hatt sich woll darbey verhalten.
-      <lb facs="#facs_1_r2l11" n="N011"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Marco brief ist gahr kreftig, will
-      <lb facs="#facs_1_r2l12" n="N012"/>woll ihr Mayestät bitten, das sie ihn laßen heraus
-      <lb facs="#facs_1_r2l13" n="N013"/>kommen, aber zue diser campagne
-      <lb facs="#facs_1_r2l14" n="N014"/>wirt er zimlich schpaht kommen. Ewer Durchlaucht
-      <lb facs="#facs_1_line_1637063665932_2249" n="N015"/>werden schon vernommen haben, das der Stratman
-      <lb facs="#facs_1_r2l17" n="N016"/>ist Hoffkanzler worden, ich hoff mit dem</ab>
-    <pb facs="#facs_2" n="87 v" xml:id="Kasten_blau_45_9_0152.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>Öting werd es sich auch schiken, vnd er wirt
-      <lb facs="#facs_2_r1l2" n="N002"/>sich auch wißen zue moderiren. Ich bin nit
-      <lb facs="#facs_2_r1l3" n="N003"/>wert, das ewer Durchlaucht so ein <choice><expan>gnädige</expan><abbr>g</abbr></choice> sorchfalt
-      <lb facs="#facs_2_r1l4" n="N004"/>vohr mich haben, befind mich izt gahr
-      <lb facs="#facs_2_r1l5" n="N005"/>wohl. Aus Vngren seint die zeitung
-      <lb facs="#facs_2_r1l6" n="N006"/>nit gutt, es seint vngren an dero Rab
-      <lb facs="#facs_2_r1l7" n="N007"/>gelegen, den türken den pas zue disputirn,
-      <lb facs="#facs_2_r1l8" n="N008"/>die habens verlaßen vnd seind bey
-      <lb facs="#facs_2_r1l9" n="N009"/>ein 20 oder 30<unclear>m</unclear> über die Rahb kommen, die
-      <lb facs="#facs_2_r1l10" n="N010"/>werden ein großen streif ins land duen,
-      <lb facs="#facs_2_r1l11" n="N011"/>gott wolle alles übel wenden. Ich due
-      <lb facs="#facs_2_r1l12" n="N012"/>mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd
-      <lb facs="#facs_2_r1l13" n="N013"/>werde sterben
-      <lb facs="#facs_2_r1l14" n="N014"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1637946650346_1203" n="N015"/>ganzergebenste tr<supplied>e</supplied>wg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
-      <lb facs="#facs_2_r1l16" n="N016"/>dochter
-      <lb facs="#facs_2_r1l17" n="N017"/>EMT
-      <lb facs="#facs_2_line_1637946650346_1204" n="N018"/>Wien den 2ten julij 1683</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="87 r" xml:id="Kasten_blau_45_9_0151.jpg"/><p facs="#facs_1_r2">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+      <lb n="N002"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das mit
+      <lb n="N003"/>gestriger post mein schuldichkeit nit abgelegt,
+      <lb n="N004"/>hab verhofft, wie auch gottlob nit vergebens,
+      <lb n="N005"/>heünt ewer Durchlaucht ein guette zeitung von Preslaw
+      <lb n="N006"/>zue überschiken. Es ist, wie sie schreiben, vna-
+      <lb n="N007"/>nimiter, schier per modum aclamationis, die
+      <lb n="N008"/>postulation gelükhlich abgangen. Izt hoffe,
+      <lb n="N009"/>werde zue Rohm k<supplied>ei</supplied>n difficultet mehr sein.
+      <lb n="N010"/>Der Schafcotsch hatt sich woll darbey verhalten.
+      <lb n="N011"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Marco brief ist gahr kreftig, will
+      <lb n="N012"/>woll ihr Mayestät bitten, das sie ihn laßen heraus
+      <lb n="N013"/>kommen, aber zue diser campagne
+      <lb n="N014"/>wirt er zimlich schpaht kommen. Ewer Durchlaucht
+      <lb n="N015"/>werden schon vernommen haben, das der Stratman
+      <lb n="N016"/>ist Hoffkanzler worden, ich hoff mit dem</p></div><div type="page"><pb facs="#facs_2" n="87 v" xml:id="Kasten_blau_45_9_0152.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>Öting werd es sich auch schiken, vnd er wirt
+      <lb n="N002"/>sich auch wißen zue moderiren. Ich bin nit
+      <lb n="N003"/>wert, das ewer Durchlaucht so ein <choice><expan>gnädige</expan><abbr>g</abbr></choice> sorchfalt
+      <lb n="N004"/>vohr mich haben, befind mich izt gahr
+      <lb n="N005"/>wohl. Aus Vngren seint die zeitung
+      <lb n="N006"/>nit gutt, es seint vngren an dero Rab
+      <lb n="N007"/>gelegen, den türken den pas zue disputirn,
+      <lb n="N008"/>die habens verlaßen vnd seind bey
+      <lb n="N009"/>ein 20 oder 30<unclear>m</unclear> über die Rahb kommen, die
+      <lb n="N010"/>werden ein großen streif ins land duen,
+      <lb n="N011"/>gott wolle alles übel wenden. Ich due
+      <lb n="N012"/>mich ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd
+      <lb n="N013"/>werde sterben
+      <lb n="N014"/>ewer Durchlaucht
+      <lb n="N015"/>ganzergebenste tr<supplied>e</supplied>wg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
+      <lb n="N016"/>dochter
+      <lb n="N017"/>EMT
+      <lb n="N018"/>Wien den 2ten julij 1683</p></div>
 </body>
 
    </text>

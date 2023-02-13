@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0263.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0263.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -118,29 +118,25 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_263" n="155 r" xml:id="Kasten_blau_45_8_0263.jpg"/>
-<ab facs="#facs_263_r2">
-               <lb facs="#facs_263_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_263_r2l2" n="N002"/>Es ist mihr von herzen leidt, aus ewer Durchlaucht <choice><expan/><abbr>g</abbr></choice> schreiben
-               <lb facs="#facs_263_r2l3" n="N003"/>zue vernemmen, das der catarr noch nit vollich nachlaßen
-               <lb facs="#facs_263_r2l4" n="N004"/>will. Bin auch wohl bedrüebt, das ewer Durchlaucht sich noch
-               <lb facs="#facs_263_r2l5" n="N005"/>so vill darbey mit schreiben bemühet haben vndt
-               <lb facs="#facs_263_r2l6" n="N006"/>bitt ich nachmahlen vnterdehnig, ewer Durchlaucht wollen sich doch
-               <lb facs="#facs_263_r2l7" n="N007"/>meinetwegen nidt die geringste vngelegenheit machen,
-               <lb facs="#facs_263_r2l8" n="N008"/>dan es einmahl gahr zue schädlich vohr den
-               <lb facs="#facs_263_r2l9" n="N009"/>catarr ist. Ich sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnterdh</abbr></choice> dankh vohr
-               <lb facs="#facs_263_r2l10" n="N010"/>die hirsch lista. Ich mues auch dismahl auch
-               <lb facs="#facs_263_r2l11" n="N011"/>vnterdehnig vmb vergebung bitten, das nit mehr
-               <lb facs="#facs_263_r2l12" n="N012"/>schreib, ich mues heütt baden, so hab nit vill
-               <lb facs="#facs_263_line_1620803082765_435" n="N013"/>zeit übrich. Befehl mich vnterdehnig vndt sterb
-               <lb facs="#facs_263_r2l15" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_263_r2l16" n="N015"/>ga<supplied>n</supplied>z ergebe<supplied>n</supplied>ste trew gehorsa<supplied>m</supplied>ste
-               <lb facs="#facs_263_r2l20" n="N016"/>do<supplied>c</supplied>hter
-               <lb facs="#facs_263_r2l21" n="N017"/>EMT
-               <lb facs="#facs_263_line_1620803087455_439" n="N018"/><rs type="place">Prag</rs> den <date month="12" day="2" year="1679">2 10ber 1678</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_263" n="155 r" xml:id="Kasten_blau_45_8_0263.jpg"/><p facs="#facs_263_r2">
+               <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Es ist mihr von herzen leidt, aus ewer Durchlaucht <choice><expan/><abbr>g</abbr></choice> schreiben
+               <lb n="N003"/>zue vernemmen, das der catarr noch nit vollich nachlaßen
+               <lb n="N004"/>will. Bin auch wohl bedrüebt, das ewer Durchlaucht sich noch
+               <lb n="N005"/>so vill darbey mit schreiben bemühet haben vndt
+               <lb n="N006"/>bitt ich nachmahlen vnterdehnig, ewer Durchlaucht wollen sich doch
+               <lb n="N007"/>meinetwegen nidt die geringste vngelegenheit machen,
+               <lb n="N008"/>dan es einmahl gahr zue schädlich vohr den
+               <lb n="N009"/>catarr ist. Ich sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnterdh</abbr></choice> dankh vohr
+               <lb n="N010"/>die hirsch lista. Ich mues auch dismahl auch
+               <lb n="N011"/>vnterdehnig vmb vergebung bitten, das nit mehr
+               <lb n="N012"/>schreib, ich mues heütt baden, so hab nit vill
+               <lb n="N013"/>zeit übrich. Befehl mich vnterdehnig vndt sterb
+               <lb n="N014"/>ewer Durchlaucht
+               <lb n="N015"/>ga<supplied>n</supplied>z ergebe<supplied>n</supplied>ste trew gehorsa<supplied>m</supplied>ste
+               <lb n="N016"/>do<supplied>c</supplied>hter
+               <lb n="N017"/>EMT
+               <lb n="N018"/><rs type="place">Prag</rs> den <date month="12" day="2" year="1679">2 10ber 1678</date>
+            </p></div></body>
    </text>
 </TEI>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0009.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0009.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -137,44 +137,39 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="4 r" xml:id="Kasten_blau_45_9_0009.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich hoffe, ewer Durchlaucht werden sich annoch in guettem wohlstand
-      <lb facs="#facs_1_r1l3" n="N003"/>befinden, welches ich mit großen freüden aus dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben
-      <lb facs="#facs_1_r1l4" n="N004"/>vom 16ten dis vernommen. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr
-      <lb facs="#facs_1_r1l5" n="N005"/>die <choice><expan>gnädige</expan><abbr>g</abbr></choice> vohrsorch, so sie vohr mich dragen vnd meiner
-      <lb facs="#facs_1_r1l6" n="N006"/>in dero gebett eingedenkh sein. Dießes wirt alles von
-      <lb facs="#facs_1_r1l7" n="N007"/>gott erhalten. Hab mich vergangen freitag laßen in seßel
-      <lb facs="#facs_1_r1l8" n="N008"/>dragen, befind mich gottlob wohl auf. Das der
-      <lb facs="#facs_1_r1l9" n="N009"/>Bischoff von Salzburch solliche verhinderung an
-      <lb facs="#facs_1_r1l10" n="N010"/>dem beyerischen kreisdag machet, ist woll zue bedauren
-      <lb facs="#facs_1_r1l11" n="N011"/>vnd drüeber herb zue werden. Ich weis gahr nit, was
-      <lb facs="#facs_1_r1l12" n="N012"/>diese geistliche gedenken vnd zue wegen sie so
-      <lb facs="#facs_1_r1l13" n="N013"/>geschpahrsam seindt. Ich zweifle nit, ihr Mayestät werden
-      <lb facs="#facs_1_r1l14" n="N014"/>ihm weiters aufmuntern, so vill sie können. Die
-      <lb facs="#facs_1_r1l15" n="N015"/>druntichen händel seint woll auch gahr übel, ihr Mayestät
-      <lb facs="#facs_1_r1l16" n="N016"/>werden woll sich befleisen in diser sach, insonderheit
-      <lb facs="#facs_1_r1l17" n="N017"/>wegen Cuhr Trier, gott gebe sein <choice><expan>gnade</expan><abbr>g</abbr></choice> darzue. Ich mueß
-      <lb facs="#facs_1_r1l18" n="N018"/>ewer Durchlaucht dise post schon <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> bitten, mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> zu
-      <lb facs="#facs_1_r1l19" n="N019"/>vergeben, wan villeicht ich die könftige <supplied>post</supplied> mein schul-
-      <lb facs="#facs_1_r1l20" n="N020"/>dichkeit nit wurde ablegen können. Es ist eben</ab>
-    <pb facs="#facs_2" n="4 v" xml:id="Kasten_blau_45_9_0010.jpg"/>
-    <ab facs="#facs_2_r2">
-      <lb facs="#facs_2_r2l1" n="N001"/>hewer der fasching gahr kurz, so wirt die könftige woch
-      <lb facs="#facs_2_r2l2" n="N002"/>vill zue duen geben. Werd mich doch befleisen, wan
-      <lb facs="#facs_2_r2l3" n="N003"/>es nuhr immer möglich sein wirt, ewer Durchlaucht mit
-      <lb facs="#facs_2_r2l4" n="N004"/>meinen zeilen zue bedienen, solter es aber nit geschehn
-      <lb facs="#facs_2_r2l5" n="N005"/>könne, so bitte vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebung. Due mich
-      <lb facs="#facs_2_r2l6" n="N006"/>hirmit in ewer Durchlaucht beharliche <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die
-      <lb facs="#facs_2_r2l7" n="N007"/>ich sterben werde
-      <lb facs="#facs_2_r2l8" n="N008"/>ewer Durchlaucht
-      <lb facs="#facs_2_r2l9" n="N009"/>ganzergebenste trew gehorsamste
-      <lb facs="#facs_2_r2l11" n="N010"/>dochter
-      <lb facs="#facs_2_r2l12" n="N011"/>EMT
-      <lb facs="#facs_2_r2l10" n="N012"/>Wien den 29ten jener 1682</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="4 r" xml:id="Kasten_blau_45_9_0009.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+      <lb n="N002"/>Ich hoffe, ewer Durchlaucht werden sich annoch in guettem wohlstand
+      <lb n="N003"/>befinden, welches ich mit großen freüden aus dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben
+      <lb n="N004"/>vom 16ten dis vernommen. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr
+      <lb n="N005"/>die <choice><expan>gnädige</expan><abbr>g</abbr></choice> vohrsorch, so sie vohr mich dragen vnd meiner
+      <lb n="N006"/>in dero gebett eingedenkh sein. Dießes wirt alles von
+      <lb n="N007"/>gott erhalten. Hab mich vergangen freitag laßen in seßel
+      <lb n="N008"/>dragen, befind mich gottlob wohl auf. Das der
+      <lb n="N009"/>Bischoff von Salzburch solliche verhinderung an
+      <lb n="N010"/>dem beyerischen kreisdag machet, ist woll zue bedauren
+      <lb n="N011"/>vnd drüeber herb zue werden. Ich weis gahr nit, was
+      <lb n="N012"/>diese geistliche gedenken vnd zue wegen sie so
+      <lb n="N013"/>geschpahrsam seindt. Ich zweifle nit, ihr Mayestät werden
+      <lb n="N014"/>ihm weiters aufmuntern, so vill sie können. Die
+      <lb n="N015"/>druntichen händel seint woll auch gahr übel, ihr Mayestät
+      <lb n="N016"/>werden woll sich befleisen in diser sach, insonderheit
+      <lb n="N017"/>wegen Cuhr Trier, gott gebe sein <choice><expan>gnade</expan><abbr>g</abbr></choice> darzue. Ich mueß
+      <lb n="N018"/>ewer Durchlaucht dise post schon <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> bitten, mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> zu
+      <lb n="N019"/>vergeben, wan villeicht ich die könftige <supplied>post</supplied> mein schul-
+      <lb n="N020"/>dichkeit nit wurde ablegen können. Es ist eben</p></div><div type="page"><pb facs="#facs_2" n="4 v" xml:id="Kasten_blau_45_9_0010.jpg"/><p facs="#facs_2_r2">
+      <lb n="N001"/>hewer der fasching gahr kurz, so wirt die könftige woch
+      <lb n="N002"/>vill zue duen geben. Werd mich doch befleisen, wan
+      <lb n="N003"/>es nuhr immer möglich sein wirt, ewer Durchlaucht mit
+      <lb n="N004"/>meinen zeilen zue bedienen, solter es aber nit geschehn
+      <lb n="N005"/>könne, so bitte vmb <choice><expan>gnädigste</expan><abbr>g</abbr></choice> vergebung. Due mich
+      <lb n="N006"/>hirmit in ewer Durchlaucht beharliche <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die
+      <lb n="N007"/>ich sterben werde
+      <lb n="N008"/>ewer Durchlaucht
+      <lb n="N009"/>ganzergebenste trew gehorsamste
+      <lb n="N010"/>dochter
+      <lb n="N011"/>EMT
+      <lb n="N012"/>Wien den 29ten jener 1682</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0331.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0331.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -113,24 +113,20 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_330" n="190 r" xml:id="Kasten_blau_45_8_0331.jpg"/>
-<ab facs="#facs_330_r1">
-               <lb facs="#facs_330_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_330_line_1622212925813_279" n="N002"/>Dieweilen der <add>hiesige</add> <rs type="person">patter guardian</rs> von seinen obren
-               <lb facs="#facs_330_line_1622212929386_283" n="N003"/>in die drobrige prouinc geschikt wirt vndt
-               <lb facs="#facs_330_r1l9" n="N004"/>mich ersucht, ihm mit einem schreiben ewer Durchlaucht
-               <lb facs="#facs_330_r1l10" n="N005"/><choice><expan>gnädig</expan><abbr>g</abbr></choice> zue recomendiren, also hab ich dieses
-               <lb facs="#facs_330_r1l12" n="N006"/>ihme nit abschlagen können, vmb so vill
-               <lb facs="#facs_330_r1l13" n="N007"/>mehr, weil es mihr allezeit der gröste
-               <lb facs="#facs_330_r1l14" n="N008"/>trost ist, ewer Durchlaucht meinen kintligen respect
-               <lb facs="#facs_330_r1l15" n="N009"/>zue contestiren, die ich sterben werde
-               <lb facs="#facs_330_line_1622212970548_297" n="N010"/>ewer Durchlaucht
-               <lb facs="#facs_330_r1l17" n="N011"/>ganzergebenste treü
-               <lb facs="#facs_330_r1l18" n="N012"/>gehorsamste dochter
-               <lb facs="#facs_330_line_1622212978112_302" n="N013"/>EMT
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_330" n="190 r" xml:id="Kasten_blau_45_8_0331.jpg"/><p facs="#facs_330_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+               <lb n="N002"/>Dieweilen der <add>hiesige</add> <rs type="person">patter guardian</rs> von seinen obren
+               <lb n="N003"/>in die drobrige prouinc geschikt wirt vndt
+               <lb n="N004"/>mich ersucht, ihm mit einem schreiben ewer Durchlaucht
+               <lb n="N005"/><choice><expan>gnädig</expan><abbr>g</abbr></choice> zue recomendiren, also hab ich dieses
+               <lb n="N006"/>ihme nit abschlagen können, vmb so vill
+               <lb n="N007"/>mehr, weil es mihr allezeit der gröste
+               <lb n="N008"/>trost ist, ewer Durchlaucht meinen kintligen respect
+               <lb n="N009"/>zue contestiren, die ich sterben werde
+               <lb n="N010"/>ewer Durchlaucht
+               <lb n="N011"/>ganzergebenste treü
+               <lb n="N012"/>gehorsamste dochter
+               <lb n="N013"/>EMT
+            </p></div></body>
    </text>
 </TEI>

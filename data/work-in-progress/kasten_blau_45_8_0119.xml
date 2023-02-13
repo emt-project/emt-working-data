@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0119.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0119.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -119,31 +119,27 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_119" n="103 r" xml:id="Kasten_blau_45_8_0119.jpg"/>
-<ab facs="#facs_119_r2">
-               <lb facs="#facs_119_r2l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_119_r2l2" n="N002"/>Ich hab aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom <date month="12" day="8" year="1677">8 dieses</date> vernomen,
-               <lb facs="#facs_119_r2l3" n="N003"/>das sie selbige post keine brief haben bekommen.
-               <lb facs="#facs_119_r2l4" n="N004"/>Ist mihr leidt, weis nit woh müeßen geblieben
-               <lb facs="#facs_119_r2l5" n="N005"/>sein, vermein doch, ich hab selbige post geschrieben.
-               <lb facs="#facs_119_r2l6" n="N006"/>Woh aber nit ich, dannoch gewis der <rs type="person">Fürst</rs> vndt
-               <lb facs="#facs_119_r2l7" n="N007"/>der <rs type="person">Schellerer</rs>, dan diese keine post vnterlaßen,
-               <lb facs="#facs_119_r2l8" n="N008"/>vndt wan ich nit schreiben kan, so las ich
-               <lb facs="#facs_119_r2l9" n="N009"/>mich danoch durch den Fürsten entschuldigen.
-               <lb facs="#facs_119_r2l10" n="N010"/>Erfrewet mich von herzen, das sich ewer Durchlaucht
-               <lb facs="#facs_119_r2l11" n="N011"/>wohl befinden vndt sage vnterdehnigen dank,
-               <lb facs="#facs_119_r2l12" n="N012"/>das sie meiner in dero gebett zu <rs type="place">Einsidel</rs>
-               <lb facs="#facs_119_r2l13" n="N013"/>seindt eingedenkh gewesen. Mein gröste freüdt
-               <lb facs="#facs_119_r2l14" n="N014"/>wirt sein, wan ewer Durchlaucht meinem verlangen
-               <lb facs="#facs_119_r2l15" n="N015"/>vndt schuldickeit gemeß werde dienen können,
-               <lb facs="#facs_119_r2l16" n="N016"/>die ich sterben werde
-               <lb facs="#facs_119_line_1612961697852_86" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_119_line_1612961712621_90" n="N018"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_119_r2l21" n="N019"/>dochter 
-               <lb facs="#facs_119_line_1618066155703_1185" n="N020"/><rs type="place">Wien</rs> den <date month="12" day="23" year="1677">23 xbris 1677</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_119" n="103 r" xml:id="Kasten_blau_45_8_0119.jpg"/><p facs="#facs_119_r2">
+               <lb n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
+               <lb n="N002"/>Ich hab aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom <date month="12" day="8" year="1677">8 dieses</date> vernomen,
+               <lb n="N003"/>das sie selbige post keine brief haben bekommen.
+               <lb n="N004"/>Ist mihr leidt, weis nit woh müeßen geblieben
+               <lb n="N005"/>sein, vermein doch, ich hab selbige post geschrieben.
+               <lb n="N006"/>Woh aber nit ich, dannoch gewis der <rs type="person">Fürst</rs> vndt
+               <lb n="N007"/>der <rs type="person">Schellerer</rs>, dan diese keine post vnterlaßen,
+               <lb n="N008"/>vndt wan ich nit schreiben kan, so las ich
+               <lb n="N009"/>mich danoch durch den Fürsten entschuldigen.
+               <lb n="N010"/>Erfrewet mich von herzen, das sich ewer Durchlaucht
+               <lb n="N011"/>wohl befinden vndt sage vnterdehnigen dank,
+               <lb n="N012"/>das sie meiner in dero gebett zu <rs type="place">Einsidel</rs>
+               <lb n="N013"/>seindt eingedenkh gewesen. Mein gröste freüdt
+               <lb n="N014"/>wirt sein, wan ewer Durchlaucht meinem verlangen
+               <lb n="N015"/>vndt schuldickeit gemeß werde dienen können,
+               <lb n="N016"/>die ich sterben werde
+               <lb n="N017"/>ewer Durchlaucht
+               <lb n="N018"/>ganzergebenste trewgehorsamste
+               <lb n="N019"/>dochter 
+               <lb n="N020"/><rs type="place">Wien</rs> den <date month="12" day="23" year="1677">23 xbris 1677</date>
+            </p></div></body>
    </text>
 </TEI>

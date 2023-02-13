@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_134.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_134.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -106,24 +106,17 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_136" n="77 v" xml:id="Kasten_blau_44_8_0136.jpg"/>
-<ab facs="#facs_136_r1">
-               <lb facs="#facs_136_r1l1" n="N001"/>uo gr es sein
-               <lb facs="#facs_136_r1l2" n="N002"/>u
-            </ab>
-<ab facs="#facs_136_r2">
-               <lb facs="#facs_136_r2l1" n="N001"/>oma
-               <lb facs="#facs_136_r2l2" n="N002"/>erben
-            </ab>
-<ab facs="#facs_136_r3">
-               <lb facs="#facs_136_r3l1" n="N001"/>ar. May
-               <lb facs="#facs_136_r3l2" n="N002"/>uer
-            </ab>
-<ab facs="#facs_136_r4">
-               <lb facs="#facs_136_r4l1" n="N001"/>ue
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_136" n="77 v" xml:id="Kasten_blau_44_8_0136.jpg"/><p facs="#facs_136_r1">
+               <lb n="N001"/>uo gr es sein
+               <lb n="N002"/>u
+            </p><p facs="#facs_136_r2">
+               <lb n="N001"/>oma
+               <lb n="N002"/>erben
+            </p><p facs="#facs_136_r3">
+               <lb n="N001"/>ar. May
+               <lb n="N002"/>uer
+            </p><p facs="#facs_136_r4">
+               <lb n="N001"/>ue
+            </p></div></body>
    </text>
 </TEI>

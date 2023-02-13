@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0316.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_10_0316.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -138,42 +138,35 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="53 r" xml:id="Kasten_blau_44_10_0316.jpg" ed="194 r"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear reason="Aktenvermerk">19 junij 1711</unclear>
-      <lb facs="#facs_1_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brud<supplied>e</supplied>r
-      <lb facs="#facs_1_r1l3" n="N003"/>Weilen <choice><expan>Monsignore</expan><abbr>Ms</abbr></choice> Albani bey seiner abreis mich ersucht,
-      <lb facs="#facs_1_r1l4" n="N004"/>ihne mit etligen zeilen an dero Liebden zu accompagniren, hab es
-      <lb facs="#facs_1_r1l5" n="N005"/>vmb so vill lieber duen wollen, als ich alle gelegenh<supplied>e</supplied>iten
-      <lb facs="#facs_1_r1l6" n="N006"/>gern emplectir, dero Liebden mein bestendige lib zu contestiren. Ich
-      <lb facs="#facs_1_r1l7" n="N007"/>halt vohr überflüßich, ihne dero Liebden zue reccomendiren,
-      <lb facs="#facs_1_r1l8" n="N008"/>dan mihr vohrhero bewust, was deuotion dero Liebden gegen
-      <lb facs="#facs_1_r1l9" n="N009"/>seine <choice><expan>Heiligkeit</expan><abbr>Heil</abbr></choice> haben, welcher disen seinen vettern vohr
-      <lb facs="#facs_1_r1l10" n="N010"/>allen andren sehr lieben duet. Kan auch nit
-      <lb facs="#facs_1_r1l11" n="N011"/>laßen, ihme wegen seines hiesigen comportament
-      <lb facs="#facs_1_r1l12" n="N012"/>sehr anzurüemen, insonderheit den eifer vndt lieb,
-      <lb facs="#facs_1_r1l13" n="N013"/>so er gegen mein <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> g<supplied>e</supplied>libsten sohn wie auch gegen den Konig
-      <lb facs="#facs_1_r1l14" n="N014"/>vndt vnser ga<supplied>n</supplied>zes haus bezeiget, wie auch gegen</ab>
-    <pb facs="#facs_2" n="53 v" xml:id="Kasten_blau_44_10_0317.jpg" ed="194 v"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>dero Liebden vndt vnser ga<supplied>n</supplied>zes cuhrhaus. Hatt sich ebenfals
-      <lb facs="#facs_2_r1l2" n="N002"/>beflisen vnd ist ihme auch vill zuezuschreiben
-      <lb facs="#facs_2_r1l3" n="N003"/>die gutte harmonia, so izt zwischen ihr <choice><expan>Heiligkeit</expan><abbr>Heil</abbr></choice>
-      <lb facs="#facs_2_r1l4" n="N004"/>vndt disen haus sich immer mehr befestiget.
-      <lb facs="#facs_2_r1l5" n="N005"/>Hoffe, er werde dero Liebden in besten wollstandt
-      <lb facs="#facs_2_r1l6" n="N006"/>finden, welches mein großer trost sein wirt, als
-      <lb facs="#facs_2_r1l7" n="N007"/>die ich bis ins grab verbleibe
-      <lb facs="#facs_2_line_1660988688641_1117" n="N008"/>dero Liebden
-      <lb facs="#facs_2_r1l9" n="N009"/>getreweste schw<supplied>e</supplied>ster
-      <lb facs="#facs_2_r1l10" n="N010"/>Eleonora
-      <lb facs="#facs_2_line_1660988688641_1116" n="N011"/>Wien den 19ten junij 1711</ab>
-    <pb facs="#facs_3" n="3" xml:id="Kasten_blau_44_10_0318.jpg" ed="195 r"/>
-    <ab facs="#facs_3_region_1660988775558_1128">
-      <lb facs="#facs_3_line_1660988794900_1132" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
-      <lb facs="#facs_3_line_1660988803421_1137" n="N002"/>Pfalz, meinem herzlibsten
-      <lb facs="#facs_3_line_1660988813255_1142" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brudren</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="53 r" xml:id="Kasten_blau_44_10_0316.jpg" ed="194 r"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear reason="Aktenvermerk">19 junij 1711</unclear>
+      <lb n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brud<supplied>e</supplied>r
+      <lb n="N003"/>Weilen <choice><expan>Monsignore</expan><abbr>Ms</abbr></choice> Albani bey seiner abreis mich ersucht,
+      <lb n="N004"/>ihne mit etligen zeilen an dero Liebden zu accompagniren, hab es
+      <lb n="N005"/>vmb so vill lieber duen wollen, als ich alle gelegenh<supplied>e</supplied>iten
+      <lb n="N006"/>gern emplectir, dero Liebden mein bestendige lib zu contestiren. Ich
+      <lb n="N007"/>halt vohr überflüßich, ihne dero Liebden zue reccomendiren,
+      <lb n="N008"/>dan mihr vohrhero bewust, was deuotion dero Liebden gegen
+      <lb n="N009"/>seine <choice><expan>Heiligkeit</expan><abbr>Heil</abbr></choice> haben, welcher disen seinen vettern vohr
+      <lb n="N010"/>allen andren sehr lieben duet. Kan auch nit
+      <lb n="N011"/>laßen, ihme wegen seines hiesigen comportament
+      <lb n="N012"/>sehr anzurüemen, insonderheit den eifer vndt lieb,
+      <lb n="N013"/>so er gegen mein <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> g<supplied>e</supplied>libsten sohn wie auch gegen den Konig
+      <lb n="N014"/>vndt vnser ga<supplied>n</supplied>zes haus bezeiget, wie auch gegen</p></div><div type="page"><pb facs="#facs_2" n="53 v" xml:id="Kasten_blau_44_10_0317.jpg" ed="194 v"/><p facs="#facs_2_r1">
+      <lb n="N001"/>dero Liebden vndt vnser ga<supplied>n</supplied>zes cuhrhaus. Hatt sich ebenfals
+      <lb n="N002"/>beflisen vnd ist ihme auch vill zuezuschreiben
+      <lb n="N003"/>die gutte harmonia, so izt zwischen ihr <choice><expan>Heiligkeit</expan><abbr>Heil</abbr></choice>
+      <lb n="N004"/>vndt disen haus sich immer mehr befestiget.
+      <lb n="N005"/>Hoffe, er werde dero Liebden in besten wollstandt
+      <lb n="N006"/>finden, welches mein großer trost sein wirt, als
+      <lb n="N007"/>die ich bis ins grab verbleibe
+      <lb n="N008"/>dero Liebden
+      <lb n="N009"/>getreweste schw<supplied>e</supplied>ster
+      <lb n="N010"/>Eleonora
+      <lb n="N011"/>Wien den 19ten junij 1711</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="Kasten_blau_44_10_0318.jpg" ed="195 r"/><p facs="#facs_3_region_1660988775558_1128">
+      <lb n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
+      <lb n="N002"/>Pfalz, meinem herzlibsten
+      <lb n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> brudren</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0464.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0464.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -135,42 +135,37 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="274 r" xml:id="Kasten_blau_45_9_0464.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstandt
-      <lb facs="#facs_1_r1l3" n="N003"/>befinden, welches mich über alles erfreüen wirt zue
-      <lb facs="#facs_1_r1l4" n="N004"/>vernemmen. Bericht ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das mein brueder
-      <lb facs="#facs_1_r1l5" n="N005"/>gestren das fieber widerumb 8 oder 9 stundt gehabt. Heünt
-      <lb facs="#facs_1_r1l6" n="N006"/>hatt er etwas mit <unclear>er</unclear> zum laxiren eingenommen vnd
-      <lb facs="#facs_1_r1l7" n="N007"/>befindt sich gahr wohl darauf, müeßen erwarten wie
-      <lb facs="#facs_1_r1l8" n="N008"/>es morgen kommen wirt. Er ist heünt so gutt,
-      <lb facs="#facs_1_r1l9" n="N009"/>das er erlaubnus begert, morgen wider hinunter zue
-      <lb facs="#facs_1_r1l10" n="N010"/>der armeé zue gehen, welches ihm ihr Mayestät aber abgeschlagen.
-      <lb facs="#facs_1_r1l11" n="N011"/>Es ist zeitung kommen, das sich der feint gesamelt
-      <lb facs="#facs_1_r1l12" n="N012"/>vnd bey Pest herüber gangen, deswegen dan der Cuhrfürst
-      <lb facs="#facs_1_r1l13" n="N013"/>auch noch drunten bleibt, welcher schon reisfertig wahr
-      <lb facs="#facs_1_r1l14" n="N014"/>herauf zue kommen. Also hatt dis mein bruedern auch
-      <lb facs="#facs_1_r1l15" n="N015"/>das verlangen gemacht hinunter zue gehen, ewer Durchlaucht
-      <lb facs="#facs_1_r1l16" n="N016"/>derfen aber nit sorgen, das es ihm ihr Mayestät erlauben
-      <lb facs="#facs_1_r1l17" n="N017"/>werden, bis er völlich restituirt ist. <seg type="blackening">Vohr</seg>gestern ist
-      <lb facs="#facs_1_r1l19" n="N018"/>der iunge Dietrichstein vom Leßle kommen vnd <supplied>hat</supplied> zeitung</ab>
-    <pb facs="#facs_2" n="274 v" xml:id="Kasten_blau_45_9_0465.jpg"/>
-    <ab facs="#facs_2_r2">
-      <lb facs="#facs_2_r2l1" n="N001"/>bracht, das sie dorten die brukh auf 1100 schritt abgebrent,
-      <lb facs="#facs_2_r2l2" n="N002"/>zue Oßek die statt überumpelt, außgeplündert
-      <lb facs="#facs_2_r2l3" n="N003"/>vnd verbrendt, auch etlige türken nidergema<supplied>c</supplied>ht, das
-      <lb facs="#facs_2_r2l4" n="N004"/>schloß aber habens nit attaquirt, weil nit leüt genuech
-      <lb facs="#facs_2_r2l5" n="N005"/>gehabt haben. Sonst gibt hier ganz niks zu berichten,
-      <lb facs="#facs_2_r2l6" n="N006"/>der Fürst wirt ewer Durchlaucht alle relationes gedrukter
-      <lb facs="#facs_2_r2l7" n="N007"/>schiken. Due mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vnd
-      <lb facs="#facs_2_r2l8" n="N008"/>werde sterben
-      <lb facs="#facs_2_r2l9" n="N009"/>ewer Durchlaucht
-      <lb facs="#facs_2_r2l11" n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehors</abbr></choice> dochter
-      <lb facs="#facs_2_r2l12" n="N011"/>EMT
-      <lb facs="#facs_2_r2l10" n="N012"/>Wien den 23ten aug<supplied>u</supplied>st 1685</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="274 r" xml:id="Kasten_blau_45_9_0464.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, herz allerliebster herr vatter
+      <lb n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstandt
+      <lb n="N003"/>befinden, welches mich über alles erfreüen wirt zue
+      <lb n="N004"/>vernemmen. Bericht ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, das mein brueder
+      <lb n="N005"/>gestren das fieber widerumb 8 oder 9 stundt gehabt. Heünt
+      <lb n="N006"/>hatt er etwas mit <unclear>er</unclear> zum laxiren eingenommen vnd
+      <lb n="N007"/>befindt sich gahr wohl darauf, müeßen erwarten wie
+      <lb n="N008"/>es morgen kommen wirt. Er ist heünt so gutt,
+      <lb n="N009"/>das er erlaubnus begert, morgen wider hinunter zue
+      <lb n="N010"/>der armeé zue gehen, welches ihm ihr Mayestät aber abgeschlagen.
+      <lb n="N011"/>Es ist zeitung kommen, das sich der feint gesamelt
+      <lb n="N012"/>vnd bey Pest herüber gangen, deswegen dan der Cuhrfürst
+      <lb n="N013"/>auch noch drunten bleibt, welcher schon reisfertig wahr
+      <lb n="N014"/>herauf zue kommen. Also hatt dis mein bruedern auch
+      <lb n="N015"/>das verlangen gemacht hinunter zue gehen, ewer Durchlaucht
+      <lb n="N016"/>derfen aber nit sorgen, das es ihm ihr Mayestät erlauben
+      <lb n="N017"/>werden, bis er völlich restituirt ist. <seg type="blackening">Vohr</seg>gestern ist
+      <lb n="N018"/>der iunge Dietrichstein vom Leßle kommen vnd <supplied>hat</supplied> zeitung</p></div><div type="page"><pb facs="#facs_2" n="274 v" xml:id="Kasten_blau_45_9_0465.jpg"/><p facs="#facs_2_r2">
+      <lb n="N001"/>bracht, das sie dorten die brukh auf 1100 schritt abgebrent,
+      <lb n="N002"/>zue Oßek die statt überumpelt, außgeplündert
+      <lb n="N003"/>vnd verbrendt, auch etlige türken nidergema<supplied>c</supplied>ht, das
+      <lb n="N004"/>schloß aber habens nit attaquirt, weil nit leüt genuech
+      <lb n="N005"/>gehabt haben. Sonst gibt hier ganz niks zu berichten,
+      <lb n="N006"/>der Fürst wirt ewer Durchlaucht alle relationes gedrukter
+      <lb n="N007"/>schiken. Due mich <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vnd
+      <lb n="N008"/>werde sterben
+      <lb n="N009"/>ewer Durchlaucht
+      <lb n="N010"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehors</abbr></choice> dochter
+      <lb n="N011"/>EMT
+      <lb n="N012"/>Wien den 23ten aug<supplied>u</supplied>st 1685</p></div>
 </body>
 
    </text>

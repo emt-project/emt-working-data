@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0822.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0822.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -139,46 +139,41 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="163 r" xml:id="Kasten_blau_45_15_0822.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom
-      <lb facs="#facs_1_r1l3" n="N003"/>28ten passato vnd freüdt mich überalles, daraus
-      <lb facs="#facs_1_r1l4" n="N004"/>ewer Durchlaucht gutten wohlstandt zue ersehen, darbey der
-      <lb facs="#facs_1_r1l5" n="N005"/>almechtige selbige bestendigst erhalten wolle. Heündt
-      <lb facs="#facs_1_r1l6" n="N006"/>hatt der Sigmundt von Dietrichstein ein brief
-      <lb facs="#facs_1_r1l7" n="N007"/>vom Graf Pfilip von Dietrichstein bekommen, der schreibt
-      <lb facs="#facs_1_r1l8" n="N008"/>vom 14ten merz aus Dorwart oder wie es heist, kans nit
-      <lb facs="#facs_1_r1l9" n="N009"/>recht behalten, ist nit weit von Bleimut, das sie dat
-      <lb facs="#facs_1_r1l10" n="N010"/>widerumb haben müeßen wegen contrari windt an-
-      <lb facs="#facs_1_r1l11" n="N011"/>lenden vnd erwarten einen beßeren. Ist doch wider
-      <lb facs="#facs_1_r1l12" n="N012"/>ein schprung weiter, wan sie izt nuhr ein pahr
-      <lb facs="#facs_1_r1l13" n="N013"/>dag guette windt haben, so kommen sie außer
-      <lb facs="#facs_1_r1l14" n="N014"/>des canal. Darnach kommen sie leichter vort, wan sie
-      <lb facs="#facs_1_r1l15" n="N015"/>einmahl in hohen mehr seindt, gott geb sein gnad,</ab>
-    <pb facs="#facs_2" n="163 v" xml:id="Kasten_blau_45_15_0823.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>das einmahl hinein kommen, seint woll lang auf-
-      <lb facs="#facs_2_r1l2" n="N002"/>gehalten, aber gott weis alles, warumb er es also
-      <lb facs="#facs_2_r1l3" n="N003"/>schikt, vnd ist alles zum besten, was er duet.
-      <lb facs="#facs_2_r1l4" n="N004"/>Könftigen donnerstag werden mihr wider zeitung vnd
-      <lb facs="#facs_2_r1l5" n="N005"/>hoffentlich gutte von der verwitibten Königin haben.
-      <lb facs="#facs_2_r1l6" n="N006"/>Die Daufinin ist nit doht, aber gahr krankh,
-      <lb facs="#facs_2_r1l7" n="N007"/>dis möcht in Portugal woll hendel machen, wan
-      <lb facs="#facs_2_r1l8" n="N008"/>nuhr der Mansfelt einmahl hinein kehme. Gott
-      <lb facs="#facs_2_r1l9" n="N009"/>haben mihr woll zue dankhen wegen Canisa, der geb
-      <lb facs="#facs_2_r1l10" n="N010"/>weiters sein gnad. Wegen des Sapia werd ich ihn
-      <lb facs="#facs_2_r1l11" n="N011"/>ihr Mayestät recomendiren. Er will aber allerweil ein
-      <lb facs="#facs_2_r1l12" n="N012"/>regiment haben vnd mit denen wißen ewer Durchlaucht, wie
-      <lb facs="#facs_2_r1l13" n="N013"/>hart es her geht. Sonst gibt ganz niks ewer Durchlaucht
-      <lb facs="#facs_2_r1l14" n="N014"/><choice><expan>Registration_Name=Zentrale Postadministration und Registratur [SMP RENEWAL]</expan><abbr>vd</abbr></choice> zue berichten, also due mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in dero
-      <lb facs="#facs_2_r1l15" n="N015"/><choice><expan>gnade</expan><abbr>g</abbr></choice> empfelen vnd werden ste<supplied>r</supplied>ben
-      <lb facs="#facs_2_r1l16" n="N016"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l18" n="N017"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> dochter
-      <lb facs="#facs_2_r1l19" n="N018"/>Eleonora
-      <lb facs="#facs_2_r1l17" n="N019"/>Wien den 2ten apprill 1690</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="163 r" xml:id="Kasten_blau_45_15_0822.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster herr vatter
+      <lb n="N002"/>Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vd</abbr></choice> dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom
+      <lb n="N003"/>28ten passato vnd freüdt mich überalles, daraus
+      <lb n="N004"/>ewer Durchlaucht gutten wohlstandt zue ersehen, darbey der
+      <lb n="N005"/>almechtige selbige bestendigst erhalten wolle. Heündt
+      <lb n="N006"/>hatt der Sigmundt von Dietrichstein ein brief
+      <lb n="N007"/>vom Graf Pfilip von Dietrichstein bekommen, der schreibt
+      <lb n="N008"/>vom 14ten merz aus Dorwart oder wie es heist, kans nit
+      <lb n="N009"/>recht behalten, ist nit weit von Bleimut, das sie dat
+      <lb n="N010"/>widerumb haben müeßen wegen contrari windt an-
+      <lb n="N011"/>lenden vnd erwarten einen beßeren. Ist doch wider
+      <lb n="N012"/>ein schprung weiter, wan sie izt nuhr ein pahr
+      <lb n="N013"/>dag guette windt haben, so kommen sie außer
+      <lb n="N014"/>des canal. Darnach kommen sie leichter vort, wan sie
+      <lb n="N015"/>einmahl in hohen mehr seindt, gott geb sein gnad,</p></div><div type="page"><pb facs="#facs_2" n="163 v" xml:id="Kasten_blau_45_15_0823.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>das einmahl hinein kommen, seint woll lang auf-
+      <lb n="N002"/>gehalten, aber gott weis alles, warumb er es also
+      <lb n="N003"/>schikt, vnd ist alles zum besten, was er duet.
+      <lb n="N004"/>Könftigen donnerstag werden mihr wider zeitung vnd
+      <lb n="N005"/>hoffentlich gutte von der verwitibten Königin haben.
+      <lb n="N006"/>Die Daufinin ist nit doht, aber gahr krankh,
+      <lb n="N007"/>dis möcht in Portugal woll hendel machen, wan
+      <lb n="N008"/>nuhr der Mansfelt einmahl hinein kehme. Gott
+      <lb n="N009"/>haben mihr woll zue dankhen wegen Canisa, der geb
+      <lb n="N010"/>weiters sein gnad. Wegen des Sapia werd ich ihn
+      <lb n="N011"/>ihr Mayestät recomendiren. Er will aber allerweil ein
+      <lb n="N012"/>regiment haben vnd mit denen wißen ewer Durchlaucht, wie
+      <lb n="N013"/>hart es her geht. Sonst gibt ganz niks ewer Durchlaucht
+      <lb n="N014"/><choice><expan>Registration_Name=Zentrale Postadministration und Registratur [SMP RENEWAL]</expan><abbr>vd</abbr></choice> zue berichten, also due mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> in dero
+      <lb n="N015"/><choice><expan>gnade</expan><abbr>g</abbr></choice> empfelen vnd werden ste<supplied>r</supplied>ben
+      <lb n="N016"/>ewer Durchlaucht
+      <lb n="N017"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghors</abbr></choice> dochter
+      <lb n="N018"/>Eleonora
+      <lb n="N019"/>Wien den 2ten apprill 1690</p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0010.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_11_0010.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -131,36 +131,30 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="3 r" xml:id="Kasten_blau_44_11_0010.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l3" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l4" n="N002"/>Die kaißerlige wurde, zue welchen der alme<supplied>c</supplied>htige
-      <lb facs="#facs_1_r1l5" n="N003"/>mein gelibsten sohn <choice><expan>Mayestät</expan><abbr>My</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> erhoben, gleich wie nach
-      <lb facs="#facs_1_r1l6" n="N004"/>seiner gottligen <unclear>m</unclear> dero Liebden cooperation meistens zue
-      <lb facs="#facs_1_r1l7" n="N005"/>zue schreiben ist, also hab nit vnterlaßen wollen,
-      <lb facs="#facs_1_r1l8" n="N006"/>na<supplied>c</supplied>hmahlen dauohr mein schuldige vndt her<supplied>z</supplied>lige
-      <lb facs="#facs_1_r1l9" n="N007"/>dankhsagung abzuelegen. Vndt gleich sie durch
-      <lb facs="#facs_1_r1l10" n="N008"/>disen alles, waß ich ihnen schuldich bin, so vill ver-
-      <lb facs="#facs_1_r1l11" n="N009"/>mehret vndt ich solches nit genugsamb erkennen
-      <lb facs="#facs_1_r1l12" n="N010"/>kann, also bitte gott, das er solches ers<supplied>e</supplied>zen,
-      <lb facs="#facs_1_r1l13" n="N011"/>dero Liebden mitt bestendiger gesuntheit vndt allen ver-
-      <lb facs="#facs_1_r1l14" n="N012"/>gnügen erhalten wolle durch vnzalbar iahr, damit
-      <lb facs="#facs_1_r1l15" n="N013"/>sie meinen Kaißer in deßen schweren regirung
-      <lb facs="#facs_1_r1l16" n="N014"/>noch verners assistiren mögen. Ich aber werde
-      <lb facs="#facs_1_r1l17" n="N015"/>ehender sterben, als nit bestendig zu sein
-      <lb facs="#facs_1_line_1663316522034_87" n="N016"/>dero Liebden
-      <lb facs="#facs_1_line_1663316529719_91" n="N017"/>getr<supplied>e</supplied>wste schwester
-      <lb facs="#facs_1_r1l19" n="N018"/>Eleonora
-      <lb facs="#facs_1_line_1663316529719_92" n="N019"/>Wien den 15ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1711</ab>
-    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_11_0011.jpg"/>
-    <ab facs="#facs_2_region_1663316673774_107"/>
-    <ab facs="#facs_2_region_1663316690236_111">
-      <lb facs="#facs_2_line_1663316705050_115" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten
-      <lb facs="#facs_2_line_1663316712765_120" n="N002"/>zu Pfalz, meinem
-      <lb facs="#facs_2_line_1663316722469_125" n="N003"/>herzallerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice>
-      <lb facs="#facs_2_line_1663316728505_130" n="N004"/>brudern</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="3 r" xml:id="Kasten_blau_44_11_0010.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Die kaißerlige wurde, zue welchen der alme<supplied>c</supplied>htige
+      <lb n="N003"/>mein gelibsten sohn <choice><expan>Mayestät</expan><abbr>My</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> erhoben, gleich wie nach
+      <lb n="N004"/>seiner gottligen <unclear>m</unclear> dero Liebden cooperation meistens zue
+      <lb n="N005"/>zue schreiben ist, also hab nit vnterlaßen wollen,
+      <lb n="N006"/>na<supplied>c</supplied>hmahlen dauohr mein schuldige vndt her<supplied>z</supplied>lige
+      <lb n="N007"/>dankhsagung abzuelegen. Vndt gleich sie durch
+      <lb n="N008"/>disen alles, waß ich ihnen schuldich bin, so vill ver-
+      <lb n="N009"/>mehret vndt ich solches nit genugsamb erkennen
+      <lb n="N010"/>kann, also bitte gott, das er solches ers<supplied>e</supplied>zen,
+      <lb n="N011"/>dero Liebden mitt bestendiger gesuntheit vndt allen ver-
+      <lb n="N012"/>gnügen erhalten wolle durch vnzalbar iahr, damit
+      <lb n="N013"/>sie meinen Kaißer in deßen schweren regirung
+      <lb n="N014"/>noch verners assistiren mögen. Ich aber werde
+      <lb n="N015"/>ehender sterben, als nit bestendig zu sein
+      <lb n="N016"/>dero Liebden
+      <lb n="N017"/>getr<supplied>e</supplied>wste schwester
+      <lb n="N018"/>Eleonora
+      <lb n="N019"/>Wien den 15ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1711</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_11_0011.jpg"/><p facs="#facs_2_region_1663316673774_107"/><p facs="#facs_2_region_1663316690236_111">
+      <lb n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten
+      <lb n="N002"/>zu Pfalz, meinem
+      <lb n="N003"/>herzallerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice>
+      <lb n="N004"/>brudern</p></div>
 </body>
 
    </text>

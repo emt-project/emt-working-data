@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0898.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0898.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -131,38 +131,33 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="210 r" xml:id="Kasten_blau_45_15_0898.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein he<supplied>r</supplied>zallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 27ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> respect
-      <lb facs="#facs_1_r1l3" n="N003"/>vnd höchsten freiden empfangen in hoffnung, dise mein
-      <lb facs="#facs_1_r1l4" n="N004"/><choice><expan>vnterdehnigste</expan><abbr>vnd</abbr></choice> zeilen werden ewer Durchlaucht schon zue Linz gelükhlich
-      <lb facs="#facs_1_r1l5" n="N005"/>angelangter finden. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>, der Cuhrpri<supplied>n</supplied>z, wi<supplied>r</supplied>t izt
-      <lb facs="#facs_1_r1l6" n="N006"/>schon bey ewer Durchlaucht sein, wie ich vom Hamilton vernommen.
-      <lb facs="#facs_1_r1l7" n="N007"/>Mich dunkt, er sey einwehnig verliebt, gott geb,
-      <lb facs="#facs_1_r1l8" n="N008"/>was zue seiner ehr ist. Heündt hab ich na<supplied>c</supplied>h
-      <lb facs="#facs_1_r1l9" n="N009"/>ewer Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> befehl eigenhendich, wie auch durch
-      <lb facs="#facs_1_r1l10" n="N010"/>den <choice><expan>Graven</expan><abbr>Gr</abbr></choice> Kinski, an die Fürstin von Locowiz wegen
-      <lb facs="#facs_1_r1l12" n="N011"/><add>meines <choice><expan>bruders</expan><abbr>b</abbr></choice> Pfilip Wilhelm</add> schreiben laßen. Ich zweifel nit, sie wirt sich gahr gehrn
-      <lb facs="#facs_1_r1l13" n="N012"/>dazue einlaßen, wan man ihr nuhr kein hoffnung von
-      <lb facs="#facs_1_r1l14" n="N013"/>dem eltern macht, wie ihr dan gesuecht, dis noch zur
-      <lb facs="#facs_1_r1l15" n="N014"/>zeit zu benemmen. Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
-      <lb facs="#facs_1_r1l16" n="N015"/>heündt kurz vnd villeicht vngereimbt schreibe,</ab>
-    <pb facs="#facs_2" n="210 v" xml:id="Kasten_blau_45_15_0899.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>mihr seint izt bey einer music, so der morgige
-      <lb facs="#facs_2_r1l2" n="N002"/>breütigam seiner braut halt, der Martiniz, vnd dut
-      <lb facs="#facs_2_r1l3" n="N003"/>duet ein das geigen vnd pauken ihr ma<supplied>c</supplied>hen. Heündt
-      <lb facs="#facs_2_r1l4" n="N004"/>den ganzen dag haben mihr in der kirchen zuebracht,
-      <lb facs="#facs_2_r1l5" n="N005"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Marco hatt vohrmitag den segen geben vnd na<supplied>c</supplied>hmitag
-      <lb facs="#facs_2_r1l6" n="N006"/>wahren bein jesuiten, also mues wider mein willen enden
-      <lb facs="#facs_2_r1l7" n="N007"/>vnd werde sterben
-      <lb facs="#facs_2_r1l8" n="N008"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l10" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
-      <lb facs="#facs_2_r1l11" n="N010"/>Eleonora
-      <lb facs="#facs_2_r1l9" n="N011"/>Wien den 2ten julij 1690</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="210 r" xml:id="Kasten_blau_45_15_0898.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein he<supplied>r</supplied>zallerliebster herr vatter
+      <lb n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 27ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> respect
+      <lb n="N003"/>vnd höchsten freiden empfangen in hoffnung, dise mein
+      <lb n="N004"/><choice><expan>vnterdehnigste</expan><abbr>vnd</abbr></choice> zeilen werden ewer Durchlaucht schon zue Linz gelükhlich
+      <lb n="N005"/>angelangter finden. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>, der Cuhrpri<supplied>n</supplied>z, wi<supplied>r</supplied>t izt
+      <lb n="N006"/>schon bey ewer Durchlaucht sein, wie ich vom Hamilton vernommen.
+      <lb n="N007"/>Mich dunkt, er sey einwehnig verliebt, gott geb,
+      <lb n="N008"/>was zue seiner ehr ist. Heündt hab ich na<supplied>c</supplied>h
+      <lb n="N009"/>ewer Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> befehl eigenhendich, wie auch durch
+      <lb n="N010"/>den <choice><expan>Graven</expan><abbr>Gr</abbr></choice> Kinski, an die Fürstin von Locowiz wegen
+      <lb n="N011"/><add>meines <choice><expan>bruders</expan><abbr>b</abbr></choice> Pfilip Wilhelm</add> schreiben laßen. Ich zweifel nit, sie wirt sich gahr gehrn
+      <lb n="N012"/>dazue einlaßen, wan man ihr nuhr kein hoffnung von
+      <lb n="N013"/>dem eltern macht, wie ihr dan gesuecht, dis noch zur
+      <lb n="N014"/>zeit zu benemmen. Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das
+      <lb n="N015"/>heündt kurz vnd villeicht vngereimbt schreibe,</p></div><div type="page"><pb facs="#facs_2" n="210 v" xml:id="Kasten_blau_45_15_0899.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>mihr seint izt bey einer music, so der morgige
+      <lb n="N002"/>breütigam seiner braut halt, der Martiniz, vnd dut
+      <lb n="N003"/>duet ein das geigen vnd pauken ihr ma<supplied>c</supplied>hen. Heündt
+      <lb n="N004"/>den ganzen dag haben mihr in der kirchen zuebracht,
+      <lb n="N005"/><choice><expan>Pater</expan><abbr>P</abbr></choice> Marco hatt vohrmitag den segen geben vnd na<supplied>c</supplied>hmitag
+      <lb n="N006"/>wahren bein jesuiten, also mues wider mein willen enden
+      <lb n="N007"/>vnd werde sterben
+      <lb n="N008"/>ewer Durchlaucht
+      <lb n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> dochter
+      <lb n="N010"/>Eleonora
+      <lb n="N011"/>Wien den 2ten julij 1690</p></div>
 </body>
 
    </text>

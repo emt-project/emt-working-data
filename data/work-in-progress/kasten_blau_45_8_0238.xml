@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0238.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0238.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -120,32 +120,28 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_238" n="135 r" xml:id="Kasten_blau_45_8_0238.jpg"/>
-<ab facs="#facs_238_r1">
-               <lb facs="#facs_238_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_238_line_1619795175901_4441" n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="8" day="13" year="1679">13 dies</date> habe wohl empfangen.
-               <lb facs="#facs_238_line_1619795179827_4445" n="N003"/>Bitte vnterdehnig vmb vergebung, das heütt
-               <lb facs="#facs_238_line_1619795184693_4449" n="N004"/>nit auf alles antworten kan. Der <rs type="person">Schellerer</rs>
-               <lb facs="#facs_238_line_1619795188872_4453" n="N005"/>wirt ewer Durchlaucht alles berichten. Weil mihr
-               <lb facs="#facs_238_line_1619795209029_4464" n="N006"/>übermorgen noch wekh sollen, so laufen die
-               <lb facs="#facs_238_line_1619795203469_4460" n="N007"/>leütt so, das die zeit vnmöglich zue finden. Mit
-               <lb facs="#facs_238_r1l18" n="N008"/>dem <rs type="person">Deütschmeister</rs> wirt alles vohr vnserer
-               <lb facs="#facs_238_line_1619795221389_4471" n="N009"/>abreis von <rs type="place"><choice><expan>Sankt</expan><abbr>S</abbr></choice> Veit</rs>, welches bis könftigen
-               <lb facs="#facs_238_r1l22" n="N010"/>mitwoch sein wirt, geschloßen werden. Er wirt
-               <lb facs="#facs_238_line_1619795226354_4476" n="N011"/>selbsten zue mihr kommen, alsdan will
-               <lb facs="#facs_238_line_1619795233731_4480" n="N012"/>ich ihme ewer Durchlaucht schreiben überliuern.
-               <lb facs="#facs_238_r1l31" n="N013"/>Wegen dem <seg type="blackening">schpanischen</seg> <add>niderlandischen</add> gouernement will
-               <lb facs="#facs_238_line_1619795243593_4487" n="N014"/>ich mit ihr <rs type="person">Mayestät</rs> reden vndt ewer Durchlaucht berichten.
-               <lb facs="#facs_238_line_1619795248118_4491" n="N015"/>Due mich hiermit in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen
-               <lb facs="#facs_238_r1l38" n="N016"/>sterbe
-               <lb facs="#facs_238_line_1619795253281_4495" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_238_line_1619795264323_4502" n="N018"/>ganzergebenste trewgehor-
-               <lb facs="#facs_238_line_1619795273038_4506" n="N019"/>samste dochter
-               <lb facs="#facs_238_line_1619795298560_4516" n="N020"/>EMT
-               <lb facs="#facs_238_r1l44" n="N021"/><rs type="place">Wien</rs> den <date month="8" day="15" year="1679">13 aug<supplied>u</supplied>st 1679</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_238" n="135 r" xml:id="Kasten_blau_45_8_0238.jpg"/><p facs="#facs_238_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="8" day="13" year="1679">13 dies</date> habe wohl empfangen.
+               <lb n="N003"/>Bitte vnterdehnig vmb vergebung, das heütt
+               <lb n="N004"/>nit auf alles antworten kan. Der <rs type="person">Schellerer</rs>
+               <lb n="N005"/>wirt ewer Durchlaucht alles berichten. Weil mihr
+               <lb n="N006"/>übermorgen noch wekh sollen, so laufen die
+               <lb n="N007"/>leütt so, das die zeit vnmöglich zue finden. Mit
+               <lb n="N008"/>dem <rs type="person">Deütschmeister</rs> wirt alles vohr vnserer
+               <lb n="N009"/>abreis von <rs type="place"><choice><expan>Sankt</expan><abbr>S</abbr></choice> Veit</rs>, welches bis könftigen
+               <lb n="N010"/>mitwoch sein wirt, geschloßen werden. Er wirt
+               <lb n="N011"/>selbsten zue mihr kommen, alsdan will
+               <lb n="N012"/>ich ihme ewer Durchlaucht schreiben überliuern.
+               <lb n="N013"/>Wegen dem <seg type="blackening">schpanischen</seg> <add>niderlandischen</add> gouernement will
+               <lb n="N014"/>ich mit ihr <rs type="person">Mayestät</rs> reden vndt ewer Durchlaucht berichten.
+               <lb n="N015"/>Due mich hiermit in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen
+               <lb n="N016"/>sterbe
+               <lb n="N017"/>ewer Durchlaucht
+               <lb n="N018"/>ganzergebenste trewgehor-
+               <lb n="N019"/>samste dochter
+               <lb n="N020"/>EMT
+               <lb n="N021"/><rs type="place">Wien</rs> den <date month="8" day="15" year="1679">13 aug<supplied>u</supplied>st 1679</date>
+            </p></div></body>
    </text>
 </TEI>

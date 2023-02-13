@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0553.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0553.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -134,41 +134,36 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1 r" xml:id="Kasten_blau_45_15_0553.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l6" n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> vatter
-      <lb facs="#facs_1_r1l7" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 24ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice>
-      <lb facs="#facs_1_r1l8" n="N003"/>respect empfangen vnd bitt nochmahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>,
-      <lb facs="#facs_1_r1l9" n="N004"/>ewer Durchlaucht wollen sich meinetwegen mit schreiben nit
-      <lb facs="#facs_1_r1l10" n="N005"/>incomodiren, insonderheit, wan sie einige schwa<supplied>c</supplied>hheit
-      <lb facs="#facs_1_r1l11" n="N006"/>empfinden. Mein brueder schreibt mihr auch
-      <lb facs="#facs_1_r1l12" n="N007"/>von Düßeldorf, das die hollender wekh sein vnd
-      <lb facs="#facs_1_r1l13" n="N008"/>die Erzherzogin mit <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl aufbrechen werden.
-      <lb facs="#facs_1_r1l14" n="N009"/>Ich hab dise heilige zeit nit gelegenheit gehabt
-      <lb facs="#facs_1_r1l15" n="N010"/>mit dem Hoffkanzler zue reden, werde aber dise
-      <lb facs="#facs_1_r1l16" n="N011"/>dagen ihn kommen laßen vnd mit ihm reden wegen
-      <lb facs="#facs_1_r1l17" n="N012"/><choice><expan>bruder</expan><abbr>b</abbr></choice> Carl, was er meint, das ihr Mayestät duen könten,
-      <lb facs="#facs_1_r1l18" n="N013"/>vnd sodan solches ihr Mayestät mit beßern fondament
-      <lb facs="#facs_1_r1l19" n="N014"/>vohrdragen. Der Cuhrfürst in Beyren marchirt in Schwaben,</ab>
-    <pb facs="#facs_2" n="1 v" xml:id="Kasten_blau_45_15_0554.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>den feindt abruch zue duen, gott geb, das er etwas
-      <lb facs="#facs_2_r1l2" n="N002"/>guettes ausrichte. Aufs wehnigst wirt er ewer Durchlaucht landen
-      <lb facs="#facs_2_r1l3" n="N003"/>in sicherheit sezen. Vnsere 7 regimenter werden izt
-      <lb facs="#facs_2_r1l4" n="N004"/>auch balt droben sein, gott geb seinen segen. Heündt
-      <lb facs="#facs_2_r1l5" n="N005"/>mueß ich abermahlen <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung bitten, das
-      <lb facs="#facs_2_r1l6" n="N006"/>ich heündt wehnig schreibe, dise dag seint mit den
-      <lb facs="#facs_2_r1l7" n="N007"/>fey<supplied>er</supplied>dag wüntschen zimlich occupirt worden, vndt
-      <lb facs="#facs_2_r1l8" n="N008"/>heündt seindt mihr bey den carmeliterin gew<supplied>e</supplied>ßen
-      <lb facs="#facs_2_r1l9" n="N009"/>vnd etwas schpaht heim kommen, werd mit nechstem
-      <lb facs="#facs_2_r1l10" n="N010"/>alles ersezen. Due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> befehlen,
-      <lb facs="#facs_2_r1l13" n="N011"/>die ich sterben werde
-      <lb facs="#facs_2_r1l14" n="N012"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l17" n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
-      <lb facs="#facs_2_r1l18" n="N014"/>EMT
-      <lb facs="#facs_2_r1l16" n="N015"/>Wien den 2ten jener <unclear>1689</unclear></ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1 r" xml:id="Kasten_blau_45_15_0553.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein h<supplied>er</supplied>zallerliebster <choice><expan>herr</expan><abbr>hr</abbr></choice> vatter
+      <lb n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 24ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice>
+      <lb n="N003"/>respect empfangen vnd bitt nochmahlen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice>,
+      <lb n="N004"/>ewer Durchlaucht wollen sich meinetwegen mit schreiben nit
+      <lb n="N005"/>incomodiren, insonderheit, wan sie einige schwa<supplied>c</supplied>hheit
+      <lb n="N006"/>empfinden. Mein brueder schreibt mihr auch
+      <lb n="N007"/>von Düßeldorf, das die hollender wekh sein vnd
+      <lb n="N008"/>die Erzherzogin mit <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl aufbrechen werden.
+      <lb n="N009"/>Ich hab dise heilige zeit nit gelegenheit gehabt
+      <lb n="N010"/>mit dem Hoffkanzler zue reden, werde aber dise
+      <lb n="N011"/>dagen ihn kommen laßen vnd mit ihm reden wegen
+      <lb n="N012"/><choice><expan>bruder</expan><abbr>b</abbr></choice> Carl, was er meint, das ihr Mayestät duen könten,
+      <lb n="N013"/>vnd sodan solches ihr Mayestät mit beßern fondament
+      <lb n="N014"/>vohrdragen. Der Cuhrfürst in Beyren marchirt in Schwaben,</p></div><div type="page"><pb facs="#facs_2" n="1 v" xml:id="Kasten_blau_45_15_0554.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>den feindt abruch zue duen, gott geb, das er etwas
+      <lb n="N002"/>guettes ausrichte. Aufs wehnigst wirt er ewer Durchlaucht landen
+      <lb n="N003"/>in sicherheit sezen. Vnsere 7 regimenter werden izt
+      <lb n="N004"/>auch balt droben sein, gott geb seinen segen. Heündt
+      <lb n="N005"/>mueß ich abermahlen <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung bitten, das
+      <lb n="N006"/>ich heündt wehnig schreibe, dise dag seint mit den
+      <lb n="N007"/>fey<supplied>er</supplied>dag wüntschen zimlich occupirt worden, vndt
+      <lb n="N008"/>heündt seindt mihr bey den carmeliterin gew<supplied>e</supplied>ßen
+      <lb n="N009"/>vnd etwas schpaht heim kommen, werd mit nechstem
+      <lb n="N010"/>alles ersezen. Due mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> befehlen,
+      <lb n="N011"/>die ich sterben werde
+      <lb n="N012"/>ewer Durchlaucht
+      <lb n="N013"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehos</abbr></choice> do<supplied>c</supplied>hter
+      <lb n="N014"/>EMT
+      <lb n="N015"/>Wien den 2ten jener <unclear>1689</unclear></p></div>
 </body>
 
    </text>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0048.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_3f_0048.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -136,43 +136,38 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0048.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/><unclear>16. julij 95</unclear>
-      <lb facs="#facs_1_r1l3" n="N002"/>Durchleüchtiger Chrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_r1l4" n="N003"/>Mitt der gelegenheit des <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Velen hab ihn mit
-      <lb facs="#facs_1_r1l5" n="N004"/>disen zeilen accompagniren wollen. Ist mihr leidt,
-      <lb facs="#facs_1_r1l6" n="N005"/>das er dismahl sein verlangen nit erhalten,
-      <lb facs="#facs_1_r1l7" n="N006"/>weil so vill obstacula seindt gew<supplied>e</supplied>ßen, das
-      <lb facs="#facs_1_r1l8" n="N007"/>ihr Mayestät wehr schwer gefallen, wirt sich aber mit
-      <lb facs="#facs_1_r1l9" n="N008"/>der zeit villeicht schon schiken. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl wi<supplied>r</supplied>t nun balt
-      <lb facs="#facs_1_r1l10" n="N009"/>kommen. Wegen <choice><expan>schwester</expan><abbr>schw</abbr></choice> Dorote, weil die dispens
-      <lb facs="#facs_1_r1l11" n="N010"/>kommen, wehr gutt ein endt zu machen. Sie
-      <lb facs="#facs_1_r1l12" n="N011"/>schreibt mihr vndt verlangt, das wie das vohrich
-      <lb facs="#facs_1_r1l13" n="N012"/>mahl vnter ihr Mayestät mein Keiser sollen gema<supplied>c</supplied>ht <supplied>werden</supplied>,</ab>
-    <pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_3f_0049.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l2" n="N001"/>steht also dahin, ob dero Liebden wollen, das sie hier sollen
-      <lb facs="#facs_2_r1l3" n="N002"/>gema<supplied>c</supplied>ht werden vndt iemandt darzu deputirn
-      <lb facs="#facs_2_r1l4" n="N003"/>wollen oder ob sies zue Düßeldorf machen
-      <lb facs="#facs_2_r1l5" n="N004"/>wollen. Bitt balt vmb ein antworten.
-      <lb facs="#facs_2_r1l6" n="N005"/>Hab dero Liebden auch in höchsten perse nit bergen können,
-      <lb facs="#facs_2_r1l7" n="N006"/>das ich vernommen, das <unclear>der Konich Will</unclear>
-      <lb facs="#facs_2_r1l8" n="N007"/><unclear>helm vndt die hollender sich beklagen</unclear>,
-      <lb facs="#facs_2_r1l9" n="N008"/>das Tiberius so gahr in <unclear>Holland vber sie</unclear>
-      <lb facs="#facs_2_r1l10" n="N009"/><unclear>geschmehlt vnd defidenz</unclear> gezeigt. Das <unclear>dero Liebden</unclear>
-      <lb facs="#facs_2_r1l11" n="N010"/><unclear>gegen mech vnd mein Keiser</unclear> confidenter
-      <lb facs="#facs_2_r1l12" n="N011"/>sich eröffnen, ist gahr gutt, aber sonst mus man <seg type="blackening">???</seg>
-      <lb facs="#facs_2_r1l13" n="N012"/>caute gehn. Dero Liebden verzeien mihr mein freiheit, hab
-      <lb facs="#facs_2_r1l14" n="N013"/>vermeindt mein schuldichkeit zue sein, dero Liebden zue
-      <lb facs="#facs_2_r1l15" n="N014"/>warnen. Due mich in dero affection bef<supplied>e</supplied>hlen,
-      <lb facs="#facs_2_line_1641830963480_309" n="N015"/>vndt werde st<supplied>er</supplied>ben
-      <lb facs="#facs_2_line_1640284609707_528" n="N016"/>dero Liebden
-      <lb facs="#facs_2_r1l18" n="N017"/>getr<supplied>e</supplied>wste schwester
-      <lb facs="#facs_2_r1l20" n="N018"/>Eleonora
-      <lb facs="#facs_2_r1l19" n="N019"/>Fauorita den 16ten julij 1695</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0048.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/><unclear>16. julij 95</unclear>
+      <lb n="N002"/>Durchleüchtiger Chrfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N003"/>Mitt der gelegenheit des <choice><expan>Grav</expan><abbr>Gr</abbr></choice> Velen hab ihn mit
+      <lb n="N004"/>disen zeilen accompagniren wollen. Ist mihr leidt,
+      <lb n="N005"/>das er dismahl sein verlangen nit erhalten,
+      <lb n="N006"/>weil so vill obstacula seindt gew<supplied>e</supplied>ßen, das
+      <lb n="N007"/>ihr Mayestät wehr schwer gefallen, wirt sich aber mit
+      <lb n="N008"/>der zeit villeicht schon schiken. <choice><expan>Bruder</expan><abbr>B</abbr></choice> Carl wi<supplied>r</supplied>t nun balt
+      <lb n="N009"/>kommen. Wegen <choice><expan>schwester</expan><abbr>schw</abbr></choice> Dorote, weil die dispens
+      <lb n="N010"/>kommen, wehr gutt ein endt zu machen. Sie
+      <lb n="N011"/>schreibt mihr vndt verlangt, das wie das vohrich
+      <lb n="N012"/>mahl vnter ihr Mayestät mein Keiser sollen gema<supplied>c</supplied>ht <supplied>werden</supplied>,</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_3f_0049.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>steht also dahin, ob dero Liebden wollen, das sie hier sollen
+      <lb n="N002"/>gema<supplied>c</supplied>ht werden vndt iemandt darzu deputirn
+      <lb n="N003"/>wollen oder ob sies zue Düßeldorf machen
+      <lb n="N004"/>wollen. Bitt balt vmb ein antworten.
+      <lb n="N005"/>Hab dero Liebden auch in höchsten perse nit bergen können,
+      <lb n="N006"/>das ich vernommen, das <unclear>der Konich Will</unclear>
+      <lb n="N007"/><unclear>helm vndt die hollender sich beklagen</unclear>,
+      <lb n="N008"/>das Tiberius so gahr in <unclear>Holland vber sie</unclear>
+      <lb n="N009"/><unclear>geschmehlt vnd defidenz</unclear> gezeigt. Das <unclear>dero Liebden</unclear>
+      <lb n="N010"/><unclear>gegen mech vnd mein Keiser</unclear> confidenter
+      <lb n="N011"/>sich eröffnen, ist gahr gutt, aber sonst mus man <seg type="blackening">???</seg>
+      <lb n="N012"/>caute gehn. Dero Liebden verzeien mihr mein freiheit, hab
+      <lb n="N013"/>vermeindt mein schuldichkeit zue sein, dero Liebden zue
+      <lb n="N014"/>warnen. Due mich in dero affection bef<supplied>e</supplied>hlen,
+      <lb n="N015"/>vndt werde st<supplied>er</supplied>ben
+      <lb n="N016"/>dero Liebden
+      <lb n="N017"/>getr<supplied>e</supplied>wste schwester
+      <lb n="N018"/>Eleonora
+      <lb n="N019"/>Fauorita den 16ten julij 1695</p></div>
 </body>
 
    </text>

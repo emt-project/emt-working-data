@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0806.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_15_0806.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -138,44 +138,39 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="154 r" xml:id="Kasten_blau_45_15_0806.jpg"/>
-    <ab facs="#facs_1_r2">
-      <lb facs="#facs_1_r2l1" n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
-      <lb facs="#facs_1_r2l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 10ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> res-
-      <lb facs="#facs_1_r2l3" n="N003"/>pect empfangen, der almechtige erhalte ewer Durchlaucht
-      <lb facs="#facs_1_r2l4" n="N004"/>verners bey bestendiger gesundtheit. Die brief
-      <lb facs="#facs_1_r2l5" n="N005"/>in Schpanien werd fleisig überschiken, aber den
-      <lb facs="#facs_1_r2l6" n="N006"/>Deütschmeister, glaub ich, werds nimmer antreffen.
-      <lb facs="#facs_1_r2l7" n="N007"/>Ich wills aber vnserer Königin einschließen, das,
-      <lb facs="#facs_1_r2l8" n="N008"/>wan er schon wekh wehr, sies ihm nachschiken könte,
-      <lb facs="#facs_1_r2l9" n="N009"/>dan ich nit weis, was er noch vohr ein weg wirt
-      <lb facs="#facs_1_r2l10" n="N010"/>zuerukh nemmen. Der Herzoch von Lottring hatt zwar
-      <lb facs="#facs_1_r2l11" n="N011"/>vom 8ten von Inschprukh geschriben, das dorten ein
-      <lb facs="#facs_1_r2l12" n="N012"/>engelendischer cavalier durch auf Venedig, welchen der
-      <lb facs="#facs_1_r2l13" n="N013"/>König Wilhelm gahr in Türkey schikt, sie zum friden
-      <lb facs="#facs_1_r2l14" n="N014"/>zue persuadiren. Der hab gesagt, das er erst 11 dag</ab>
-    <pb facs="#facs_2" n="154 v" xml:id="Kasten_blau_45_15_0807.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/>erst aus Engelandt sey, vnd die Königin sey mit
-      <lb facs="#facs_2_r1l2" n="N002"/>gutem windt abgesegelt. Hingegen geben die
-      <lb facs="#facs_2_r1l3" n="N003"/>heüntigen brief, das sie den 20ten noch dort wahr,
-      <lb facs="#facs_2_r1l4" n="N004"/>aber sie meineten, weils gueter <unclear>wind</unclear>, werds balt abfahren,
-      <lb facs="#facs_2_r1l5" n="N005"/>so wißen nit, was glauben sollen. Dise dag sein mihr
-      <lb facs="#facs_2_r1l6" n="N006"/>zue Laxenburg gewest, aber der windt hatt die
-      <lb facs="#facs_2_r1l7" n="N007"/>beys verhindert. Vohrgestren war ein fuxbrellen, ist
-      <lb facs="#facs_2_r1l8" n="N008"/>lustig abgangen. Sonst gibts niks <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue
-      <lb facs="#facs_2_r1l9" n="N009"/>berichten, also due ich mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
-      <lb facs="#facs_2_r1l10" n="N010"/>empfehlen vnd werde sterben
-      <lb facs="#facs_2_r1l11" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_2_r1l13" n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghos</abbr></choice> dochter
-      <lb facs="#facs_2_r1l15" n="N013"/>Eleonora
-      <lb facs="#facs_2_line_1652112085697_126" n="N014"/>Wien den 16ten <seg type="blackening">feb</seg> <add>merz</add> 1690
-      <lb facs="#facs_2_r1l16" n="N015"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb <choice><expan>gnädige</expan><abbr>g</abbr></choice> vergebung,
-      <lb facs="#facs_2_r1l17" n="N016"/>wan ich die könftige <add>2</add> posten mit schr<supplied>e</supplied>iben villeicht nit
-      <lb facs="#facs_2_r1l18" n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aufwartet, in der heiligen zeit gibts wehnig
-      <lb facs="#facs_2_r1l19" n="N018"/>zum schreiben.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="154 r" xml:id="Kasten_blau_45_15_0806.jpg"/><p facs="#facs_1_r2">
+      <lb n="N001"/>Durchleüchtiger Cuhrfürst, mein herzallerlibster herr vatter
+      <lb n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 10ten dis hab mit <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> res-
+      <lb n="N003"/>pect empfangen, der almechtige erhalte ewer Durchlaucht
+      <lb n="N004"/>verners bey bestendiger gesundtheit. Die brief
+      <lb n="N005"/>in Schpanien werd fleisig überschiken, aber den
+      <lb n="N006"/>Deütschmeister, glaub ich, werds nimmer antreffen.
+      <lb n="N007"/>Ich wills aber vnserer Königin einschließen, das,
+      <lb n="N008"/>wan er schon wekh wehr, sies ihm nachschiken könte,
+      <lb n="N009"/>dan ich nit weis, was er noch vohr ein weg wirt
+      <lb n="N010"/>zuerukh nemmen. Der Herzoch von Lottring hatt zwar
+      <lb n="N011"/>vom 8ten von Inschprukh geschriben, das dorten ein
+      <lb n="N012"/>engelendischer cavalier durch auf Venedig, welchen der
+      <lb n="N013"/>König Wilhelm gahr in Türkey schikt, sie zum friden
+      <lb n="N014"/>zue persuadiren. Der hab gesagt, das er erst 11 dag</p></div><div type="page"><pb facs="#facs_2" n="154 v" xml:id="Kasten_blau_45_15_0807.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>erst aus Engelandt sey, vnd die Königin sey mit
+      <lb n="N002"/>gutem windt abgesegelt. Hingegen geben die
+      <lb n="N003"/>heüntigen brief, das sie den 20ten noch dort wahr,
+      <lb n="N004"/>aber sie meineten, weils gueter <unclear>wind</unclear>, werds balt abfahren,
+      <lb n="N005"/>so wißen nit, was glauben sollen. Dise dag sein mihr
+      <lb n="N006"/>zue Laxenburg gewest, aber der windt hatt die
+      <lb n="N007"/>beys verhindert. Vohrgestren war ein fuxbrellen, ist
+      <lb n="N008"/>lustig abgangen. Sonst gibts niks <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue
+      <lb n="N009"/>berichten, also due ich mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
+      <lb n="N010"/>empfehlen vnd werde sterben
+      <lb n="N011"/>ewer Durchlaucht
+      <lb n="N012"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewghos</abbr></choice> dochter
+      <lb n="N013"/>Eleonora
+      <lb n="N014"/>Wien den 16ten <seg type="blackening">feb</seg> <add>merz</add> 1690
+      <lb n="N015"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb <choice><expan>gnädige</expan><abbr>g</abbr></choice> vergebung,
+      <lb n="N016"/>wan ich die könftige <add>2</add> posten mit schr<supplied>e</supplied>iben villeicht nit
+      <lb n="N017"/><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> aufwartet, in der heiligen zeit gibts wehnig
+      <lb n="N018"/>zum schreiben.</p></div>
 </body>
 
    </text>

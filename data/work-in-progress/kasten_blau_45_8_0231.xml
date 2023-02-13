@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0231.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0231.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -135,44 +135,38 @@
 
    </facsimile>
    <text type="letter">
-      <body>
-         <pb facs="#facs_231" n="142 r" xml:id="Kasten_blau_45_8_0231.jpg"/>
-<ab facs="#facs_231_r1">
-               <lb facs="#facs_231_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_231_r1l2" n="N002"/>Dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> schreiben vom <date month="7" day="21" year="1679">21 dieses</date> habe mit großen
-               <lb facs="#facs_231_r1l3" n="N003"/>freüden empfangen, in deme ich daraus dero gutten
-               <lb facs="#facs_231_r1l4" n="N004"/>wohlstant vernommen. Ewer Durchlaucht seint mihr gahr
-               <lb facs="#facs_231_r1l5" n="N005"/>zue <choice><expan>gnädig</expan><abbr>g</abbr></choice>, das sie ein soliche sorg meinetwegen
-               <lb facs="#facs_231_r1l6" n="N006"/>haben der incomoditet halber, so ich iezt habe.
-               <lb facs="#facs_231_r1l7" n="N007"/>Ich bin zwar bis dato noch nit ausgangen,
-               <lb facs="#facs_231_line_1619794038316_3957" n="N008"/>verhoffe aber, es solte balt können sein,
-               <lb facs="#facs_231_line_1619794042109_3961" n="N009"/>dan es sich wohl schiket zur beßerung.
-               <lb facs="#facs_231_line_1619794046515_3965" n="N010"/>Was mein <rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Ludwich</rs> anbelanget, wirt ich
-               <lb facs="#facs_231_line_1619794054169_3970" n="N011"/>fleisich darinen sein. Ich schike hierbey ewer Durchlaucht
-               <lb facs="#facs_231_line_1619794061304_3974" n="N012"/>ein schreiben vom <rs type="person">Deutschmeister</rs>, welches er mihr
-               <lb facs="#facs_231_line_1619794074599_3982" n="N013"/>sub volante übergeschikt hatt, warinen er aber
-               <lb facs="#facs_231_line_1619794080224_3986" n="N014"/>von der einkleidung allein meldung duet.
-               <lb facs="#facs_231_line_1619794090030_3990" n="N015"/>Man mues als mit dem lieben alten gemach
-               <lb facs="#facs_231_line_1619794095198_3994" n="N016"/>vmb gehn, ich hoff aber, es werde sich das
-               <lb facs="#facs_231_line_1619794113315_4005" n="N017"/>werkh balt geben. Wegen des gouerno will 
-               <lb facs="#facs_231_line_1619794123747_4012" n="N018"/>ich mit ihr <rs type="person">Mayestät</rs> reden vndt mit dem
-               <lb facs="#facs_231_line_1619794132108_4019" n="N019"/><rs type="person">Hoher</rs> reden laßen, aber ich förcht wohl,
-               <lb facs="#facs_231_line_1619794175546_4040" n="N020"/>es werde niks daraus, so lang <rs type="person">Don Jouan</rs>
-            </ab>
-<pb facs="#facs_232" n="142 v" xml:id="Kasten_blau_45_8_0232.jpg"/>
-<ab facs="#facs_232_r1">
-               <lb facs="#facs_232_r1l1" n="N001"/>dorten regiren wirt. <seg type="blackening">ich</seg> Man sagt auch, <rs type="person">er</rs> habe
-               <lb facs="#facs_232_line_1619794211283_4048" n="N002"/>das gouerno schon dem <rs type="person">Balbases</rs> geben, der
-               <lb facs="#facs_232_line_1619794214829_4052" n="N003"/>werde herunter reisen. Hirmit due mich in
-               <lb facs="#facs_232_r1l7" n="N004"/>ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, weil mihr nit erlaubt,
-               <lb facs="#facs_232_line_1619794222664_4059" n="N005"/>vill zue schreiben. Ich werde sterben
-               <lb facs="#facs_232_line_1619794271462_4066" n="N006"/>ewer Durchlaucht
-               <lb facs="#facs_232_line_1619794293815_4076" n="N007"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_232_line_1620991240546_359" n="N008"/>dochter
-               <lb facs="#facs_232_line_1619794298776_4081" n="N009"/>EMT
-               <lb facs="#facs_232_line_1619794281238_4071" n="N010"/><rs type="place">Wien</rs> den <date month="7" day="27" year="1679">21 julij 1679</date>
-            </ab>
-
-      </body>
+      <body><div type="page"><pb facs="#facs_231" n="142 r" xml:id="Kasten_blau_45_8_0231.jpg"/><p facs="#facs_231_r1">
+               <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+               <lb n="N002"/>Dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> schreiben vom <date month="7" day="21" year="1679">21 dieses</date> habe mit großen
+               <lb n="N003"/>freüden empfangen, in deme ich daraus dero gutten
+               <lb n="N004"/>wohlstant vernommen. Ewer Durchlaucht seint mihr gahr
+               <lb n="N005"/>zue <choice><expan>gnädig</expan><abbr>g</abbr></choice>, das sie ein soliche sorg meinetwegen
+               <lb n="N006"/>haben der incomoditet halber, so ich iezt habe.
+               <lb n="N007"/>Ich bin zwar bis dato noch nit ausgangen,
+               <lb n="N008"/>verhoffe aber, es solte balt können sein,
+               <lb n="N009"/>dan es sich wohl schiket zur beßerung.
+               <lb n="N010"/>Was mein <rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Ludwich</rs> anbelanget, wirt ich
+               <lb n="N011"/>fleisich darinen sein. Ich schike hierbey ewer Durchlaucht
+               <lb n="N012"/>ein schreiben vom <rs type="person">Deutschmeister</rs>, welches er mihr
+               <lb n="N013"/>sub volante übergeschikt hatt, warinen er aber
+               <lb n="N014"/>von der einkleidung allein meldung duet.
+               <lb n="N015"/>Man mues als mit dem lieben alten gemach
+               <lb n="N016"/>vmb gehn, ich hoff aber, es werde sich das
+               <lb n="N017"/>werkh balt geben. Wegen des gouerno will 
+               <lb n="N018"/>ich mit ihr <rs type="person">Mayestät</rs> reden vndt mit dem
+               <lb n="N019"/><rs type="person">Hoher</rs> reden laßen, aber ich förcht wohl,
+               <lb n="N020"/>es werde niks daraus, so lang <rs type="person">Don Jouan</rs>
+            </p></div><div type="page"><pb facs="#facs_232" n="142 v" xml:id="Kasten_blau_45_8_0232.jpg"/><p facs="#facs_232_r1">
+               <lb n="N001"/>dorten regiren wirt. <seg type="blackening">ich</seg> Man sagt auch, <rs type="person">er</rs> habe
+               <lb n="N002"/>das gouerno schon dem <rs type="person">Balbases</rs> geben, der
+               <lb n="N003"/>werde herunter reisen. Hirmit due mich in
+               <lb n="N004"/>ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, weil mihr nit erlaubt,
+               <lb n="N005"/>vill zue schreiben. Ich werde sterben
+               <lb n="N006"/>ewer Durchlaucht
+               <lb n="N007"/>ganzergebenste trewgehorsamste
+               <lb n="N008"/>dochter
+               <lb n="N009"/>EMT
+               <lb n="N010"/><rs type="place">Wien</rs> den <date month="7" day="27" year="1679">21 julij 1679</date>
+            </p></div></body>
    </text>
 </TEI>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0343.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0343.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -133,40 +133,35 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="203 r" xml:id="Kasten_blau_45_9_0343.jpg"/>
-    <ab facs="#facs_1_r1">
-      <lb facs="#facs_1_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_r1l2" n="N002"/>Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben
-      <lb facs="#facs_1_r1l3" n="N003"/>vom 13ten vnd 15ten dis vnd das sie mihr zue
-      <lb facs="#facs_1_r1l4" n="N004"/>dem dag der <choice><expan>heiligen</expan><abbr>he</abbr></choice> Teresa so vill guette vnd <choice><expan>gnädige</expan><abbr>g</abbr></choice>
-      <lb facs="#facs_1_r1l5" n="N005"/>wüntsch duen wollen. Ich bins woll nit wert vnd
-      <lb facs="#facs_1_r1l6" n="N006"/>wehre mein gröste consolation, wan ich auf einige
-      <lb facs="#facs_1_r1l7" n="N007"/>weis ewer Durchlaucht so ville gnaden in etwas abdienen könte.
-      <lb facs="#facs_1_r1l8" n="N008"/>Meinen <choice><expan>bruder</expan><abbr>br</abbr></choice> <choice><expan>Ludwig</expan><abbr>Lud</abbr></choice> betrefent, obwoll ich nechsten geschriben,
-      <lb facs="#facs_1_r1l9" n="N009"/>das ihr Mayestät vermeineten, das er noch ferners bey
-      <lb facs="#facs_1_r1l10" n="N010"/>der armeé bis zue ausgang der belagerung
-      <lb facs="#facs_1_r1l11" n="N011"/>continuiren könte, so hab ich doch nachgehns ver-
-      <lb facs="#facs_1_r1l12" n="N012"/>nommen, das er sich nit gahr woll befunden vnd <supplied>haben</supplied>
-      <lb facs="#facs_1_r1l13" n="N013"/>ihr Mayestät mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befohlen ihm zue schreiben, das er gleich
-      <lb facs="#facs_1_r1l14" n="N014"/>soll herauf kommen, wan er nit wider beßer
-      <lb facs="#facs_1_r1l15" n="N015"/>sey. Diser brif wirt vermuetlich gestren oder heünt
-      <lb facs="#facs_1_r1l16" n="N016"/>aufs lengste drunten sein ankommen. Heünt hab
-      <lb facs="#facs_1_r1l17" n="N017"/>ein brif von <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl bekommen, welchen hierbey</ab>
-    <pb facs="#facs_2" n="203 v" xml:id="Kasten_blau_45_9_0344.jpg"/>
-    <ab facs="#facs_2_r1">
-      <lb facs="#facs_2_r1l1" n="N001"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> bey schließe. Ich werd auch gleich wider schreiben,
-      <lb facs="#facs_2_r1l2" n="N002"/>das er herauf sich soll führen laßen vnd ein
-      <lb facs="#facs_2_r1l3" n="N003"/>doctor entgegen schiken. Mihr seint schpaht von
-      <lb facs="#facs_2_r1l4" n="N004"/>Neüstatt kommen, also bitt <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> mihr in <choice><expan>gnaden</expan><abbr>g</abbr></choice>
-      <lb facs="#facs_2_r1l5" n="N005"/>zue vergeben, das nit mehr schreibe. Due mich
-      <lb facs="#facs_2_r1l6" n="N006"/>hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die
-      <lb facs="#facs_2_r1l7" n="N007"/>ich st<supplied>e</supplied>rben werde
-      <lb facs="#facs_2_r1l8" n="N008"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1639305142895_450" n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste d<supplied>o</supplied>chter
-      <lb facs="#facs_2_r1l10" n="N010"/>EMT
-      <lb facs="#facs_2_line_1639305142895_451" n="N011"/>Wien den 26ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1684</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="203 r" xml:id="Kasten_blau_45_9_0343.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+      <lb n="N002"/>Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben
+      <lb n="N003"/>vom 13ten vnd 15ten dis vnd das sie mihr zue
+      <lb n="N004"/>dem dag der <choice><expan>heiligen</expan><abbr>he</abbr></choice> Teresa so vill guette vnd <choice><expan>gnädige</expan><abbr>g</abbr></choice>
+      <lb n="N005"/>wüntsch duen wollen. Ich bins woll nit wert vnd
+      <lb n="N006"/>wehre mein gröste consolation, wan ich auf einige
+      <lb n="N007"/>weis ewer Durchlaucht so ville gnaden in etwas abdienen könte.
+      <lb n="N008"/>Meinen <choice><expan>bruder</expan><abbr>br</abbr></choice> <choice><expan>Ludwig</expan><abbr>Lud</abbr></choice> betrefent, obwoll ich nechsten geschriben,
+      <lb n="N009"/>das ihr Mayestät vermeineten, das er noch ferners bey
+      <lb n="N010"/>der armeé bis zue ausgang der belagerung
+      <lb n="N011"/>continuiren könte, so hab ich doch nachgehns ver-
+      <lb n="N012"/>nommen, das er sich nit gahr woll befunden vnd <supplied>haben</supplied>
+      <lb n="N013"/>ihr Mayestät mihr <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befohlen ihm zue schreiben, das er gleich
+      <lb n="N014"/>soll herauf kommen, wan er nit wider beßer
+      <lb n="N015"/>sey. Diser brif wirt vermuetlich gestren oder heünt
+      <lb n="N016"/>aufs lengste drunten sein ankommen. Heünt hab
+      <lb n="N017"/>ein brif von <choice><expan>bruder</expan><abbr>b</abbr></choice> Carl bekommen, welchen hierbey</p></div><div type="page"><pb facs="#facs_2" n="203 v" xml:id="Kasten_blau_45_9_0344.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/><choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> bey schließe. Ich werd auch gleich wider schreiben,
+      <lb n="N002"/>das er herauf sich soll führen laßen vnd ein
+      <lb n="N003"/>doctor entgegen schiken. Mihr seint schpaht von
+      <lb n="N004"/>Neüstatt kommen, also bitt <choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> mihr in <choice><expan>gnaden</expan><abbr>g</abbr></choice>
+      <lb n="N005"/>zue vergeben, das nit mehr schreibe. Due mich
+      <lb n="N006"/>hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen, die
+      <lb n="N007"/>ich st<supplied>e</supplied>rben werde
+      <lb n="N008"/>ewer Durchlaucht
+      <lb n="N009"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste d<supplied>o</supplied>chter
+      <lb n="N010"/>EMT
+      <lb n="N011"/>Wien den 26ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1684</p></div>
 </body>
 
    </text>
