@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_6_0480.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Schwetzingen am 1699.10.12</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Johann Wilhelm von Pfalz-Neuburg</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/6</idno>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1699-10-12"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">130497</idno>
+                  <idno type="transkribus-doc-id">896386</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Abschrift</term>
+            <term>Schreiber</term>
+         </ab>
+         <ab type="notes">Abschrift "Copia" rechts oben zusätzliche Foliierung: 72 Schloss Schwetzingen Abschrift</ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+               <placeName ref="#">Schwetzingen</placeName>
+               <date when-iso="1699-10-12"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1211" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_6_0480.jpg" width="800px" height="1211px"/>
+    <zone points="32,23 32,1154 767,1154 767,23" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="28,75 33,75 60,47 75,53 77,50 88,52 92,56 99,51 106,57 117,47 122,47 122,7 67,14 51,13 44,7 27,5" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="60,94 90,77 100,77 109,82 118,75 125,76 133,70 156,64 155,51 141,47 125,58 106,50 91,56 85,51 74,53 64,48 58,49" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="290,122 301,122 312,113 337,105 357,110 373,105 390,114 390,56 343,48 320,64 310,59 303,65 290,61" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="28,165 552,148 552,105 487,110 452,91 414,112 246,111 141,68 28,101" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="117,217 288,206 322,223 431,200 587,216 750,189 749,160 646,146 535,177 490,157 393,178 321,158 276,176 116,162" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="119,255 342,260 375,239 482,269 564,236 607,251 752,236 751,207 702,191 568,220 534,204 118,224" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="111,314 152,294 237,290 275,310 512,279 605,301 749,290 748,251 665,236 616,256 553,242 514,268 376,239 342,260 218,244 110,266" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="109,343 223,360 268,334 308,361 511,324 631,344 741,329 740,293 437,312 401,293 344,313 234,291 189,321 154,295 108,319" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="108,402 140,382 239,403 309,377 435,372 528,399 738,375 756,352 601,330 408,358 373,336 287,363 170,342 107,355" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="118,435 226,453 297,421 343,438 636,413 755,427 760,381 698,372 547,404 489,378 341,404 295,384 117,409" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="114,484 227,493 308,467 455,465 556,491 633,463 719,480 769,439 732,417 600,434 538,418 405,446 300,421 236,450 168,432 113,450" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="122,546 177,545 218,509 388,543 460,516 551,544 636,510 694,532 768,517 767,455 718,482 669,466 573,491 374,467 121,497" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="122,582 262,556 358,577 395,561 426,581 490,554 559,573 700,543 766,559 771,518 690,533 588,503 383,541 218,508 169,550 121,547" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="117,635 237,597 319,636 459,598 659,614 741,583 740,545 654,577 516,558 437,582 241,560 115,577" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="116,681 269,645 361,669 466,641 748,634 747,608 709,591 647,620 569,597 334,636 243,606 193,642 144,625 115,640" rendition="Line" xml:id="facs_1_r1l15"/>
+        <zone points="118,716 343,702 386,723 436,695 484,718 536,688 614,685 642,705 760,674 759,655 709,642 641,672 466,641 361,676 296,647 181,658 117,691" rendition="Line" xml:id="facs_1_r1l16"/>
+        <zone points="108,754 274,734 371,765 471,734 603,749 754,722 754,698 653,713 614,684 536,689 483,718 429,696 265,721 183,699 107,728" rendition="Line" xml:id="facs_1_r1l17"/>
+        <zone points="119,806 171,813 250,778 300,801 385,772 444,799 502,777 536,794 619,770 665,781 697,761 766,773 765,745 521,756 476,736 377,765 318,743 118,766" rendition="Line" xml:id="facs_1_r1l18"/>
+        <zone points="114,838 229,831 268,858 349,824 536,818 629,842 766,812 765,773 612,773 475,803 386,772 306,804 250,778 176,814 113,803" rendition="Line" xml:id="facs_1_r1l19"/>
+        <zone points="125,900 163,905 212,875 259,894 287,874 486,893 562,857 661,873 757,853 752,815 698,840 579,846 519,821 361,826 266,860 176,831 124,857" rendition="Line" xml:id="facs_1_r1l20"/>
+        <zone points="120,929 456,930 630,906 724,924 772,912 770,852 697,882 541,870 485,894 435,879 294,902 235,875 178,906 119,893" rendition="Line" xml:id="facs_1_r1l21"/>
+        <zone points="96,991 141,971 187,996 249,966 453,953 610,955 654,975 756,957 748,912 668,937 527,916 456,943 323,917 95,937" rendition="Line" xml:id="facs_1_r1l22"/>
+        <zone points="115,1020 164,1014 191,1035 279,1009 321,1028 752,1011 769,1004 768,938 714,979 574,987 452,953 115,998" rendition="Line" xml:id="facs_1_r1l23"/>
+        <zone points="106,1073 223,1050 458,1068 498,1053 623,1079 660,1045 744,1051 743,998 548,1034 387,1011 342,1036 292,1016 106,1032" rendition="Line" xml:id="facs_1_r1l24"/>
+        <zone points="114,1131 306,1093 363,1125 531,1095 641,1124 756,1095 755,1047 612,1081 578,1057 531,1073 498,1053 458,1069 271,1050 231,1073 114,1079" rendition="Line" xml:id="facs_1_r1l25"/>
+        <zone points="388,1149 397,1151 414,1147 417,1151 425,1145 443,1156 449,1151 460,1152 462,1120 450,1120 444,1114 437,1113 423,1119 417,1113 410,1115 406,1110 396,1114 389,1113" rendition="Line" xml:id="facs_1_r1l26"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_2">
+    <graphic url="Kasten_blau_44_6_0481.jpg" width="800px" height="1202px"/>
+    <zone points="70,599 70,679 152,679 152,599" rendition="TextRegion" xml:id="facs_2_r1">
+        <zone points="65,633 90,632 97,637 103,633 115,637 127,635 137,637 142,642 157,637 156,600 149,601 131,593 125,595 117,587 109,589 105,586 100,589 92,581 86,587 78,584 71,591 64,592" rendition="Line" xml:id="facs_2_r1l1"/>
+        <zone points="83,675 95,674 98,677 100,675 104,676 110,670 116,675 120,673 123,675 128,671 136,671 139,631 133,631 128,635 117,636 113,639 86,634" rendition="Line" xml:id="facs_2_r1l2"/>
+      </zone>
+    <zone points="104,1069 104,1201 200,1201 200,1069" rendition="TextRegion" xml:id="facs_2_r2">
+        <zone points="99,1177 130,1176 151,1183 169,1175 174,1180 181,1176 205,1177 205,1154 197,1151 185,1153 170,1149 166,1152 151,1147 140,1151 128,1142 118,1143 109,1136 99,1138" rendition="Line" xml:id="facs_2_r2l1"/>
+      </zone>
+    <zone points="128,66 128,1134 785,1134 785,66" rendition="TextRegion" xml:id="facs_2_r3">
+        <zone points="144,95 352,84 564,97 653,126 724,102 785,115 786,69 548,77 451,37 380,63 145,66" rendition="Line" xml:id="facs_2_r3l1"/>
+        <zone points="125,137 177,161 239,131 280,153 332,134 555,160 662,139 780,163 791,120 693,106 636,130 566,97 501,111 357,84 125,118" rendition="Line" xml:id="facs_2_r3l2"/>
+        <zone points="123,186 215,204 450,198 520,221 769,189 769,164 698,143 618,162 429,135 277,165 219,142 123,157" rendition="Line" xml:id="facs_2_r3l3"/>
+        <zone points="367,1144 377,1143 382,1139 390,1142 398,1135 402,1135 410,1144 415,1140 420,1140 422,1100 417,1100 414,1097 407,1098 404,1095 401,1098 397,1096 389,1100 369,1100" rendition="Line" xml:id="facs_2_r3l4"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div type="page"><pb facs="#facs_1" n="303 r" xml:id="Kasten_blau_44_6_0480.jpg" ed="72 r"/><p facs="#facs_1_r1">
+      <lb n="N001"/>
+      <lb n="N002"/>pa
+      <lb n="N003"/>eDurchl
+      <lb n="N004"/>dodig ah allergde 
+      <lb n="N005"/>bach verselben ilendertse
+      <lb n="N006"/>nicht verhalten welcher gestalten vhere
+      <lb n="N007"/>ser das diter ka deglich wegen
+      <lb n="N008"/>der ochstates ken euneation ahmlige
+      <lb n="N009"/>derowegen ih de vndes bee m
+      <lb n="N010"/>dro gde peroletion dambteenen
+      <lb n="N011"/>vnde üerschllen abrisen er selagen
+      <lb n="N012"/>a ke au ssfidge mich disersuel
+      <lb n="N013"/>ausmein vargeb gehorss hrabe
+      <lb n="N014"/>gehorst befiehand vlh weilen hich
+      <lb n="N015"/>lae mse der falmt de
+      <lb n="N016"/>glen laigein i sortugall ergebe
+      <lb n="N017"/>so bit mi doch hu befehlen wie ich
+      <lb n="N018"/>mich mhro indelbiger negotiation
+      <lb n="N019"/>die kaushe secension letred
+      <lb n="N020"/>verfalten vnd ob ih begeneme
+      <lb n="N021"/>atm mi etwes beauen b
+      <lb n="N022"/>gesisten cmiotro blef caoe oher
+      <lb n="N023"/>vondse lay ka ingegse
+      <lb n="N024"/>zimelden oe vrloge 
+      <lb n="N025"/>impeg isethalb horde sole
+      <lb n="N026"/>E</p></div><div type="page"><pb facs="#facs_2" n="303 v" xml:id="Kasten_blau_44_6_0481.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>E
+      <lb n="N002"/></p><p facs="#facs_2_r2">
+      <lb n="N001"/></p><p facs="#facs_2_r3">
+      <lb n="N001"/>ewete hirbe allerey poe
+      <lb n="N002"/>ien befaltuges befolch mich sere
+      <lb n="N003"/>o serhg d b se
+      <lb n="N004"/>E</p></div>
+</body>
+
+   </text>
+</TEI>

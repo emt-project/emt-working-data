@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_2d_0027.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Linz am 1681.01.21</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/2d</idno>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1681-01-21"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">130361</idno>
+                  <idno type="transkribus-doc-id">870304</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__32">Linz</placeName>
+               <date when-iso="1681-01-21"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1240" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_2d_0027.jpg" width="800px" height="1240px"/>
+    <zone points="60,298 60,1224 757,1224 757,298" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="106,337 218,354 385,331 434,362 483,339 751,341 758,286 107,273" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="81,373 591,386 690,380 707,348 480,338 444,358 393,331 156,351 124,325 82,340" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="84,421 442,437 491,417 566,443 645,414 741,414 741,365 518,390 354,370 301,398 214,368 84,371" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="77,467 246,452 321,460 356,488 437,455 733,453 733,425 644,414 572,442 486,417 404,441 77,425" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="89,502 168,520 278,505 377,532 535,497 581,525 711,513 711,457 640,478 591,457 428,459 357,485 243,454 89,469" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="85,549 247,542 400,570 522,548 650,576 737,557 737,503 673,527 491,502 388,532 227,503 85,514" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="86,612 226,601 289,621 337,598 410,628 469,602 503,617 637,588 709,614 753,587 738,552 650,576 568,574 522,548 400,571 337,555 254,580 86,551" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="79,659 238,674 267,650 332,675 426,640 494,662 615,643 709,656 749,636 748,595 709,614 460,603 406,628 308,608 240,635 121,603 78,628" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="75,718 191,743 411,698 457,719 608,711 641,687 751,714 761,651 603,642 523,669 411,656 331,676 265,649 208,681 73,673" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="75,756 290,786 451,746 624,752 750,724 749,702 634,691 593,720 465,721 412,699 331,735 273,718 196,742 123,718 74,729" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="90,833 577,811 598,826 640,795 742,787 736,716 314,796 86,776" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="72,894 194,887 232,908 331,877 467,876 502,852 706,837 704,804 572,834 68,834" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="95,954 294,950 366,924 421,948 508,920 729,923 731,841 668,835 522,878 299,881 265,905 89,895" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="73,998 233,983 333,1008 586,987 679,952 730,961 727,919 651,920 621,942 510,920 410,953 237,940 191,962 70,963" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="74,1087 215,1044 417,1063 472,1036 507,1049 590,1017 733,1005 730,960 684,992 509,979 274,1026 157,994 67,1003" rendition="Line" xml:id="facs_1_r1l15"/>
+        <zone points="75,1126 149,1130 256,1096 510,1110 639,1064 708,1085 737,1072 733,1019 417,1063 370,1045 147,1051 72,1086" rendition="Line" xml:id="facs_1_r1l16"/>
+        <zone points="57,1195 327,1150 458,1180 600,1174 694,1143 692,1101 281,1121 188,1106 54,1134" rendition="Line" xml:id="facs_1_r1l17"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="800" lry="1218" xml:id="facs_2">
+    <graphic url="Kasten_blau_44_2d_0028.jpg" width="800px" height="1218px"/>
+    <zone points="54,181 54,878 769,878 769,181" rendition="TextRegion" xml:id="facs_2_r1">
+        <zone points="123,225 220,243 271,218 298,241 462,213 531,238 572,216 709,212 708,178 620,194 497,169 434,187 262,175 122,194" rendition="Line" xml:id="facs_2_r1l1"/>
+        <zone points="114,286 286,256 615,269 713,253 712,214 687,207 573,242 379,221 300,242 256,224 221,244 113,223" rendition="Line" xml:id="facs_2_r1l2"/>
+        <zone points="108,332 725,298 757,288 755,245 640,275 390,254 105,285" rendition="Line" xml:id="facs_2_r1l3"/>
+        <zone points="118,395 152,403 236,365 265,381 390,360 651,372 739,358 737,312 643,333 510,317 439,340 358,318 328,337 115,328" rendition="Line" xml:id="facs_2_r1l4"/>
+        <zone points="109,449 210,448 378,411 503,404 552,431 670,410 667,364 630,360 520,379 451,366 425,385 325,371 247,395 192,376 107,408" rendition="Line" xml:id="facs_2_r1l5"/>
+        <zone points="231,500 238,499 247,504 262,496 274,505 299,492 304,495 313,490 321,491 319,429 292,428 265,450 253,453 237,444 230,445" rendition="Line" xml:id="facs_2_r1l6"/>
+        <zone points="407,690 447,689 470,672 488,682 522,666 553,683 583,668 624,683 655,668 675,673 674,621 661,618 623,622 610,611 554,623 542,614 488,610 406,622" rendition="Line" xml:id="facs_2_r1l8"/>
+        <zone points="470,672 594,659 597,718 577,732 523,720 478,740 438,728 438,696 441,697" rendition="Line" xml:id="facs_2_line_1641474417546_485"/>
+        <zone points="64,560 99,567 124,554 146,567 190,537 232,550 268,535 324,544 380,527 392,509 261,497 182,517 146,502 137,508 87,481 62,482" rendition="Line" xml:id="facs_2_r1l7"/>
+        <zone points="53,702 144,680 185,696 224,686 281,704 363,687 408,694 407,637 357,653 314,634 289,645 251,630 176,642 143,628 109,640 51,634" rendition="Line" xml:id="facs_2_r1l9"/>
+        <zone points="100,687 260,707 376,687 438,696 438,728 434,727 345,742 322,723 275,739 123,726 57,756 54,701" rendition="Line" xml:id="facs_2_line_1641474417546_486"/>
+        <zone points="61,795 121,768 197,791 272,766 361,796 444,768 549,790 592,767 719,778 719,711 640,707 483,747 437,726 345,743 323,721 61,747" rendition="Line" xml:id="facs_2_r1l11"/>
+        <zone points="50,850 104,818 284,828 326,809 492,835 671,803 766,824 774,765 551,790 444,768 375,800 274,767 198,792 120,768 49,792" rendition="Line" xml:id="facs_2_r1l12"/>
+        <zone points="57,874 342,885 393,864 480,885 582,857 682,872 690,811 498,838 339,814 291,848 203,825 125,851 55,827" rendition="Line" xml:id="facs_2_r1l13"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_2d_0027.jpg"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr brueder
+      <lb n="N002"/>Ich habe wegen der kindelbet nit eender können
+      <lb n="N003"/>danken vohr die gutte gelükhwüntschungen, so mihr
+      <lb n="N004"/>dero Liebden zue dem newen iahr vndt meiner niderkunf
+      <lb n="N005"/>haben duen wollen. Ich wüntsche dero Liebden deren noch vill
+      <lb n="N006"/>vndt dis iahr ein sohn, gottlob, das schon so ein
+      <lb n="N007"/>guetter anfang ist, zweifle wohl ganz nit daran,
+      <lb n="N008"/>das iezt bestendig wirt sein vndt das alles wohl
+      <lb n="N009"/>wirt abgehen. Der Grau von Ottingen ist bey Regenschpurg
+      <lb n="N010"/>ankommen, ist mihr leidt, das er nit vollens
+      <lb n="N011"/>her kan kommen wegen der Beyern hecklichkeit,
+      <lb n="N012"/>dan sie laßen die leütt nit widerumb
+      <lb n="N013"/>zurukh. Ich bin so erfreüdt über die hoffnu<supplied>n</supplied>g
+      <lb n="N014"/>meiner liebsten Erzherzogin, das nit genue<supplied>c</supplied>h sagen
+      <lb n="N015"/>kan, vndt bin dero Liebden vnerhört obligirt, das sie
+      <lb n="N016"/>mihr so baldt daruon haben parte wollen
+      <lb n="N017"/>geben. Ich werdt woll ein große freüdt haben,</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="Kasten_blau_44_2d_0028.jpg"/><p facs="#facs_2_r1">
+      <lb n="N001"/>wan ich die guette zeittung hören werde.
+      <lb n="N002"/>Ich befindt mich mitt meinen kindren
+      <lb n="N003"/>gottlob wohl auf, werde übermorgen heruohr
+      <lb n="N004"/>gehen. Hab heünt nit mehr zeit zu schreiben,
+      <lb n="N005"/>befehl mich dero Liebden vndt werde sterben
+      <lb n="N006"/>dero Liebden
+      <lb n="N007"/>getreweste schwester
+      <lb n="N008"/>EMT
+      <lb n="N009"/>Lins den 21 jener 1681
+       <lb n="N010"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Dem Ansalone will fleisig
+      <lb n="N011"/>ihr Mayestät recomendiren, ist mihr 
+      <lb n="N012"/>einfr<supplied>e</supplied>udt, wan dero Liebden etwas von mihr verlangt. Die guett
+      <lb n="N013"/>Hamelton due ich au<supplied>c</supplied>h hirmit nochmahls recomendiren,
+      <lb n="N014"/>dero Liebden wolle sein alten liebe getrewen nit vergeßen.</p></div>
+</body>
+
+   </text>
+</TEI>

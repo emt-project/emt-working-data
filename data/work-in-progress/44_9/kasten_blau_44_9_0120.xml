@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_9_0120.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1707.10.22</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/9</idno>
+                        
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1707-10-22"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">142911</idno>
+                  <idno type="transkribus-doc-id">950889</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when-iso="1707-10-22"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+  <surface ulx="0" uly="0" lrx="800" lry="1266" xml:id="facs_1">
+    <graphic url="Kasten_blau_44_9_0120.jpg" width="800px" height="1266px"/>
+    <zone points="33,0 33,1182 766,1182 766,0" rendition="TextRegion" xml:id="facs_1_r1">
+        <zone points="135,395 223,416 285,407 324,434 392,422 486,450 538,433 596,448 716,437 722,375 609,362 550,392 494,369 388,369 325,335 255,333 224,356 140,334" rendition="Line" xml:id="facs_1_r1l1"/>
+        <zone points="84,438 230,480 264,457 384,503 441,477 474,505 520,481 587,500 629,486 666,509 732,484 717,436 591,451 539,433 489,452 392,422 362,438 280,407 88,396" rendition="Line" xml:id="facs_1_r1l2"/>
+        <zone points="76,484 322,540 754,540 750,497 612,518 569,488 477,506 433,481 384,503 265,457 186,478 159,449 80,436" rendition="Line" xml:id="facs_1_r1l3"/>
+        <zone points="68,553 220,578 260,564 290,595 444,579 476,603 557,579 585,604 658,575 740,619 745,545 710,534 590,558 560,537 470,551 436,528 340,551 243,506 124,494 71,513" rendition="Line" xml:id="facs_1_r1l4"/>
+        <zone points="73,594 343,649 413,628 623,633 740,670 743,620 687,592 585,604 553,580 492,606 404,575 299,599 264,565 184,580 75,554" rendition="Line" xml:id="facs_1_r1l5"/>
+        <zone points="67,669 173,656 608,713 728,699 732,637 657,653 413,629 343,649 73,593" rendition="Line" xml:id="facs_1_r1l6"/>
+        <zone points="62,717 166,704 259,749 285,727 425,730 471,762 604,741 671,766 749,745 752,697 608,713 483,688 441,709 414,683 275,691 172,656 65,672" rendition="Line" xml:id="facs_1_r1l7"/>
+        <zone points="51,776 78,766 100,791 197,766 335,793 368,774 590,820 734,793 728,748 669,767 641,746 515,743 474,764 328,728 255,753 166,703 54,723" rendition="Line" xml:id="facs_1_r1l8"/>
+        <zone points="54,818 90,802 272,844 364,830 391,856 445,834 473,858 533,827 628,862 700,846 752,867 749,799 563,822 381,779 330,798 182,771 110,794 56,771" rendition="Line" xml:id="facs_1_r1l9"/>
+        <zone points="60,866 240,876 295,905 331,879 391,913 439,881 486,912 529,887 580,911 669,887 710,914 741,899 742,869 693,848 585,861 533,827 473,858 443,832 388,856 370,837 260,850 208,824 184,847 151,820 89,839 61,824" rendition="Line" xml:id="facs_1_r1l10"/>
+        <zone points="56,927 265,926 316,962 511,935 584,961 619,935 749,947 750,908 668,887 579,910 544,886 485,912 436,881 391,913 293,917 237,876 204,894 169,869 57,870" rendition="Line" xml:id="facs_1_r1l11"/>
+        <zone points="28,966 90,985 127,963 210,986 248,968 325,1010 428,977 494,1012 542,980 762,994 764,941 621,935 581,961 483,933 457,958 310,966 202,929 29,927" rendition="Line" xml:id="facs_1_r1l12"/>
+        <zone points="48,1002 134,1040 256,1021 346,1047 402,1027 437,1054 496,1025 770,1037 771,997 667,979 639,997 543,979 488,1009 373,981 325,1011 235,967 209,986 134,962 90,985 49,965" rendition="Line" xml:id="facs_1_r1l13"/>
+        <zone points="48,1073 99,1097 184,1067 227,1104 271,1075 367,1110 449,1084 496,1111 529,1082 652,1092 681,1065 752,1060 753,1028 639,1045 543,1024 439,1055 401,1030 325,1058 275,1031 208,1048 49,1014" rendition="Line" xml:id="facs_1_r1l14"/>
+        <zone points="39,1113 150,1152 226,1119 319,1160 363,1129 479,1151 621,1119 647,1137 673,1111 714,1131 751,1114 751,1079 680,1066 604,1100 529,1082 496,1112 449,1084 422,1105 230,1110 162,1068 123,1096 39,1092" rendition="Line" xml:id="facs_1_r1l15"/>
+        <zone points="49,1170 237,1188 374,1168 450,1196 745,1174 745,1133 674,1112 645,1138 621,1119 516,1150 415,1132 387,1150 362,1129 327,1156 180,1121 120,1148 50,1118" rendition="Line" xml:id="facs_1_r1l16"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="800" lry="1268" xml:id="facs_2">
+    <graphic url="Kasten_blau_44_9_0121.jpg" width="800px" height="1268px"/>
+    <zone points="54,113 54,923 798,923 798,113" rendition="TextRegion" xml:id="facs_2_r1">
+        <zone points="59,145 210,128 354,159 439,141 471,169 529,140 570,166 596,144 742,169 769,156 770,108 580,125 370,93 302,111 118,79 60,94" rendition="Line" xml:id="facs_2_r1l1"/>
+        <zone points="55,177 247,177 268,197 331,179 395,212 439,192 718,196 764,220 766,159 696,151 593,145 569,167 525,145 470,169 439,142 295,156 231,129 56,151" rendition="Line" xml:id="facs_2_r1l2"/>
+        <zone points="49,242 282,224 358,254 406,227 758,265 759,225 708,199 672,219 622,198 519,211 497,190 376,213 305,180 268,198 248,177 205,197 52,183" rendition="Line" xml:id="facs_2_r1l3"/>
+        <zone points="48,294 234,273 371,302 506,280 553,310 621,286 802,310 803,254 682,266 593,242 526,264 403,229 361,257 229,223 175,250 122,226 80,254 49,242" rendition="Line" xml:id="facs_2_r1l4"/>
+        <zone points="55,316 107,350 270,317 295,342 599,338 632,365 663,337 789,345 803,308 754,292 698,314 612,286 552,312 429,280 293,306 235,273 55,299" rendition="Line" xml:id="facs_2_r1l5"/>
+        <zone points="55,387 119,372 153,391 178,369 277,397 329,374 497,405 584,378 776,376 776,335 688,356 663,337 631,364 598,338 385,347 237,318 121,356 55,316" rendition="Line" xml:id="facs_2_r1l6"/>
+        <zone points="59,422 125,455 172,426 228,464 261,436 314,464 414,436 501,455 549,425 706,454 803,430 804,384 584,379 496,404 324,375 256,407 176,369 60,398" rendition="Line" xml:id="facs_2_r1l7"/>
+        <zone points="57,481 155,473 321,518 420,487 451,511 587,480 773,482 782,431 705,455 558,426 501,455 345,444 317,467 263,436 199,457 160,427 125,455 58,421" rendition="Line" xml:id="facs_2_r1l8"/>
+        <zone points="59,514 202,555 259,538 329,564 368,541 455,566 517,536 749,537 788,516 723,476 451,510 363,493 323,517 156,474 59,485" rendition="Line" xml:id="facs_2_r1l9"/>
+        <zone points="54,576 169,613 300,595 392,621 436,589 586,605 715,562 802,570 801,508 714,553 614,529 456,567 388,544 329,565 259,539 135,553 53,515" rendition="Line" xml:id="facs_2_r1l10"/>
+        <zone points="55,639 101,621 178,651 208,629 298,656 541,658 753,627 753,591 706,567 587,610 560,592 390,621 365,601 179,608 56,576" rendition="Line" xml:id="facs_2_r1l11"/>
+        <zone points="56,710 102,698 140,717 176,695 213,717 320,702 351,720 389,696 409,711 451,696 507,717 623,674 623,656 584,642 545,658 297,657 208,629 177,651 101,621 56,641" rendition="Line" xml:id="facs_2_r1l12"/>
+        <zone points="138,794 149,794 156,799 162,796 177,804 187,795 192,795 192,706 175,708 168,705 157,715 153,712 138,715" rendition="Line" xml:id="facs_2_line_1655201496689_439"/>
+        <zone points="484,882 503,879 519,861 544,851 597,873 631,860 655,857 667,864 687,843 709,840 705,802 664,798 646,783 578,784 538,804 523,796 497,805 477,801" rendition="Line" xml:id="facs_2_r1l14"/>
+        <zone points="478,943 506,945 523,932 537,943 575,941 594,921 613,936 666,936 675,932 671,865 643,859 634,868 570,873 530,857 497,881 474,877" rendition="Line" xml:id="facs_2_r1l15"/>
+        <zone points="60,819 97,842 118,839 145,853 158,842 181,862 222,845 273,870 286,862 337,870 343,796 300,796 240,756 173,802 125,778 63,784" rendition="Line" xml:id="facs_2_r1l13"/>
+      </zone>
+  </surface>
+  <surface ulx="0" uly="0" lrx="800" lry="1287" xml:id="facs_3">
+    <graphic url="Kasten_blau_44_9_0122.jpg" width="800px" height="1287px"/>
+    <zone points="524,438 312,438 312,858 524,858" rendition="TextRegion" xml:id="facs_3_region_1656426082749_3169">
+        <zone points="482,500 495,565 497,616 491,687 482,766 476,797 427,788 432,759 441,681 447,615 445,571 433,510" rendition="Line" xml:id="facs_3_line_1656426089839_3172"/>
+        <zone points="431,513 441,629 444,695 441,771 391,769 394,695 391,632 381,517" rendition="Line" xml:id="facs_3_line_1656426093590_3177"/>
+        <zone points="387,520 399,609 399,665 401,694 351,697 349,666 349,612 337,527" rendition="Line" xml:id="facs_3_line_1656426098571_3182"/>
+      </zone>
+  </surface>
+</facsimile>
+
+   <text type="letter">
+   <body>
+  <div type="page"><pb facs="#facs_1" n="64 r" xml:id="Kasten_blau_44_9_0120.jpg" ed="70 r"/><p facs="#facs_1_r1">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Weilen der Keiser, mein <choice><expan>geliebster</expan><abbr>glster</abbr></choice> sohn <choice><expan>Mayestät</expan><abbr>Ms</abbr></choice>, den Fratislaw hinunter schikt,
+      <lb n="N003"/>mit dem Marlberog wie auch Cur Mains vnd Hanouer, welche alle
+      <lb n="N004"/>auf Frankfort kommen werden, die operationen der könftigen
+      <lb n="N005"/>campagne einzuerichten, vndt er mit dißer occasion etwan
+      <lb n="N006"/>gahr hinunter wirt müßen, also auch dero Liebden aufwarten wirt, so
+      <lb n="N007"/>hab mit dißer gelegenheit dero Liebden nachmahlen die interessen dißes
+      <lb n="N008"/>haußes vndt absonderlich meinen izt so gefärlich stehnden
+      <lb n="N009"/>sohn in Schpanien reccomendiren wollen, in dem mihr zuuohr
+      <lb n="N010"/>bekandt den großen eifer, so dero Liebden bisdato gezeiget haben.
+      <lb n="N011"/>Bitte, dero Liebden wollen ihm genädig sich erzeigen vndt seine
+      <lb n="N012"/>negotia vohr das gemeine beste secundiren. Due mich
+      <lb n="N013"/>auch herzligst bedanken, das dero Liebden schon die ordre zue abmarsch dero
+      <lb n="N014"/>troupen in Schpanien gegeben, welches das einzige mit<supplied>e</supplied>l,
+      <lb n="N015"/>mein sohn in disen gefärlichen standt zue saluiren. Bitte
+      <lb n="N016"/>allein dero Liebden noch zu so vill guttaten dises zu adiungiren,</p></div><div type="page"><pb facs="#facs_2" n="64 v" xml:id="Kasten_blau_44_9_0121.jpg" ed="70 v"/><p facs="#facs_2_r1">
+      <lb n="N001"/>das, we<supplied>i</supplied>llen diße troupen zimlich abgenommen vndt anstatt 7000
+      <lb n="N002"/>etwan nit 4 oder 5 sein werden, dero Liebden auch dise ordre beyruken wolten,
+      <lb n="N003"/>das von dero übrige troupen in so weit wehnigstens der abgang
+      <lb n="N004"/>ersezet werde, damit aufs wehnigste 5000 effectiue vndt complet
+      <lb n="N005"/>in Schpanien kommen möchten. Der fueß dero übrigen troupen bleibt
+      <lb n="N006"/>dannoch, welches sie hernechst leichtlich widerumb recroutiren
+      <lb n="N007"/>werden können. Weilen ich förcht, das der Fratislaw etwan etwas
+      <lb n="N008"/>längsamer kommen wirt, so werde ich diße bitt durch den
+      <lb n="N009"/>Neßelraht, welcher glaublich gahr balt wirt zurukh expe-
+      <lb n="N010"/>dirt werden, widerholen, so dan auch dero Liebden schreiben in allem aus-
+      <lb n="N011"/>fürlich beantworten. Due mich in deßen in dero <unclear>werteste</unclear>
+      <lb n="N012"/>affection befehlen, die ich leben vnd ste<supplied>r</supplied>ben werde
+      <lb n="N013"/>dero Liebden
+      <lb n="N014"/>getr<supplied>e</supplied>weste schwester
+      <lb n="N015"/>Eleonora
+      <lb n="N016"/>Wien den 22ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1707</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="Kasten_blau_44_9_0122.jpg" ed="71 r"/><p facs="#facs_3_region_1656426082749_3169">
+      <lb n="N001"/>Ihr <choice><expan>LIebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
+      <lb n="N002"/>Pfalz, meinem herzaller-
+      <lb n="N003"/>liebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> brud<supplied>e</supplied>rn</p></div>
+</body>
+
+   </text>
+</TEI>
