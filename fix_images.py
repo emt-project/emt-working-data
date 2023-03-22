@@ -16,7 +16,11 @@ nsmap = {
 fails = []
 trouble_makers = []
 for x in tqdm(files, total=len(files)):
-    doc = TeiReader(x)
+    try:
+        doc = TeiReader(x)
+    except:
+        {"mets_path": x, "error": "not well formed file"}
+        continue
     # print(x)
     transkribus_doc_id = doc.any_xpath('.//tei:idno[@type="transkribus-doc-id"]/text()')[0]
     transkribus_col_id = doc.any_xpath('.//tei:idno[@type="transkribus-col-id"]/text()')[0]
@@ -38,12 +42,12 @@ for x in tqdm(files, total=len(files)):
     else:
         for i, p in enumerate(tei_pbs):
             p.attrib["source"] = images[i]
-        # doc.tree_to_file(x)
+        doc.tree_to_file(x)
     
 df = pd.DataFrame(fails)
 df.to_csv("error_log.csv", index=False)
 
-for x in tqdm(trouble_makers[:2], total=len(trouble_makers)):
+for x in tqdm(trouble_makers, total=len(trouble_makers)):
     doc = TeiReader(x[0])
     file_list_name = x[1].replace("_mets.xml", "_image_name.xml")
     file_list = TeiReader(file_list_name)
@@ -60,4 +64,7 @@ for x in tqdm(trouble_makers[:2], total=len(trouble_makers)):
             facs_url = facs_list[int(img_index)]
         except IndexError:
             print(img_index, x)
+            continue
+        p.attrib["source"] = facs_url
+    doc.tree_to_file(x[0])
         
