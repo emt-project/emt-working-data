@@ -56,7 +56,7 @@ for x in tqdm(trouble_makers, total=len(trouble_makers)):
     file_list_dict = {}
     facs_list = mets.tree.xpath('.//mets:fileGrp[@ID="IMG"]//mets:file/mets:FLocat/@xlink:href', namespaces=nsmap)
     for item in file_list.any_xpath('.//item'):
-        file_list_dict[item.text] = item.attrib["n"]
+        file_list_dict[item.text] = int(item.attrib["n"]) - 1
     for p in tei_pbs:
         img_name = p.attrib["{http://www.w3.org/XML/1998/namespace}id"]
         img_index = file_list_dict[img_name]
