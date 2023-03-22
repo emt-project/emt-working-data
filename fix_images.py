@@ -19,7 +19,7 @@ for x in tqdm(files, total=len(files)):
     try:
         doc = TeiReader(x)
     except:
-        {"mets_path": x, "error": "not well formed file"}
+        fails.append({"mets_path": x, "error": "not well formed file"})
         continue
     # print(x)
     transkribus_doc_id = doc.any_xpath('.//tei:idno[@type="transkribus-doc-id"]/text()')[0]
