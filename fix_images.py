@@ -14,8 +14,13 @@ nsmap = {
 }
 
 fails = []
-for x in tqdm(files[:3], total=len(files)):
-    doc = TeiReader(x)
+trouble_makers = []
+for x in tqdm(files, total=len(files)):
+    try:
+        doc = TeiReader(x)
+    except:
+        fails.append({"mets_path": x, "error": "not well formed file"})
+        continue
     # print(x)
     transkribus_doc_id = doc.any_xpath('.//tei:idno[@type="transkribus-doc-id"]/text()')[0]
     transkribus_col_id = doc.any_xpath('.//tei:idno[@type="transkribus-col-id"]/text()')[0]
@@ -33,7 +38,7 @@ for x in tqdm(files[:3], total=len(files)):
         images.append(y)
     tei_pbs = doc.any_xpath('.//tei:pb')
     if len(tei_pbs) != len(images):
-        print(x, mets_path)
+        trouble_makers.append((x, mets_path))
     else:
         for i, p in enumerate(tei_pbs):
             p.attrib["source"] = images[i]
@@ -41,5 +46,25 @@ for x in tqdm(files[:3], total=len(files)):
     
 df = pd.DataFrame(fails)
 df.to_csv("error_log.csv", index=False)
-print(transkribus_col_id, transkribus_doc_id, mets_path)
-# mets/58705/565905_mets.xml
+
+for x in tqdm(trouble_makers, total=len(trouble_makers)):
+    doc = TeiReader(x[0])
+    file_list_name = x[1].replace("_mets.xml", "_image_name.xml")
+    file_list = TeiReader(file_list_name)
+    mets = TeiReader(x[1])
+    tei_pbs = doc.any_xpath('.//tei:pb')
+    file_list_dict = {}
+    facs_list = mets.tree.xpath('.//mets:fileGrp[@ID="IMG"]//mets:file/mets:FLocat/@xlink:href', namespaces=nsmap)
+    for item in file_list.any_xpath('.//item'):
+        file_list_dict[item.text] = item.attrib["n"]
+    for p in tei_pbs:
+        img_name = p.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+        img_index = file_list_dict[img_name]
+        try:
+            facs_url = facs_list[int(img_index)]
+        except IndexError:
+            print(img_index, x)
+            continue
+        p.attrib["source"] = facs_url
+    doc.tree_to_file(x[0])
+        
