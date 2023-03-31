@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: 77_8806c </title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 13.04.1701</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,9 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
-                        
-                        <idno></idno>
+                        <settlement>Karlsruhe</settlement>
+                        <repository>Generallandesarchiv Karlsruhe</repository>
+                        <idno>77 Nr. 8806, Korrespondenz des Kurfürsten Johann Wilhelm von der Pfalz mit Kaiser Leopold I., der Kaiserin Eleonore, König Wilhelm III. von England, König Friedrich I. von Preußen, den kaiserlichen Gesandten ... / März 1701-Juni 1701</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -76,8 +75,8 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when="1701-04-13" >13. April 1701</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#"></persName>
@@ -88,6 +87,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-03-31">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -209,16 +209,16 @@
       <lb facs="#facs_1_tr_1_tl_2" n="N007"/>nach so vill möglich es verich<supplied >t</supplied>en vndt izt nuhr das
       <lb facs="#facs_1_tr_1_tl_3" n="N008"/>nohtwendigste, so dero Liebden so sehr verlangen zue wißen,
       <lb facs="#facs_1_tr_1_tl_4" n="N009"/>berichten, nemlich wegen der anstalten im Reich. Ihr
-      <lb facs="#facs_1_tr_1_tl_5" n="N010"/>Mayestät haben zwarn an den Oberen Rein destinirt 20 <unclear>m</unclear> man,
+      <lb facs="#facs_1_tr_1_tl_5" n="N010"/>Mayestät haben zwarn an den Oberen Rein destinirt 20 000 man,
       <lb facs="#facs_1_tr_2_tl_1" n="N011"/>welche auch meistens schon im marsch vndt hoffentlich
       <lb facs="#facs_1_tr_2_tl_2" n="N012"/>balt oben sein werden. Von disen aber müeßen auch
       <lb facs="#facs_1_tr_2_tl_3" n="N013"/>die guarnisones versehen werden, welche ein großes
-      <lb facs="#facs_1_line_1674815970778_2057" n="N014"/>Bitt bey der <choice><expan>lieben</expan><abbr>lb</abbr></choice> gem<supplied >a</supplied>hl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mich
+      <lb facs="#facs_1_line_1674815970778_2057" n="N014"/><note type="editorische Anmerkung">Dieses Postskriptum ist Seite 4 zugehörig.</note>Bitt bey der <choice><expan>lieben</expan><abbr>lb</abbr></choice> gem<supplied >a</supplied>hl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mich
       <lb facs="#facs_1_line_1674825858591_2376" n="N015"/>zue entschuldigen, ist mihr ein mahl vnmeschlich <supplied >zu</supplied> sch<supplied >rei</supplied>ben, <supplied >bitte</supplied> mich ihr zum schonsten <supplied >zu befehlen</supplied>. An <choice><expan>schwester</expan><abbr>schw</abbr></choice> <supplied >in</supplied> Parma wollen
-      <lb facs="#facs_1_line_1674825862147_2381" n="N016"/>dero Liebden in <unclear>mein dienst</unclear> willige <unclear>???</unclear></ab>
+      <lb facs="#facs_1_line_1674825862147_2381" n="N016"/>dero Liebden in <unclear reason="unsichere Lesart">mein dienst</unclear> willige <unclear reason="unleserlich">???</unclear></ab>
     <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PPFGFMGLZBHUUXECESKBPPGX&amp;fileType=view" id="77_8806c_0003a.jpg"/>
     <ab facs="#facs_2_TextRegion_1674826214412_2409" >
-      <lb facs="#facs_2_tr_4_tl_1" n="N001"/>vonöten vndt also von disen <unclear>20</unclear> <unclear>m</unclear> man nit gar zuevill wirt
+      <lb facs="#facs_2_tr_4_tl_1" n="N001"/>vonöten vndt also von disen 20 000 man nit gar zuevill wirt
       <lb facs="#facs_2_tr_4_tl_2" n="N002"/>übrich bleiben in das felt zu sezen. Man wirt aber
       <lb facs="#facs_2_tr_4_tl_3" n="N003"/>suchen, von den creisen vndt alijrten zuesammen zu
       <lb facs="#facs_2_tr_1_tl_1" n="N004"/>bringen waß möglich wirt sein. Das ihr Mayestät auch an
@@ -277,7 +277,7 @@
       <lb facs="#facs_4_line_1674825486810_2293" n="N012"/>förcht vndt alles in der welt duen wurde, nuhr zu
       <lb facs="#facs_4_line_1674825490788_2298" n="N013"/>machen, das er still sizen, also muß man disen heren
       <lb facs="#facs_4_line_1674825495286_2303" n="N014"/>auf alleweis suechen zu gewinnen vndt dero Liebden, auch 
-      <lb facs="#facs_4_line_1674825499334_2308" n="N015"/>mit ihm woll sich verstehen, wollen <unclear>mihr</unclear> anderst, das
+      <lb facs="#facs_4_line_1674825499334_2308" n="N015"/>mit ihm woll sich verstehen, wollen <unclear reason="unleserlich">mihr</unclear> anderst, das
       <lb facs="#facs_4_line_1674825503236_2313" n="N016"/>die sa<supplied >c</supplied>hen woll ablaufen sollen. Hiemit mus ich wider
       <lb facs="#facs_4_line_1674825507047_2318" n="N017"/>mein willen enden, mitt nechsten ein mehrers, due
       <lb facs="#facs_4_line_1674825510915_2323" n="N018"/>mich dero Liebden ins eyl b<supplied >e</supplied>f<supplied >e</supplied>hlen vnd werde st<supplied >er</supplied>ben

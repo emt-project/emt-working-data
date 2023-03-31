@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: 77_8806c_2 </title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1701.04.16</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,9 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
-                        
-                        <idno></idno>
+                        <settlement>Karlsruhe</settlement>
+                        <repository>Generallandesarchiv Karlsruhe</repository>
+                        <idno>77 Nr. 8806, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -76,11 +75,11 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#emt_person_id__63">Wien</placeName>
+               <date when="1701-04-16">16.04.1701</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"></placeName>
                 <date></date>
             </correspAction>
@@ -88,6 +87,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-03-31">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -160,7 +160,7 @@
       <lb facs="#facs_1_tr_1_tl_4" n="N004"/>mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> mama, mihr auch dise post schreibt. Ich 
       <lb facs="#facs_1_tr_1_tl_5" n="N005"/>hab nuhr darauf geantwort (Das ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
       <lb facs="#facs_1_tr_1_tl_6" n="N006"/>versichere, das ich auf alle weis werde darob sein,
-      <lb facs="#facs_1_line_1674918187909_263" n="N007"/>das die <unclear>M</unclear> <unclear>AnnaM</unclear> woll an sehl vnd leib werde
+      <lb facs="#facs_1_line_1674918187909_263" n="N007"/>das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> <choice><expan>Anna Magdalena</expan><abbr>AnnaM</abbr></choice> woll an sehl vnd leib werde
       <lb facs="#facs_1_line_1674918197690_268" n="N008"/>versorgt vnd content sein. Was die fondation
       <lb facs="#facs_1_line_1674918209642_273" n="N009"/>anbelangt, zweiflete ich nit, wan dero Liebden ein mahl
       <lb facs="#facs_1_line_1674918222177_278" n="N010"/>mit ihr Durchlaucht sich vntereden wurden, das sie alles
@@ -170,7 +170,7 @@
     <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=IODYXTUGZCVUDHJUWIBYBGMH&amp;fileType=view" id="77_8806c_0005a.jpg"/>
     <ab facs="#facs_2_TextRegion_1674825358497_2207" >
       <lb facs="#facs_2_tr_2_tl_3" n="N001"/>mich einmahl nit mehr heraus zu <seg type="blackening">schwe</seg> brengen, wan
-      <lb facs="#facs_2_tr_2_tl_4" n="N002"/>dero Liebden nit machen, das die <unclear>M</unclear> Anna <unclear>Mad</unclear> balt vnd gahr
+      <lb facs="#facs_2_tr_2_tl_4" n="N002"/>dero Liebden nit machen, das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> Anna <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> balt vnd gahr
       <lb facs="#facs_2_tr_2_tl_5" n="N003"/>balt in ein ander closter komme, dan hier will
       <lb facs="#facs_2_tr_2_tl_6" n="N004"/>vnd kann sie nit lenger bleiben. Wans nit kan auf 
       <lb facs="#facs_2_tr_4_tl_1" n="N005"/>Cöllen sein, vmb gottes willen auf Achen oder Antorf,

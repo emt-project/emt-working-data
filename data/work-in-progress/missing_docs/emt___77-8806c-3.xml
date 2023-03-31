@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: 77_8806c_3 </title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am ?</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,9 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
-                        
-                        <idno></idno>
+                        <settlement>Karlsruhe</settlement>
+                        <repository>Generallandesarchiv Karlsruhe</repository>
+                        <idno>77 Nr. 8806, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -80,7 +79,7 @@
                <date ></date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"></placeName>
                 <date></date>
             </correspAction>
@@ -88,6 +87,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-03-31">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -133,7 +133,7 @@
     <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=ZYYMWWLRWNAWYRWTKLGULOJU&amp;fileType=view" id="77_8806c_0010.jpg"/>
     <ab facs="#facs_1_TextRegion_1674825303121_2185" >
       <lb facs="#facs_1_tr_2_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_2_tl_2" n="N002"/>Hab dero liebste schr<supplied >ei</supplied>ben vom 9ten dis mit <unclear>gehst</unclear> consolation
+      <lb facs="#facs_1_tr_2_tl_2" n="N002"/>Hab dero liebste schr<supplied >ei</supplied>ben vom 9ten dis mit <unclear reason="unsichere Lesart wegen Korrektur">gehst</unclear> consolation
       <lb facs="#facs_1_tr_2_tl_3" n="N003"/>empfangen, weil dero guete gesuntheit darauß
       <lb facs="#facs_1_tr_3_tl_1" n="N004"/>vernommen, auch den einschluß an ihr Mayestät mit
       <lb facs="#facs_1_tr_3_tl_2" n="N005"/>dem wolmeinenden vohrschlag. Ihr Mayestät werden nit
@@ -143,7 +143,7 @@
       <lb facs="#facs_1_tr_1_tl_1" n="N009"/>sicher ist, das die nunnen zu Achen sie angenommen
       <lb facs="#facs_1_tr_1_tl_2" n="N010"/>haben, vnd der Bischoff gibt mihr auch sonst
       <lb facs="#facs_1_tr_1_tl_3" n="N011"/>die erlaubnus nit. Dero Liebden sehen aus disen beden
-      <lb facs="#facs_1_tr_1_tl_4" n="N012"/><seg type="comment">schreiben</seg> den vnterschidt seiner sentimenten, wie er
+       <lb facs="#facs_1_tr_1_tl_4" n="N012"/><note type="editorische Anmerkung">Am Beginn der Zeile befinden sich zwei Beilagenstriche.</note>schreiben den vnterschidt seiner sentimenten, wie er
       <lb facs="#facs_1_tr_1_tl_5" n="N013"/>selb<supplied >i</supplied>gs mahl vndt izt ist. Ich hab ihn aber</ab>
     <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=NQMCRWOALKMTOHJFRNQBPBGW&amp;fileType=view" id="77_8806c_0011.jpg"/>
     <ab facs="#facs_2_tr_2" >
@@ -152,12 +152,12 @@
       <lb facs="#facs_2_tr_2_tl_3" n="N003"/>er wi<supplied >r</supplied>t mihr die erlaubnus nit abschlagen. W<supplied >e</supplied>gen
       <lb facs="#facs_2_tr_2_tl_4" n="N004"/>des antimoni vnd golt, werdens ihr Mayestät sch<supplied >i</supplied>ken, sie sagen
       <lb facs="#facs_2_tr_2_tl_5" n="N005"/>aber, man bekombts nit, bis beßer wetter wirt.
-      <lb facs="#facs_2_line_1674987741288_31" n="N006"/>Mus enden, seint heüdt aus <unclear>gewest</unclear> vnd schpaht
+      <lb facs="#facs_2_line_1674987741288_31" n="N006"/>Mus enden, seint heüdt aus <unclear reason="unsichere Lesart">gewest</unclear> vnd schpaht
       <lb facs="#facs_2_line_1674987751917_36" n="N007"/>heim komen, b<supplied >e</supplied>f<supplied >e</supplied>hl mich vnd st<supplied >er</supplied>be
       <lb facs="#facs_2_line_1674987756245_41" n="N008"/>dero Liebden
       <lb facs="#facs_2_line_1674987764246_46" n="N009"/><choice><expan>getrewste</expan><abbr>gtrst</abbr></choice> schw<supplied >e</supplied>ster
       <lb facs="#facs_2_line_1674987773123_51" n="N010"/>Bitt mein <choice><expan>fraw</expan><abbr>f</abbr></choice> <supplied >schwägerin</supplied> 1000 mahl
-      <lb facs="#facs_2_line_1674987783330_56" n="N011"/>vmb v<supplied >e</supplied>rgebu<supplied >n</supplied>g, das <unclear>heitig</unclear> ausg<supplied >e</supplied>hn ist schuldich.</ab>
+      <lb facs="#facs_2_line_1674987783330_56" n="N011"/>vmb v<supplied >e</supplied>rgebu<supplied >n</supplied>g, das <unclear reason="unsichere Lesart">heitig</unclear> ausg<supplied >e</supplied>hn ist schuldich.</ab>
   </div>
 </body>
 
