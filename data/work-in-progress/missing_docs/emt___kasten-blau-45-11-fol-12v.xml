@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: Kasten_blau_45-11_fol_12v </title>
+            <title type="main">Eleonora von Pfalz-Neuburg an Philipp Wilhelm von pfalz-Neuburg, Wien am 26.08.1677</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,10 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno>Kasten blau, 45 Nr. 11</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -71,16 +71,16 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident="german">deutsch</language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when="1677-08-26">26.08.1677</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
+               <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"></placeName>
                 <date></date>
             </correspAction>
@@ -88,6 +88,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-04-04">metadata added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
