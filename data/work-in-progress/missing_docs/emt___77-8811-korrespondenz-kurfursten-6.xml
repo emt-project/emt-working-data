@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: 77_8811_Korrespondenz Kurfürsten_6 </title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 25.06.1688</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,10 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
+                        <settlement>Karlsruhe</settlement>
+                        <repository>Generallandesarchiv Karlsruhe</repository>
                         
-                        <idno></idno>
+                        <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -76,11 +76,11 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when="1688-06-25">25.06.1688</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"></placeName>
                 <date></date>
             </correspAction>
@@ -88,6 +88,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-04-04">metadata added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
