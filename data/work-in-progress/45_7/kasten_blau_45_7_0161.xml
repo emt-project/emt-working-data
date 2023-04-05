@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">nan, nan am nan</title>
+             <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 20.08.1705</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
-            <author>nan</author>
+            <author>Johann Wilhelm von Pfalz-Neuburg</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
             </editor>
@@ -72,12 +72,12 @@
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#">nan</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__50">Düsseldorf</placeName>
+                <date when="1705-08-20">20.08.1705</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">nan</persName>
+                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <placeName ref="#"/>
                 <date/>
             </correspAction>
@@ -85,6 +85,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+          <change who="aspitzbart" when="2023-04-05">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

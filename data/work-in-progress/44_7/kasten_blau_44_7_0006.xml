@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">nan, nan am nan</title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 04.01.1696</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>nan</author>
             <editor>
@@ -68,23 +68,24 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident="und">noch nicht bestimmt</language>
+            <language ident="german">deutsch</language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#">nan</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when="1696-01-04">04.01.1696</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">nan</persName>
-                <placeName ref="#"/>
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName/>
                 <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-04-05">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
