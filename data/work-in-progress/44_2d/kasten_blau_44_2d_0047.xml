@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">nan, nan am nan</title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 27.06.1686</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>nan</author>
             <editor>
@@ -67,7 +67,7 @@
             <term>Schreiber ?</term>
             <term>Chronostichon</term>
          </ab>
-         <ab type="notes">latein. Chronostichon; kleinerer Zettel scheints ausgeschnitten, erwähnt im  Brief vom 27.06.</ab>
+         <ab type="notes">enthält ein latein. Chronostichon; kleinerer Zettel scheint ausgeschnitten, erwähnt im  Brief vom 27.06.</ab>
         </abstract>
         <abstract n="regest">
             <p/>
@@ -77,12 +77,12 @@
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#">nan</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date when="1686-06-27">27.06.1686</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">nan</persName>
+                <persName ref="#emt_perosn_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"/>
                 <date/>
             </correspAction>
@@ -90,6 +90,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-04-05">updated metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
