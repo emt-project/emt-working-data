@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten-6.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten-6.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -139,45 +135,40 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XSKNPAYWMRNSSQVSAZVSWSPZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00093.jpg"/>
-    <ab facs="#facs_1_tr_2" >
-      <lb facs="#facs_1_line_1674815701694_1879" n="N001"/>Durchleüchtiger Fürst, herz allerlibster herbrueder
-      <lb facs="#facs_1_line_1674815705799_1884" n="N002"/>Ich hab durch den von Gahlen dero liebsts schreiben
-      <lb facs="#facs_1_line_1674815710450_1889" n="N003"/>empfangen, werde seine person möglist recomen-
-      <lb facs="#facs_1_line_1674815714860_1894" n="N004"/>diren. Weil der Cauniz von ihr Mayestät wider
-      <lb facs="#facs_1_tr_2_tl_1" n="N005"/>zue der cölnischen wahl geschikt wirt, also hab
-      <lb facs="#facs_1_line_1675093998201_362" n="N006"/>ich ihn mit diesen zeilen begleiten wollen, er
-      <lb facs="#facs_1_tr_2_tl_4" n="N007"/>wi<supplied >r</supplied>t dero Liebden von meiner bestendigen affection vers<supplied >i</supplied>chern
-      <lb facs="#facs_1_line_1674815728694_1903" n="N008"/>vnd vnd allem informiren, was ihr Mayestät
-      <lb facs="#facs_1_tr_2_tl_9" n="N009"/>in diser sach resoluirt haben vnd auch von
-      <lb facs="#facs_1_line_1674815745422_1909" n="N010"/>ihnen weitere information abholen, wie er sich
-      <lb facs="#facs_1_line_1674815750572_1914" n="N011"/>verners zue comportiren haben wi<supplied >r</supplied>t. Vohr
-      <lb facs="#facs_1_line_1674815755875_1919" n="N012"/>allem müeßen mihr sehen, Beyren kein gelosia
-      <lb facs="#facs_1_line_1674815760557_1924" n="N013"/>zu geben vnd seinem brudern <choice><expan>Prinz</expan><abbr>P</abbr></choice> Clement</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=BEEOBYXETGQWOZUFKVKCNPYZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00094.jpg"/>
-    <ab facs="#facs_2_tr_1" >
-      <lb facs="#facs_2_tr_1_tl_1" n="N001"/>so woll zue der wahl als allem vohr allen
-      <lb facs="#facs_2_line_1675094244418_383" n="N002"/>beförderlich sein, wie auch des Cauniz
-      <lb facs="#facs_2_tr_1_tl_4" n="N003"/>instruction darnach eingericht ist. Ich
-      <lb facs="#facs_2_line_1675094276224_389" n="N004"/>vermein, mein bruder Carl wirt schon wekh
-      <lb facs="#facs_2_tr_1_tl_7" n="N005"/>sein auf Berlin, so due ich ihm nit schreiben,
-      <lb facs="#facs_2_line_1674815809627_1959" n="N006"/>bitt, dero Liebden wollen, wan er noch dah wehr, ihn ein
-      <lb facs="#facs_2_line_1674815815291_1964" n="N007"/>sch<supplied >ö</supplied>nen gruß ausrichten. Ich due mich dero Liebden b<supplied >e</supplied>f<supplied >e</supplied>hlen
-      <lb facs="#facs_2_line_1674815822256_1969" n="N008"/>vnd werde st<supplied >e</supplied>rben
-      <lb facs="#facs_2_line_1674815824791_1974" n="N009"/>dero Liebden
-      <lb facs="#facs_2_line_1674815835770_1984" n="N010"/>g<supplied >e</supplied>treüst schw<supplied >e</supplied>ster
-      <lb facs="#facs_2_line_1674815843457_1994" n="N011"/>EMT
-      <lb facs="#facs_2_line_1674815828029_1979" n="N012"/>Wien den 25ten junij 1688
-      <lb facs="#facs_2_line_1674815841498_1989" n="N013"/>Man hatt hier das recept vom
-      <lb facs="#facs_2_line_1674815848500_1999" n="N014"/>aqua stptica, sie sagen, habens von chur beyrischen
-      <lb facs="#facs_2_line_1674815853988_2004" n="N015"/>bekommen. Es ist iust wie dero Liebden seins, außer
-      <lb facs="#facs_2_line_1674815858709_2009" n="N016"/>in der dosa ist gefehlt, so habe ich mich
-      <lb facs="#facs_2_line_1674815864022_2014" n="N017"/>erkundigen wollen, weil sies doch haben, ob ich
-      <lb facs="#facs_2_line_1674815871295_2019" n="N018"/>ihnen nit derft die rechte dosa sagen, damit
-      <lb facs="#facs_2_line_1674815878136_2024" n="N019"/>sies könten machen vohr die soldaten im
-      <lb facs="#facs_2_line_1674815882433_2029" n="N020"/>felt. Erwarte dero Liebden antwort.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XSKNPAYWMRNSSQVSAZVSWSPZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00093.jpg"/><p facs="#facs_1_tr_2">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerlibster herbrueder
+      <lb n="N002"/>Ich hab durch den von Gahlen dero liebsts schreiben
+      <lb n="N003"/>empfangen, werde seine person möglist recomen-
+      <lb n="N004"/>diren. Weil der Cauniz von ihr Mayestät wider
+      <lb n="N005"/>zue der cölnischen wahl geschikt wirt, also hab
+      <lb n="N006"/>ich ihn mit diesen zeilen begleiten wollen, er
+      <lb n="N007"/>wi<supplied>r</supplied>t dero Liebden von meiner bestendigen affection vers<supplied>i</supplied>chern
+      <lb n="N008"/>vnd vnd allem informiren, was ihr Mayestät
+      <lb n="N009"/>in diser sach resoluirt haben vnd auch von
+      <lb n="N010"/>ihnen weitere information abholen, wie er sich
+      <lb n="N011"/>verners zue comportiren haben wi<supplied>r</supplied>t. Vohr
+      <lb n="N012"/>allem müeßen mihr sehen, Beyren kein gelosia
+      <lb n="N013"/>zu geben vnd seinem brudern <choice><expan>Prinz</expan><abbr>P</abbr></choice> Clement</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=BEEOBYXETGQWOZUFKVKCNPYZ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00094.jpg"/><p facs="#facs_2_tr_1">
+      <lb n="N001"/>so woll zue der wahl als allem vohr allen
+      <lb n="N002"/>beförderlich sein, wie auch des Cauniz
+      <lb n="N003"/>instruction darnach eingericht ist. Ich
+      <lb n="N004"/>vermein, mein bruder Carl wirt schon wekh
+      <lb n="N005"/>sein auf Berlin, so due ich ihm nit schreiben,
+      <lb n="N006"/>bitt, dero Liebden wollen, wan er noch dah wehr, ihn ein
+      <lb n="N007"/>sch<supplied>ö</supplied>nen gruß ausrichten. Ich due mich dero Liebden b<supplied>e</supplied>f<supplied>e</supplied>hlen
+      <lb n="N008"/>vnd werde st<supplied>e</supplied>rben
+      <lb n="N009"/>dero Liebden
+      <lb n="N010"/>g<supplied>e</supplied>treüst schw<supplied>e</supplied>ster
+      <lb n="N011"/>EMT
+      <lb n="N012"/>Wien den 25ten junij 1688
+      <lb n="N013"/>Man hatt hier das recept vom
+      <lb n="N014"/>aqua stptica, sie sagen, habens von chur beyrischen
+      <lb n="N015"/>bekommen. Es ist iust wie dero Liebden seins, außer
+      <lb n="N016"/>in der dosa ist gefehlt, so habe ich mich
+      <lb n="N017"/>erkundigen wollen, weil sies doch haben, ob ich
+      <lb n="N018"/>ihnen nit derft die rechte dosa sagen, damit
+      <lb n="N019"/>sies könten machen vohr die soldaten im
+      <lb n="N020"/>felt. Erwarte dero Liebden antwort.</p></div>
 </body>
 
    </text>

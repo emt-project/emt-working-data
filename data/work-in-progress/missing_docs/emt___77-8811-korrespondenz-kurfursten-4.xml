@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten-4.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten-4.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>77, Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -116,25 +112,22 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XBOEJQZWODRZRCTXPZGRMIUA&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00082.jpg"/>
-    <ab facs="#facs_1_tr_2" >
-      <lb facs="#facs_1_line_1674815346539_1653" n="N001"/>Durchleüchtiger Fürst, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
-      <lb facs="#facs_1_line_1674815351190_1658" n="N002"/>Ich verhoffe, dero Liebden werden dero reis glükhlich vortsezen,
-      <lb facs="#facs_1_line_1674815356454_1663" n="N003"/>welches ich ihnen nochmahlen von herzen anwüntsch.
-      <lb facs="#facs_1_line_1674815371036_1671" n="N004"/>Schike anbey die brief an vnsere <choice><expan>durchlauchtigen</expan><abbr>d</abbr></choice> eltern.
-      <lb facs="#facs_1_line_1674815375598_1676" n="N005"/>Meine libe Erzherzogin ist heündt mit vns aus
-      <lb facs="#facs_1_line_1674815379804_1681" n="N006"/>geweßen, weil aber der windt nit zuegelaßen,
-      <lb facs="#facs_1_line_1674815385871_1686" n="N007"/>das haben beysen können, so haben im dirgarten
-      <lb facs="#facs_1_line_1674815391843_1691" n="N008"/>kegel geschiben, ist sonst gahr herzich draus
-      <lb facs="#facs_1_line_1674815396689_1696" n="N009"/>geweßen. Ich bitt nachmahlen, dero Liebden wollen doch nit
-      <lb facs="#facs_1_line_1674815409163_1701" n="N010"/>bey der nacht reisen und dieienige in dero
-      <lb facs="#facs_1_line_1674815413421_1706" n="N011"/>gedechtnus erhalten, so sterben wi<supplied >r</supplied>t
-      <lb facs="#facs_1_line_1674815415699_1711" n="N012"/>dero Liebden
-      <lb facs="#facs_1_line_1674815422562_1721" n="N013"/>getreweste schw<supplied >e</supplied>ster
-      <lb facs="#facs_1_line_1674815425320_1726" n="N014"/>EMT
-      <lb facs="#facs_1_line_1674815418936_1716" n="N015"/>Wien den 4ten <choice><expan>februarii</expan><abbr>feb</abbr></choice> 1686</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XBOEJQZWODRZRCTXPZGRMIUA&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00082.jpg"/><p facs="#facs_1_tr_2">
+      <lb n="N001"/>Durchleüchtiger Fürst, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brueder
+      <lb n="N002"/>Ich verhoffe, dero Liebden werden dero reis glükhlich vortsezen,
+      <lb n="N003"/>welches ich ihnen nochmahlen von herzen anwüntsch.
+      <lb n="N004"/>Schike anbey die brief an vnsere <choice><expan>durchlauchtigen</expan><abbr>d</abbr></choice> eltern.
+      <lb n="N005"/>Meine libe Erzherzogin ist heündt mit vns aus
+      <lb n="N006"/>geweßen, weil aber der windt nit zuegelaßen,
+      <lb n="N007"/>das haben beysen können, so haben im dirgarten
+      <lb n="N008"/>kegel geschiben, ist sonst gahr herzich draus
+      <lb n="N009"/>geweßen. Ich bitt nachmahlen, dero Liebden wollen doch nit
+      <lb n="N010"/>bey der nacht reisen und dieienige in dero
+      <lb n="N011"/>gedechtnus erhalten, so sterben wi<supplied>r</supplied>t
+      <lb n="N012"/>dero Liebden
+      <lb n="N013"/>getreweste schw<supplied>e</supplied>ster
+      <lb n="N014"/>EMT
+      <lb n="N015"/>Wien den 4ten <choice><expan>februarii</expan><abbr>feb</abbr></choice> 1686</p></div>
 </body>
 
    </text>

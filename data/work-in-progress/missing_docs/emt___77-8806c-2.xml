@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8806c-2.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8806c-2.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +50,7 @@
                         <idno>77 Nr. 8806, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,7 +66,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -80,8 +76,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -151,55 +147,48 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=OGJKLWLSQSZXPAIUKHCCNERB&amp;fileType=view" id="77_8806c_0004b.jpg"/>
-    <ab facs="#facs_1_tr_1" >
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Überschike hirbey, was ich dem Bischoff von Augschpurg
-      <lb facs="#facs_1_tr_1_tl_3" n="N003"/>geschriben mitt heüntiger post, vnd was ihr Durchlaucht,
-      <lb facs="#facs_1_tr_1_tl_4" n="N004"/>mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> mama, mihr auch dise post schreibt. Ich 
-      <lb facs="#facs_1_tr_1_tl_5" n="N005"/>hab nuhr darauf geantwort (Das ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
-      <lb facs="#facs_1_tr_1_tl_6" n="N006"/>versichere, das ich auf alle weis werde darob sein,
-      <lb facs="#facs_1_line_1674918187909_263" n="N007"/>das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> <choice><expan>Anna Magdalena</expan><abbr>AnnaM</abbr></choice> woll an sehl vnd leib werde
-      <lb facs="#facs_1_line_1674918197690_268" n="N008"/>versorgt vnd content sein. Was die fondation
-      <lb facs="#facs_1_line_1674918209642_273" n="N009"/>anbelangt, zweiflete ich nit, wan dero Liebden ein mahl
-      <lb facs="#facs_1_line_1674918222177_278" n="N010"/>mit ihr Durchlaucht sich vntereden wurden, das sie alles
-      <lb facs="#facs_1_line_1674918233625_283" n="N011"/>nach dero contento, wie es zum besten vnd nuzligsten
-      <lb facs="#facs_1_line_1674918245558_288" n="N012"/>sein werde, werde einrichten, warzue ich mich
-      <lb facs="#facs_1_line_1674918255983_293" n="N013"/>so dan gahr gern conformiren wurde. Ich) weis</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=IODYXTUGZCVUDHJUWIBYBGMH&amp;fileType=view" id="77_8806c_0005a.jpg"/>
-    <ab facs="#facs_2_TextRegion_1674825358497_2207" >
-      <lb facs="#facs_2_tr_2_tl_3" n="N001"/>mich einmahl nit mehr heraus zu <seg type="blackening">schwe</seg> brengen, wan
-      <lb facs="#facs_2_tr_2_tl_4" n="N002"/>dero Liebden nit machen, das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> Anna <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> balt vnd gahr
-      <lb facs="#facs_2_tr_2_tl_5" n="N003"/>balt in ein ander closter komme, dan hier will
-      <lb facs="#facs_2_tr_2_tl_6" n="N004"/>vnd kann sie nit lenger bleiben. Wans nit kan auf 
-      <lb facs="#facs_2_tr_4_tl_1" n="N005"/>Cöllen sein, vmb gottes willen auf Achen oder Antorf,
-      <lb facs="#facs_2_tr_4_tl_2" n="N006"/>woh dero Liebden beliben, nuhr das sie hier wekh kombt. Mit
-      <lb facs="#facs_2_tr_4_tl_3" n="N007"/>dem werden die <choice><expan>patres</expan><abbr>p</abbr></choice> auch ehnder mit der <choice><expan>Schwester</expan><abbr>schw</abbr></choice> Allexa-
-      <lb facs="#facs_2_tr_4_tl_4" n="N008"/>ndrin dispension, das sie hier angenommen werde, <supplied >einverstanden sein</supplied>.
-      <lb facs="#facs_2_tr_1_tl_1" n="N009"/>Ich schik sie sonst allebeid na<supplied >c</supplied>h Düßeldorf, dan können
-      <lb facs="#facs_2_tr_1_tl_2" n="N010"/>dero Liebden darmit machen, waß sie wollen. Izt kom wider,
-      <lb facs="#facs_2_tr_1_tl_3" n="N011"/>etwelche puncta von den überbliben zu beantworten. Was an-
-      <lb facs="#facs_2_tr_1_tl_4" n="N012"/>belangt, das ihr Mayestät in Niderland vnd Vntern Rein
-      <lb facs="#facs_2_tr_1_tl_5" n="N013"/>ein corpo vnter ein general sch<supplied >i</supplied>ken sollen, muesete
-      <lb facs="#facs_2_tr_1_tl_6" n="N014"/>man erst sehen, die leüt zusammen zu brengen vndt
-      <lb facs="#facs_2_tr_3_tl_1" n="N015"/>ein gutten solchen general zu finden, dero Liebden wollen mihr
-      <lb facs="#facs_2_tr_3_tl_2" n="N016"/>ein vohrschlagen, so will gern dazu helfen. In deßen,
-      <lb facs="#facs_2_tr_3_tl_3" n="N017"/>mein ich, sollen dero Liebden wie bis dahto noch alle sich 
-      <lb facs="#facs_2_tr_3_tl_4" n="N018"/>nit heraus laßen vnd lauiren. Es haben iah dero
-      <lb facs="#facs_2_tr_3_tl_5" n="N019"/>landen noch kein gefahr, so lang kein krig noch</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=UQDPUHXOXIQFFFLQXEDDGLQJ&amp;fileType=view" id="77_8806c_0005b.jpg"/>
-    <ab facs="#facs_3_TextRegion_1674825330730_2197" >
-      <lb facs="#facs_3_tr_2_tl_1" n="N001"/>declarirt ist. Wegen der quartir vnd subsid<supplied >i</supplied>en hab dero Liebden
-      <lb facs="#facs_3_tr_2_tl_2" n="N002"/>neülich gesch<supplied >rie</supplied>ben, das gutt wehr, wan iemandt hier
-      <lb facs="#facs_3_tr_2_tl_3" n="N003"/>wer, der es negotiret. Mus abermahl enden,
-      <lb facs="#facs_3_tr_1_tl_1" n="N004"/>b<supplied >e</supplied>f<supplied >e</supplied>hl mich meiner lib<supplied >st</supplied>en <choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied >e</supplied>rin ins herz, bitt
-      <lb facs="#facs_3_tr_1_tl_2" n="N005"/>mich zu entschuld<supplied >ig</supplied>en, lebe vnd st<supplied >er</supplied>be
-      <lb facs="#facs_3_line_1674825320714_2191" n="N006"/>dero Liebden
-      <lb facs="#facs_3_line_1674919454682_366" n="N007"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied >e</supplied>ster
-      <lb facs="#facs_3_line_1674919219522_352" n="N008"/>Eleonora
-      <lb facs="#facs_3_line_1674919454682_367" n="N009"/>Wien den 16 aprill 1701</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=OGJKLWLSQSZXPAIUKHCCNERB&amp;fileType=view" id="77_8806c_0004b.jpg"/><p facs="#facs_1_tr_1">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Überschike hirbey, was ich dem Bischoff von Augschpurg
+      <lb n="N003"/>geschriben mitt heüntiger post, vnd was ihr Durchlaucht,
+      <lb n="N004"/>mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> mama, mihr auch dise post schreibt. Ich 
+      <lb n="N005"/>hab nuhr darauf geantwort (Das ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
+      <lb n="N006"/>versichere, das ich auf alle weis werde darob sein,
+      <lb n="N007"/>das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> <choice><expan>Anna Magdalena</expan><abbr>AnnaM</abbr></choice> woll an sehl vnd leib werde
+      <lb n="N008"/>versorgt vnd content sein. Was die fondation
+      <lb n="N009"/>anbelangt, zweiflete ich nit, wan dero Liebden ein mahl
+      <lb n="N010"/>mit ihr Durchlaucht sich vntereden wurden, das sie alles
+      <lb n="N011"/>nach dero contento, wie es zum besten vnd nuzligsten
+      <lb n="N012"/>sein werde, werde einrichten, warzue ich mich
+      <lb n="N013"/>so dan gahr gern conformiren wurde. Ich) weis</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=IODYXTUGZCVUDHJUWIBYBGMH&amp;fileType=view" id="77_8806c_0005a.jpg"/><p facs="#facs_2_TextRegion_1674825358497_2207">
+      <lb n="N001"/>mich einmahl nit mehr heraus zu <seg type="blackening">schwe</seg> brengen, wan
+      <lb n="N002"/>dero Liebden nit machen, das die <choice><expan>Mutter</expan><abbr>M</abbr></choice> Anna <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> balt vnd gahr
+      <lb n="N003"/>balt in ein ander closter komme, dan hier will
+      <lb n="N004"/>vnd kann sie nit lenger bleiben. Wans nit kan auf 
+      <lb n="N005"/>Cöllen sein, vmb gottes willen auf Achen oder Antorf,
+      <lb n="N006"/>woh dero Liebden beliben, nuhr das sie hier wekh kombt. Mit
+      <lb n="N007"/>dem werden die <choice><expan>patres</expan><abbr>p</abbr></choice> auch ehnder mit der <choice><expan>Schwester</expan><abbr>schw</abbr></choice> Allexa-
+      <lb n="N008"/>ndrin dispension, das sie hier angenommen werde, <supplied>einverstanden sein</supplied>.
+      <lb n="N009"/>Ich schik sie sonst allebeid na<supplied>c</supplied>h Düßeldorf, dan können
+      <lb n="N010"/>dero Liebden darmit machen, waß sie wollen. Izt kom wider,
+      <lb n="N011"/>etwelche puncta von den überbliben zu beantworten. Was an-
+      <lb n="N012"/>belangt, das ihr Mayestät in Niderland vnd Vntern Rein
+      <lb n="N013"/>ein corpo vnter ein general sch<supplied>i</supplied>ken sollen, muesete
+      <lb n="N014"/>man erst sehen, die leüt zusammen zu brengen vndt
+      <lb n="N015"/>ein gutten solchen general zu finden, dero Liebden wollen mihr
+      <lb n="N016"/>ein vohrschlagen, so will gern dazu helfen. In deßen,
+      <lb n="N017"/>mein ich, sollen dero Liebden wie bis dahto noch alle sich 
+      <lb n="N018"/>nit heraus laßen vnd lauiren. Es haben iah dero
+      <lb n="N019"/>landen noch kein gefahr, so lang kein krig noch</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=UQDPUHXOXIQFFFLQXEDDGLQJ&amp;fileType=view" id="77_8806c_0005b.jpg"/><p facs="#facs_3_TextRegion_1674825330730_2197">
+      <lb n="N001"/>declarirt ist. Wegen der quartir vnd subsid<supplied>i</supplied>en hab dero Liebden
+      <lb n="N002"/>neülich gesch<supplied>rie</supplied>ben, das gutt wehr, wan iemandt hier
+      <lb n="N003"/>wer, der es negotiret. Mus abermahl enden,
+      <lb n="N004"/>b<supplied>e</supplied>f<supplied>e</supplied>hl mich meiner lib<supplied>st</supplied>en <choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied>e</supplied>rin ins herz, bitt
+      <lb n="N005"/>mich zu entschuld<supplied>ig</supplied>en, lebe vnd st<supplied>er</supplied>be
+      <lb n="N006"/>dero Liebden
+      <lb n="N007"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied>e</supplied>ster
+      <lb n="N008"/>Eleonora
+      <lb n="N009"/>Wien den 16 aprill 1701</p></div>
 </body>
 
    </text>

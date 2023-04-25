@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8806b.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8806b.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 06.04.1701</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
-            <editor >
+            <editor>
                <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
                <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
                <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
@@ -54,7 +50,7 @@
                         <idno>77 Nr. 8806, Korrespondenz des Kurfürsten Johann Wilhelm von der Pfalz mit Kaiser Leopold I., der Kaiserin Eleonore, König Wilhelm III. von England, König Friedrich I. von Preußen, den kaiserlichen Gesandten ... / März 1701-Juni 1701</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,18 +66,18 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="emt_place_id__63">Wien</placeName>
-               <date when="1701-04-06"></date>
+               <date when="1701-04-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id_18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -123,30 +119,25 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=VUPKPHFJEBDAVWOPHKILZIAJ&amp;fileType=view" id="77_8806b_00122.jpg"/>
-    <ab facs="#facs_1_TextRegion_1674826322853_2446" >
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Mitt der gelegenheit des <choice><expan>Graven</expan><abbr>G</abbr></choice> Lowenstein hab ich nit <unclear reason="unklare Abkürzung: wahrscheinlich fortschicken">vortsch</unclear>
-      <lb facs="#facs_1_tr_1_tl_3" n="N003"/>wollen, <supplied >ohne</supplied> dero Liebden mein b<supplied >e</supplied>stendig lieb zu versichren. Ich hab mit
-      <lb facs="#facs_1_line_1674801178996_1108" n="N004"/>ihm eins vndt andres abgeret, zuefodrist, wie
-      <lb facs="#facs_1_tr_1_tl_6" n="N005"/>man könne ein gutte vnd enge verstendtnus
-      <lb facs="#facs_1_tr_3_tl_1" n="N006"/>zwischen dero Liebden vnd dem Morgraf von Baden einfüren,
-      <lb facs="#facs_1_tr_3_tl_2" n="N007"/>welche so woll vohr dero Liebden als mein Keiser
-      <lb facs="#facs_1_tr_3_tl_3" n="N008"/>vnd dem publico höch<supplied >s</supplied>t nuzlich sein wurde,
-      <lb facs="#facs_1_tr_3_tl_4" n="N009"/>dan ein mahl ist kein general absolute,
-      <lb facs="#facs_1_tr_2_tl_1" n="N010"/>der den handel versteht wie ehr, vndt
-      <lb facs="#facs_1_tr_2_tl_2" n="N011"/>solten mihr ihn nit haben, wer das totum </ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UJHRUMHAFPJCGCTFDKNGITSS&amp;fileType=view" id="77_8806b_00123.jpg"/>
-    <ab facs="#facs_2_tr_1" >
-      <lb facs="#facs_2_tr_1_tl_1" n="N001"/>in höchste gefahr gesezt. In übrigen wirt er <unclear reason="offensichtlich sinnentstellende Korruptele: selbsten">lebesten</unclear>
-      <lb facs="#facs_2_tr_1_tl_2" n="N002"/>dero Liebden alles infor<supplied >m</supplied>iren, darauf ich mich bez<supplied >i</supplied>eh.
-      <lb facs="#facs_2_tr_1_tl_3" n="N003"/>Werde l<supplied >e</supplied>ben vnd st<supplied >er</supplied>ben
-      <lb facs="#facs_2_line_1674801200406_1115" n="N004"/>dero Liebden
-      <lb facs="#facs_2_tr_1_tl_4" n="N005"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied >e</supplied>ster
-      <lb facs="#facs_2_tr_1_tl_6" n="N006"/>Eleonora
-      <lb facs="#facs_2_tr_1_tl_5" n="N007"/>Wien den 6ten aprill 1701</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=VUPKPHFJEBDAVWOPHKILZIAJ&amp;fileType=view" id="77_8806b_00122.jpg"/><p facs="#facs_1_TextRegion_1674826322853_2446">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Mitt der gelegenheit des <choice><expan>Graven</expan><abbr>G</abbr></choice> Lowenstein hab ich nit <unclear reason="unklare Abkürzung: wahrscheinlich fortschicken">vortsch</unclear>
+      <lb n="N003"/>wollen, <supplied>ohne</supplied> dero Liebden mein b<supplied>e</supplied>stendig lieb zu versichren. Ich hab mit
+      <lb n="N004"/>ihm eins vndt andres abgeret, zuefodrist, wie
+      <lb n="N005"/>man könne ein gutte vnd enge verstendtnus
+      <lb n="N006"/>zwischen dero Liebden vnd dem Morgraf von Baden einfüren,
+      <lb n="N007"/>welche so woll vohr dero Liebden als mein Keiser
+      <lb n="N008"/>vnd dem publico höch<supplied>s</supplied>t nuzlich sein wurde,
+      <lb n="N009"/>dan ein mahl ist kein general absolute,
+      <lb n="N010"/>der den handel versteht wie ehr, vndt
+      <lb n="N011"/>solten mihr ihn nit haben, wer das totum </p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UJHRUMHAFPJCGCTFDKNGITSS&amp;fileType=view" id="77_8806b_00123.jpg"/><p facs="#facs_2_tr_1">
+      <lb n="N001"/>in höchste gefahr gesezt. In übrigen wirt er <unclear reason="offensichtlich sinnentstellende Korruptele: selbsten">lebesten</unclear>
+      <lb n="N002"/>dero Liebden alles infor<supplied>m</supplied>iren, darauf ich mich bez<supplied>i</supplied>eh.
+      <lb n="N003"/>Werde l<supplied>e</supplied>ben vnd st<supplied>er</supplied>ben
+      <lb n="N004"/>dero Liebden
+      <lb n="N005"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied>e</supplied>ster
+      <lb n="N006"/>Eleonora
+      <lb n="N007"/>Wien den 6ten aprill 1701</p></div>
 </body>
 
    </text>

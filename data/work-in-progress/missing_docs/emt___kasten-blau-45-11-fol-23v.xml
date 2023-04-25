@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___kasten-blau-45-11-fol-23v.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-23v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 45. nr. 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -138,44 +134,39 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=BELQTQJEZZKWJPOGBPAIOJSO&amp;fileType=view" id="Kasten_blau_45-11_fol_23r.jpg"/>
-    <p facs="#facs_1_region_1677165151470_376">
-      <lb facs="#facs_1_line_1677165157594_379" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_line_1677165162013_384" n="N002"/>Ich bitte gehorsamist vmb vergebung, das die
-      <lb facs="#facs_1_line_1677165166880_389" n="N003"/>beide vohrige posten meine schuldichkeit nit
-      <lb facs="#facs_1_line_1677165171353_394" n="N004"/>habe abgelegt, die zeit hatt es nit erleiden
-      <lb facs="#facs_1_line_1677165175700_399" n="N005"/>wollen, in deme am pfinstag den ganzen
-      <lb facs="#facs_1_line_1677165179884_404" n="N006"/>dag in der kirchen vndt am osterdag mit
-      <lb facs="#facs_1_line_1677165184425_409" n="N007"/>bone feste ganz überhaüfet gewesen, welches ich
-      <lb facs="#facs_1_line_1677165189079_414" n="N008"/>ewer Durchlaucht mit aller glükhsehlichkeit angehaüfet
-      <lb facs="#facs_1_line_1677165193421_419" n="N009"/><choice><expan>gehorsamst</expan><abbr>g</abbr></choice> anwüntsche. Ich habe aus ewer Durchlaucht schreiben
-      <lb facs="#facs_1_line_1677165198181_424" n="N010"/>mich bis dahto schwischen hoffen vndt forcht wegen
-      <lb facs="#facs_1_line_1677165202866_429" n="N011"/>des Cuhrfürsten zue Cöllen befunden, hoffe aber,
-      <lb facs="#facs_1_line_1677165207460_434" n="N012"/>heütt etwas beßeres zue vernemmen, wie
-      <lb facs="#facs_1_line_1677165212089_439" n="N013"/>auch, das etwas guettes mit den aliirten solle
-      <lb facs="#facs_1_line_1677165216212_444" n="N014"/>ausgericht sein worden. Nuhnmehr wirt der
-      <lb facs="#facs_1_line_1677165219927_449" n="N015"/>Marques de Grana auch schon dort ankommen
-      <lb facs="#facs_1_line_1677165223352_454" n="N016"/>sein, welcher disfals von ihr Mayestät dahin
-      <lb facs="#facs_1_line_1677165227858_459" n="N017"/>geschikt worden, gott gebe sein gnahd, das
-      <lb facs="#facs_1_line_1677165232426_464" n="N018"/>alles wohl möge abgehn zue ewer Durchlaucht satisfac-
-      <lb facs="#facs_1_line_1677165237299_469" n="N019"/>tion vndt sie gelüklich dero vohrgenommene</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=MRHODMUUPEHAVJMVXGVTXVFN&amp;fileType=view" id="Kasten_blau_45-11_fol_23v.jpg"/>
-    <p facs="#facs_2_region_1677165070063_302">
-      <lb facs="#facs_2_line_1677165077750_305" n="N001"/>reis mögen volenden vndt ich mit der zeitung
-      <lb facs="#facs_2_line_1677165083152_310" n="N002"/>dero gelüklige ankunft auf Neüburg möge
-      <lb facs="#facs_2_line_1677165087598_315" n="N003"/>erfrewet werden, welchs von herzen wüntschet
-      <lb facs="#facs_2_line_1677165091482_320" n="N004"/>vndt verlangt die ienige, so sterben wirt
-      <lb facs="#facs_2_line_1677165094130_325" n="N005"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1677165099979_335" n="N006"/>ganz ergebenste trewgehorsamste
-      <lb facs="#facs_2_line_1677165102705_340" n="N007"/>dochter
-      <lb facs="#facs_2_line_1677165104690_345" n="N008"/>EMT
-      <lb facs="#facs_2_line_1677165096952_330" n="N009"/>Wien den 14 apprill 1678
-      <lb facs="#facs_2_line_1677165108981_350" n="N010"/>Wegen meines eltisten brueder werden ewer Durchlaucht
-      <lb facs="#facs_2_line_1677165113164_355" n="N011"/>schon von ihr Mayestät selber vernommen haben,
-      <lb facs="#facs_2_line_1677165117723_360" n="N012"/>das es ihnen nit zuewider, das er mit herauf
-      <lb facs="#facs_2_line_1677165120421_365" n="N013"/>kommet.</p>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=BELQTQJEZZKWJPOGBPAIOJSO&amp;fileType=view" id="Kasten_blau_45-11_fol_23r.jpg"/><p facs="#facs_1_region_1677165151470_376">
+      <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
+      <lb n="N002"/>Ich bitte gehorsamist vmb vergebung, das die
+      <lb n="N003"/>beide vohrige posten meine schuldichkeit nit
+      <lb n="N004"/>habe abgelegt, die zeit hatt es nit erleiden
+      <lb n="N005"/>wollen, in deme am pfinstag den ganzen
+      <lb n="N006"/>dag in der kirchen vndt am osterdag mit
+      <lb n="N007"/>bone feste ganz überhaüfet gewesen, welches ich
+      <lb n="N008"/>ewer Durchlaucht mit aller glükhsehlichkeit angehaüfet
+      <lb n="N009"/><choice><expan>gehorsamst</expan><abbr>g</abbr></choice> anwüntsche. Ich habe aus ewer Durchlaucht schreiben
+      <lb n="N010"/>mich bis dahto schwischen hoffen vndt forcht wegen
+      <lb n="N011"/>des Cuhrfürsten zue Cöllen befunden, hoffe aber,
+      <lb n="N012"/>heütt etwas beßeres zue vernemmen, wie
+      <lb n="N013"/>auch, das etwas guettes mit den aliirten solle
+      <lb n="N014"/>ausgericht sein worden. Nuhnmehr wirt der
+      <lb n="N015"/>Marques de Grana auch schon dort ankommen
+      <lb n="N016"/>sein, welcher disfals von ihr Mayestät dahin
+      <lb n="N017"/>geschikt worden, gott gebe sein gnahd, das
+      <lb n="N018"/>alles wohl möge abgehn zue ewer Durchlaucht satisfac-
+      <lb n="N019"/>tion vndt sie gelüklich dero vohrgenommene</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=MRHODMUUPEHAVJMVXGVTXVFN&amp;fileType=view" id="Kasten_blau_45-11_fol_23v.jpg"/><p facs="#facs_2_region_1677165070063_302">
+      <lb n="N001"/>reis mögen volenden vndt ich mit der zeitung
+      <lb n="N002"/>dero gelüklige ankunft auf Neüburg möge
+      <lb n="N003"/>erfrewet werden, welchs von herzen wüntschet
+      <lb n="N004"/>vndt verlangt die ienige, so sterben wirt
+      <lb n="N005"/>ewer Durchlaucht
+      <lb n="N006"/>ganz ergebenste trewgehorsamste
+      <lb n="N007"/>dochter
+      <lb n="N008"/>EMT
+      <lb n="N009"/>Wien den 14 apprill 1678
+      <lb n="N010"/>Wegen meines eltisten brueder werden ewer Durchlaucht
+      <lb n="N011"/>schon von ihr Mayestät selber vernommen haben,
+      <lb n="N012"/>das es ihnen nit zuewider, das er mit herauf
+      <lb n="N013"/>kommet.</p></div>
 </body>
 
    </text>
