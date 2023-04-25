@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten-5.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten-5.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -144,47 +140,40 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=SWHYQZODGJPUVAAYATYUQURN&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00083.jpg"/>
-    <ab facs="#facs_1_tr_1" >
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Fürst, herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Ich hab dero libsts schreiben durch den curir
-      <lb facs="#facs_1_tr_1_tl_3" n="N003"/>wohl empfangen. Es seint schon all expeditiones
-      <lb facs="#facs_1_tr_1_tl_4" n="N004"/>geschikt worden, gott geb sein gnad, das woll
-      <lb facs="#facs_1_line_1674815464675_1744" n="N005"/>abgehen möge. Mihr haben zue Zell fleisig
-      <lb facs="#facs_1_line_1674815468940_1749" n="N006"/>deswegen gebett, seint auf der post hin.
-      <lb facs="#facs_1_line_1674815473593_1754" n="N007"/>Ist recht ein lustige wallfart gew<supplied >e</supplied>sen, 
-      <lb facs="#facs_1_line_1674815478374_1759" n="N008"/>mihr seint in 17 stunden heraus vnd 20 hinein,
-      <lb facs="#facs_1_line_1674815492571_1764" n="N009"/>das wetter ist auch gahr guet gew<supplied >e</supplied>st. Es
-      <lb facs="#facs_1_line_1674815497893_1769" n="N010"/>freüdt mich, das mit dem Starenberg
-      <lb facs="#facs_1_line_1674815547300_1774" n="N011"/>so gutt abgangen, izt wirt der Fuker balt
-      <lb facs="#facs_1_line_1674815552823_1779" n="N012"/>her beschriben werden, so wirt alles aiustirt
-      <lb facs="#facs_1_line_1674815558643_1784" n="N013"/>werden. Mit dem Herzoch ist wider beßer,
-      <lb facs="#facs_1_line_1674815568818_1789" n="N014"/>izt, hoff ich woll, werd es ein mahl ein</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UOFTWWQBYTLSEPTFSRHTYAHQ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00084.jpg"/>
-    <ab facs="#facs_2_tr_3" >
-      <lb facs="#facs_2_tr_3_tl_1" n="N001"/>bestandt haben. Der Herzoch von Mantua geht
-      <lb facs="#facs_2_tr_3_tl_2" n="N002"/>wider ins felt, hatt vill leüt, auch ein guarde
-      <lb facs="#facs_2_tr_3_tl_3" n="N003"/>mit. Es wirt izt scharf hergehen, der Cuhrfürst
-      <lb facs="#facs_2_tr_3_tl_4" n="N004"/>aus Beyren wirt auch könftigen freitag oder
-      <lb facs="#facs_2_line_1674815590454_1797" n="N005"/>sambstag hier sein vnd sich aber niks aufhal<supplied >ten</supplied>,
-      <lb facs="#facs_2_line_1674815595197_1802" n="N006"/>sondren gleich ins felt. Heündt ist schon
-      <lb facs="#facs_2_line_1674815600457_1807" n="N007"/>zimlich schpaht, also mus enden wider mein
-      <lb facs="#facs_2_line_1674815609300_1812" n="N008"/>willen, werde st<supplied >e</supplied>rben
-      <lb facs="#facs_2_line_1674815611685_1817" n="N009"/>dero Liebden
-      <lb facs="#facs_2_line_1674815617456_1827" n="N010"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
-      <lb facs="#facs_2_line_1674815619520_1832" n="N011"/>EMT
-      <lb facs="#facs_2_line_1674815614896_1822" n="N012"/>Wien den 11ten julii 1688
-      <lb facs="#facs_2_line_1674815622729_1837" n="N013"/>Bitte mein dort anweßende
-      <lb facs="#facs_2_line_1674815626797_1842" n="N014"/><choice><expan>herren</expan><abbr>h</abbr></choice> brüder alle herzlich zue grüeßen, ich mein,
-      <lb facs="#facs_2_line_1674815636747_1847" n="N015"/>der Bischoff vnd Deütschmeister werden auch schon
-      <lb facs="#facs_2_line_1674815642248_1852" n="N016"/>dort sein, mit nechstem werd ihnen sch<supplied >r</supplied>eiben.</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=DPNAWERRIVJGYQAYELKXHKVJ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00085.jpg"/>
-    <ab facs="#facs_3_tr_1" >
-      <lb facs="#facs_3_line_1674815664175_1861" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm
-      <lb facs="#facs_3_line_1674815667604_1866" n="N002"/>Pfalzgrauen bey Reyhn,
-      <lb facs="#facs_3_line_1674815671116_1871" n="N003"/>meinen herz allerlibsten <choice><expan>herrn</expan><abbr>h</abbr></choice> bruder</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=SWHYQZODGJPUVAAYATYUQURN&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00083.jpg"/><p facs="#facs_1_tr_1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Ich hab dero libsts schreiben durch den curir
+      <lb n="N003"/>wohl empfangen. Es seint schon all expeditiones
+      <lb n="N004"/>geschikt worden, gott geb sein gnad, das woll
+      <lb n="N005"/>abgehen möge. Mihr haben zue Zell fleisig
+      <lb n="N006"/>deswegen gebett, seint auf der post hin.
+      <lb n="N007"/>Ist recht ein lustige wallfart gew<supplied>e</supplied>sen, 
+      <lb n="N008"/>mihr seint in 17 stunden heraus vnd 20 hinein,
+      <lb n="N009"/>das wetter ist auch gahr guet gew<supplied>e</supplied>st. Es
+      <lb n="N010"/>freüdt mich, das mit dem Starenberg
+      <lb n="N011"/>so gutt abgangen, izt wirt der Fuker balt
+      <lb n="N012"/>her beschriben werden, so wirt alles aiustirt
+      <lb n="N013"/>werden. Mit dem Herzoch ist wider beßer,
+      <lb n="N014"/>izt, hoff ich woll, werd es ein mahl ein</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=UOFTWWQBYTLSEPTFSRHTYAHQ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00084.jpg"/><p facs="#facs_2_tr_3">
+      <lb n="N001"/>bestandt haben. Der Herzoch von Mantua geht
+      <lb n="N002"/>wider ins felt, hatt vill leüt, auch ein guarde
+      <lb n="N003"/>mit. Es wirt izt scharf hergehen, der Cuhrfürst
+      <lb n="N004"/>aus Beyren wirt auch könftigen freitag oder
+      <lb n="N005"/>sambstag hier sein vnd sich aber niks aufhal<supplied>ten</supplied>,
+      <lb n="N006"/>sondren gleich ins felt. Heündt ist schon
+      <lb n="N007"/>zimlich schpaht, also mus enden wider mein
+      <lb n="N008"/>willen, werde st<supplied>e</supplied>rben
+      <lb n="N009"/>dero Liebden
+      <lb n="N010"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
+      <lb n="N011"/>EMT
+      <lb n="N012"/>Wien den 11ten julii 1688
+      <lb n="N013"/>Bitte mein dort anweßende
+      <lb n="N014"/><choice><expan>herren</expan><abbr>h</abbr></choice> brüder alle herzlich zue grüeßen, ich mein,
+      <lb n="N015"/>der Bischoff vnd Deütschmeister werden auch schon
+      <lb n="N016"/>dort sein, mit nechstem werd ihnen sch<supplied>r</supplied>eiben.</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=DPNAWERRIVJGYQAYELKXHKVJ&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00085.jpg"/><p facs="#facs_3_tr_1">
+      <lb n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm
+      <lb n="N002"/>Pfalzgrauen bey Reyhn,
+      <lb n="N003"/>meinen herz allerlibsten <choice><expan>herrn</expan><abbr>h</abbr></choice> bruder</p></div>
 </body>
 
    </text>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___kasten-blau-45-11-fol-24v.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-24v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 45 Nr. 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,14 +77,14 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-03-27">template populated with script "create_templates.py"</change>
-         <change who="aspitzbart"  when="2023-04-04">added metadata</change>
+         <change who="aspitzbart" when="2023-04-04">added metadata</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -151,57 +147,52 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XMSJOSZBJHEBITJTZJMERYLS&amp;fileType=view" id="Kasten_blau_45-11_fol_24r.jpg"/>
-    <p facs="#facs_1_region_1677165982736_672">
-      <lb facs="#facs_1_line_1677165989698_675" n="N001"/>Durchleüchtiger Fürst herz allerliebster herr vatter
-      <lb facs="#facs_1_line_1677165994052_680" n="N002"/><unclear reason="unsichere Lesart wegen Korrektur">Ich</unclear> mueß vohr allem vmb vergebung bitten,
-      <lb facs="#facs_1_line_1677165998597_685" n="N003"/>wan ich heüt vngereimt schreibe, dan mich die vnuergleig<supplied >liche</supplied>
-      <lb facs="#facs_1_line_1677166003229_690" n="N004"/>große güett vnd gnad ihr Mayestät, meines <choice><expan>gändigsten</expan><abbr>g</abbr></choice> Kaisers,
-      <lb facs="#facs_1_line_1677166008145_695" n="N005"/>in <seg type="blackening">sch</seg> solliche freüdt gesezt, das fast selber nit
-      <lb facs="#facs_1_line_1677166012843_700" n="N006"/>weis, was ich schreibe, vndt mindert allein diese
-      <lb facs="#facs_1_line_1677166017826_705" n="N007"/>freüdt, das ich in der vnmöglichkheit, solliches iemahlen
-      <lb facs="#facs_1_line_1677166022715_710" n="N008"/>zue verdienen. Mueßen deswegen ewer Durchlaucht vndt alle
-      <lb facs="#facs_1_line_1677166028890_715" n="N009"/>dero <choice><expan>gehorsame</expan><abbr>g</abbr></choice> kinder mit mihr zuehülf <add>ruefen</add>, solliches zue duen,
-      <lb facs="#facs_1_line_1677166038322_725" n="N010"/>dan ich mich allein zue schwach darzue finde. Ewer
-      <lb facs="#facs_1_line_1677166042639_730" n="N011"/>Durchlaucht werden leichtlich erachten können, was dießes
-      <lb facs="#facs_1_line_1677166046999_735" n="N012"/>vohr ein freüdt sey, ihn deme ihnen bekant,
-      <lb facs="#facs_1_line_1677166051538_740" n="N013"/>was sie ieziger zeit zumb mehristen verlangen,
-      <lb facs="#facs_1_line_1677166056001_745" n="N014"/>also berichte, das ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> herr, heünte,
-      <lb facs="#facs_1_line_1677166060736_750" n="N015"/>ohne das ich weiters selbige mit meinen vnterdehnig-
-      <lb facs="#facs_1_line_1677166065430_755" n="N016"/>sten bitten disfals importuniret, sich <choice><expan>allergnädigst</expan><abbr>allerg</abbr></choice> erklahret
-      <lb facs="#facs_1_line_1677166069758_760" n="N017"/>wegen meines <choice><expan>bruders</expan><abbr>b</abbr></choice> seinem höchsten glükh, das sie darin
-      <lb facs="#facs_1_line_1677166074139_765" n="N018"/><choice><expan>gnädigst</expan><abbr>g</abbr></choice> bewilligen. Ich aber bin fohr lauter freüden ganz
-      <lb facs="#facs_1_line_1677166078733_770" n="N019"/>erstummet vndt <supplied >habe</supplied> meine schuldigste danksagung nit
-      <lb facs="#facs_1_line_1677166083276_775" n="N020"/>ablegen können, wie ich hätte sollen. Hoffe, ewer Durchlaucht werden
-      <lb facs="#facs_1_line_1677166087652_780" n="N021"/>mihr hirin helfen, dan einmahl ich nihemahlen werde
-      <lb facs="#facs_1_line_1677166091904_785" n="N022"/>solliche genuechsamb ablegen können. Ewer Durchlaucht wollen aber</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=YQXQFDQSHFOFOJLPWQOEAEZM&amp;fileType=view" id="Kasten_blau_45-11_fol_24v.jpg"/>
-    <p facs="#facs_2_region_1677166125230_812">
-      <lb facs="#facs_2_line_1677166133255_815" n="N001"/>dieses verlangen ihr Mayestät noch ein zeit bey sich behalten
-      <lb facs="#facs_2_line_1677166137922_820" n="N002"/>vndt gahr keinem menschen auser ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> vndt
-      <lb facs="#facs_2_line_1677166142215_825" n="N003"/>meinem brueder es möge innen werden, dan ihr Mayestät
-      <lb facs="#facs_2_line_1677166147078_830" n="N004"/>mihr so <choice><expan>gnädig</expan><abbr>g</abbr></choice> gewesen vndt es erlaubt, ewer Durchlaucht zue ersten
-      <lb facs="#facs_2_line_1677166154805_835" n="N005"/>zue berichten, also auch, das ihr Mayestät die Kaiserin anoch
-      <lb facs="#facs_2_line_1677166158547_840" n="N006"/>niks daruon wißen. Darumb bitte, das es doch bis
-      <lb facs="#facs_2_line_1677166162623_845" n="N007"/>dahin möge in höchster geheim verbleiben. Wegen 
-      <lb facs="#facs_2_line_1677166167123_850" n="N008"/>was ewer Durchlaucht verlangen wegen was sie vohr leudt mit bringen
-      <lb facs="#facs_2_line_1677166171558_855" n="N009"/>solten, will ich mich erkundigen vndt alsdan ewer Durchlaucht berichten.
-      <lb facs="#facs_2_line_1677166176080_860" n="N010"/>Dero reis hier her <supplied >betreffend</supplied> hab ich so vill vernommen, als das
-      <lb facs="#facs_2_line_1677166180146_865" n="N011"/>im halben julij ein monat fohr ihr Mayestät solliches verlangen.
-      <lb facs="#facs_2_line_1677246535111_107" n="N012"/>Wie <add>vndt</add> auf was weis vndt woh meines <choice><expan>bruders</expan><abbr>b</abbr></choice> hochzeit sein
-      <lb facs="#facs_2_line_1677166192748_880" n="N013"/>solle, wirt iezt daruon gerett werden, werde nit laßen,
-      <lb facs="#facs_2_line_1677166242478_947" n="N014"/>solliches alsobalt zue berichten. Befehle mich vnterdehnig
-      <lb facs="#facs_2_line_1677166203735_895" n="N015"/><seg type="blackening">vng</seg> vndt werde sterben
-      <lb facs="#facs_2_line_1677166205800_900" n="N016"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1677166211565_910" n="N017"/>ganzergebenste trewgehorsamste
-      <lb facs="#facs_2_line_1677166214806_915" n="N018"/>dochter
-      <lb facs="#facs_2_line_1677166219855_920" n="N019"/>EMT
-      <lb facs="#facs_2_line_1677166208509_905" n="N020"/>Wien den 17 <supplied><unclear reason="offensichtlich sinnentstellende Korruptele: Monat fehlt">april</unclear></supplied> 1678
-      <lb facs="#facs_2_line_1677166223620_925" n="N021"/>Schik hirbey ein newe mode von
-      <lb facs="#facs_2_line_1677166228375_930" n="N022"/>schreib fedren, weis nit, ob ihr Durchlaucht mit schreiben werden
-      <lb facs="#facs_2_line_1677166231034_935" n="N023"/>könen.</p>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=XMSJOSZBJHEBITJTZJMERYLS&amp;fileType=view" id="Kasten_blau_45-11_fol_24r.jpg"/><p facs="#facs_1_region_1677165982736_672">
+      <lb n="N001"/>Durchleüchtiger Fürst herz allerliebster herr vatter
+      <lb n="N002"/><unclear reason="unsichere Lesart wegen Korrektur">Ich</unclear> mueß vohr allem vmb vergebung bitten,
+      <lb n="N003"/>wan ich heüt vngereimt schreibe, dan mich die vnuergleig<supplied>liche</supplied>
+      <lb n="N004"/>große güett vnd gnad ihr Mayestät, meines <choice><expan>gändigsten</expan><abbr>g</abbr></choice> Kaisers,
+      <lb n="N005"/>in <seg type="blackening">sch</seg> solliche freüdt gesezt, das fast selber nit
+      <lb n="N006"/>weis, was ich schreibe, vndt mindert allein diese
+      <lb n="N007"/>freüdt, das ich in der vnmöglichkheit, solliches iemahlen
+      <lb n="N008"/>zue verdienen. Mueßen deswegen ewer Durchlaucht vndt alle
+      <lb n="N009"/>dero <choice><expan>gehorsame</expan><abbr>g</abbr></choice> kinder mit mihr zuehülf <add>ruefen</add>, solliches zue duen,
+      <lb n="N010"/>dan ich mich allein zue schwach darzue finde. Ewer
+      <lb n="N011"/>Durchlaucht werden leichtlich erachten können, was dießes
+      <lb n="N012"/>vohr ein freüdt sey, ihn deme ihnen bekant,
+      <lb n="N013"/>was sie ieziger zeit zumb mehristen verlangen,
+      <lb n="N014"/>also berichte, das ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> herr, heünte,
+      <lb n="N015"/>ohne das ich weiters selbige mit meinen vnterdehnig-
+      <lb n="N016"/>sten bitten disfals importuniret, sich <choice><expan>allergnädigst</expan><abbr>allerg</abbr></choice> erklahret
+      <lb n="N017"/>wegen meines <choice><expan>bruders</expan><abbr>b</abbr></choice> seinem höchsten glükh, das sie darin
+      <lb n="N018"/><choice><expan>gnädigst</expan><abbr>g</abbr></choice> bewilligen. Ich aber bin fohr lauter freüden ganz
+      <lb n="N019"/>erstummet vndt <supplied>habe</supplied> meine schuldigste danksagung nit
+      <lb n="N020"/>ablegen können, wie ich hätte sollen. Hoffe, ewer Durchlaucht werden
+      <lb n="N021"/>mihr hirin helfen, dan einmahl ich nihemahlen werde
+      <lb n="N022"/>solliche genuechsamb ablegen können. Ewer Durchlaucht wollen aber</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=YQXQFDQSHFOFOJLPWQOEAEZM&amp;fileType=view" id="Kasten_blau_45-11_fol_24v.jpg"/><p facs="#facs_2_region_1677166125230_812">
+      <lb n="N001"/>dieses verlangen ihr Mayestät noch ein zeit bey sich behalten
+      <lb n="N002"/>vndt gahr keinem menschen auser ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> vndt
+      <lb n="N003"/>meinem brueder es möge innen werden, dan ihr Mayestät
+      <lb n="N004"/>mihr so <choice><expan>gnädig</expan><abbr>g</abbr></choice> gewesen vndt es erlaubt, ewer Durchlaucht zue ersten
+      <lb n="N005"/>zue berichten, also auch, das ihr Mayestät die Kaiserin anoch
+      <lb n="N006"/>niks daruon wißen. Darumb bitte, das es doch bis
+      <lb n="N007"/>dahin möge in höchster geheim verbleiben. Wegen 
+      <lb n="N008"/>was ewer Durchlaucht verlangen wegen was sie vohr leudt mit bringen
+      <lb n="N009"/>solten, will ich mich erkundigen vndt alsdan ewer Durchlaucht berichten.
+      <lb n="N010"/>Dero reis hier her <supplied>betreffend</supplied> hab ich so vill vernommen, als das
+      <lb n="N011"/>im halben julij ein monat fohr ihr Mayestät solliches verlangen.
+      <lb n="N012"/>Wie <add>vndt</add> auf was weis vndt woh meines <choice><expan>bruders</expan><abbr>b</abbr></choice> hochzeit sein
+      <lb n="N013"/>solle, wirt iezt daruon gerett werden, werde nit laßen,
+      <lb n="N014"/>solliches alsobalt zue berichten. Befehle mich vnterdehnig
+      <lb n="N015"/><seg type="blackening">vng</seg> vndt werde sterben
+      <lb n="N016"/>ewer Durchlaucht
+      <lb n="N017"/>ganzergebenste trewgehorsamste
+      <lb n="N018"/>dochter
+      <lb n="N019"/>EMT
+      <lb n="N020"/>Wien den 17 <supplied><unclear reason="offensichtlich sinnentstellende Korruptele: Monat fehlt">april</unclear></supplied> 1678
+      <lb n="N021"/>Schik hirbey ein newe mode von
+      <lb n="N022"/>schreib fedren, weis nit, ob ihr Durchlaucht mit schreiben werden
+      <lb n="N023"/>könen.</p></div>
 </body>
 
    </text>

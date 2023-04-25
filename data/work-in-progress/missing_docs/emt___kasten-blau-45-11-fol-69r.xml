@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___kasten-blau-45-11-fol-69r.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-69r.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 45 Nr. 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -126,35 +122,32 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=GGOYCFEUKWEMKWZOYPAHAYIN&amp;fileType=view" id="Kasten_blau_45-11_fol_69r.jpg"/>
-    <ab facs="#facs_1_TextRegion_1677165360159_498" >
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
-      <lb facs="#facs_1_line_1677165407886_548" n="N002"/>Dieweilen mihr, in dem sich das wetter anfanget
-      <lb facs="#facs_1_line_1677165411860_552" n="N003"/>zue beßer vndt das waßer widerumb fallet,
-      <lb facs="#facs_1_line_1677165415914_556" n="N004"/>morgen wilsgott noch auff Laxenburg werden vnd
-      <lb facs="#facs_1_tr_1_tl_8" n="N005"/>also heütt die leütt audienzen haben, auch ihr Mayestät
-      <lb facs="#facs_1_line_1677165422061_560" n="N006"/>die Kaiserin zur ader gelaßen, als mues ich
-      <lb facs="#facs_1_tr_1_tl_12" n="N007"/>gehorsamb vmb vergebung bitten, wan ich
-      <lb facs="#facs_1_line_1677165428460_564" n="N008"/>dismahl so kurz mues abrechen. Ich hoffe
-      <lb facs="#facs_1_line_1677165437893_568" n="N009"/>vnterdeßen, ewer Durchlaucht werden gelüklich zue
-      <lb facs="#facs_1_line_1677165443050_572" n="N010"/>Neüburg angelanget sein vndt sich in guetten
-      <lb facs="#facs_1_line_1677165446972_576" n="N011"/>wohlstant befinden. Gott gebe, das mit der
-      <lb facs="#facs_1_tr_2_tl_1" n="N012"/>coadiutori auch wohl möge von statten
-      <lb facs="#facs_1_tr_2_tl_2" n="N013"/>gehen. Der Bischoff von Gurk hatt der Grauin
-      <lb facs="#facs_1_line_1677165674348_580" n="N014"/>von Mansfelt geschrieben, er woll sein bests
-      <lb facs="#facs_1_line_1677165678431_584" n="N015"/>cuprlen, gott geb sein gnadt. Ich befehle
-      <lb facs="#facs_1_line_1677165682501_588" n="N016"/>mich vnterdehnig vndt wuntsche ewer Durchlaucht
-      <lb facs="#facs_1_tr_2_tl_10" n="N017"/>zue dem heütigen dero nahmen da<supplied >c</supplied>h allen segen von
-      <lb facs="#facs_1_line_1677245062648_25" n="N018"/>gott, <supplied >und dass</supplied> ewer Durchlaucht alles das ienige mögen erlangen mit
-      <lb facs="#facs_1_line_1677165693297_597" n="N019"/>vnzahlbahren volgenden iahren, was sie selbst verlangen
-      <lb facs="#facs_1_tr_2_tl_16" n="N020"/>vndt ihnen von herzen <unclear reason="offensichtlich sinnentstellende Korruptele: wünscht">anscht</unclear> die ienige, so sterben wirt
-      <lb facs="#facs_1_line_1677245223702_40" n="N021"/>ewer Durchlaucht
-      <lb facs="#facs_1_tr_2_tl_18" n="N022"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
-      <lb facs="#facs_1_line_1677245223702_39" n="N023"/>gehorsamste dochter
-      <lb facs="#facs_1_line_1677165394782_538" n="N024"/>EMT
-      <lb facs="#facs_1_line_1677245214105_35" n="N025"/>Wien den 1 maij 1678</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=GGOYCFEUKWEMKWZOYPAHAYIN&amp;fileType=view" id="Kasten_blau_45-11_fol_69r.jpg"/><p facs="#facs_1_TextRegion_1677165360159_498">
+      <lb n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
+      <lb n="N002"/>Dieweilen mihr, in dem sich das wetter anfanget
+      <lb n="N003"/>zue beßer vndt das waßer widerumb fallet,
+      <lb n="N004"/>morgen wilsgott noch auff Laxenburg werden vnd
+      <lb n="N005"/>also heütt die leütt audienzen haben, auch ihr Mayestät
+      <lb n="N006"/>die Kaiserin zur ader gelaßen, als mues ich
+      <lb n="N007"/>gehorsamb vmb vergebung bitten, wan ich
+      <lb n="N008"/>dismahl so kurz mues abrechen. Ich hoffe
+      <lb n="N009"/>vnterdeßen, ewer Durchlaucht werden gelüklich zue
+      <lb n="N010"/>Neüburg angelanget sein vndt sich in guetten
+      <lb n="N011"/>wohlstant befinden. Gott gebe, das mit der
+      <lb n="N012"/>coadiutori auch wohl möge von statten
+      <lb n="N013"/>gehen. Der Bischoff von Gurk hatt der Grauin
+      <lb n="N014"/>von Mansfelt geschrieben, er woll sein bests
+      <lb n="N015"/>cuprlen, gott geb sein gnadt. Ich befehle
+      <lb n="N016"/>mich vnterdehnig vndt wuntsche ewer Durchlaucht
+      <lb n="N017"/>zue dem heütigen dero nahmen da<supplied>c</supplied>h allen segen von
+      <lb n="N018"/>gott, <supplied>und dass</supplied> ewer Durchlaucht alles das ienige mögen erlangen mit
+      <lb n="N019"/>vnzahlbahren volgenden iahren, was sie selbst verlangen
+      <lb n="N020"/>vndt ihnen von herzen <unclear reason="offensichtlich sinnentstellende Korruptele: wünscht">anscht</unclear> die ienige, so sterben wirt
+      <lb n="N021"/>ewer Durchlaucht
+      <lb n="N022"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
+      <lb n="N023"/>gehorsamste dochter
+      <lb n="N024"/>EMT
+      <lb n="N025"/>Wien den 1 maij 1678</p></div>
 </body>
 
    </text>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___kasten-blau-45-11-fol-12v.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-12v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 45 Nr. 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -145,51 +141,46 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=NWOOQJCQVDJRSSDXGOOJMJCC&amp;fileType=view" id="Kasten_blau_45-11_fol_12r.jpg"/>
-    <p facs="#facs_1_region_1677164674697_31">
-      <lb facs="#facs_1_line_1677164688147_34" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
-      <lb facs="#facs_1_line_1677164693721_39" n="N002"/>Ich habe mit vohriger post meine schuldichkeit <supplied >nicht</supplied> abgelegt,
-      <lb facs="#facs_1_line_1677164704176_44" n="N003"/>aber wie ihr Durchlaucht schon vom Fürsten werden vernommen
-      <lb facs="#facs_1_line_1677164709641_49" n="N004"/>haben, so ist an dieser nachläßichkeit ihr Mayestät, meines
-      <lb facs="#facs_1_line_1677164715705_54" n="N005"/><choice><expan>allergnädigsten</expan><abbr>allerg</abbr></choice> Kaysers, übelaufsein die vhrsach. Gottlob aber <supplied >ist es</supplied>
-      <lb facs="#facs_1_line_1677164720784_59" n="N006"/>iezt widerumb auf der beßerunge vndt ich also
-      <lb facs="#facs_1_line_1677164725640_64" n="N007"/>auch getröstet, wie wohl die doctoren es nie vohr
-      <lb facs="#facs_1_line_1677164731738_69" n="N008"/>gefährlich gehalten. Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> die Erzherzogin seint auch
-      <lb facs="#facs_1_line_1677164737431_74" n="N009"/>widerumb beßer, hoffe zu gott, er werde ihr Mayestät
-      <lb facs="#facs_1_line_1677164743267_79" n="N010"/>vnd der lieben Princessin balt die föllige gesuntheit
-      <lb facs="#facs_1_line_1677164749083_84" n="N011"/>verleyen. Ich bin zwahr ein dag etlich nit aller wohl
-      <lb facs="#facs_1_line_1677164754776_89" n="N012"/>gewesen, aber nit so vill, das mich hatte legen müeßen,
-      <lb facs="#facs_1_line_1677164760335_94" n="N013"/>bin aber iezt widerumb ganz wohl auf, <seg type="blackening">hoh</seg> hoffe,
-      <lb facs="#facs_1_line_1677164766653_99" n="N014"/>ihr Durchlaucht werden auch sich wohl befinden. Ihr Mayestät,
-      <lb facs="#facs_1_line_1677164776936_104" n="N015"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> herr, werden selbsten mit dem Grauen
-      <lb facs="#facs_1_line_1677164782652_109" n="N016"/>Forbeni reden, sie erzeigen sich so gnädig, das
-      <lb facs="#facs_1_line_1677164787669_114" n="N017"/>ich ihnen niemahlens meine schuldigst danksagung
-      <lb facs="#facs_1_line_1677164792722_119" n="N018"/>genuechsam daruohr erstatten kan, vndt können
-      <lb facs="#facs_1_line_1677164797848_124" n="N019"/>ihr Durchlaucht versichert sein, das hier niks versaumbt
-      <lb facs="#facs_1_line_1677164802694_129" n="N020"/>wirt werden. Mihr wirt allezeit die gröste freüdt</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PAMPESFEEZPAWEUTCXCYAMBL&amp;fileType=view" id="Kasten_blau_45-11_fol_12v.jpg"/>
-    <p facs="#facs_2_region_1677164887881_162">
-      <lb facs="#facs_2_line_1677164893937_165" n="N001"/>sein, dero befehl in allem zu vollbringen
-      <lb facs="#facs_2_line_1677164897404_170" n="N002"/>als dieienige, so bestendigst verbleiben wirt
-      <lb facs="#facs_2_line_1677164899920_175" n="N003"/>ewer Durchlaucht
-      <lb facs="#facs_2_line_1677164903069_180" n="N004"/>ganzergebenste trew gehorsamste
-      <lb facs="#facs_2_line_1677164906363_185" n="N005"/>dochter bis in doht
-      <lb facs="#facs_2_line_1677248559796_213" n="N006"/>Eleonora Magdalena Theresia
-      <lb facs="#facs_2_line_1677164914475_195" n="N007"/>Wien den 26 aug<supplied >u</supplied>st 1677
-      <lb facs="#facs_2_line_1677164922316_205" n="N008"/><note type="editorische Anmerkung">Dieser Nachsatz stammt von Kaiser Leopold I. persönlich.</note>Habe <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> allen erindern wollen, das ich nunmehr mich
-      <lb facs="#facs_2_line_1677164926695_210" n="N009"/>?? gott lob vill besser befinde. Werde dah noch ein tag etliche
-      <lb facs="#facs_2_line_1677164932759_215" n="N010"/>zu bette zuebringen müssen. Trawe mir auch nitt vill zue schreiben,
-      <lb facs="#facs_2_line_1677164936742_220" n="N011"/>vmb den kopf nitt zuerhizen. Versichere <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mein ???
-      <lb facs="#facs_2_line_1677164940240_225" n="N012"/>in <choice><expan>dero</expan><abbr>d</abbr></choice> vetterliche attention vnd verbleibe
-      <lb facs="#facs_2_line_1677164942268_230" n="N013"/><choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>
-      <lb facs="#facs_2_line_1677164945487_235" n="N014"/>truswollens vetter
-      <lb facs="#facs_2_line_1677164948083_240" n="N015"/>Leopoldt<note type="editorische Anmerkung">Bis hier Nachsatz eigenhändig von Kaiser Leopold I.</note>
-      <lb facs="#facs_2_line_1677164953256_245" n="N016"/>Ich weis wohl, das ihr Durchlaucht über mich nit wohl werden
-      <lb facs="#facs_2_line_1677164957935_250" n="N017"/>zufriden sein, das ihr Mayestät <seg type="blackening">ge</seg> dieses geschrieben, habe wohl
-      <lb facs="#facs_2_line_1677164962651_255" n="N018"/>vnterdehnigst dahruohr gebetten, aber niks erhalten können,
-      <lb facs="#facs_2_line_1677164967894_260" n="N019"/>dan es in dieser krankheit nit guett, das man schreibt.</p>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=NWOOQJCQVDJRSSDXGOOJMJCC&amp;fileType=view" id="Kasten_blau_45-11_fol_12r.jpg"/><p facs="#facs_1_region_1677164674697_31">
+      <lb n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
+      <lb n="N002"/>Ich habe mit vohriger post meine schuldichkeit <supplied>nicht</supplied> abgelegt,
+      <lb n="N003"/>aber wie ihr Durchlaucht schon vom Fürsten werden vernommen
+      <lb n="N004"/>haben, so ist an dieser nachläßichkeit ihr Mayestät, meines
+      <lb n="N005"/><choice><expan>allergnädigsten</expan><abbr>allerg</abbr></choice> Kaysers, übelaufsein die vhrsach. Gottlob aber <supplied>ist es</supplied>
+      <lb n="N006"/>iezt widerumb auf der beßerunge vndt ich also
+      <lb n="N007"/>auch getröstet, wie wohl die doctoren es nie vohr
+      <lb n="N008"/>gefährlich gehalten. Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> die Erzherzogin seint auch
+      <lb n="N009"/>widerumb beßer, hoffe zu gott, er werde ihr Mayestät
+      <lb n="N010"/>vnd der lieben Princessin balt die föllige gesuntheit
+      <lb n="N011"/>verleyen. Ich bin zwahr ein dag etlich nit aller wohl
+      <lb n="N012"/>gewesen, aber nit so vill, das mich hatte legen müeßen,
+      <lb n="N013"/>bin aber iezt widerumb ganz wohl auf, <seg type="blackening">hoh</seg> hoffe,
+      <lb n="N014"/>ihr Durchlaucht werden auch sich wohl befinden. Ihr Mayestät,
+      <lb n="N015"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> herr, werden selbsten mit dem Grauen
+      <lb n="N016"/>Forbeni reden, sie erzeigen sich so gnädig, das
+      <lb n="N017"/>ich ihnen niemahlens meine schuldigst danksagung
+      <lb n="N018"/>genuechsam daruohr erstatten kan, vndt können
+      <lb n="N019"/>ihr Durchlaucht versichert sein, das hier niks versaumbt
+      <lb n="N020"/>wirt werden. Mihr wirt allezeit die gröste freüdt</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PAMPESFEEZPAWEUTCXCYAMBL&amp;fileType=view" id="Kasten_blau_45-11_fol_12v.jpg"/><p facs="#facs_2_region_1677164887881_162">
+      <lb n="N001"/>sein, dero befehl in allem zu vollbringen
+      <lb n="N002"/>als dieienige, so bestendigst verbleiben wirt
+      <lb n="N003"/>ewer Durchlaucht
+      <lb n="N004"/>ganzergebenste trew gehorsamste
+      <lb n="N005"/>dochter bis in doht
+      <lb n="N006"/>Eleonora Magdalena Theresia
+      <lb n="N007"/>Wien den 26 aug<supplied>u</supplied>st 1677
+      <lb n="N008"/><note type="editorische Anmerkung">Dieser Nachsatz stammt von Kaiser Leopold I. persönlich.</note>Habe <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> allen erindern wollen, das ich nunmehr mich
+      <lb n="N009"/>?? gott lob vill besser befinde. Werde dah noch ein tag etliche
+      <lb n="N010"/>zu bette zuebringen müssen. Trawe mir auch nitt vill zue schreiben,
+      <lb n="N011"/>vmb den kopf nitt zuerhizen. Versichere <choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mein ???
+      <lb n="N012"/>in <choice><expan>dero</expan><abbr>d</abbr></choice> vetterliche attention vnd verbleibe
+      <lb n="N013"/><choice><expan>ewer</expan><abbr>ew</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>
+      <lb n="N014"/>truswollens vetter
+      <lb n="N015"/>Leopoldt<note type="editorische Anmerkung">Bis hier Nachsatz eigenhändig von Kaiser Leopold I.</note>
+      <lb n="N016"/>Ich weis wohl, das ihr Durchlaucht über mich nit wohl werden
+      <lb n="N017"/>zufriden sein, das ihr Mayestät <seg type="blackening">ge</seg> dieses geschrieben, habe wohl
+      <lb n="N018"/>vnterdehnigst dahruohr gebetten, aber niks erhalten können,
+      <lb n="N019"/>dan es in dieser krankheit nit guett, das man schreibt.</p></div>
 </body>
 
    </text>

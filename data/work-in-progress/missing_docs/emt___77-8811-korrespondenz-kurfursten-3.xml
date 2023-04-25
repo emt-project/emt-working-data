@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten-3.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten-3.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +50,7 @@
                         <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,7 +66,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -80,8 +76,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -137,44 +133,39 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=GMOHFEAFSHBYXMCYYUKMNPCG&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00080.jpg"/>
-    <ab facs="#facs_1_tr_1" >
-      <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Dero liebsts schreiben vom 24ten passato hab woll empfangen
-      <lb facs="#facs_1_line_1674815009236_1444" n="N003"/>voller complimenten, die wollen bleiben laßen, ist nuhr die
-      <lb facs="#facs_1_line_1674815016995_1449" n="N004"/>zeit vnüzlich verzehrt. Ich hab heünt auch nit vill
-      <lb facs="#facs_1_line_1674815032754_1457" n="N005"/>zeit zue schreiben, also bezieh ich mich auf den
-      <lb facs="#facs_1_line_1674815038935_1461" n="N006"/><choice><expan>Graven</expan><abbr>G</abbr></choice> von Öting, welcher alls dero Liebden sch<supplied >r</supplied>eiben wi<supplied >r</supplied>t. Wegen
-      <lb facs="#facs_1_line_1674815093305_1479" n="N007"/>des Cauniz mein ich, werd niks draus werden,
-      <lb facs="#facs_1_line_1674815128588_1492" n="N008"/>den er wirts nit duen. Mit dem Castel pro interim
-      <lb facs="#facs_1_line_1674815142273_1499" n="N009"/>kunt nit übel sein, wie als der <choice><expan>Grav</expan><abbr>G</abbr></choice> von
-      <lb facs="#facs_1_line_1674815146265_1503" n="N010"/>Öting weitlaüfig berichten wirt, vnd darna<supplied >c</supplied>h
-      <lb facs="#facs_1_tr_1_tl_22" n="N011"/>noch mit mererem müntlich, dan ich vermein,
-      <lb facs="#facs_1_line_1674815158895_1509" n="N012"/><supplied >das</supplied> ihn ihr Mayestät zue solcher zeit abfertigen werde,
-      <lb facs="#facs_1_line_1674815164070_1514" n="N013"/>das er nach Heidelberg komb, wan dero Liebden hin
-      <lb facs="#facs_1_line_1674815170668_1519" n="N014"/>kombt. Wegen der Hermenstein, sie ist die braut,
-      <lb facs="#facs_1_line_1674815177311_1524" n="N015"/>dragt schon den kranz. Bitt, dero Liebden wollen mich 
-      <lb facs="#facs_1_line_1674815193623_1529" n="N016"/>bey meiner <choice><expan>Erzherzogin</expan><abbr>Ez</abbr></choice> dismahl entschuldigen, die
-      <lb facs="#facs_1_line_1674815199587_1534" n="N017"/>zeit ist zue kurz, werd mit negstem</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=NYWEXSFQSHOMWECSZAKJVHOK&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00081.jpg"/>
-    <ab facs="#facs_2_tr_1" >
-      <lb facs="#facs_2_line_1674815220906_1543" n="N001"/>als her<supplied >e</supplied>in bringen. Bedankh dero Liebden, das sie wegen des
-      <lb facs="#facs_2_tr_1_tl_6" n="N002"/>Thomas vnd <add>Enchen</add> memorial wollen inngedenkh sein.
-      <lb facs="#facs_2_line_1674815226911_1548" n="N003"/>Der Herzoch von Mantua ist gestren von hir wekh,
-      <lb facs="#facs_2_line_1674815231331_1552" n="N004"/>hatt schäntlich wetter. Von der armè haben <supplied >wir</supplied>
-      <lb facs="#facs_2_line_1674815260899_1581" n="N005"/>kein zeitung, <supplied >ich</supplied> mein, wegen des schlimmen wetters
-      <lb facs="#facs_2_line_1674815267071_1586" n="N006"/>vnd waßer, dan die post ist auch noch nit
-      <lb facs="#facs_2_line_1674815271657_1591" n="N007"/>kommen aus dem Reich. Bef<supplied >e</supplied>hl mich dero Liebden vnd st<supplied >er</supplied>be
-      <lb facs="#facs_2_line_1674815280924_1596" n="N008"/>dero Liebden
-      <lb facs="#facs_2_line_1674815290746_1611" n="N009"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
-      <lb facs="#facs_2_line_1674815293623_1616" n="N010"/>EMT
-      <lb facs="#facs_2_line_1674815283871_1601" n="N011"/>Wien den 7ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1687
-      <lb facs="#facs_2_line_1674815288017_1606" n="N012"/>Bitt, disen brief von <choice><expan>bruder</expan><abbr>b</abbr></choice>
-      <lb facs="#facs_2_line_1674815299588_1621" n="N013"/>Florian meiner Erzherzogin zu geben, er wehr woll
-      <lb facs="#facs_2_line_1674815305281_1626" n="N014"/>gahr getröst, wan er mit einer anwort
-      <lb facs="#facs_2_line_1674815308540_1631" n="N015"/>begnad wurd.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=GMOHFEAFSHBYXMCYYUKMNPCG&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00080.jpg"/><p facs="#facs_1_tr_1">
+      <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Dero liebsts schreiben vom 24ten passato hab woll empfangen
+      <lb n="N003"/>voller complimenten, die wollen bleiben laßen, ist nuhr die
+      <lb n="N004"/>zeit vnüzlich verzehrt. Ich hab heünt auch nit vill
+      <lb n="N005"/>zeit zue schreiben, also bezieh ich mich auf den
+      <lb n="N006"/><choice><expan>Graven</expan><abbr>G</abbr></choice> von Öting, welcher alls dero Liebden sch<supplied>r</supplied>eiben wi<supplied>r</supplied>t. Wegen
+      <lb n="N007"/>des Cauniz mein ich, werd niks draus werden,
+      <lb n="N008"/>den er wirts nit duen. Mit dem Castel pro interim
+      <lb n="N009"/>kunt nit übel sein, wie als der <choice><expan>Grav</expan><abbr>G</abbr></choice> von
+      <lb n="N010"/>Öting weitlaüfig berichten wirt, vnd darna<supplied>c</supplied>h
+      <lb n="N011"/>noch mit mererem müntlich, dan ich vermein,
+      <lb n="N012"/><supplied>das</supplied> ihn ihr Mayestät zue solcher zeit abfertigen werde,
+      <lb n="N013"/>das er nach Heidelberg komb, wan dero Liebden hin
+      <lb n="N014"/>kombt. Wegen der Hermenstein, sie ist die braut,
+      <lb n="N015"/>dragt schon den kranz. Bitt, dero Liebden wollen mich 
+      <lb n="N016"/>bey meiner <choice><expan>Erzherzogin</expan><abbr>Ez</abbr></choice> dismahl entschuldigen, die
+      <lb n="N017"/>zeit ist zue kurz, werd mit negstem</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=NYWEXSFQSHOMWECSZAKJVHOK&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00081.jpg"/><p facs="#facs_2_tr_1">
+      <lb n="N001"/>als her<supplied>e</supplied>in bringen. Bedankh dero Liebden, das sie wegen des
+      <lb n="N002"/>Thomas vnd <add>Enchen</add> memorial wollen inngedenkh sein.
+      <lb n="N003"/>Der Herzoch von Mantua ist gestren von hir wekh,
+      <lb n="N004"/>hatt schäntlich wetter. Von der armè haben <supplied>wir</supplied>
+      <lb n="N005"/>kein zeitung, <supplied>ich</supplied> mein, wegen des schlimmen wetters
+      <lb n="N006"/>vnd waßer, dan die post ist auch noch nit
+      <lb n="N007"/>kommen aus dem Reich. Bef<supplied>e</supplied>hl mich dero Liebden vnd st<supplied>er</supplied>be
+      <lb n="N008"/>dero Liebden
+      <lb n="N009"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
+      <lb n="N010"/>EMT
+      <lb n="N011"/>Wien den 7ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1687
+      <lb n="N012"/>Bitt, disen brief von <choice><expan>bruder</expan><abbr>b</abbr></choice>
+      <lb n="N013"/>Florian meiner Erzherzogin zu geben, er wehr woll
+      <lb n="N014"/>gahr getröst, wan er mit einer anwort
+      <lb n="N015"/>begnad wurd.</p></div>
 </body>
 
    </text>
