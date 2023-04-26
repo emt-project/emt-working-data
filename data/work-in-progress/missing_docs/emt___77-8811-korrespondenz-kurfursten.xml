@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -131,37 +127,32 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=JYKHLFGCWKOGAMLTIHUISILC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00071.jpg"/>
-    <ab facs="#facs_1_TextRegion_1674814641757_1222" >
-      <lb facs="#facs_1_line_1675088566737_7" n="N001"/><unclear>Ist eigenhändig den 25.</unclear>
-      <lb facs="#facs_1_line_1675088574396_12" n="N002"/><unclear><choice><expan>decembris</expan><abbr>xbris</abbr></choice> beantwortet</unclear>
-      <lb facs="#facs_1_line_1675088580246_17" n="N003"/><unclear>1686</unclear>
-      <lb facs="#facs_1_line_1674814614603_1199" n="N004"/>Durchleüchtiger Fürst, herz allerliebster herr bruder
-      <lb facs="#facs_1_line_1675088800862_88" n="N005"/>Mitt waß vohr einem leidt ich dero Liebden dise be-
-      <lb facs="#facs_1_tr_1_tl_7" n="N006"/>drüebte zeitung berichten mues, hett mihr es
-      <lb facs="#facs_1_tr_1_tl_8" n="N007"/>woll so balt nit einbilt, aber gott hatt
-      <lb facs="#facs_1_line_1674814660118_1231" n="N008"/>es so geschwint geschikt. Bey disem leidt ist
-      <lb facs="#facs_1_tr_3_tl_1" n="N009"/>mihr noch <supplied >mehr leid</supplied>, das ich in ängsten bin wegen meiner
-      <lb facs="#facs_1_tr_3_tl_2" n="N010"/>liben Erzh<supplied >e</supplied>rzogin, das sich wirt gahr zu vill
-      <lb facs="#facs_1_tr_3_tl_3" n="N011"/>bedrüeben, dero Liebden wolle ihr trost sein. Sie ist ga<unclear reason="Buchstabenverlust durch geknicktes Papier">nz</unclear>
-      <lb facs="#facs_1_tr_3_tl_4" n="N012"/>verein<supplied >i</supplied>gt mit dem willen gottes, dero Liebden wirt sie
-      <lb facs="#facs_1_tr_3_tl_5" n="N013"/>schon wißen zue trösten. Mit was vohr resolution
-      <lb facs="#facs_1_line_1675088637016_29" n="N014"/>vnd resignation die Kaiserin gestorben, kan ich gahr
-      <lb facs="#facs_1_line_1675088649324_34" n="N015"/>nit ausschprechen, hatt gerett bis auf ihr lezt
-      <lb facs="#facs_1_line_1675088660908_39" n="N016"/>end mit großer edification, mitt nechstem will
-      <lb facs="#facs_1_line_1675088671595_44" n="N017"/>dero Liebden alles beschreiben, izt willich dero leidt nit
-      <lb facs="#facs_1_line_1675088681567_49" n="N018"/>ernewern mit langem schreiben, werde sterben
-      <lb facs="#facs_1_line_1675088686392_54" n="N019"/>ewer Liebden
-      <lb facs="#facs_1_line_1675088700537_64" n="N020"/>treweste schw<supplied >e</supplied>ster
-      <lb facs="#facs_1_line_1675088705283_69" n="N021"/>EMT
-      <lb facs="#facs_1_line_1675088693899_59" n="N022"/>Wien den 7ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1686</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=OQATTJNSUPOKRVEPWAFQYYXB&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00072jpg.jpg"/>
-    <ab facs="#facs_2_tr_1" >
-      <lb facs="#facs_2_line_1674814732988_1264" n="N001"/>Ihr <choice><expan>LIebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm Pfalz-
-      <lb facs="#facs_2_line_1674814736908_1269" n="N002"/>grauen bey Reyhn, meinem herz
-      <lb facs="#facs_2_line_1674814740741_1274" n="N003"/>allerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> bruedern</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=JYKHLFGCWKOGAMLTIHUISILC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00071.jpg"/><p facs="#facs_1_TextRegion_1674814641757_1222">
+      <lb n="N001"/><unclear>Ist eigenhändig den 25.</unclear>
+      <lb n="N002"/><unclear><choice><expan>decembris</expan><abbr>xbris</abbr></choice> beantwortet</unclear>
+      <lb n="N003"/><unclear>1686</unclear>
+      <lb n="N004"/>Durchleüchtiger Fürst, herz allerliebster herr bruder
+      <lb n="N005"/>Mitt waß vohr einem leidt ich dero Liebden dise be-
+      <lb n="N006"/>drüebte zeitung berichten mues, hett mihr es
+      <lb n="N007"/>woll so balt nit einbilt, aber gott hatt
+      <lb n="N008"/>es so geschwint geschikt. Bey disem leidt ist
+      <lb n="N009"/>mihr noch <supplied>mehr leid</supplied>, das ich in ängsten bin wegen meiner
+      <lb n="N010"/>liben Erzh<supplied>e</supplied>rzogin, das sich wirt gahr zu vill
+      <lb n="N011"/>bedrüeben, dero Liebden wolle ihr trost sein. Sie ist ga<unclear reason="Buchstabenverlust durch geknicktes Papier">nz</unclear>
+      <lb n="N012"/>verein<supplied>i</supplied>gt mit dem willen gottes, dero Liebden wirt sie
+      <lb n="N013"/>schon wißen zue trösten. Mit was vohr resolution
+      <lb n="N014"/>vnd resignation die Kaiserin gestorben, kan ich gahr
+      <lb n="N015"/>nit ausschprechen, hatt gerett bis auf ihr lezt
+      <lb n="N016"/>end mit großer edification, mitt nechstem will
+      <lb n="N017"/>dero Liebden alles beschreiben, izt willich dero leidt nit
+      <lb n="N018"/>ernewern mit langem schreiben, werde sterben
+      <lb n="N019"/>ewer Liebden
+      <lb n="N020"/>treweste schw<supplied>e</supplied>ster
+      <lb n="N021"/>EMT
+      <lb n="N022"/>Wien den 7ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1686</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=OQATTJNSUPOKRVEPWAFQYYXB&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00072jpg.jpg"/><p facs="#facs_2_tr_1">
+      <lb n="N001"/>Ihr <choice><expan>LIebden</expan><abbr>Ld</abbr></choice> Johan Wilhelm Pfalz-
+      <lb n="N002"/>grauen bey Reyhn, meinem herz
+      <lb n="N003"/>allerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> bruedern</p></div>
 </body>
 
    </text>

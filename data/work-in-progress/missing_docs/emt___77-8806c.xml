@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8806c.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8806c.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +50,7 @@
                         <idno>77 Nr. 8806, Korrespondenz des Kurfürsten Johann Wilhelm von der Pfalz mit Kaiser Leopold I., der Kaiserin Eleonore, König Wilhelm III. von England, König Friedrich I. von Preußen, den kaiserlichen Gesandten ... / März 1701-Juni 1701</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,18 +66,18 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when="1701-04-13" >13. April 1701</date>
+               <date when="1701-04-13">13. April 1701</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <persName ref="#"/>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -197,98 +193,89 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=REVHZRGQQGMCRVVPSBBETMOL&amp;fileType=view" id="77_8806c_0002.jpg"/>
-    <ab facs="#facs_1_TextRegion_1674815978586_2063" >
-      <lb facs="#facs_1_tr_3_tl_1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_tr_3_tl_2" n="N002"/>Zue vodrist wüntsche dero Liebden alles erdenkhlige wollerg<supplied >e</supplied>hen zu
-      <lb facs="#facs_1_tr_3_tl_3" n="N003"/>dero herzuenahenden geburzdag mit vnzahlbaren villen
-      <lb facs="#facs_1_tr_3_tl_4" n="N004"/>volgenden in allen contento zue erleben. Es ist mihr
-      <lb facs="#facs_1_tr_3_tl_5" n="N005"/>vnmöglich, das ich auf einmahl auf alle die puncta
-      <lb facs="#facs_1_tr_1_tl_1" n="N006"/>aus dero libsten sch<supplied >rei</supplied>ben antworten kan, werde also nach vnt
-      <lb facs="#facs_1_tr_1_tl_2" n="N007"/>nach so vill möglich es verich<supplied >t</supplied>en vndt izt nuhr das
-      <lb facs="#facs_1_tr_1_tl_3" n="N008"/>nohtwendigste, so dero Liebden so sehr verlangen zue wißen,
-      <lb facs="#facs_1_tr_1_tl_4" n="N009"/>berichten, nemlich wegen der anstalten im Reich. Ihr
-      <lb facs="#facs_1_tr_1_tl_5" n="N010"/>Mayestät haben zwarn an den Oberen Rein destinirt 20 000 man,
-      <lb facs="#facs_1_tr_2_tl_1" n="N011"/>welche auch meistens schon im marsch vndt hoffentlich
-      <lb facs="#facs_1_tr_2_tl_2" n="N012"/>balt oben sein werden. Von disen aber müeßen auch
-      <lb facs="#facs_1_tr_2_tl_3" n="N013"/>die guarnisones versehen werden, welche ein großes
-      <lb facs="#facs_1_line_1674815970778_2057" n="N014"/><note type="editorische Anmerkung">Dieses Postskriptum ist Seite 4 zugehörig.</note>Bitt bey der <choice><expan>lieben</expan><abbr>lb</abbr></choice> gem<supplied >a</supplied>hl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mich
-      <lb facs="#facs_1_line_1674825858591_2376" n="N015"/>zue entschuldigen, ist mihr ein mahl vnmeschlich <supplied >zu</supplied> sch<supplied >rei</supplied>ben, <supplied >bitte</supplied> mich ihr zum schonsten <supplied >zu befehlen</supplied>. An <choice><expan>schwester</expan><abbr>schw</abbr></choice> <supplied >in</supplied> Parma wollen
-      <lb facs="#facs_1_line_1674825862147_2381" n="N016"/>dero Liebden in <unclear reason="unsichere Lesart">mein dienst</unclear> willige <unclear reason="unleserlich">???</unclear></ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PPFGFMGLZBHUUXECESKBPPGX&amp;fileType=view" id="77_8806c_0003a.jpg"/>
-    <ab facs="#facs_2_TextRegion_1674826214412_2409" >
-      <lb facs="#facs_2_tr_4_tl_1" n="N001"/>vonöten vndt also von disen 20 000 man nit gar zuevill wirt
-      <lb facs="#facs_2_tr_4_tl_2" n="N002"/>übrich bleiben in das felt zu sezen. Man wirt aber
-      <lb facs="#facs_2_tr_4_tl_3" n="N003"/>suchen, von den creisen vndt alijrten zuesammen zu
-      <lb facs="#facs_2_tr_1_tl_1" n="N004"/>bringen waß möglich wirt sein. Das ihr Mayestät auch an
-      <lb facs="#facs_2_tr_1_tl_2" n="N005"/>Vnteren Rein vndt Niderlandt troupen schiken sollen, wirt
-      <lb facs="#facs_2_tr_1_tl_3" n="N006"/>schwehr sein, dan man mus ein starks corpo in Italien
-      <lb facs="#facs_2_tr_1_tl_4" n="N007"/>schiken, woh die fra<supplied >n</supplied>zosen sich däglich versterken vermehren. Auch <supplied >ist</supplied>
-      <lb facs="#facs_2_tr_1_tl_5" n="N008"/>heündt die schöne zeitung kommen, das der Herzoch von
-      <lb facs="#facs_2_tr_2_tl_1" n="N009"/>Mantua so generos gew<supplied >e</supplied>sen, nach dem ihm doch der
-      <lb facs="#facs_2_tr_2_tl_2" n="N010"/>Papst offerirt hatt, alsobalt 4000 man in Mantua
-      <lb facs="#facs_2_tr_2_tl_3" n="N011"/>zue schiken, <seg type="blackening">eh</seg> er französische guarnison hinein genommen,
-      <lb facs="#facs_2_tr_2_tl_4" n="N012"/>welche bey mitternacht hinein marchirt vndt er auf
-      <lb facs="#facs_2_tr_5_tl_1" n="N013"/>einen balcon, gleich wie der Nero das in brant
-      <lb facs="#facs_2_tr_5_tl_2" n="N014"/>stehende Rohm, dißem schönen einzug mit vergnügen
-      <lb facs="#facs_2_tr_5_tl_3" n="N015"/>zue gesehen hatt. In Vngern derf man sich auch nit
-      <lb facs="#facs_2_tr_3_tl_1" n="N016"/>alzuefill entblößen, dan dißer nation, bey welcher Fra<supplied >n</supplied>kr<supplied >e</supplied>ich
-      <lb facs="#facs_2_tr_3_tl_2" n="N017"/>vnd villeicht noch andere bey dißer coniunctur woll
-      <lb facs="#facs_2_tr_3_tl_3" n="N018"/>arbeiten werden, nit zu trawen ist. Mehrer manschafft
-      <lb facs="#facs_2_tr_3_tl_4" n="N019"/>ist nit vohrhanden, wan man auch newe will
-      <lb facs="#facs_2_tr_3_tl_5" n="N020"/>zusammen brengen, so lest sich das nit in ein</ab>
-    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=XDLQBVJGZBYEOALRGBDTOPVV&amp;fileType=view" id="77_8806c_0003b.jpg"/>
-    <ab facs="#facs_3_TextRegion_1674826266817_2426" >
-      <lb facs="#facs_3_tr_1_tl_1" n="N001"/>augenblik duen, wie dero Liebden das selbsten höchsterleücht w<supplied >i</supplied>ßen.
-      <lb facs="#facs_3_tr_1_tl_2" n="N002"/>Also wirt es schwehr sein, das man an Obern Rein vill
-      <lb facs="#facs_3_tr_1_tl_3" n="N003"/>offensiue noch wirt operiren können, bis auch die
-      <lb facs="#facs_3_tr_1_tl_4" n="N004"/>kreis vnd ander alijrte sich in beßern standt sezen.
-      <lb facs="#facs_3_tr_1_tl_5" n="N005"/>Nuhn werden ihr Mayestät mein sohn, den Kön<supplied >i</supplied>g, nit hinauß schiken,
-      <lb facs="#facs_3_tr_7_tl_1" n="N006"/>wan nit ein gutte aparenz, das ein gloriose operation
-      <lb facs="#facs_3_tr_7_tl_2" n="N007"/>könne vohrgenommen werden, damit er gleichwoll
-      <lb facs="#facs_3_tr_7_tl_3" n="N008"/>bey seiner ersten campagne einige ehr erwerben möge,
-      <lb facs="#facs_3_tr_4_tl_1" n="N009"/>so wirt, glaub ich, woll vnterdeßen das comendo
-      <lb facs="#facs_3_tr_4_tl_2" n="N010"/>auf den <choice><expan>Markgraf</expan><abbr>Morg</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> angedragen werden. Ehr hatt mihr
-      <lb facs="#facs_3_tr_4_tl_3" n="N011"/>aber bey seiner hiesigen anweßenheit solche sincera-
-      <lb facs="#facs_3_tr_4_tl_4" n="N012"/>tiones gegen dero Liebden duen laßen, wie <seg type="blackening">es</seg> er von grundt seines
-      <lb facs="#facs_3_tr_3_tl_1" n="N013"/>herzens in allen occasionen recht vertrewlich, jah als wie
-      <lb facs="#facs_3_tr_3_tl_2" n="N014"/>mit seinen leibligen vndt liebsten bruede<supplied >r</supplied>n wolle tractiren
-      <lb facs="#facs_3_tr_3_tl_3" n="N015"/>vnd handlen. Was die vohrige campagne geschen, mein ich,
-      <lb facs="#facs_3_tr_5_tl_1" n="N016"/>sollen dero Liebden als ein guetter christ in verg<supplied >e</supplied>senheit sezen,
-      <lb facs="#facs_3_tr_5_tl_2" n="N017"/>vndt villeicht hatt ers auch nit so böß gemeindt
-      <lb facs="#facs_3_tr_5_tl_3" n="N018"/>vndt auch nit alzeit als enden können. Der Lebenstein
-      <lb facs="#facs_3_tr_5_tl_4" n="N019"/>wirt dero Liebden mehres in diser materi zuereden. Einmahl 
-      <lb facs="#facs_3_tr_2_tl_1" n="N020"/>werden dero Liebden mein Keißer, dem publico vndt sich selbsten
-      <lb facs="#facs_3_line_1674826273310_2431" n="N021"/>den grösten dienst duen, wan sie sehen, das sie mit</ab>
-    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=TYDOXABTCROWWJDBCDLBMYYG&amp;fileType=view" id="77_8806c_0004a.jpg"/>
-    <ab facs="#facs_4_region_1674825410191_2232" >
-      <lb facs="#facs_4_line_1674825429478_2238" n="N001"/><unclear>jenem</unclear> <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>Markgraven</expan><abbr>Morgr</abbr></choice> in gutter vndt vertreüliger verstantnus
-      <lb facs="#facs_4_line_1674825434368_2243" n="N002"/>stehen vndt auch dazue cooperiren, das die andren
-      <lb facs="#facs_4_line_1674825439617_2248" n="N003"/>cur vndt fürsten mit ihm woll übereins stimmen, dan,
-      <lb facs="#facs_4_line_1674825444274_2253" n="N004"/>mein liebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>, was werden vns helfen große armaden,
-      <lb facs="#facs_4_line_1674825448818_2258" n="N005"/>wan nit ein solcher mit derbey, der den handel recht-
-      <lb facs="#facs_4_line_1674825453897_2263" n="N006"/>schaffen versteht vndt den franzoßen gewaxen ist.
-      <lb facs="#facs_4_line_1674825459118_2268" n="N007"/>Es seint keine türken, mit denen leichter zue fechten,
-      <lb facs="#facs_4_line_1674825464839_2273" n="N008"/>vndt ein mahl ist izt <supplied >keiner</supplied> des Margrauen gleich nit, der
-      <lb facs="#facs_4_line_1674825469745_2278" n="N009"/>dise experienz vnd alles, wan in einem gutten gene-
-      <lb facs="#facs_4_line_1674825477340_2283" n="N010"/>ral zu verlangen, beysammen hatt wie ehr. Ich
-      <lb facs="#facs_4_line_1674825482634_2288" n="N011"/>weiß von gahr gewißer hant, das Frankhreich ihn alle<supplied >i</supplied>n
-      <lb facs="#facs_4_line_1674825486810_2293" n="N012"/>förcht vndt alles in der welt duen wurde, nuhr zu
-      <lb facs="#facs_4_line_1674825490788_2298" n="N013"/>machen, das er still sizen, also muß man disen heren
-      <lb facs="#facs_4_line_1674825495286_2303" n="N014"/>auf alleweis suechen zu gewinnen vndt dero Liebden, auch 
-      <lb facs="#facs_4_line_1674825499334_2308" n="N015"/>mit ihm woll sich verstehen, wollen <unclear reason="unleserlich">mihr</unclear> anderst, das
-      <lb facs="#facs_4_line_1674825503236_2313" n="N016"/>die sa<supplied >c</supplied>hen woll ablaufen sollen. Hiemit mus ich wider
-      <lb facs="#facs_4_line_1674825507047_2318" n="N017"/>mein willen enden, mitt nechsten ein mehrers, due
-      <lb facs="#facs_4_line_1674825510915_2323" n="N018"/>mich dero Liebden ins eyl b<supplied >e</supplied>f<supplied >e</supplied>hlen vnd werde st<supplied >er</supplied>ben
-      <lb facs="#facs_4_line_1674825516174_2333" n="N019"/>dero Liebden
-      <lb facs="#facs_4_line_1674825513729_2328" n="N020"/>g<supplied >e</supplied>trewste schw<supplied >e</supplied>ster
-      <lb facs="#facs_4_line_1674917298829_209" n="N021"/>Eleonora
-      <lb facs="#facs_4_line_1674825519915_2338" n="N022"/>Wien den 13ten aprill 1701
-      <lb facs="#facs_4_line_1674917298829_210" n="N023"/>W<supplied >e</supplied>gen der quartier vnd subisdien werd ihr Mayestät
-      <lb facs="#facs_4_line_1674825531135_2348" n="N024"/>e<supplied >i</supplied>frich reccomendiren. Wehr villeicht nit vbl, wan dero Liebden wen h<supplied >e</supplied>r schikten, dis zu
-      <lb facs="#facs_4_line_1674825536947_2353" n="N025"/>vrgiren, der arme Schellerer ist auch gestorben.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=REVHZRGQQGMCRVVPSBBETMOL&amp;fileType=view" id="77_8806c_0002.jpg"/><p facs="#facs_1_TextRegion_1674815978586_2063">
+      <lb n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Zue vodrist wüntsche dero Liebden alles erdenkhlige wollerg<supplied>e</supplied>hen zu
+      <lb n="N003"/>dero herzuenahenden geburzdag mit vnzahlbaren villen
+      <lb n="N004"/>volgenden in allen contento zue erleben. Es ist mihr
+      <lb n="N005"/>vnmöglich, das ich auf einmahl auf alle die puncta
+      <lb n="N006"/>aus dero libsten sch<supplied>rei</supplied>ben antworten kan, werde also nach vnt
+      <lb n="N007"/>nach so vill möglich es verich<supplied>t</supplied>en vndt izt nuhr das
+      <lb n="N008"/>nohtwendigste, so dero Liebden so sehr verlangen zue wißen,
+      <lb n="N009"/>berichten, nemlich wegen der anstalten im Reich. Ihr
+      <lb n="N010"/>Mayestät haben zwarn an den Oberen Rein destinirt 20 000 man,
+      <lb n="N011"/>welche auch meistens schon im marsch vndt hoffentlich
+      <lb n="N012"/>balt oben sein werden. Von disen aber müeßen auch
+      <lb n="N013"/>die guarnisones versehen werden, welche ein großes
+      <lb n="N014"/><note type="editorische Anmerkung">Dieses Postskriptum ist Seite 4 zugehörig.</note>Bitt bey der <choice><expan>lieben</expan><abbr>lb</abbr></choice> gem<supplied>a</supplied>hl <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> mich
+      <lb n="N015"/>zue entschuldigen, ist mihr ein mahl vnmeschlich <supplied>zu</supplied> sch<supplied>rei</supplied>ben, <supplied>bitte</supplied> mich ihr zum schonsten <supplied>zu befehlen</supplied>. An <choice><expan>schwester</expan><abbr>schw</abbr></choice> <supplied>in</supplied> Parma wollen
+      <lb n="N016"/>dero Liebden in <unclear reason="unsichere Lesart">mein dienst</unclear> willige <unclear reason="unleserlich">???</unclear></p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=PPFGFMGLZBHUUXECESKBPPGX&amp;fileType=view" id="77_8806c_0003a.jpg"/><p facs="#facs_2_TextRegion_1674826214412_2409">
+      <lb n="N001"/>vonöten vndt also von disen 20 000 man nit gar zuevill wirt
+      <lb n="N002"/>übrich bleiben in das felt zu sezen. Man wirt aber
+      <lb n="N003"/>suchen, von den creisen vndt alijrten zuesammen zu
+      <lb n="N004"/>bringen waß möglich wirt sein. Das ihr Mayestät auch an
+      <lb n="N005"/>Vnteren Rein vndt Niderlandt troupen schiken sollen, wirt
+      <lb n="N006"/>schwehr sein, dan man mus ein starks corpo in Italien
+      <lb n="N007"/>schiken, woh die fra<supplied>n</supplied>zosen sich däglich versterken vermehren. Auch <supplied>ist</supplied>
+      <lb n="N008"/>heündt die schöne zeitung kommen, das der Herzoch von
+      <lb n="N009"/>Mantua so generos gew<supplied>e</supplied>sen, nach dem ihm doch der
+      <lb n="N010"/>Papst offerirt hatt, alsobalt 4000 man in Mantua
+      <lb n="N011"/>zue schiken, <seg type="blackening">eh</seg> er französische guarnison hinein genommen,
+      <lb n="N012"/>welche bey mitternacht hinein marchirt vndt er auf
+      <lb n="N013"/>einen balcon, gleich wie der Nero das in brant
+      <lb n="N014"/>stehende Rohm, dißem schönen einzug mit vergnügen
+      <lb n="N015"/>zue gesehen hatt. In Vngern derf man sich auch nit
+      <lb n="N016"/>alzuefill entblößen, dan dißer nation, bey welcher Fra<supplied>n</supplied>kr<supplied>e</supplied>ich
+      <lb n="N017"/>vnd villeicht noch andere bey dißer coniunctur woll
+      <lb n="N018"/>arbeiten werden, nit zu trawen ist. Mehrer manschafft
+      <lb n="N019"/>ist nit vohrhanden, wan man auch newe will
+      <lb n="N020"/>zusammen brengen, so lest sich das nit in ein</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=XDLQBVJGZBYEOALRGBDTOPVV&amp;fileType=view" id="77_8806c_0003b.jpg"/><p facs="#facs_3_TextRegion_1674826266817_2426">
+      <lb n="N001"/>augenblik duen, wie dero Liebden das selbsten höchsterleücht w<supplied>i</supplied>ßen.
+      <lb n="N002"/>Also wirt es schwehr sein, das man an Obern Rein vill
+      <lb n="N003"/>offensiue noch wirt operiren können, bis auch die
+      <lb n="N004"/>kreis vnd ander alijrte sich in beßern standt sezen.
+      <lb n="N005"/>Nuhn werden ihr Mayestät mein sohn, den Kön<supplied>i</supplied>g, nit hinauß schiken,
+      <lb n="N006"/>wan nit ein gutte aparenz, das ein gloriose operation
+      <lb n="N007"/>könne vohrgenommen werden, damit er gleichwoll
+      <lb n="N008"/>bey seiner ersten campagne einige ehr erwerben möge,
+      <lb n="N009"/>so wirt, glaub ich, woll vnterdeßen das comendo
+      <lb n="N010"/>auf den <choice><expan>Markgraf</expan><abbr>Morg</abbr></choice> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> angedragen werden. Ehr hatt mihr
+      <lb n="N011"/>aber bey seiner hiesigen anweßenheit solche sincera-
+      <lb n="N012"/>tiones gegen dero Liebden duen laßen, wie <seg type="blackening">es</seg> er von grundt seines
+      <lb n="N013"/>herzens in allen occasionen recht vertrewlich, jah als wie
+      <lb n="N014"/>mit seinen leibligen vndt liebsten bruede<supplied>r</supplied>n wolle tractiren
+      <lb n="N015"/>vnd handlen. Was die vohrige campagne geschen, mein ich,
+      <lb n="N016"/>sollen dero Liebden als ein guetter christ in verg<supplied>e</supplied>senheit sezen,
+      <lb n="N017"/>vndt villeicht hatt ers auch nit so böß gemeindt
+      <lb n="N018"/>vndt auch nit alzeit als enden können. Der Lebenstein
+      <lb n="N019"/>wirt dero Liebden mehres in diser materi zuereden. Einmahl 
+      <lb n="N020"/>werden dero Liebden mein Keißer, dem publico vndt sich selbsten
+      <lb n="N021"/>den grösten dienst duen, wan sie sehen, das sie mit</p></div><div type="page"><pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=TYDOXABTCROWWJDBCDLBMYYG&amp;fileType=view" id="77_8806c_0004a.jpg"/><p facs="#facs_4_region_1674825410191_2232">
+      <lb n="N001"/><unclear>jenem</unclear> <choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>Markgraven</expan><abbr>Morgr</abbr></choice> in gutter vndt vertreüliger verstantnus
+      <lb n="N002"/>stehen vndt auch dazue cooperiren, das die andren
+      <lb n="N003"/>cur vndt fürsten mit ihm woll übereins stimmen, dan,
+      <lb n="N004"/>mein liebster <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice>, was werden vns helfen große armaden,
+      <lb n="N005"/>wan nit ein solcher mit derbey, der den handel recht-
+      <lb n="N006"/>schaffen versteht vndt den franzoßen gewaxen ist.
+      <lb n="N007"/>Es seint keine türken, mit denen leichter zue fechten,
+      <lb n="N008"/>vndt ein mahl ist izt <supplied>keiner</supplied> des Margrauen gleich nit, der
+      <lb n="N009"/>dise experienz vnd alles, wan in einem gutten gene-
+      <lb n="N010"/>ral zu verlangen, beysammen hatt wie ehr. Ich
+      <lb n="N011"/>weiß von gahr gewißer hant, das Frankhreich ihn alle<supplied>i</supplied>n
+      <lb n="N012"/>förcht vndt alles in der welt duen wurde, nuhr zu
+      <lb n="N013"/>machen, das er still sizen, also muß man disen heren
+      <lb n="N014"/>auf alleweis suechen zu gewinnen vndt dero Liebden, auch 
+      <lb n="N015"/>mit ihm woll sich verstehen, wollen <unclear reason="unleserlich">mihr</unclear> anderst, das
+      <lb n="N016"/>die sa<supplied>c</supplied>hen woll ablaufen sollen. Hiemit mus ich wider
+      <lb n="N017"/>mein willen enden, mitt nechsten ein mehrers, due
+      <lb n="N018"/>mich dero Liebden ins eyl b<supplied>e</supplied>f<supplied>e</supplied>hlen vnd werde st<supplied>er</supplied>ben
+      <lb n="N019"/>dero Liebden
+      <lb n="N020"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
+      <lb n="N021"/>Eleonora
+      <lb n="N022"/>Wien den 13ten aprill 1701
+      <lb n="N023"/>W<supplied>e</supplied>gen der quartier vnd subisdien werd ihr Mayestät
+      <lb n="N024"/>e<supplied>i</supplied>frich reccomendiren. Wehr villeicht nit vbl, wan dero Liebden wen h<supplied>e</supplied>r schikten, dis zu
+      <lb n="N025"/>vrgiren, der arme Schellerer ist auch gestorben.</p></div>
 </body>
 
    </text>

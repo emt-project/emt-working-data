@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___77-8811-korrespondenz-kurfursten-2.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___77-8811-korrespondenz-kurfursten-2.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>77 Nr. 8811, Korrespondenz der Kurfürsten Philipp Wilhelm und Johann Wilhelm mit Kaiser Leopold I., der Kaiserin Eleonora Magdalena, dem römischen König Joseph I., der römischen Königin Wilhelmina Amalia, ... / 1679-1715</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -150,50 +146,42 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=UOFGTUNJUALQXVCTDVBIVJUC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00073.jpg"/>
-    <ab facs="#facs_1_region_1674814763093_1286" >
-      <lb facs="#facs_1_line_1674814770203_1289" n="N001"/>Durchleüchtiger Fürst, mein herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb facs="#facs_1_line_1674814774851_1294" n="N002"/>Ich hette dero liebsts schreiben vom 18ten passato
-      <lb facs="#facs_1_line_1674814779424_1299" n="N003"/>le<supplied >n</supplied>gst beantwort, aber alle meine breüdt vnd
-      <lb facs="#facs_1_line_1674814785024_1304" n="N004"/>der Herzoch von Mantua haben mich doran verhin-
-      <lb facs="#facs_1_line_1674814790468_1309" n="N005"/>dert. Dero Liebden können nit glauben, wie ich ein freüdt
-      <lb facs="#facs_1_line_1674814796526_1314" n="N006"/>hab gehabt, das mein libste E<supplied >r</supplied>zherzogin wider
-      <lb facs="#facs_1_line_1674814802161_1319" n="N007"/>beßer ist. Ich bin so herzlich bedrüebet gew<supplied >e</supplied>sen,
-      <lb facs="#facs_1_line_1674814822616_1326" n="N008"/>vnd habes als verbißen, wie ich gekönt, dan mein
-      <lb facs="#facs_1_line_1674814828493_1331" n="N009"/>liebster Kaiser wahr auch gahr bedrüebt, damit
-      <lb facs="#facs_1_line_1674814834767_1336" n="N010"/>ich ihms nit vermehr, gottlob, das so ist abgangen
-      <lb facs="#facs_1_line_1674814842042_1341" n="N011"/>vnd sie wider woll auf ist. Nuhn wirt mein
-      <lb facs="#facs_1_line_1674814849079_1346" n="N012"/>schwester auch sch<supplied >o</supplied>n vereist sein, die Konigin, gott
-      <lb facs="#facs_1_line_1674814855982_1351" n="N013"/>geb ihr glükh. Wegen der von Hermenstein
-      <lb facs="#facs_1_line_1674814889393_1357" n="N014"/>ist mihr leid, das der brif so schpaht
-      <lb facs="#facs_1_line_1674814896166_1362" n="N015"/>kommen, habs schon andren verschprochen gehabt.
-      <lb facs="#facs_1_line_1674814902442_1367" n="N016"/>Wegen der Giulia ist schon gericht. Ich mus
-      <lb facs="#facs_1_line_1674814909339_1372" n="N017"/>aber dero Liebden wider vngelegenheit machen, meiner
-      <lb facs="#facs_1_line_1674814916895_1377" n="N018"/>Amel <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> dochter hatt mihr dis memorial</ab>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=EGBEXZCCXSVOXOGFFFWANLNI&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00076-20230117_145354.jpg"/>
-    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=JMFXVYPJLGIOFFSIXNUUJHMT&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00077-20230117_145401.jpg"/>
-    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=CJSNZTISCWAQRCXNKSWYIGBL&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00078-20230117_145408.jpg"/>
-    <pb facs="#facs_5" n="5" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=SYRJIFDTZAUDUJUJDPABROCR&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00075.jpg"/>
-    <ab facs="#facs_5_tr_1" >
-      <lb facs="#facs_5_tr_1_tl_1" n="N001"/>geschikt, dero Liebden zu recomendirn, wan der kerl
-      <lb facs="#facs_5_tr_1_tl_2" n="N002"/>dauglich darzue ist, woll ihn dero Liebden laßen recomen-
-      <lb facs="#facs_5_tr_1_tl_3" n="N003"/>dirt sein. Der Irmans hatt mihr auch
-      <lb facs="#facs_5_tr_1_tl_4" n="N004"/>wider das memorial geschikt, dero Liebden wollen duen,
-      <lb facs="#facs_5_tr_1_tl_5" n="N005"/>was sein kan vnd dero conuenie<supplied >n</supplied>z erleidt.
-      <lb facs="#facs_5_tr_1_tl_6" n="N006"/>Bef<supplied >e</supplied>hl mich dero Liebden vnd werde st<supplied >e</supplied>rben
-      <lb facs="#facs_5_line_1674814937547_1385" n="N007"/>dero Liebden
-      <lb facs="#facs_5_line_1674814943916_1395" n="N008"/>getre<supplied >w</supplied>ste schw<supplied >e</supplied>ster
-      <lb facs="#facs_5_line_1674814946446_1400" n="N009"/>Eleonora
-      <lb facs="#facs_5_line_1674814941059_1390" n="N010"/>Wien den 2ten julii 1687
-      <lb facs="#facs_5_line_1674814953446_1405" n="N011"/>Ich hör, die vochtei, wegen welcher des Irmans
-      <lb facs="#facs_5_line_1674814957926_1410" n="N012"/>memorial wahre, so ich hette schiken sollen, sey
-      <lb facs="#facs_5_line_1674814964230_1415" n="N013"/>schon einem andren vergeben, also wolle dero Liebden
-      <lb facs="#facs_5_line_1674814973830_1420" n="N014"/>sich ihn in andren vohruallenden gelegenheiten laßen
-      <lb facs="#facs_5_line_1674814979968_1425" n="N015"/>reccomendirt sein. Die armen haben vill kinder
-      <lb facs="#facs_5_line_1674814985831_1430" n="N016"/>vnd nit vill dazue, das memorial hab verißen,
-      <lb facs="#facs_5_line_1674814991165_1435" n="N017"/>weil es zue schapht wehr kommen.</ab>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=UOFGTUNJUALQXVCTDVBIVJUC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00073.jpg"/><p facs="#facs_1_region_1674814763093_1286">
+      <lb n="N001"/>Durchleüchtiger Fürst, mein herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+      <lb n="N002"/>Ich hette dero liebsts schreiben vom 18ten passato
+      <lb n="N003"/>le<supplied>n</supplied>gst beantwort, aber alle meine breüdt vnd
+      <lb n="N004"/>der Herzoch von Mantua haben mich doran verhin-
+      <lb n="N005"/>dert. Dero Liebden können nit glauben, wie ich ein freüdt
+      <lb n="N006"/>hab gehabt, das mein libste E<supplied>r</supplied>zherzogin wider
+      <lb n="N007"/>beßer ist. Ich bin so herzlich bedrüebet gew<supplied>e</supplied>sen,
+      <lb n="N008"/>vnd habes als verbißen, wie ich gekönt, dan mein
+      <lb n="N009"/>liebster Kaiser wahr auch gahr bedrüebt, damit
+      <lb n="N010"/>ich ihms nit vermehr, gottlob, das so ist abgangen
+      <lb n="N011"/>vnd sie wider woll auf ist. Nuhn wirt mein
+      <lb n="N012"/>schwester auch sch<supplied>o</supplied>n vereist sein, die Konigin, gott
+      <lb n="N013"/>geb ihr glükh. Wegen der von Hermenstein
+      <lb n="N014"/>ist mihr leid, das der brif so schpaht
+      <lb n="N015"/>kommen, habs schon andren verschprochen gehabt.
+      <lb n="N016"/>Wegen der Giulia ist schon gericht. Ich mus
+      <lb n="N017"/>aber dero Liebden wider vngelegenheit machen, meiner
+      <lb n="N018"/>Amel <choice><expan>sehligen</expan><abbr>sehl</abbr></choice> dochter hatt mihr dis memorial</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=EGBEXZCCXSVOXOGFFFWANLNI&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00076-20230117_145354.jpg"/></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=JMFXVYPJLGIOFFSIXNUUJHMT&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00077-20230117_145401.jpg"/></div><div type="page"><pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=CJSNZTISCWAQRCXNKSWYIGBL&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00078-20230117_145408.jpg"/></div><div type="page"><pb facs="#facs_5" n="5" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=SYRJIFDTZAUDUJUJDPABROCR&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00075.jpg"/><p facs="#facs_5_tr_1">
+      <lb n="N001"/>geschikt, dero Liebden zu recomendirn, wan der kerl
+      <lb n="N002"/>dauglich darzue ist, woll ihn dero Liebden laßen recomen-
+      <lb n="N003"/>dirt sein. Der Irmans hatt mihr auch
+      <lb n="N004"/>wider das memorial geschikt, dero Liebden wollen duen,
+      <lb n="N005"/>was sein kan vnd dero conuenie<supplied>n</supplied>z erleidt.
+      <lb n="N006"/>Bef<supplied>e</supplied>hl mich dero Liebden vnd werde st<supplied>e</supplied>rben
+      <lb n="N007"/>dero Liebden
+      <lb n="N008"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
+      <lb n="N009"/>Eleonora
+      <lb n="N010"/>Wien den 2ten julii 1687
+      <lb n="N011"/>Ich hör, die vochtei, wegen welcher des Irmans
+      <lb n="N012"/>memorial wahre, so ich hette schiken sollen, sey
+      <lb n="N013"/>schon einem andren vergeben, also wolle dero Liebden
+      <lb n="N014"/>sich ihn in andren vohruallenden gelegenheiten laßen
+      <lb n="N015"/>reccomendirt sein. Die armen haben vill kinder
+      <lb n="N016"/>vnd nit vill dazue, das memorial hab verißen,
+      <lb n="N017"/>weil es zue schapht wehr kommen.</p></div>
 </body>
 
    </text>

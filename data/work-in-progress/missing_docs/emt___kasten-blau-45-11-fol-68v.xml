@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="emt___kasten-blau-45-11-fol-68v.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-68v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 45 Nr. 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,7 +67,7 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
@@ -81,8 +77,8 @@
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -204,104 +200,95 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=PHIAVOFCZSIKKYXHHMCEFQNM&amp;fileType=view" id="Kasten_blau_45-11_fol_67r.jpg"/>
-    <p facs="#facs_1_region_1677166408731_998">
-      <lb facs="#facs_1_line_1677166542398_1107" n="N001"/><note type="editorische Anmerkung">Die Zeilen 1 bis 3 stehen seitlich am Brief und gehören zum PS auf Seite 4.</note>So eben sagen mihr <unclear reason="offensichtlich sinnentstellende Korruptele: ihre">ewer</unclear> Mayestät, das der Cardinal Albrizi
-      <lb facs="#facs_1_line_1677166548545_1112" n="N002"/>geschrieben, er hoffe, in 14 dagen werde das coadiutori werk bey
-      <lb facs="#facs_1_line_1677166553304_1117" n="N003"/>dehm Papst erhalten werden, gott gebe, das es wahr sey.
-      <lb facs="#facs_1_line_1677166416990_1001" n="N004"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-      <lb facs="#facs_1_line_1677166421977_1006" n="N005"/>Bitte gehorsamist vmb vergebung, das bey vohriger
-      <lb facs="#facs_1_line_1677166426690_1011" n="N006"/>post meine schuldichkeit nit habe abgelegt. Mihr
-      <lb facs="#facs_1_line_1677166432328_1016" n="N007"/>gehn so fleisich auf die beys, dan das wetter
-      <lb facs="#facs_1_line_1677166437024_1021" n="N008"/>ist gahr schön, aber zwahr gahr warm.
-      <lb facs="#facs_1_line_1677166441396_1026" n="N009"/>Ich verlaße mich auf ewer Durchlaucht güettichkeit,
-      <lb facs="#facs_1_line_1677166445311_1031" n="N010"/>das sie mihr diese nachlaßichkeit <choice><expan>gnädigst</expan><abbr>g</abbr></choice>
-      <lb facs="#facs_1_line_1677166449952_1036" n="N011"/>vergeben werden. Ich bitte aber nachmahlen, gegen dero
-      <lb facs="#facs_1_line_1677166454443_1041" n="N012"/>gehorsamb kint nit solliche danksagungen zue duen,
-      <lb facs="#facs_1_line_1677166459225_1046" n="N013"/>die ich nit verdiene, dan vohr erst alles allein von
-      <lb facs="#facs_1_line_1677166463780_1051" n="N014"/>ihr Mayestät güettichkeit herkommet vndt ich ganz
-      <lb facs="#facs_1_line_1677166468059_1056" n="N015"/>nichts darbey gedahn vndt nuhr meine schuldichkeit
-      <lb facs="#facs_1_line_1677166472310_1061" n="N016"/>nachkommen <supplied >wäre</supplied>, wan etwa darbey cooperirt hätte.
-      <lb facs="#facs_1_line_1677166476555_1066" n="N017"/>Mein höchster wuntsch vndt verlangen wehre
-      <lb facs="#facs_1_line_1677166489008_1071" n="N018"/>wohl, ewer Durchlaucht meiner schuldichkeit gemes zue
-      <lb facs="#facs_1_line_1677166493306_1076" n="N019"/>bedienen, beklage allein, das an meiner capacitet
-      <lb facs="#facs_1_line_1677166497499_1081" n="N020"/>solliches ermanglet. Ewer Durchlaucht können wegen dero
-      <lb facs="#facs_1_line_1677166502244_1086" n="N021"/>anherokunft freilich alle anstalt machen, dan
-      <lb facs="#facs_1_line_1677166506995_1091" n="N022"/>was ich geschrieben, das habe freilich aus ihr Mayestät
-      <lb facs="#facs_1_line_1677166510593_1096" n="N023"/>befehl gedahn, vndt hier ist nuhnmehr schon
-      <lb facs="#facs_1_line_1677166515004_1101" n="N024"/>ganz offenbahr, vndt macht kein mensch kein</p>
-    <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=WRABTLWQKHGNYWTQZAWADBZR&amp;fileType=view" id="Kasten_blau_45-11_fol_67v.jpg"/>
-    <p facs="#facs_2_region_1677166577259_1125">
-      <lb facs="#facs_2_line_1677166585201_1128" n="N001"/>geheimnus mehr daraus. Wen ihr Durchlaucht mit sollen
-      <lb facs="#facs_2_line_1677166590032_1133" n="N002"/>bringen, sagen ihr Mayestät, sey ihnen alles recht, wie
-      <lb facs="#facs_2_line_1677166595118_1138" n="N003"/>sie es machen wollen, vndt <supplied >habe</supplied> ich in dieser sach
-      <lb facs="#facs_2_line_1677166598888_1143" n="N004"/>ganz niks mehrers erfahren können. Weillen ewer Durchlaucht
-      <lb facs="#facs_2_line_1677166606406_1148" n="N005"/>niemant mit von vnten herauf gebracht,
-      <lb facs="#facs_2_line_1677166612950_1153" n="N006"/>so werden auch nit so gahr vill sein als etwan
-      <lb facs="#facs_2_line_1677166618413_1158" n="N007"/>der Hamilton, Denzel, Schpiring vndt Egloff, dan ich bilt
-      <lb facs="#facs_2_line_1677166623908_1163" n="N008"/>mihr ein, der alte Serni werde nimmer so
-      <lb facs="#facs_2_line_1677166630278_1168" n="N009"/>weit reisen können, der Lemmel ist kein großer
-      <lb facs="#facs_2_line_1677166635729_1173" n="N010"/>cortigiano. Ewer Durchlaucht werden am besten wißen außzu
-      <lb facs="#facs_2_line_1677166640419_1178" n="N011"/>klauben. Mit dem frawen zimmer, meine ich,
-      <lb facs="#facs_2_line_1677166647633_1183" n="N012"/><seg type="blackening">hah</seg> habe es kein bedenken, dan es seint nuhr
-      <lb facs="#facs_2_line_1677166652995_1188" n="N013"/>die 5 freülen vndt Hamiltonin mit der Obrist Hoff-
-      <lb facs="#facs_2_line_1677166658977_1193" n="N014"/>meisterin. Die Hamilton hatt doch ihren ran<supplied >g</supplied> als kamere-
-      <lb facs="#facs_2_line_1677250152971_317" n="N015"/>hers fraw, so wirt das keine dificultet geben.
-      <lb facs="#facs_2_line_1677166676652_1208" n="N016"/>Mit den übrigen leütten noch vill wehniger,
-      <lb facs="#facs_2_line_1677166682293_1213" n="N017"/>also können ewer Durchlaucht mit bringen, wen sie wollen,
-      <lb facs="#facs_2_line_1677166687844_1218" n="N018"/>dan so vill ich merke, sein ihr Mayestät faditerer.
-      <lb facs="#facs_2_line_1677166693035_1223" n="N019"/>Wegen meines bruederen wundert mich recht, das
-      <lb facs="#facs_2_line_1677166697431_1228" n="N020"/>noch so still, dan schon ihr Mayestät etligen ministris
-      <lb facs="#facs_2_line_1677166703640_1233" n="N021"/>ihr resolution gesacht, wie auch mihr erlaubt, das
-      <lb facs="#facs_2_line_1677166708011_1238" n="N022"/>ichs <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner vndt dem Schellerer sagen derf.
-      <lb facs="#facs_2_line_1677166712869_1243" n="N023"/>So, mein ich, könen ewer Durchlaucht sich auch wohl ohne
-      <lb facs="#facs_2_line_1677166717749_1248" n="N024"/>gros rumor etwas darnach richten. Die brief habe</p>
-    <pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=NEPMESENAGZWJQMUYVZSEHNU&amp;fileType=view" id="Kasten_blau_45-11_fol_68r.jpg"/>
-    <p facs="#facs_3_region_1677166738811_1259">
-      <lb facs="#facs_3_line_1677166750091_1262" n="N001"/>ihr Mayestät der Kaiserin überantwort, vndt wirt sie
-      <lb facs="#facs_3_line_1677166754603_1267" n="N002"/>auch heütt, wie sie mihr gesacht, ewer Durchlaucht antworten.
-      <lb facs="#facs_3_line_1677166759003_1272" n="N003"/>Gott geb, das wegen der coadiutori auch so wohl
-      <lb facs="#facs_3_line_1677166763012_1277" n="N004"/>ab geh, welches wohl von herzen wüntsche. Schike
-      <lb facs="#facs_3_line_1677166767582_1282" n="N005"/>hiebey ewer Durchlaucht das antwort schreiben, so vom
-      <lb facs="#facs_3_line_1677166771847_1287" n="N006"/>Cuhrfürst <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> empfangen, vndt erwarte dero
-      <lb facs="#facs_3_line_1677166775975_1292" n="N007"/>befehl, was <seg type="blackening">wef</seg> weiters zue duen. Ihr Mayestät
-      <lb facs="#facs_3_line_1677166779721_1297" n="N008"/>werden gewis alles, was ewer Durchlaucht verlangen,
-      <lb facs="#facs_3_line_1677166782882_1302" n="N009"/>darzue cooperiren, erwarte also dero befehl
-      <lb facs="#facs_3_line_1677166784962_1307" n="N010"/>vndt sterbe
-      <lb facs="#facs_3_line_1677166787405_1312" n="N011"/>ewer Durchlaucht
-      <lb facs="#facs_3_line_1677250705217_344" n="N012"/>ganzergebenste trewgehorsamste
-      <lb facs="#facs_3_line_1677166801869_1322" n="N013"/>dochter
-      <lb facs="#facs_3_line_1677250705217_345" n="N014"/>Wien den 19 maij  1678
-      <lb facs="#facs_3_line_1677166804144_1327" n="N015"/>EMT
-      <lb facs="#facs_3_line_1677166809537_1332" n="N016"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Der von Wangen ist gestern wek, offerirt sich, 
-      <lb facs="#facs_3_line_1677166816487_1337" n="N017"/>gahr vill vor ewer Durchlaucht in der coadiutori
-      <lb facs="#facs_3_line_1677166821784_1342" n="N018"/>zue duen. So hatt er auch vmb ein <seg type="blackening">??</seg> <add>schreiben</add> gebetten,
-      <lb facs="#facs_3_line_1677166825868_1347" n="N019"/>welches ihm nit abschlagen können, ewer Durchlaucht werden
-      <lb facs="#facs_3_line_1677166830976_1352" n="N020"/>schon selber wißen, was auf ihn sie sich verlaßen
-      <lb facs="#facs_3_line_1677166837877_1357" n="N021"/>können. Er zeicht sich wohl gahr eifrich, ich hoffe auch,
-      <lb facs="#facs_3_line_1677166843037_1362" n="N022"/>es sey allso. Aufs wehnigste bitte, gegen ihm niks
-      <lb facs="#facs_3_line_1677166848436_1367" n="N023"/>zu melden, welchs gegen den Köniksekh möchte
-      <lb facs="#facs_3_line_1677166875124_1388" n="N024"/>sein, dan sie seint gahr guette freunt. Bitt
-      <lb facs="#facs_3_line_1677166860824_1377" n="N025"/>hierauf kein antwort. Wegen ewer Durchlaucht anhero konft</p>
-    <pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=OYMENSBCNIVNLCILHUBOWYSR&amp;fileType=view" id="Kasten_blau_45-11_fol_68v.jpg"/>
-    <p facs="#facs_4_region_1677166906671_1412">
-      <lb facs="#facs_4_line_1677166913927_1415" n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> habe wohl gewis mein bests gedahn, aber niks
-      <lb facs="#facs_4_line_1677166918300_1420" n="N002"/>erhalten können bis auf halben julij, wie sch<supplied >o</supplied>n
-      <lb facs="#facs_4_line_1677166922551_1425" n="N003"/>geschrieben, dan ihr Mayestät den saurbrunnen werden
-      <lb facs="#facs_4_line_1677166927281_1430" n="N004"/>brauchen im garten. Dorten, mues <supplied >ich</supplied> bekennen,
-      <lb facs="#facs_4_line_1677166931335_1435" n="N005"/>können mihr kaum <unclear reason="unsichere Lesart wegen Korrektur">wohnen</unclear>, so eng ist es,
-      <lb facs="#facs_4_line_1677166936090_1440" n="N006"/>vndt werden vohr halben julij nit wider
-      <lb facs="#facs_4_line_1677166940655_1445" n="N007"/>in die statt, so <seg type="blackening">biht</seg> <add>ist mir</add> auch wohl vohn herzen
-      <lb facs="#facs_4_line_1677166948513_1455" n="N008"/>leidt, das so lang noch mues deßen beraubt
-      <lb facs="#facs_4_line_1677166953356_1460" n="N009"/>sein, welches ich iezt am meisten verlange,
-      <lb facs="#facs_4_line_1677166958929_1465" n="N010"/>aber ich habe mit dem Hoher auch daraus laßen
-      <lb facs="#facs_4_line_1677166963456_1470" n="N011"/><unclear reason="unsichere Lesart wegen Korrektur">reden</unclear>, er meint auch, es werd sich nit
-      <lb facs="#facs_4_line_1677166968638_1475" n="N012"/>erheben laßen. Befehl mich vnterdehnig vndt
-      <lb facs="#facs_4_line_1677166976699_1480" n="N013"/>auf diese beyde postscritta gahr nit oder
-      <lb facs="#facs_4_line_1677166982489_1485" n="N014"/>durch <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner zue antworten. Befehl mich
-      <lb facs="#facs_4_line_1677166985919_1490" n="N015"/>vnterdehnig vndt sterbe, ewer Durchlaucht geh<supplied >o</supplied>rsam kint.</p>
-  </div>
+  <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=PHIAVOFCZSIKKYXHHMCEFQNM&amp;fileType=view" id="Kasten_blau_45-11_fol_67r.jpg"/><p facs="#facs_1_region_1677166408731_998">
+      <lb n="N001"/><note type="editorische Anmerkung">Die Zeilen 1 bis 3 stehen seitlich am Brief und gehören zum PS auf Seite 4.</note>So eben sagen mihr <unclear reason="offensichtlich sinnentstellende Korruptele: ihre">ewer</unclear> Mayestät, das der Cardinal Albrizi
+      <lb n="N002"/>geschrieben, er hoffe, in 14 dagen werde das coadiutori werk bey
+      <lb n="N003"/>dehm Papst erhalten werden, gott gebe, das es wahr sey.
+      <lb n="N004"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
+      <lb n="N005"/>Bitte gehorsamist vmb vergebung, das bey vohriger
+      <lb n="N006"/>post meine schuldichkeit nit habe abgelegt. Mihr
+      <lb n="N007"/>gehn so fleisich auf die beys, dan das wetter
+      <lb n="N008"/>ist gahr schön, aber zwahr gahr warm.
+      <lb n="N009"/>Ich verlaße mich auf ewer Durchlaucht güettichkeit,
+      <lb n="N010"/>das sie mihr diese nachlaßichkeit <choice><expan>gnädigst</expan><abbr>g</abbr></choice>
+      <lb n="N011"/>vergeben werden. Ich bitte aber nachmahlen, gegen dero
+      <lb n="N012"/>gehorsamb kint nit solliche danksagungen zue duen,
+      <lb n="N013"/>die ich nit verdiene, dan vohr erst alles allein von
+      <lb n="N014"/>ihr Mayestät güettichkeit herkommet vndt ich ganz
+      <lb n="N015"/>nichts darbey gedahn vndt nuhr meine schuldichkeit
+      <lb n="N016"/>nachkommen <supplied>wäre</supplied>, wan etwa darbey cooperirt hätte.
+      <lb n="N017"/>Mein höchster wuntsch vndt verlangen wehre
+      <lb n="N018"/>wohl, ewer Durchlaucht meiner schuldichkeit gemes zue
+      <lb n="N019"/>bedienen, beklage allein, das an meiner capacitet
+      <lb n="N020"/>solliches ermanglet. Ewer Durchlaucht können wegen dero
+      <lb n="N021"/>anherokunft freilich alle anstalt machen, dan
+      <lb n="N022"/>was ich geschrieben, das habe freilich aus ihr Mayestät
+      <lb n="N023"/>befehl gedahn, vndt hier ist nuhnmehr schon
+      <lb n="N024"/>ganz offenbahr, vndt macht kein mensch kein</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=WRABTLWQKHGNYWTQZAWADBZR&amp;fileType=view" id="Kasten_blau_45-11_fol_67v.jpg"/><p facs="#facs_2_region_1677166577259_1125">
+      <lb n="N001"/>geheimnus mehr daraus. Wen ihr Durchlaucht mit sollen
+      <lb n="N002"/>bringen, sagen ihr Mayestät, sey ihnen alles recht, wie
+      <lb n="N003"/>sie es machen wollen, vndt <supplied>habe</supplied> ich in dieser sach
+      <lb n="N004"/>ganz niks mehrers erfahren können. Weillen ewer Durchlaucht
+      <lb n="N005"/>niemant mit von vnten herauf gebracht,
+      <lb n="N006"/>so werden auch nit so gahr vill sein als etwan
+      <lb n="N007"/>der Hamilton, Denzel, Schpiring vndt Egloff, dan ich bilt
+      <lb n="N008"/>mihr ein, der alte Serni werde nimmer so
+      <lb n="N009"/>weit reisen können, der Lemmel ist kein großer
+      <lb n="N010"/>cortigiano. Ewer Durchlaucht werden am besten wißen außzu
+      <lb n="N011"/>klauben. Mit dem frawen zimmer, meine ich,
+      <lb n="N012"/><seg type="blackening">hah</seg> habe es kein bedenken, dan es seint nuhr
+      <lb n="N013"/>die 5 freülen vndt Hamiltonin mit der Obrist Hoff-
+      <lb n="N014"/>meisterin. Die Hamilton hatt doch ihren ran<supplied>g</supplied> als kamere-
+      <lb n="N015"/>hers fraw, so wirt das keine dificultet geben.
+      <lb n="N016"/>Mit den übrigen leütten noch vill wehniger,
+      <lb n="N017"/>also können ewer Durchlaucht mit bringen, wen sie wollen,
+      <lb n="N018"/>dan so vill ich merke, sein ihr Mayestät faditerer.
+      <lb n="N019"/>Wegen meines bruederen wundert mich recht, das
+      <lb n="N020"/>noch so still, dan schon ihr Mayestät etligen ministris
+      <lb n="N021"/>ihr resolution gesacht, wie auch mihr erlaubt, das
+      <lb n="N022"/>ichs <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner vndt dem Schellerer sagen derf.
+      <lb n="N023"/>So, mein ich, könen ewer Durchlaucht sich auch wohl ohne
+      <lb n="N024"/>gros rumor etwas darnach richten. Die brief habe</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=NEPMESENAGZWJQMUYVZSEHNU&amp;fileType=view" id="Kasten_blau_45-11_fol_68r.jpg"/><p facs="#facs_3_region_1677166738811_1259">
+      <lb n="N001"/>ihr Mayestät der Kaiserin überantwort, vndt wirt sie
+      <lb n="N002"/>auch heütt, wie sie mihr gesacht, ewer Durchlaucht antworten.
+      <lb n="N003"/>Gott geb, das wegen der coadiutori auch so wohl
+      <lb n="N004"/>ab geh, welches wohl von herzen wüntsche. Schike
+      <lb n="N005"/>hiebey ewer Durchlaucht das antwort schreiben, so vom
+      <lb n="N006"/>Cuhrfürst <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> empfangen, vndt erwarte dero
+      <lb n="N007"/>befehl, was <seg type="blackening">wef</seg> weiters zue duen. Ihr Mayestät
+      <lb n="N008"/>werden gewis alles, was ewer Durchlaucht verlangen,
+      <lb n="N009"/>darzue cooperiren, erwarte also dero befehl
+      <lb n="N010"/>vndt sterbe
+      <lb n="N011"/>ewer Durchlaucht
+      <lb n="N012"/>ganzergebenste trewgehorsamste
+      <lb n="N013"/>dochter
+      <lb n="N014"/>Wien den 19 maij  1678
+      <lb n="N015"/>EMT
+      <lb n="N016"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Der von Wangen ist gestern wek, offerirt sich, 
+      <lb n="N017"/>gahr vill vor ewer Durchlaucht in der coadiutori
+      <lb n="N018"/>zue duen. So hatt er auch vmb ein <seg type="blackening">??</seg> <add>schreiben</add> gebetten,
+      <lb n="N019"/>welches ihm nit abschlagen können, ewer Durchlaucht werden
+      <lb n="N020"/>schon selber wißen, was auf ihn sie sich verlaßen
+      <lb n="N021"/>können. Er zeicht sich wohl gahr eifrich, ich hoffe auch,
+      <lb n="N022"/>es sey allso. Aufs wehnigste bitte, gegen ihm niks
+      <lb n="N023"/>zu melden, welchs gegen den Köniksekh möchte
+      <lb n="N024"/>sein, dan sie seint gahr guette freunt. Bitt
+      <lb n="N025"/>hierauf kein antwort. Wegen ewer Durchlaucht anhero konft</p></div><div type="page"><pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=OYMENSBCNIVNLCILHUBOWYSR&amp;fileType=view" id="Kasten_blau_45-11_fol_68v.jpg"/><p facs="#facs_4_region_1677166906671_1412">
+      <lb n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> habe wohl gewis mein bests gedahn, aber niks
+      <lb n="N002"/>erhalten können bis auf halben julij, wie sch<supplied>o</supplied>n
+      <lb n="N003"/>geschrieben, dan ihr Mayestät den saurbrunnen werden
+      <lb n="N004"/>brauchen im garten. Dorten, mues <supplied>ich</supplied> bekennen,
+      <lb n="N005"/>können mihr kaum <unclear reason="unsichere Lesart wegen Korrektur">wohnen</unclear>, so eng ist es,
+      <lb n="N006"/>vndt werden vohr halben julij nit wider
+      <lb n="N007"/>in die statt, so <seg type="blackening">biht</seg> <add>ist mir</add> auch wohl vohn herzen
+      <lb n="N008"/>leidt, das so lang noch mues deßen beraubt
+      <lb n="N009"/>sein, welches ich iezt am meisten verlange,
+      <lb n="N010"/>aber ich habe mit dem Hoher auch daraus laßen
+      <lb n="N011"/><unclear reason="unsichere Lesart wegen Korrektur">reden</unclear>, er meint auch, es werd sich nit
+      <lb n="N012"/>erheben laßen. Befehl mich vnterdehnig vndt
+      <lb n="N013"/>auf diese beyde postscritta gahr nit oder
+      <lb n="N014"/>durch <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner zue antworten. Befehl mich
+      <lb n="N015"/>vnterdehnig vndt sterbe, ewer Durchlaucht geh<supplied>o</supplied>rsam kint.</p></div>
 </body>
 
    </text>
