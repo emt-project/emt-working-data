@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, Wien am 1688.09.10</title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, Wien am 1688.09.09</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,7 +49,7 @@
                         <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1688-09-10"/></origin>
+                        <origin><origDate when-iso="1688-09-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -78,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1688-09-10"/>
+               <date when-iso="1688-09-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -89,6 +89,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-05-02">Datumskorrektur durch Zusatzinfo Regest PW an EMT vom 17.09.1688</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -219,7 +220,7 @@
       <lb n="N016"/>ewer Durchlaucht
       <lb n="N017"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwghos</abbr></choice> d<supplied>oc</supplied>hter
       <lb n="N018"/>EMT
-      <lb n="N019"/>Wien den <unclear reason="unsichere Lesart wegen Korrektur">10</unclear>ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1688</p></div>
+      <lb n="N019"/>Wien den <unclear reason="unsichere Lesart wegen Korrektur"><note type="editorische Anmerkung">Die Zahl wurde durch die Schreiberin korrigiert, aus einem Antwortbrief des Vaters geht jedoch hervor, dass der Brief vom 09. stammen muss.</note>9</unclear>ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1688</p></div>
 </body>
 
    </text>
