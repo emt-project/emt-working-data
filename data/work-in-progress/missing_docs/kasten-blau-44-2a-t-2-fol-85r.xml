@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">FIX ME: Kasten_blau_44-2a_T_2_fol_85r </title>
+            <title type="main">Philipp Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, o.O. am 1686-05-24</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -49,10 +49,10 @@
                   <msDesc>
                      <msIdentifier>
                         <country>Deutschland</country>
-                        <settlement></settlement>
-                        <repository></repository>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno>Kasten blau, 44/2a</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate></origDate></origin>
@@ -71,16 +71,16 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident="german"></language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#"></placeName>
-               <date ></date>
+               <date when="1686-05-24"></date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#"></persName>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <placeName ref="#"></placeName>
                 <date></date>
             </correspAction>
