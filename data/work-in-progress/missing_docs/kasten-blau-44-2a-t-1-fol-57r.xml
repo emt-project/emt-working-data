@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten-blau-44-2a-t-1-fol-57r.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten-blau-44-2a-t-1-fol-57r.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau 44/2a</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,14 +72,14 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date when="1680-08-13"></date>
+               <placeName ref="#"/>
+               <date when="1680-08-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <persName ref="#emt_person_id__35">Leopold I.</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -157,7 +153,7 @@
    <body>
   <div>
     <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=LHOETVHVVQMXJDCVQQMLCBTB&amp;fileType=view" id="Kasten_blau_44-2a_T_1_fol_57r.jpg"/>
-    <ab facs="#facs_1_block_0" >
+    <ab facs="#facs_1_block_0">
       <lb facs="#facs_1_line_0" n="N001"/>
       <lb facs="#facs_1_line_2" n="N002"/>
       <lb facs="#facs_1_line_1" n="N003"/>
