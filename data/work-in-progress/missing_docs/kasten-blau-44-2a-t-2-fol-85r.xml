@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten-blau-44-2a-t-2-fol-85r.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten-blau-44-2a-t-2-fol-85r.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau, 44/2a</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,18 +67,18 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident="german"></language>
+            <language ident="german"/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date when="1686-05-24"></date>
+               <placeName ref="#"/>
+               <date when="1686-05-24"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -157,16 +153,16 @@
    <body>
   <div>
     <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=QQWKXCBWMUPABKQVCRIOYDVI&amp;fileType=view" id="Kasten_blau_44-2a_T_2_fol_85r.jpg"/>
-    <ab facs="#facs_1_block_2" >
+    <ab facs="#facs_1_block_2">
       <lb facs="#facs_1_line_0" n="N001"/>
       <lb facs="#facs_1_line_1685949384819_63" n="N002"/>
       <lb facs="#facs_1_line_2" n="N003"/>
       <lb facs="#facs_1_line_4" n="N004"/></ab>
-    <ab facs="#facs_1_block_1" >
+    <ab facs="#facs_1_block_1">
       <lb facs="#facs_1_line_5" n="N001"/></ab>
-    <ab facs="#facs_1_block_0" >
+    <ab facs="#facs_1_block_0">
       <lb facs="#facs_1_line_1685949410772_84" n="N001"/></ab>
-    <ab facs="#facs_1_block_3" >
+    <ab facs="#facs_1_block_3">
       <lb facs="#facs_1_line_10" n="N001"/>
       <lb facs="#facs_1_line_11" n="N002"/>
       <lb facs="#facs_1_line_12" n="N003"/>
