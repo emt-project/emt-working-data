@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten-blau-44-2a-t-2-fol-7v.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten-blau-44-2a-t-2-fol-7v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +51,7 @@
                         <idno>Kasten blau 44/2a</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,18 +67,18 @@
             <p/>
          </abstract>
          <langUsage>
-            <language ident=""></language>
+            <language ident=""/>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date when="1685-06-22"></date>
+               <placeName ref="#"/>
+               <date when="1685-06-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <placeName ref="#emt_person_id__35">Leopold I.</placeName>
-                <date></date>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
@@ -188,11 +184,11 @@
    <body>
   <div>
     <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=JHQAEZTLAJDXERJYQYWJCMXB&amp;fileType=view" id="Kasten_blau_44-2a_T_2_fol_7r.jpg"/>
-    <ab facs="#facs_1_tr_3" >
+    <ab facs="#facs_1_tr_3">
       <lb facs="#facs_1_tr_3_tl_1" n="N001"/>
       <lb facs="#facs_1_tr_3_tl_2" n="N002"/>
       <lb facs="#facs_1_tr_3_tl_3" n="N003"/></ab>
-    <ab facs="#facs_1_tr_2" >
+    <ab facs="#facs_1_tr_2">
       <lb facs="#facs_1_tr_2_tl_1" n="N001"/>
       <lb facs="#facs_1_tr_2_tl_2" n="N002"/>
       <lb facs="#facs_1_tr_2_tl_3" n="N003"/>
@@ -209,7 +205,7 @@
       <lb facs="#facs_1_tr_2_tl_14" n="N014"/>
       <lb facs="#facs_1_tr_2_tl_15" n="N015"/>
       <lb facs="#facs_1_tr_2_tl_16" n="N016"/></ab>
-    <ab facs="#facs_1_tr_1" >
+    <ab facs="#facs_1_tr_1">
       <lb facs="#facs_1_tr_1_tl_1" n="N001"/>
       <lb facs="#facs_1_tr_1_tl_2" n="N002"/>
       <lb facs="#facs_1_tr_1_tl_3" n="N003"/>
@@ -238,10 +234,10 @@
       <lb facs="#facs_1_tr_1_tl_26" n="N026"/>
       <lb facs="#facs_1_tr_1_tl_27" n="N027"/></ab>
     <pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=TODLMPRLKISEBCLIUWOANXFV&amp;fileType=view" id="Kasten_blau_44-2a_T_2_fol_7v.jpg"/>
-    <ab facs="#facs_2_tr_2" >
+    <ab facs="#facs_2_tr_2">
       <lb facs="#facs_2_tr_2_tl_1" n="N001"/>
       <lb facs="#facs_2_tr_2_tl_2" n="N002"/></ab>
-    <ab facs="#facs_2_tr_1" >
+    <ab facs="#facs_2_tr_1">
       <lb facs="#facs_2_tr_1_tl_1" n="N001"/>
       <lb facs="#facs_2_tr_1_tl_2" n="N002"/>
       <lb facs="#facs_2_tr_1_tl_3" n="N003"/>
