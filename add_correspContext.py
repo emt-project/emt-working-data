@@ -21,10 +21,12 @@ for x in files:
     except IndexError:
         date = "1000-01-01"
         non_dateable.append(x)
-    corresp_ids = sorted([x for x in doc.any_xpath(".//tei:correspAction/tei:persName/@ref") if x != empress_id])
+    corresp_id = "_".join(sorted([x for x in doc.any_xpath(".//tei:correspAction/tei:persName/@ref") if x != empress_id]))
+    corresp_names = " und ".join([(x.xpath('./text()')[0] if len(x.xpath('./text()')) > 0 else '?') for x in doc.any_xpath(".//tei:correspAction/tei:persName") if x.xpath('./@ref')[0] != empress_id])
     item = {
         "id": x,
-        "corresp_id": "_".join(corresp_ids),
+        "corresp_id": corresp_id,
+        "corresp_names": corresp_names,
         "date": date,
         "title": doc.any_xpath(".//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/text()")[0]
     }
@@ -51,7 +53,8 @@ for i, ndf in df.groupby("corresp_id"):
 
         correspDesc = doc.any_xpath("//tei:correspDesc")[0]
         correspContext = ET.SubElement(correspDesc, 'correspContext')
-        ET.SubElement(correspContext, 'ref', type="belongsToCorrespondence", target=x["corresp_id"])
+        ref = ET.SubElement(correspContext, 'ref', type="belongsToCorrespondence", target=x["corresp_id"])
+        ref.text = "Korrespondenz mit " + x["corresp_names"]
         prevCorr = ET.SubElement(correspContext, 'ref', subtype="previous_letter", type="withinCorrespondence", source=x["corresp_id"], target="" if x["prev"] is None else x["prev"].split('/')[-1])
         prevCorr.text = "" if x["prev_title"] is None else x["prev_title"].split('/')[-1]
         nextCorr = ET.SubElement(correspContext, 'ref', subtype="next_letter", type="withinCorrespondence", source=x["corresp_id"], target="" if x["next"] is None else x["next"].split('/')[-1])
