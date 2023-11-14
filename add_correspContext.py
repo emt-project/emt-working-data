@@ -55,8 +55,11 @@ for i, ndf in df.groupby("corresp_id"):
         correspContext = ET.SubElement(correspDesc, 'correspContext')
         ref = ET.SubElement(correspContext, 'ref', type="belongsToCorrespondence", target=x["corresp_id"])
         ref.text = "Korrespondenz mit " + x["corresp_names"]
-        prevCorr = ET.SubElement(correspContext, 'ref', subtype="previous_letter", type="withinCorrespondence", source=x["corresp_id"], target="" if x["prev"] is None else x["prev"].split('/')[-1])
-        prevCorr.text = "" if x["prev_title"] is None else x["prev_title"].split('/')[-1]
-        nextCorr = ET.SubElement(correspContext, 'ref', subtype="next_letter", type="withinCorrespondence", source=x["corresp_id"], target="" if x["next"] is None else x["next"].split('/')[-1])
-        nextCorr.text = "" if x["next_title"] is None else x["next_title"].split('/')[-1]
+        if x["prev"] is not None:
+            prevCorr = ET.SubElement(correspContext, 'ref', subtype="previous_letter", type="withinCorrespondence", source=x["corresp_id"], target=x["prev"].split('/')[-1])
+            prevCorr.text = "" if x["prev_title"] is None else x["prev_title"].split('/')[-1]
+        if x["next"] is not None:
+            nextCorr = ET.SubElement(correspContext, 'ref', subtype="next_letter", type="withinCorrespondence", source=x["corresp_id"], target=x["next"].split('/')[-1])
+            nextCorr.text = "" if x["next_title"] is None else x["next_title"].split('/')[-1]
+
         doc.tree_to_file(x["id"])
