@@ -45,6 +45,10 @@ for i, ndf in df.groupby("corresp_id"):
         except Exception:
             print(f"Cannot add correspContext to file: {x['id']}")
             continue
+
+        for existing_corresp_context in doc.any_xpath("//tei:correspContext"):
+            existing_corresp_context.getparent().remove(existing_corresp_context)
+
         correspDesc = doc.any_xpath("//tei:correspDesc")[0]
         correspContext = ET.SubElement(correspDesc, 'correspContext')
         ET.SubElement(correspContext, 'ref', type="belongsToCorrespondence", target=x["corresp_id"])
