@@ -34,6 +34,11 @@ for x in files:
     thread_ids.add(item["corresp_id"])
 
 df = pd.DataFrame(items)
+df = df.sort_values("date")
+df["gen_prev"] = df["id"].shift(-1)
+df["gen_next"] = df["id"].shift(1)
+df["gen_prev_title"] = df["title"].shift(-1)
+df["gen_next_title"] = df["title"].shift(1)
 
 for i, ndf in df.groupby("corresp_id"):
     sorted_df = ndf.sort_values("date")
@@ -61,5 +66,11 @@ for i, ndf in df.groupby("corresp_id"):
         if x["next"] is not None:
             nextCorr = ET.SubElement(correspContext, 'ref', subtype="next_letter", type="withinCorrespondence", source=x["corresp_id"], target=x["next"].split('/')[-1])
             nextCorr.text = "" if x["next_title"] is None else x["next_title"].split('/')[-1]
+        if x["gen_prev"] is not None:
+            genPrevCorr = ET.SubElement(correspContext, 'ref', subtype="previous_letter", type="withinCollection", target=x["gen_prev"].split('/')[-1])
+            genPrevCorr.text = "" if x["gen_prev_title"] is None else x["gen_prev_title"].split('/')[-1]
+        if x["gen_next"] is not None:
+            genNextCorr = ET.SubElement(correspContext, 'ref', subtype="next_letter", type="withinCollection", target=x["gen_next"].split('/')[-1])
+            genNextCorr.text = "" if x["gen_next_title"] is None else x["gen_next_title"].split('/')[-1]
 
         doc.tree_to_file(x["id"])
