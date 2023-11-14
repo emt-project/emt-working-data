@@ -31,7 +31,7 @@ for x in files:
     date_marker = date
 
     corresp_id = "_".join(sorted([x for x in doc.any_xpath(".//tei:correspAction/tei:persName/@ref") if x != empress_id]))
-    corresp_names = " und ".join([(x.xpath('./text()')[0] if len(x.xpath('./text()')) > 0 else '?') for x in doc.any_xpath(".//tei:correspAction/tei:persName") if x.xpath('./@ref')[0] != empress_id])
+    corresp_names = " und ".join([(x.text if x.text is not None else '?') for x in doc.any_xpath(".//tei:correspAction/tei:persName") if x.attrib['ref'] != empress_id])
     item = {
         "id": x,
         "corresp_id": corresp_id,
