@@ -10,17 +10,26 @@ non_dateable = [] # TODO: gets populated, but unused as per now
 broken = [] # TODO: gets populated, but unused as per now
 items = []
 thread_ids = set()
+date_marker = '1677-01-01' # Extreme lower boundary of dates. This variable is used for storing the "previous date" to date undated letters
 for x in files:
     try:
         doc = TeiReader(x)
     except Exception as e:
         broken.append([e, x])
         continue
-    try:
-        date = doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date/@when-iso")[0]
-    except IndexError:
-        date = "1000-01-01"
-        non_dateable.append(x)
+
+    dateAttribs = doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date/@when-iso")
+    if (len(dateAttribs) > 0):
+        date = dateAttribs[0]
+    else:
+        dateAttribs = date = doc.any_xpath(".//tei:correspAction[@type='sent']/tei:date/@notBefore")
+        if (len(dateAttribs) > 0):
+            date = dateAttribs[0]
+        else:
+            date = date_marker
+            non_dateable.append(x)
+    date_marker = date
+
     corresp_id = "_".join(sorted([x for x in doc.any_xpath(".//tei:correspAction/tei:persName/@ref") if x != empress_id]))
     corresp_names = " und ".join([(x.xpath('./text()')[0] if len(x.xpath('./text()')) > 0 else '?') for x in doc.any_xpath(".//tei:correspAction/tei:persName") if x.xpath('./@ref')[0] != empress_id])
     item = {
