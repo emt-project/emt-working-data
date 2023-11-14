@@ -54,7 +54,7 @@ for i, ndf in df.groupby("corresp_id"):
         correspDesc = doc.any_xpath("//tei:correspDesc")[0]
         correspContext = ET.SubElement(correspDesc, 'correspContext')
         ref = ET.SubElement(correspContext, 'ref', type="belongsToCorrespondence", target=x["corresp_id"])
-        ref.text = "Korrespondenz mit " + x["corresp_names"]
+        ref.text = f'Korrespondenz mit {x["corresp_names"]}'
         if x["prev"] is not None:
             prevCorr = ET.SubElement(correspContext, 'ref', subtype="previous_letter", type="withinCorrespondence", source=x["corresp_id"], target=x["prev"].split('/')[-1])
             prevCorr.text = "" if x["prev_title"] is None else x["prev_title"].split('/')[-1]
