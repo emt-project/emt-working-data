@@ -2,6 +2,7 @@ import glob
 from acdh_tei_pyutils.tei import TeiReader
 import lxml.etree as ET
 import pandas as pd
+from tqdm import tqdm
 
 files = sorted(glob.glob("./data/work-in-progress/**/*.xml", recursive=True))
 empress_id = "#emt_person_id__9"
@@ -11,7 +12,8 @@ broken = [] # TODO: gets populated, but unused as per now
 items = []
 thread_ids = set()
 date_marker = '1677-01-01' # Extreme lower boundary of dates. This variable is used for storing the "previous date" to date undated letters
-for x in files:
+print(f"fetching data from {len(files)} files")
+for x in tqdm(files, total=len(files)):
     try:
         doc = TeiReader(x)
     except Exception as e:
@@ -55,7 +57,8 @@ for i, ndf in df.groupby("corresp_id"):
     sorted_df["next"] = sorted_df["id"].shift(1)
     sorted_df["prev_title"] = sorted_df["title"].shift(-1)
     sorted_df["next_title"] = sorted_df["title"].shift(1)
-    for j, x in sorted_df.iterrows():
+    print(f"processing thread id {i}")
+    for j, x in tqdm(sorted_df.iterrows(), total=len(sorted_df)):
         try:
             doc = TeiReader(x["id"])
         except Exception:
@@ -83,3 +86,14 @@ for i, ndf in df.groupby("corresp_id"):
             genNextCorr.text = "" if x["gen_next_title"] is None else x["gen_next_title"].split('/')[-1]
 
         doc.tree_to_file(x["id"])
+
+print(f"no date in following {len(non_dateable)} files")
+for x in non_dateable:
+    print(x)
+
+if broken:
+    print(f"the following {len(files)} are not well formed")
+    for x in broken:
+        print(x)
+else:
+    print("all files are well formed, good job!")
