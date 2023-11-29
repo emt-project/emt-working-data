@@ -64,7 +64,7 @@
       </fileDesc>
       <profileDesc>
         <abstract n="regest">
-            <p/>
+           <p>Übermittelt ein Schreiben des Bischofs von Eichstätt , in dem dieser um steuerliche Erleichterungen ansucht, und bittet EMT um Unterstützung des Anliegens.</p>
          </abstract>
          <langUsage>
             <language ident=""/>
@@ -73,7 +73,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#"/>
-               <date when="1680-08-04"/>
+               <date when-iso="1680-08-04"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
@@ -150,8 +150,8 @@
 
    <text type="letter">
    <body>
-  <div>
-    <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=IGJANYVWMYMQFRQPUURIRYYV&amp;fileType=view" id="Kasten_blau_44-2a_T_1_fol_55r.jpg"/>
+  <div type="page">
+    <pb facs="#facs_1" n="55 r" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=IGJANYVWMYMQFRQPUURIRYYV&amp;fileType=view" id="Kasten_blau_44-2a_T_1_fol_55r.jpg"/>
     <ab facs="#facs_1_tr_2">
       <lb facs="#facs_1_tr_2_tl_1" n="N001"/>
       <lb facs="#facs_1_tr_2_tl_2" n="N002"/>

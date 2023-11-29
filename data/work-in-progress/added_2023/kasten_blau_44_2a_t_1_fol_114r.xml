@@ -73,7 +73,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#"/>
-               <date when="1685-01-05"/>
+               <date when-iso="1685-01-05"/>
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
@@ -149,7 +149,7 @@
 
    <text type="letter">
    <body>
-  <div>
+  <div type="page">
     <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=TDAYCGGHHLJGQENLDHQGKEZR&amp;fileType=view" id="Kasten_blau_44-2a_T_1_fol_114r.jpg"/>
     <ab facs="#facs_1_tr_1">
       <lb facs="#facs_1_tr_1_tl_1" n="N001"/>

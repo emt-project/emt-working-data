@@ -2,8 +2,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Philipp Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Neuburg am 1680.10.08</title>
-            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <title type="main">Philipp Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von
+               Pfalz-Neuburg, Neuburg am 1680.10.08</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz
+               von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Philipp Wilhelm von Pfalz-Neuburg</author>
             <editor>
                <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
@@ -28,7 +30,8 @@
             </respStmt>
          </editionStmt>
          <publicationStmt>
-            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES
+               BALKANRAUMES</publisher>
             <pubPlace>Vienna</pubPlace>
             <date when="2023">2023</date>
             <availability>
@@ -44,8 +47,9 @@
                      <msIdentifier>
                         <country>Deutschland</country>
                         <settlement>München</settlement>
-                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/8</idno>
-                        
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        <idno>Kasten blau, 45/8</idno>
+
                         <idno/>
                      </msIdentifier>
                      <history>
@@ -62,14 +66,20 @@
       </fileDesc>
       <profileDesc>
          <abstract>
-          <ab type="abstract-terms">
-            <term>Abschrift</term>
-            <term>Schreiber</term>
-         </ab>
-         <ab type="notes">Abschrift mit Unterschrift. Brief ist in Eleonora Magdalena von Pfalz-Neuburg an PW o.D. eingeschlossen</ab>
-        </abstract>
-        <abstract n="regest">
-            <p/>
+            <ab type="abstract-terms">
+               <term>Abschrift</term>
+               <term>Schreiber</term>
+            </ab>
+            <ab type="notes">Abschrift mit Unterschrift. Brief ist in Eleonora Magdalena von
+               Pfalz-Neuburg an PW o.D. eingeschlossen</ab>
+         </abstract>
+         <abstract n="regest">
+            <p>Hatte gehofft, dass der Kaiser ihm bei seinem bevorstehenden Besuch in Wien den
+               Lehnsessel zugestehen würde, da das Haus Pfalz-Wittelsbach dem Haus Lothringen noch
+               nie gewichen ist; auch mit Rücksicht auf EMT. Wird den Schellerer nun auf Wunsch EMTs
+               von einer Intervention bei Kaiser Leopold I. abhalten. Zumindest sollte PW und seiner
+               Gemahlin aber dieselbe Ehre wie bei ihrem letzten Besuch in Wien erwiesen werden,
+               damit niemand denkt, sie seien in Ungnade.</p>
          </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
@@ -81,14 +91,15 @@
                <date when-iso="1680-10-08"/>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#"/>
+               <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script
+            "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -126,8 +137,8 @@
             <zone points="300,2115 365,2114 430,2112 495,2110 560,2108 625,2106 690,2103 755,2101 820,2098 885,2096 950,2093 1015,2091 1080,2088 1145,2086 1210,2084 1275,2082 1340,2080 1405,2078 1470,2076 1535,2075 1601,2074 1601,2028 1535,2029 1470,2030 1405,2032 1340,2034 1275,2036 1210,2038 1145,2040 1080,2042 1015,2045 950,2047 885,2050 820,2052 755,2055 690,2057 625,2060 560,2062 495,2064 430,2066 365,2068 300,2069" rendition="Line" xml:id="facs_383_r1l29"/>
             <zone points="1081,2443 1110,2443 1139,2447 1139,2401 1110,2397 1081,2397" rendition="Line" xml:id="facs_383_r1l30"/></zone>
       </surface>
-      
-<surface lrx="1744" lry="2579" ulx="0" uly="0" xml:id="facs_384">
+
+      <surface lrx="1744" lry="2579" ulx="0" uly="0" xml:id="facs_384">
          <graphic height="2579px" url="Kasten_blau_45_8_0385.jpg" width="1744px"/>
          <zone points="235,254 235,2141 1637,2141 1637,254" rendition="TextRegion" xml:id="facs_384_r1">
             <zone points="235,348 304,344 374,341 443,338 513,334 582,331 652,328 721,324 791,321 860,317 930,314 999,311 1069,309 1138,306 1208,304 1277,302 1347,300 1416,299 1486,298 1555,297 1625,297 1625,254 1555,254 1486,255 1416,256 1347,257 1277,259 1208,261 1138,263 1069,266 999,268 930,271 860,274 791,278 721,281 652,285 582,288 513,291 443,295 374,298 304,301 235,305" rendition="Line" xml:id="facs_384_r1l1"/>
@@ -164,8 +175,8 @@
             <zone points="310,2104 335,2105 360,2105 386,2104 411,2104 437,2103 462,2103 488,2102 513,2101 539,2100 564,2099 589,2097 615,2095 640,2094 666,2092 691,2091 717,2089 742,2088 768,2087 793,2085 819,2084 819,2041 793,2042 768,2044 742,2045 717,2046 691,2048 666,2049 640,2051 615,2052 589,2054 564,2056 539,2057 513,2058 488,2059 462,2060 437,2060 411,2061 386,2061 360,2062 335,2062 310,2061" rendition="Line" xml:id="facs_384_r1l32"/>
             <zone points="1356,2141 1382,2139 1409,2138 1436,2138 1462,2138 1489,2138 1516,2139 1542,2138 1569,2137 1596,2135 1596,2092 1569,2094 1542,2095 1516,2096 1489,2095 1462,2095 1436,2095 1409,2095 1382,2096 1356,2098" rendition="Line" xml:id="facs_384_r1l33"/></zone>
       </surface>
-      
-<surface lrx="1700" lry="2580" ulx="0" uly="0" xml:id="facs_385">
+
+      <surface lrx="1700" lry="2580" ulx="0" uly="0" xml:id="facs_385">
          <graphic height="2580px" url="Kasten_blau_45_8_0386.jpg" width="1700px"/>
          <zone points="0,173 0,326 12,326 12,173" rendition="TextRegion" xml:id="facs_385_r1">
             <zone points="0,323 12,326 12,176 0,173" rendition="Line" xml:id="facs_385_r1l1"/></zone>
@@ -204,8 +215,8 @@
             <zone points="232,2112 299,2109 366,2106 434,2103 501,2099 569,2096 636,2092 703,2088 771,2084 838,2081 906,2077 973,2074 1040,2071 1108,2068 1175,2066 1243,2065 1310,2064 1377,2063 1445,2064 1512,2065 1580,2067 1580,2016 1512,2014 1445,2013 1377,2012 1310,2013 1243,2014 1175,2015 1108,2017 1040,2020 973,2023 906,2026 838,2030 771,2033 703,2037 636,2041 569,2045 501,2048 434,2052 366,2055 299,2058 232,2061" rendition="Line" xml:id="facs_385_r4l28"/>
             <zone points="1096,2451 1124,2451 1152,2449 1152,2398 1124,2400 1096,2400" rendition="Line" xml:id="facs_385_r4l29"/></zone>
       </surface>
-      
-<surface lrx="1744" lry="2579" ulx="0" uly="0" xml:id="facs_386">
+
+      <surface lrx="1744" lry="2579" ulx="0" uly="0" xml:id="facs_386">
          <graphic height="2579px" url="Kasten_blau_45_8_0387.jpg" width="1744px"/>
          <zone points="110,254 110,1311 1630,1311 1630,254" rendition="TextRegion" xml:id="facs_386_r1">
             <zone points="275,332 339,332 404,332 469,332 534,331 599,331 664,330 729,329 794,328 859,327 924,326 988,324 1053,323 1118,321 1183,319 1248,317 1313,314 1378,312 1443,309 1508,306 1573,302 1573,254 1508,258 1443,261 1378,264 1313,266 1248,269 1183,271 1118,273 1053,275 988,276 924,278 859,279 794,280 729,281 664,282 599,283 534,283 469,284 404,284 339,284 275,284" rendition="Line" xml:id="facs_386_r1l1"/>
@@ -225,11 +236,14 @@
             <zone points="110,1252 139,1250 168,1248 198,1245 227,1243 257,1241 286,1238 315,1236 345,1234 374,1231 404,1229 433,1226 462,1224 492,1222 521,1220 551,1217 580,1216 609,1214 639,1213 668,1212 698,1211 698,1168 668,1169 639,1170 609,1171 580,1173 551,1174 521,1177 492,1179 462,1181 433,1183 404,1186 374,1188 345,1191 315,1193 286,1195 257,1198 227,1200 198,1202 168,1205 139,1207 110,1209" rendition="Line" xml:id="facs_386_r1l15"/>
             <zone points="174,1311 199,1308 224,1306 250,1303 275,1301 300,1297 326,1295 351,1293 376,1290 402,1289 427,1287 452,1286 478,1285 503,1285 529,1285 529,1242 503,1242 478,1242 452,1243 427,1244 402,1246 376,1247 351,1250 326,1252 300,1254 275,1258 250,1260 224,1263 199,1265 174,1268" rendition="Line" xml:id="facs_386_r1l16"/></zone>
       </surface>
-      
+
 
    </facsimile>
    <text type="letter">
-      <body><div type="page"><pb facs="#facs_383" n="228 r" xml:id="Kasten_blau_45_8_0384.jpg" source="https://files.transkribus.eu/Get?id=DVJNJPUKWFSYWZXHBGJSYPND&amp;fileType=view"/><p facs="#facs_383_r1">
+      <body>
+         <div type="page">
+            <pb facs="#facs_383" n="228 r" xml:id="Kasten_blau_45_8_0384.jpg" source="https://files.transkribus.eu/Get?id=DVJNJPUKWFSYWZXHBGJSYPND&amp;fileType=view"/>
+            <p facs="#facs_383_r1">
                <lb n="N001"/>
                <lb n="N002"/>
                <lb n="N003"/>
@@ -260,7 +274,11 @@
                <lb n="N028"/>
                <lb n="N029"/>
                <lb n="N030"/>
-            </p></div><div type="page"><pb facs="#facs_384" n="228 v" xml:id="Kasten_blau_45_8_0385.jpg" source="https://files.transkribus.eu/Get?id=RVEYRMSRNCZSLVZDWRPIZCGX&amp;fileType=view"/><p facs="#facs_384_r1">
+            </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_384" n="228 v" xml:id="Kasten_blau_45_8_0385.jpg" source="https://files.transkribus.eu/Get?id=RVEYRMSRNCZSLVZDWRPIZCGX&amp;fileType=view"/>
+            <p facs="#facs_384_r1">
                <lb n="N001"/>
                <lb n="N002"/>
                <lb n="N003"/>
@@ -294,13 +312,20 @@
                <lb n="N031"/>
                <lb n="N032"/>
                <lb n="N033"/>
-            </p></div><div type="page"><pb facs="#facs_385" n="229 r" xml:id="Kasten_blau_45_8_0386.jpg" source="https://files.transkribus.eu/Get?id=VRXATBQYOYNCTYOMFHBHBJBO&amp;fileType=view"/><p facs="#facs_385_r1">
+            </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_385" n="229 r" xml:id="Kasten_blau_45_8_0386.jpg" source="https://files.transkribus.eu/Get?id=VRXATBQYOYNCTYOMFHBHBJBO&amp;fileType=view"/>
+            <p facs="#facs_385_r1">
                <lb n="N001"/>
-            </p><p facs="#facs_385_r2">
+            </p>
+            <p facs="#facs_385_r2">
                <lb n="N001"/>
-            </p><p facs="#facs_385_r3">
+            </p>
+            <p facs="#facs_385_r3">
                <lb n="N001"/>
-            </p><p facs="#facs_385_r4">
+            </p>
+            <p facs="#facs_385_r4">
                <lb n="N001"/>
                <lb n="N002"/>
                <lb n="N003"/>
@@ -330,7 +355,11 @@
                <lb n="N027"/>
                <lb n="N028"/>
                <lb n="N029"/>
-            </p></div><div type="page"><pb facs="#facs_386" n="229 v" xml:id="Kasten_blau_45_8_0387.jpg" source="https://files.transkribus.eu/Get?id=AOGCSROBGOKGXCRSIGJXKNTV&amp;fileType=view"/><p facs="#facs_386_r1">
+            </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_386" n="229 v" xml:id="Kasten_blau_45_8_0387.jpg" source="https://files.transkribus.eu/Get?id=AOGCSROBGOKGXCRSIGJXKNTV&amp;fileType=view"/>
+            <p facs="#facs_386_r1">
                <lb n="N001"/>
                <lb n="N002"/>
                <lb n="N003"/>
@@ -347,6 +376,8 @@
                <lb n="N014"/>
                <lb n="N015"/>
                <lb n="N016"/>
-            </p></div></body>
+            </p>
+         </div>
+      </body>
    </text>
 </TEI>

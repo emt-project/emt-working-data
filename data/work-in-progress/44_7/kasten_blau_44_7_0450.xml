@@ -49,7 +49,7 @@
                         <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1698-03-31"/></origin>
+                        <origin><origDate when-iso="1698-05-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -78,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date when-iso="1698-03-31"/>
+               <date when-iso="1698-05-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
@@ -89,6 +89,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-10-10">date corrected</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

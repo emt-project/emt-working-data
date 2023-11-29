@@ -78,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date when="1677-04-20"/>
+               <date when-iso="1677-04-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -146,23 +146,23 @@
                <lb n="N001"/>dam
                <lb n="N002"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb n="N003"/>Ich erfrew mich von herzen, das ihr Durchlaucht noch in
-               <lb n="N004"/>guettem wohlstant seint. Ich dreibe am <rs type="person">Hamilton</rs>,
+         <lb n="N004"/>guettem wohlstant seint. Ich dreibe am <rs type="person" ref="#emt_person_id__67">Hamilton</rs>,
                <lb n="N005"/>es deücht mich aber nit, das recht gutt wirt werden.
                <lb n="N006"/>Wegen der coadiutori oder vilmehr wegen der alianz
-               <lb n="N007"/>mit <rs type="person">Cuhr Cöllen </rs>werden ihr Durchlaucht vom <rs type="person">Schellerer</rs> schon
+         <lb n="N007"/>mit <rs type="person" ref="#emt_person_id__45">Cuhr Cöllen </rs>werden ihr Durchlaucht vom <rs type="person" ref="#emt_person_id__66">Schellerer</rs> schon
                <lb n="N008"/>vernommen haben. Es ist ein project aufgesezt worden,
                <lb n="N009"/>der Schellerer meint, der Cuhrfürst könte wohl
                <lb n="N010"/>mit zu friden sein. Es solte die instruction 
-               <lb n="N011"/>gleichsam mehr als ein vergleich von ihr <rs type="person">Mayestät</rs>
+         <lb n="N011"/>gleichsam mehr als ein vergleich von ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>
                <lb n="N012"/>vndt dem Cuhrfürsten zugleich vnterschrieben
                <lb n="N013"/>werden, damit ihr Mayestät keine neben instruction
                <lb n="N014"/>bedörfen zu geben, so villeicht nachgehns vnwillen
-               <lb n="N015"/>veruhrsachen könte. Wegen der <rs type="place">osanbruckischen</rs>
+         <lb n="N015"/>veruhrsachen könte. Wegen der <rs type="place" ref="#emt_place_id__82">osnabruckischen</rs>
                <lb n="N016"/>würt aller fleis angewent werden vnd ihr Mayestät
-               <lb n="N017"/>an <rs type="place">Schpanien</rs> vnd <rs type="place">Hallant</rs> schreiben, das sie
-               <lb n="N018"/>durchaus dise nit länger im <rs type="place">ertzstift</rs>
+         <lb n="N017"/>an <rs type="place" ref="#emt_place_id__73">Schpanien</rs> vnd <rs type="place" ref="#emt_place_id__83">Hallant</rs> schreiben, das sie
+         <lb n="N018"/>durchaus dise nit länger im <rs type="place" ref="#emt_place_id__91">ertzstift</rs>
                <lb n="N019"/>leiden wolten. Iezt aber ist das ehlant, das
-               <lb n="N020"/>der <rs type="person">Neßelrath</rs> krankh vndt der Scheller
+         <lb n="N020"/>der <rs type="person" ref="#emt_person_id__71">Neßelrath</rs> krankh vndt der Scheller
                <lb n="N021"/>so <unclear reason="unsichere Lesart">gefallen</unclear>, das allso die sach noch nit
             </p></div><div type="page"><pb facs="#facs_24" n="50 v" xml:id="Kasten_blau_45_8_0024.jpg" source="https://files.transkribus.eu/Get?id=VFOENYOUCYNQYQCQZBXROHLG&amp;fileType=view"/><p facs="#facs_24_r1">
                <lb n="N001"/>nit ausgemacht ist. Ich werde gewis mein fleis
@@ -173,11 +173,11 @@
                <lb n="N006"/>ganz ergebenste treügehorsa<supplied>m</supplied>ste
                <lb n="N007"/>dochter bis in doht
                <lb n="N008"/>EMT
-               <lb n="N009"/><rs type="place">Laxenburg</rs> den <date when="1677-04-20" type="letter">20 <supplied>april</supplied> 1677</date> 
-               <lb n="N010"/>Ich hab so ein mitleiden mit der guett <rs type="person">Egelhoff</rs>, das
-               <lb n="N011"/>niks aus ihrem heiraht worden. Ich höre, der <rs type="person">Bernsau</rs>
+               <lb n="N009"/><rs type="place" ref="#emt_place_id__31">Laxenburg</rs> den <date when="1677-04-20" type="letter">20 <supplied>april</supplied> 1677</date> 
+               <lb n="N010"/>Ich hab so ein mitleiden mit der guett <rs type="person" ref="#emt_person_id__76">Egelhoff</rs>, das
+               <lb n="N011"/>niks aus ihrem heiraht worden. Ich höre, der <rs type="person" ref="#emt_person_id__77">Bernsau</rs>
                <lb n="N012"/>ist von hoff, die schult, höre <supplied>ich</supplied>, sey aber nit so vill sein
-               <lb n="N013"/>als seiner <rs type="person">muetter</rs>, so dauert er mich gleichwohl <seg type="blackening">hoffe</seg>,
+               <lb n="N013"/>als seiner <rs type="person" ref="#emt_person_id__78">muetter</rs>, so dauert er mich gleichwohl <seg type="blackening">hoffe</seg>,
                <lb n="N014"/>vndt dieweil ihr Durchlaucht so <choice><expan>gnädig</expan><abbr>g</abbr></choice> allezeit sein, so hoffe, sie
                <lb n="N015"/>werden mihr nitt in <choice><expan>vngnaden</expan><abbr>vng</abbr></choice> nemen, das bitte, das sein exilium
                <lb n="N016"/>möge verkürzet werden.
