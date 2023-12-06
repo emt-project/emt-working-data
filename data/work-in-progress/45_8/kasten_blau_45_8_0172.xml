@@ -141,8 +141,8 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_172" n="107 r" xml:id="Kasten_blau_45_8_0172.jpg" source="https://files.transkribus.eu/Get?id=FEQRBXMHFPYNAQHCVIGXQZTJ&amp;fileType=view"/><p facs="#facs_172_r2">
                <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb n="N002"/>Bey vohriger post hab ich dem <rs type="person">Fürsten</rs> vndt dem
-               <lb n="N003"/><rs type="person">Schellerer</rs> vnrecht gedahn, dan die brief seint
+         <lb n="N002"/>Bey vohriger post hab ich dem <rs type="person" ref="#emt_person_id__118">Fürsten</rs> vndt dem
+         <lb n="N003"/><rs type="person" ref="#emt_person_id__66">Schellerer</rs> vnrecht gedahn, dan die brief seint
                <lb n="N004"/>so auf der post verligen blieben, habe sie
                <lb n="N005"/>vergangen samstag zue recht empfangen. Erfreüt
                <lb n="N006"/>mich von herzen, das ewer Durchlaucht sich so wohl
@@ -152,20 +152,20 @@
                <lb n="N010"/>gedenken vndt mich so mit guetten wuntschen vndt
                <lb n="N011"/>bezeigungen der beharlige affection begnaden wollen.
                <lb n="N012"/>Was ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> melden wegen der niderländischen
-               <lb n="N013"/>gobernators stelle will ich ihr <rs type="person">Mayestät</rs>, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice>
+         <lb n="N013"/>gobernators stelle will ich ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice>
                <lb n="N014"/>Kaiser, vnterdehnigst vohrdragen vndt mit negster post
                <lb n="N015"/>ewer Durchlaucht gehorsamist die antwort berichten.
                <lb n="N016"/>Sage auch vnterdehnigen dankh vohr die große gnadt,
-               <lb n="N017"/>so ewer Durchlaucht dem <rs type="person">Hamilton</rs> gedahn haben <seg type="blackening">ewer</seg> vndt
+         <lb n="N017"/>so ewer Durchlaucht dem <rs type="person" ref="#emt_person_id__23">Hamilton</rs> gedahn haben <seg type="blackening">ewer</seg> vndt
                <lb n="N018"/>meine vnterdehnigste bitt durch dero gnaden preuenirt
                <lb n="N019"/>haben. Ewer Durchlaucht überheufen mich mit selbiger also
             </p></div><div type="page"><pb facs="#facs_173" n="107 v" xml:id="Kasten_blau_45_8_0173.jpg" source="https://files.transkribus.eu/Get?id=PZPEFYXGOJBBIBCHNPCPBBSC&amp;fileType=view"/><p facs="#facs_173_r1">
                <lb n="N001"/>also sehr, das ich ganz erstume. Wünste allein,
                <lb n="N002"/>das ich könte meinem verlangen nach ewer Durchlaucht
-               <lb n="N003"/>bedienen. Wegen des <rs type="person">Graff Fukers</rs> will ich es
-               <lb n="N004"/>ihr Mayestät auch <choice><expan>gehorsamst</expan><abbr>geh</abbr></choice> vohrdragen, zweifle nit, es
+               <lb n="N003"/>bedienen. Wegen des <rs type="person" ref="#emt_person_id__189">Graff Fukers</rs> will ich es
+               <lb n="N004"/>ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> auch <choice><expan>gehorsamst</expan><abbr>geh</abbr></choice> vohrdragen, zweifle nit, es
                <lb n="N005"/>werde dabey kein dificultet geben. Es freüet
-               <lb n="N006"/>mich auch, das die liebe <rs type="person">Erzherzogin</rs> widerumb
+               <lb n="N006"/>mich auch, das die liebe <rs type="person" ref="#emt_person_id__60">Erzherzogin</rs> widerumb
                <lb n="N007"/>auser dem bett ist, gott gebe iezt nuhr den
                <lb n="N008"/>lieben friden, warumb mihr woll alle vhrsach zue
                <lb n="N009"/>bitten. Due mich hiermit in ewer Durchlaucht beharlige
@@ -174,7 +174,7 @@
                <lb n="N012"/>ganzergebenste trewgehorsamste
                <lb n="N013"/>dochter
                <lb n="N014"/>EMT
-               <lb n="N015"/><rs type="place">Wien</rs> den <date when="1679-01-26" type="letter">26 jener 1678</date>
+               <lb n="N015"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when="1679-01-26" type="letter">26 jener 1678</date>
             </p></div></body>
    </text>
 </TEI>
