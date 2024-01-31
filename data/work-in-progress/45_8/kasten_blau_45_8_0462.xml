@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0462.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -78,7 +79,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-10-05"/>
+               <date when-iso="1681-10-05">Sonntag, 5. Oktober 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -156,14 +157,14 @@
                <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb n="N002"/>Vohr 3 dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom <date when="1681-09-20" type="letter">20</date>, <date when="1681-09-24" type="letter">24</date> vndt <date when="1681-09-28" type="letter">28 dis</date> sag <choice><expan>vnterdehnigsten</expan><abbr>vnte</abbr></choice> dankh
                <lb n="N003"/>wie auch <supplied>für</supplied> die gutte ermanungen, so ewer Durchlaucht darinen gedahn.
-               <lb n="N004"/>Ihr <rs type="person">Mayestät</rs> erkenen dises alls wohl, werden auch duen, was
-               <lb n="N005"/>sie <seg type="blackening">ih</seg> immer werden können in allen. Wie dan der lantag
+         <lb n="N004"/>Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> erkenen dises alls wohl, werden auch duen, was
+         <lb n="N005"/>sie <seg type="blackening">ih</seg> immer werden können in allen. Wie dan der <rs type="org" ref="emt_institution_id__15">lantag</rs>
                <lb n="N006"/>iezt widerumb das ansehn, als wan er balt ein guettes
                <lb n="N007"/>endt wolte nemmen, welches der almechtige verleien
                <lb n="N008"/>wolle. Drauf bauen kan man aber noch nit, dan heünt
                <lb n="N009"/>sagen sie iah, morgen heist widerumb nein. Ich hab
-               <lb n="N010"/>aber iezt gutte hoffnung. Auf <rs type="place">München</rs> wirt der
-               <lb n="N011"/><rs type="person">Lokowiz</rs> auch erster dagen abgefertigt werden, armiren
+         <lb n="N010"/>aber iezt gutte hoffnung. Auf <rs type="place" ref="#emt_place_id__123">München</rs> wirt der
+         <lb n="N011"/><rs type="person" ref="#emt_person_id__12">Lokowiz</rs> auch erster dagen abgefertigt werden, armiren
                <lb n="N012"/>werden ihr Mayestät auch. Es ist woll <seg type="blackening">wohl</seg> wahr, was ewer
                <lb n="N013"/>Durchlaucht schreiben, die große hause<supplied>r</supplied>n sollen fein her geben,
                <lb n="N014"/>deils was sie doch allein aus ihr Mayestät <choice><expan>gnade</expan><abbr>g</abbr></choice> besizen,
@@ -173,17 +174,17 @@
                <lb n="N018"/>gelegenheit duen, gott gebs, das geschicht. Es erfreüdt
                <lb n="N019"/>mich von he<supplied>r</supplied>zen, ewer Durchlaucht wohlstandt zue vernemmen, 
                <lb n="N020"/>gott erhalte sie verners. Wegen meiner werden
-               <lb n="N021"/>ewer Durchlaucht schon von ihr Durchlaucht <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> vernemmen, das mein
-               <lb n="N022"/>hoffnung niks ist. Ich höre, vnser <rs type="person">Erzherzogin</rs> geht
+         <lb n="N021"/>ewer Durchlaucht schon von ihr Durchlaucht <rs type="person" ref="#emt_person_id__10"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> vernemmen, das mein
+         <lb n="N022"/>hoffnung niks ist. Ich höre, vnser <rs type="person" ref="#emt_person_id__60">Erzherzogin</rs> geht
             </p></div><div type="page"><pb facs="#facs_462" n="278 v" xml:id="Kasten_blau_45_8_0463.jpg" source="https://files.transkribus.eu/Get?id=SWMHSGYOTKGXIIMDCSIDNJQT&amp;fileType=view"/><p facs="#facs_462_r1">
-               <lb n="N001"/>nit gahr wohl, gott geb ihr sein gnadt. Sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice>
-               <lb n="N002"/>dankh, das wegen meiner <rs type="person">Lischen</rs> sorchfeltig seindt gewesen,
+               <lb n="N001"/>nit gahr wohl, gott geb <rs type="person" ref="#emt_person_id__60">ihr</rs> sein gnadt. Sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice>
+               <lb n="N002"/>dankh, das wegen meiner <rs type="person" ref="#emt_person_id__111">Lischen</rs> sorchfeltig seindt gewesen,
                <lb n="N003"/>hatt iezt wider ein wehnig ein kattarr, sonst steht
-               <lb n="N004"/>als guett. Das der <rs type="person"><choice><expan>brüder</expan><abbr>b</abbr></choice></rs> reis noch vohrsich geht, freüdt mich,
+               <lb n="N004"/>als guett. Das der <rs type="person" ref="#emt_person_id__29"/><rs type="person" ref="#emt_person_id__82"/><rs type="person" ref="#emt_person_id__128"><choice><expan>brüder</expan><abbr>b</abbr></choice></rs> reis noch vohrsich geht, freüdt mich,
                <lb n="N005"/>hoff, es soll guetten effect veruhrsachen. Ist mihr 
                <lb n="N006"/>nuhr leidt, das wegen der pest nit hier durch können.
                <lb n="N007"/>Sag ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> dankh vohr die kes vndt bir,
-               <lb n="N008"/>die wein hab noch zue <rs type="place">Wien</rs>, drink noch an alten.
+               <lb n="N008"/>die wein hab noch zue <rs type="place" ref="#emt_place_id__63">Wien</rs>, drink noch an alten.
                <lb n="N009"/>Wan <supplied>wir</supplied> hin kommen, will ewer Durchlaucht befehl nach kommen.
                <lb n="N010"/>Die schaff seindt wol nit der müeh wert zue danken.
                <lb n="N011"/>Hab auch büfel geschikt, seindt woll etwas bös, aber
@@ -191,15 +192,15 @@
                <lb n="N013"/>mit ihnen mueß vmb gehn. Die kue ist sonst zimlich
                <lb n="N014"/>fromm, der stier ist noch iung, wirt noch größer
                <lb n="N015"/>werden. Seindt schantlich, aber weil rahr sollen sein,
-               <lb n="N016"/>so schikh sie, hab sie vom <rs type="person">Palatinus</rs> bekommen.
+               <lb n="N016"/>so schikh sie, hab sie vom <rs type="person" ref="#emt_person_id__278">Palatinus</rs> bekommen.
                <lb n="N017"/>Due mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen
                <lb n="N018"/>vndt werde sterben
                <lb n="N019"/>ewer Durchlaucht
                <lb n="N020"/>ganzergebenste trewg<supplied>e</supplied>hor-
                <lb n="N021"/>samste dochter
                <lb n="N022"/>EMT
-               <lb n="N023"/><rs type="place">Edenburg</rs> den <date when="1681-10-05" type="letter"><unclear reason="korrigiert aus 8">5</unclear> <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
-               <lb n="N024"/>Den <rs type="person">Molar</rs> hab nach ewer Durchlaucht befehl reco-
+               <lb n="N023"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-10-05" type="letter"><unclear reason="korrigiert aus 8">5</unclear> <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
+               <lb n="N024"/>Den <rs type="person" ref="#emt_person_id__285">Molar</rs> hab nach ewer Durchlaucht befehl reco-
                <lb n="N025"/>mendirt, hatt den dienst bekommen.
             </p></div></body>
    </text>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0411.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1681-05-08"/>
+               <date when-iso="1681-05-08">Donnerstag, 8. Mai 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -168,22 +169,22 @@
                <lb n="N013"/>in <choice><expan>vngnaden</expan><abbr>vngn</abbr></choice> zue sein, welchs mich wohl über
                <lb n="N014"/>alles bedrüeben wurde. Ich mues widerumb
                <lb n="N015"/>das zimmer, aber nit das bett hüetten,
-               <lb n="N016"/>bin vergangen montag bey den <rs type="org">carmeliterin</rs>
+         <lb n="N016"/>bin vergangen montag bey den <rs type="org" ref="emt_institution_id__13">carmeliterin</rs>
                <lb n="N017"/>gewesen, so mues jetzt wider zue haus
                <lb n="N018"/>bleiben. Vermeinen aber die and<supplied>e</supplied>r woch auf
-               <lb n="N019"/><rs type="place">Laxenburg</rs> zue gehn, wan gott niks anders
+         <lb n="N019"/><rs type="place" ref="#emt_place_id__31">Laxenburg</rs> zue gehn, wan gott niks anders
             </p></div><div type="page"><pb facs="#facs_411" n="248 v" xml:id="Kasten_blau_45_8_0412.jpg" source="https://files.transkribus.eu/Get?id=NIGTMMENXUPYOMCCSPFZSFAR&amp;fileType=view"/><p facs="#facs_411_r1">
                <lb n="N001"/>schikt. Weil ich izt auser des betts, so hab ich
-               <lb n="N002"/>gestren mit dem <rs type="person">Schellerer</rs> g<supplied>e</supplied>r<supplied>e</supplied>tt, welcher mihr ewer
-               <lb n="N003"/>Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben geben. Ihr <rs type="person">Mayestät</rs> haben ewer Durchlaucht
+               <lb n="N002"/>gestren mit dem <rs type="person" ref="#emt_person_id__66">Schellerer</rs> g<supplied>e</supplied>r<supplied>e</supplied>tt, welcher mihr ewer
+               <lb n="N003"/>Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben geben. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> haben ewer Durchlaucht
                <lb n="N004"/>schon bey vohriger post dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> meinung
-               <lb n="N005"/>vberschrieben vndt vermeinen auch der <rs type="person">Hoher</rs>,
+               <lb n="N005"/>vberschrieben vndt vermeinen auch der <rs type="person" ref="#emt_person_id__74">Hoher</rs>,
                <lb n="N006"/>es möchte nit übel sein vndt ist gahr
-               <lb n="N007"/>guett, das <rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Wolfgang</rs> mit <rs type="person">ihnen</rs> geht,
+               <lb n="N007"/>guett, das <rs type="person" ref="#emt_person_id__82"><choice><expan>bruder</expan><abbr>b</abbr></choice> Wolfgang</rs> mit <rs type="person" ref="#emt_person_id__29"/><rs type="person" ref="#emt_person_id__128">ihnen</rs> geht,
                <lb n="N008"/>dan ich vermein, er werdt ihnen mehr nuzen
                <lb n="N009"/>als ein hoffmeister, dan sie werden sich
-               <lb n="N010"/><rs type="place">dorten</rs> gewaldig in acht müeßen nemmen
-               <lb n="N011"/>in ihrer conduite, dan der <rs type="person">Papst</rs> vnaus-
+               <lb n="N010"/><rs type="place" ref="#emt_place_id__90">dorten</rs> gewaldig in acht müeßen nemmen
+               <lb n="N011"/>in ihrer conduite, dan der <rs type="person" ref="#emt_person_id__219">Papst</rs> vnaus-
                <lb n="N012"/>schprechlich heikel ist, das wirt <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Wolfgang</expan><abbr>W</abbr></choice> wohl
                <lb n="N013"/>in acht nemmen. Ich will auch noch
                <lb n="N014"/>ewer Durchlaucht mit meinem schreiben nit
@@ -197,7 +198,7 @@
                <lb n="N003"/>ganz ergebenste tr<supplied>e</supplied>w
                <lb n="N004"/>g<supplied>e</supplied>horsamste d<supplied>oc</supplied>hter
                <lb n="N005"/>EMT
-               <lb n="N006"/><rs type="place">Wien</rs> den <date when="1681-05-08" type="letter">8 maij 1681</date>
+               <lb n="N006"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when="1681-05-08" type="letter">8 maij 1681</date>
             </p></div></body>
    </text>
 </TEI>

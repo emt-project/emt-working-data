@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0460.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -134,10 +135,10 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_459" n="275 r" xml:id="Kasten_blau_45_8_0460.jpg" source="https://files.transkribus.eu/Get?id=HPGWQESQIUQBDALEKJAFKNZL&amp;fileType=view"/><p facs="#facs_459_r1">
                <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb n="N002"/>Der liebe <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Jochem</rs> hatt mihr ein <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
+         <lb n="N002"/>Der liebe <choice><expan>Pater</expan><abbr>P</abbr></choice><rs type="person" ref="#emt_person_id__277"> Jochem</rs> hatt mihr ein <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
                <lb n="N003"/>von ewer Durchlaucht mit gebracht vom <date when="1681-08-23" type="letter">23 passato</date>, wah<supplied>r</supplied>aus
                <lb n="N004"/>ich mit großen freüden ewer Durchlaucht guetten wohlsta<supplied>n</supplied>t
-               <lb n="N005"/>vernommen, vndt das sie auf <rs type="place">Keisheim</rs> werden.
+         <lb n="N005"/>vernommen, vndt das sie auf <rs type="place" ref="#emt_place_id__159">Keisheim</rs> werden.
                <lb n="N006"/>Es ist mihr wohl leidt, das den guetten
                <lb n="N007"/>man mit dem hin vndt her reisen so vill
                <lb n="N008"/>geplagt ist worden vndt nit langer hatt könen
@@ -146,7 +147,7 @@
                <lb n="N011"/>vohr die wein, bier vndt kes, so sie mihr
                <lb n="N012"/><choice><expan>gnädig</expan><abbr>g</abbr></choice> überschikt haben, ist wohl alles haubt gutt.
                <lb n="N013"/>Zwar den wein hab noch nit von gedrunken,
-               <lb n="N014"/>schpar in, bis mihr auf <rs type="place">Wien</rs> kommen, weil
+         <lb n="N014"/>schpar in, bis mihr auf <rs type="place" ref="#emt_place_id__63">Wien</rs> kommen, weil
                <lb n="N015"/>nach <seg type="blackening">aber</seg> vom vohrigen hie versehn bin, weis aber wohl, das
                <lb n="N016"/>er perfect sein wirt. Das bir ist noch gar
                <lb n="N017"/>guett ankommen, vndt die kes kan ich nit
@@ -154,7 +155,7 @@
             </p></div><div type="page"><pb facs="#facs_460" n="275 v" xml:id="Kasten_blau_45_8_0461.jpg" source="https://files.transkribus.eu/Get?id=BWLLLGDKRTWUVMEZBLDLYSTW&amp;fileType=view"/><p facs="#facs_460_r1">
                <lb n="N001"/>mehr überhaüfet mit ewer Durchlaucht gnaden,
                <lb n="N002"/>kan es niemahlen genuechsamb ausschprechen.
-               <lb n="N003"/>Der <choice><expan>Pater</expan><abbr>P</abbr></choice> Jochem wirt an mein stell helfen
+               <lb n="N003"/>Der <choice><expan>Pater</expan><abbr>P</abbr></choice> <rs type="person" ref="#emt_person_id__277">Jochem</rs> wirt an mein stell helfen
                <lb n="N004"/>danken. Due mich hiemit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice>
                <lb n="N005"/><choice><expan>vnterdehnigst</expan><abbr>vnter</abbr></choice> befehlen, sterbe
                <lb n="N006"/>ewer Durchlaucht

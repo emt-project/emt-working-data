@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0493.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-12-10"/>
+               <date when-iso="1681-12-10">Mittwoch, 10. Dezember 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -144,26 +145,26 @@
                <lb n="N008"/>abgangen, ohne hendel vndt confusion, welches
                <lb n="N009"/>sonst ordinari in dergleichen occasionen geschicht.
                <lb n="N010"/>Izt, hoff ich, solt der landtdag auch balt ein guetts
-               <lb n="N011"/>endt nemmen. Ich hoff, der <rs type="person">Locowiz</rs> wirt noch sein
+         <lb n="N011"/>endt nemmen. Ich hoff, der <rs type="person" ref="#emt_person_id__12">Locowiz</rs> wirt noch sein
                <lb n="N012"/>a tempo kommen zue anfang des kreistags.
-               <lb n="N013"/>In <rs type="place">Schweden</rs> werden ihr <rs type="person">Mayestät</rs> auch schiken, ist halt
+         <lb n="N013"/>In <rs type="place" ref="#emt_place_id__154">Schweden</rs> werden ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> auch schiken, ist halt
                <lb n="N014"/>izt mit der krönung so vill zue duen geweßen,
                <lb n="N015"/>das in negotis nit so vill geschehn können.
-               <lb n="N016"/>Den brief wegen <rs type="person">vetter Pfilipp</rs> vndt des <rs type="person">Castell</rs> hab
+         <lb n="N016"/>Den brief wegen <rs type="person" ref="#emt_person_id__146">vetter Pfilipp</rs> vndt des <rs type="person" ref="#emt_person_id__304">Castell</rs> hab
                <lb n="N017"/>ich ihr Mayestät <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> überliuert, sie werden ewer
          <lb n="N018"/><unclear reason="offensichtlich sinnentstellende Korruptele: Durchlaucht">Mayestät</unclear> selber mit heüntiger post beantworten.
                <lb n="N019"/>Sie werden gahr gern suechen auf alleweis zue
-               <lb n="N020"/>verhindern, das vetter Pfilipp <rs type="place">dorten</rs> nit
+         <lb n="N020"/>verhindern, das vetter Pfilipp <rs type="place" ref="#emt_place_id__164">dorten</rs> nit
             </p></div><div type="page"><pb facs="#facs_493" n="293 v" xml:id="Kasten_blau_45_8_0494.jpg" source="https://files.transkribus.eu/Get?id=JDUJAJYUZJSIPCDMCLZRBDUP&amp;fileType=view"/><p facs="#facs_493_r1">
                <lb n="N001"/>vble consilia zugewine oder ein gefahr wegen der
-               <lb n="N002"/>sucsession erfolge. Es ligt ihr Mayestät interesse
+               <lb n="N002"/>sucsession erfolge. Es ligt ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> interesse
                <lb n="N003"/>selbsten dran, auch wegen des Castell. Ich due mich
                <lb n="N004"/>ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vndt werde sterben
                <lb n="N005"/>ewer Durchlaucht
                <lb n="N006"/>ganzergebenste trewg<supplied>e</supplied>ho<supplied>r</supplied>sa<supplied>m</supplied>ste
                <lb n="N007"/>do<supplied>c</supplied>hter
                <lb n="N008"/>EMT
-               <lb n="N009"/><rs type="place">Edenburg</rs> den <date when="1681-12-10" type="letter">10ten <choice><expan>decembris</expan><abbr>10ber</abbr></choice> 1681</date>
+               <lb n="N009"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-12-10" type="letter">10ten <choice><expan>decembris</expan><abbr>10ber</abbr></choice> 1681</date>
             </p></div></body>
    </text>
 </TEI>

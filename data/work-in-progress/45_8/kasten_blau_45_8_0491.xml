@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0491.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-12-02"/>
+               <date when-iso="1681-12-02">Dienstag, 2. Dezember 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -146,7 +147,7 @@
       <body><div type="page"><pb facs="#facs_490" n="292 r" xml:id="Kasten_blau_45_8_0491.jpg" source="https://files.transkribus.eu/Get?id=FBMPODJGMSZVICIRQABOBIER&amp;fileType=view"/><p facs="#facs_490_r2">
                <lb n="N001"/>Durchleüchtiger Fürst herz allerliebster herr vatter
                <lb n="N002"/>Aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom <date when="1681-11-17" type="letter">17ten dis</date> hab ich mit großem
-               <lb n="N003"/>leidt vernommen, das ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>,
+         <lb n="N003"/>leidt vernommen, das ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person" ref="#emt_person_id__10"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>,
                <lb n="N004"/>sich mit so einem starken zahnweh incomodirt befinden.
                <lb n="N005"/>Hoffe zue gott, es werde iezundt widerumb ganz verga<supplied>n</supplied>gen
                <lb n="N006"/>sein. Ich sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das sie selbige
@@ -164,14 +165,14 @@
                <lb n="N018"/>angehaufet aus kindtlich trewestem herzen <choice><expan>vnterdehnigst</expan><abbr>vndt</abbr></choice> anwüntschen
                <lb n="N019"/>wollen. Der almechtige wolle meine wuntsch erfüllen
                <lb n="N020"/>vndt mihr capacitet geben, ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> zue bedienen
-               <lb n="N021"/>meiner schuldichkeit nach. Es frewet mich, das der <rs type="person">Cuhrfürst</rs>
+         <lb n="N021"/>meiner schuldichkeit nach. Es frewet mich, das der <rs type="person" ref="#emt_person_id__139">Cuhrfürst</rs>
             </p></div><div type="page"><pb facs="#facs_491" n="292 v" xml:id="Kasten_blau_45_8_0492.jpg" source="https://files.transkribus.eu/Get?id=LEUMQOQFXTVCIOOUGXTPGFZM&amp;fileType=view"/><p facs="#facs_491_r1">
-               <lb n="N001"/><rs type="person">in Beyrn</rs> sich so wohl vndt eifrich erzeigen duet, gott
+               <lb n="N001"/><rs type="person" ref="#emt_person_id__139">in Beyrn</rs> sich so wohl vndt eifrich erzeigen duet, gott
                <lb n="N002"/>gebe, das die andren seinem guetten exempel mögen
-               <lb n="N003"/>nachfolgen. Es ist freilich ein schandt, das <rs type="person">Salzburg</rs>
+               <lb n="N003"/>nachfolgen. Es ist freilich ein schandt, das <rs type="person" ref="#emt_person_id__63">Salzburg</rs>
                <lb n="N004"/>so karg ist, der doch gahr wohl könte beydragen. Wegen
-               <lb n="N005"/><rs type="person">Wirtenberg</rs> werden ihr <rs type="person">Mayestät</rs> auch schon fleisich invigi-
-               <lb n="N006"/>lieren, wegen des <rs type="person">Castell</rs> ebenfals, ihn in guettem willen
+               <lb n="N005"/><rs type="person" ref="#emt_person_id__303">Wirtenberg</rs> werden ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> auch schon fleisich invigi-
+               <lb n="N006"/>lieren, wegen des <rs type="person" ref="#emt_person_id__304">Castell</rs> ebenfals, ihn in guettem willen
                <lb n="N007"/>zue erhalten. Sage ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vohr das
                <lb n="N008"/>bilt von vnser lieben frawen, ist mihr ein rechte freüdt,
                <lb n="N009"/>das so vill genaden duet. Ich kan gahr nit ausschprechen,
@@ -183,7 +184,7 @@
                <lb n="N015"/>ganz ergebenste trewgehor-
                <lb n="N016"/>samste dochter
                <lb n="N017"/>EMT
-               <lb n="N018"/><rs type="place">Edenburg</rs> den <date when="1681-10-02" type="letter">2ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1681</date>
+               <lb n="N018"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-10-02" type="letter">2ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1681</date>
             </p></div></body>
    </text>
 </TEI>

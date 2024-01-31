@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0474.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-10-22"/>
+               <date when-iso="1681-10-22">Mittwoch, 22. Oktober 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -191,13 +192,13 @@
                <lb n="N009"/>vndt gelegenheit hätte, ewer Durchlaucht meine trew schuldigste dienst
                <lb n="N010"/>zue leisten, wurde ich gewiß ale zeit, die mir gott das
                <lb n="N011"/>leben verlei<supplied>e</supplied>n wurd, mit herzinigliste kintlige deuotion vndt eifer
-               <lb n="N012"/>darzue anwenden. Mit <rs type="place">Straßburg</rs> ist wohl ein schantliger
-               <lb n="N013"/>daht von <rs type="person">König</rs>, gott gebe, was zue seiner ehr vndt
+         <lb n="N012"/>darzue anwenden. Mit <rs type="place" ref="#emt_place_id__131">Straßburg</rs> ist wohl ein schantliger
+         <lb n="N013"/>daht von <rs type="person" ref="#emt_person_id__214">König</rs>, gott gebe, was zue seiner ehr vndt
                <lb n="N014"/>vnser allen besten gereichet. Iezt, mein ich wohl, werden auch
-               <lb n="N015"/>im <rs type="org">Reich</rs> die augen ihnen aufgehn vndt eben <rs type="person">Beyern</rs> zue
-               <lb n="N016"/>erkantnus kommen, wie mihr des <rs type="person">Irschen</rs> relatione noch
-               <lb n="N017"/>mehrer hoffnung darzue gibt. Ihr <rs type="person">Mayestät</rs> werden auch hinauf
-               <lb n="N018"/>schiken, der <seg type="blackening">lo aber</seg> <rs type="person">Lokowiz</rs> aber ist dorten nit recht angenehm,
+         <lb n="N015"/>im <rs type="place" ref="#emt_place_id__88">Reich</rs> die augen ihnen aufgehn vndt eben <rs type="person" ref="#emt_person_id__139">Beyern</rs> zue
+         <lb n="N016"/>erkantnus kommen, wie mihr des <rs type="person" ref="#emt_person_id__239">Irschen</rs> relatione noch
+         <lb n="N017"/>mehrer hoffnung darzue gibt. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> werden auch hinauf
+         <lb n="N018"/>schiken, der <seg type="blackening">lo aber</seg> <rs type="person" ref="#emt_person_id__12">Lokowiz</rs> aber ist dorten nit recht angenehm,
                <lb n="N019"/>so vill ihr Mayestät vernommen, also müeßen ihr Mayestät auf
                <lb n="N020"/>einen andern bedacht sein. Sie werden es aber auf das
                <lb n="N021"/>baldiste duen, befleisen sich wohl auch hie mit dem lantag,
@@ -205,14 +206,14 @@
             </p></div><div type="page"><pb facs="#facs_474" n="283 v" xml:id="Kasten_blau_45_8_0475.jpg" source="https://files.transkribus.eu/Get?id=NFZOPVLTBNUCGBUGNMLGLDCC&amp;fileType=view"/><p facs="#facs_474_r1">
                <lb n="N001"/>nichts ermanglen, aber es komt halt alleweil etwas neus
                <lb n="N002"/>heruohr. Ich hoff aber, es werde iezt nimmer lang weren,
-               <lb n="N003"/>damit mihr nacher baldt einmahl auf <rs type="place">Regenschpurg</rs> können,
+               <lb n="N003"/>damit mihr nacher baldt einmahl auf <rs type="place" ref="#emt_place_id__116">Regenschpurg</rs> können,
                <lb n="N004"/>welchs gott geben wolle, als dan hätten ewer Durchlaucht nit vhrsach,
-               <lb n="N005"/>so balt etwaß von <rs type="place">Frankhreich</rs> zue besorgen, <rs type="person">er</rs> wirt iah
-               <lb n="N006"/>nit so gahr brechen ohne einzige ragion. Ihr Mayestät werden
+               <lb n="N005"/>so balt etwaß von <rs type="place" ref="#emt_place_id__86">Frankhreich</rs> zue besorgen, <rs type="person" ref="#emt_person_id__214">er</rs> wirt iah
+               <lb n="N006"/>nit so gahr brechen ohne einzige ragion. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> werden
                <lb n="N007"/>auch iezt weit<supplied>e</supplied>r armiren, gott verhüete, das er nit
-               <lb n="N008"/>so weit kommen, sonst wehren mihr zue <rs type="place">Wien</rs>
+               <lb n="N008"/>so weit kommen, sonst wehren mihr zue <rs type="place" ref="#emt_place_id__63">Wien</rs>
                <lb n="N009"/>ebensowohl in gefahr. Man mues es bey zeiten
-               <lb n="N010"/>wehren, wan er mit <rs type="place">Schweiz</rs> etwas wolt anfangen,
+               <lb n="N010"/>wehren, wan er mit <rs type="place" ref="#emt_place_id__152">Schweiz</rs> etwas wolt anfangen,
                <lb n="N011"/>wehr es freilich guett, aber ich förcht, er wirts wohl
                <lb n="N012"/>bleiben laßen. Ich hoffe, ewer Durchlaucht werden mihr nit
                <lb n="N013"/>in vngnaden vermerken, das ich ihnen eine sach
@@ -226,15 +227,15 @@
                <lb n="N021"/>es sein filleicht die brief ligen blieben, das iemant
                <lb n="N022"/>drüber kommen, so hab ich aber nachgehens vernommen, 
             </p></div><div type="page"><pb facs="#facs_475" n="284 r" xml:id="Kasten_blau_45_8_0476.jpg" source="https://files.transkribus.eu/Get?id=NGQWUIRXTYPJYZCYELOKMDET&amp;fileType=view"/><p facs="#facs_475_r1">
-               <lb n="N001"/>das es durch mein <rs type="person">Fürsten </rs>ist auskommen, deme ewer Durchlaucht auch
+               <lb n="N001"/>das es durch mein <rs type="person" ref="#emt_person_id__118">Fürsten </rs>ist auskommen, deme ewer Durchlaucht auch
                <lb n="N002"/>in diser materi geschrieben. Nuhn ist er ein haubt
                <lb n="N003"/>guetter erliger man vndt wehr nit möglich, das ich
                <lb n="N004"/>von einem konte beßer bedient werden als von
                <lb n="N005"/>ihme geschicht, aber die gab zue schweigen hatt er nit.
                <lb n="N006"/>Also wehre mein <choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> meinung, das ewer Durchlaucht in
                <lb n="N007"/>negotis, es sey auch waß es wolle, keinem menschen
-               <lb n="N008"/>nichts schreibeten außer ihr Mayestät, dem<rs type="person"> Hoffkanzler</rs>
-               <lb n="N009"/>vndt <rs type="person">Schelleren</rs>, bey den andern allen sich auf den
+               <lb n="N008"/>nichts schreibeten außer ihr Mayestät, dem <rs type="person" ref="#emt_person_id__74">Hoffkanzler</rs>
+               <lb n="N009"/>vndt <rs type="person" ref="#emt_person_id__66">Schelleren</rs>, bey den andern allen sich auf den
                <lb n="N010"/>Scheller bezihen, das es müntlich gesche, dan die brif
                <lb n="N011"/>werden immereinmahl hin vndt her gezeigt. Dises
                <lb n="N012"/>schreibe aus kintligem herzen vndt höchsten vertrawen,
@@ -248,7 +249,7 @@
                <lb n="N020"/>ganzergebenste trewgehorsa<supplied>m</supplied>st
                <lb n="N021"/>dochter
                <lb n="N022"/>EMT
-               <lb n="N023"/><rs type="place">Edenburg</rs> den <date when="1681-10-22" type="letter">22 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
+               <lb n="N023"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-10-22" type="letter">22 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
                <lb n="N024"/>Bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung wegen
                <lb n="N025"/>der falten, so gemacht, ist wegen eil geschen, weil aufs
                <lb n="N026"/>lerchen iagen seint.

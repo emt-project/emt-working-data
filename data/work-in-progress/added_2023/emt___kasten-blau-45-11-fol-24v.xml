@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-24v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -73,7 +74,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1678-04-17">17.04.1678</date>
+               <date when-iso="1678-04-17">Sonntag, 17. April 1678</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -151,7 +152,7 @@
       <lb n="N001"/>Durchleüchtiger Fürst herz allerliebster herr vatter
       <lb n="N002"/><unclear reason="unsichere Lesart wegen Korrektur">Ich</unclear> mueß vohr allem vmb vergebung bitten,
       <lb n="N003"/>wan ich heüt vngereimt schreibe, dan mich die vnuergleig<supplied>liche</supplied>
-      <lb n="N004"/>große güett vnd gnad ihr Mayestät, meines <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaisers,
+     <lb n="N004"/>große güett vnd gnad ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>, meines <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaisers,
       <lb n="N005"/>in <seg type="blackening">sch</seg> solliche freüdt gesezt, das fast selber nit
       <lb n="N006"/>weis, was ich schreibe, vndt mindert allein diese
       <lb n="N007"/>freüdt, das ich in der vnmöglichkheit, solliches iemahlen
@@ -170,16 +171,16 @@
       <lb n="N020"/>ablegen können, wie ich hätte sollen. Hoffe, ewer Durchlaucht werden
       <lb n="N021"/>mihr hirin helfen, dan einmahl ich nihemahlen werde
       <lb n="N022"/>solliche genuechsamb ablegen können. Ewer Durchlaucht wollen aber</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=YQXQFDQSHFOFOJLPWQOEAEZM&amp;fileType=view" id="Kasten_blau_45-11_fol_24v.jpg"/><p facs="#facs_2_region_1677166125230_812">
-      <lb n="N001"/>dieses verlangen ihr Mayestät noch ein zeit bey sich behalten
-      <lb n="N002"/>vndt gahr keinem menschen auser ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> vndt
-      <lb n="N003"/>meinem brueder es möge innen werden, dan ihr Mayestät
+         <lb n="N001"/>dieses verlangen ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> noch ein zeit bey sich behalten
+         <lb n="N002"/>vndt gahr keinem menschen auser ihr Durchlaucht <rs type="person" ref="#emt_person_id__10"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> vndt
+         <lb n="N003"/>meinem <rs type="person" ref="#emt_person_id__18">brueder</rs> es möge innen werden, dan ihr Mayestät
       <lb n="N004"/>mihr so <choice><expan>gnädig</expan><abbr>g</abbr></choice> gewesen vndt es erlaubt, ewer Durchlaucht zue ersten
-      <lb n="N005"/>zue berichten, also auch, das ihr Mayestät die Kaiserin anoch
+         <lb n="N005"/>zue berichten, also auch, das ihr Mayestät die <rs type="person" ref="#emt_person_id__2">Kaiserin</rs> anoch
       <lb n="N006"/>niks daruon wißen. Darumb bitte, das es doch bis
       <lb n="N007"/>dahin möge in höchster geheim verbleiben. Wegen 
       <lb n="N008"/>was ewer Durchlaucht verlangen wegen was sie vohr leudt mit bringen
       <lb n="N009"/>solten, will ich mich erkundigen vndt alsdan ewer Durchlaucht berichten.
-      <lb n="N010"/>Dero reis hier her <supplied>betreffend</supplied> hab ich so vill vernommen, als das
+         <lb n="N010"/>Dero reis <rs type="place" ref="#emt_place_id__63">hier</rs> her <supplied>betreffend</supplied> hab ich so vill vernommen, als das
       <lb n="N011"/>im halben julij ein monat fohr ihr Mayestät solliches verlangen.
       <lb n="N012"/>Wie <add>vndt</add> auf was weis vndt woh meines <choice><expan>bruders</expan><abbr>b</abbr></choice> hochzeit sein
       <lb n="N013"/>solle, wirt iezt daruon gerett werden, werde nit laßen,
@@ -189,7 +190,7 @@
       <lb n="N017"/>ganzergebenste trewgehorsamste
       <lb n="N018"/>dochter
       <lb n="N019"/>EMT
-      <lb n="N020"/>Wien den 17 <supplied><unclear reason="offensichtlich sinnentstellende Korruptele: Monat fehlt">april</unclear></supplied> 1678
+         <lb n="N020"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den 17 <supplied><unclear reason="offensichtlich sinnentstellende Korruptele: Monat fehlt">april</unclear></supplied> 1678
       <lb n="N021"/>Schik hirbey ein newe mode von
       <lb n="N022"/>schreib fedren, weis nit, ob ihr Durchlaucht mit schreiben werden
       <lb n="N023"/>könen.</p></div>

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0464.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -78,7 +79,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-10-01"/>
+               <date when-iso="1681-10-01">Mittwoch, 1. Oktober 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -181,52 +182,52 @@
                <lb n="N010"/>in völliger gesundtheit erhalten, damit ich die <choice><expan>gnade</expan><abbr>g</abbr></choice>,
                <lb n="N011"/>ewer Durchlaucht zue bedien, noch offt vndt lang
                <lb n="N012"/>genießen möge. Ich hoff, ewer Durchlaucht werden einen gutten
-               <lb n="N013"/>schpaß mit dem bürsten gehabt haben. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr><rs type="person" continued="true">b</rs></abbr></choice>
-               <lb n="N014"/><rs type="person" continued="true">Carl</rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> schreibt mihr, das er so einen großen
+         <lb n="N013"/>schpaß mit dem bürsten gehabt haben. Mein <choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr><rs type="person" ref="#emt_person_id__29">b</rs></abbr></choice>
+         <lb n="N014"/><rs type="person" ref="#emt_person_id__29">Carl</rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> schreibt mihr, das er so einen großen
                <lb n="N015"/>hirsch gesehn, ich wüntsch, das ihn ewer Durchlaucht bekommen
                <lb n="N016"/>mögen. Mihr seint iezt hier beim profosen,
                <lb n="N017"/>werden aber lerchen iagen, ob zwar das velt
                <lb n="N018"/>klein ist. Mihr haben bis dato noch nit können,
                <lb n="N019"/>weil es das schlimme wetter nit zue gelaßen.
-               <lb n="N020"/>Ihr <rs type="person">Mayestät</rs> befinden sich auch wohl auf, haben ein
+         <lb n="N020"/>Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> befinden sich auch wohl auf, haben ein
                <lb n="N021"/>pahr dag ein wehnig ein <choice><expan>remissio</expan><abbr>r</abbr></choice> durchlauf gehabt, wie
             </p></div><div type="page"><pb facs="#facs_464" n="276 v" xml:id="Kasten_blau_45_8_0465.jpg" source="https://files.transkribus.eu/Get?id=SQIILQBMUCMRRLCGMDHLMKWI&amp;fileType=view"/><p facs="#facs_464_r1">
                <lb n="N001"/>ich ewer Durchlaucht bey vohriger post berichtet, ist aber
                <lb n="N002"/>niks absonderligs geweßen, befinden sich izt alle
-               <lb n="N003"/>wohl. Mein <rs type="person">Mari Lißchen</rs> ist nit aller wohl auf
+               <lb n="N003"/>wohl. Mein <rs type="person" ref="#emt_person_id__111">Mari Lißchen</rs> ist nit aller wohl auf
                <lb n="N004"/>an zendten, fangt sich aber auch schon ahn zu
                <lb n="N005"/>beßern, gottlob niks gefährlich. Heündt haben vnser
-               <lb n="N006"/><rs type="place">vngern</rs> widerumb anheben <supplied>zu</supplied> schreien, gott geb, das balt
+               <lb n="N006"/><rs type="place" ref="#emt_place_id__149">vngern</rs> widerumb anheben <supplied>zu</supplied> schreien, gott geb, das balt
                <lb n="N007"/>ettwas guetts heraus schreien. Es ist schon so der
                <lb n="N008"/>brauch bey ihnen, wie mihr das erstemahl her
                <lb n="N009"/>seindt kommen, so hab vermeint, sie schlagen
                <lb n="N010"/>einander, ein solliches geschrei verführen sie im
                <lb n="N011"/>ihrem raht, gott geb balt einen glükligen schluß.
-               <lb n="N012"/>In <rs type="place">Walischlandt</rs> gehn die sachen übel, wie ewer Durchlaucht
+               <lb n="N012"/>In <rs type="place" ref="#emt_place_id__87">Walischlandt</rs> gehn die sachen übel, wie ewer Durchlaucht
                <lb n="N013"/>schon werden vernommen haben. Wan die vngern wider
                <lb n="N014"/>solten lang vmtrentlen, welches ich doch izt nit
                <lb n="N015"/>hoffen will, so vermein wohl, ihr Mayestät wurden
-               <lb n="N016"/>auf etlich dag in die <rs type="place">Neüstatt</rs>, die sau
-               <lb n="N017"/>iagen anzuefangen, dan zue <rs type="place">Eberstorf</rs> ist niks
+               <lb n="N016"/>auf etlich dag in die <rs type="place" ref="#emt_place_id__66">Neüstatt</rs>, die sau
+               <lb n="N017"/>iagen anzuefangen, dan zue <rs type="place" ref="#emt_place_id__15">Eberstorf</rs> ist niks
                <lb n="N018"/>mehr zue duen. Die hirsch seindt schon mit
                <lb n="N019"/>erlaubnus hunts mager, wahren die lezten
                <lb n="N020"/>schon nit vill mehr nuz, die ihr Mayestät geschoßen
-               <lb n="N021"/>haben. Der <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Jochem</rs> ist noch nit wekh, dan
-               <lb n="N022"/>sein <rs type="person">geschpahn</rs> ist gahr krankh worden, ist mihr
+               <lb n="N021"/>haben. Der <choice><expan>Pater</expan><abbr>P</abbr></choice><rs type="person" ref="#emt_person_id__277"> Jochem</rs> ist noch nit wekh, dan
+               <lb n="N022"/>sein geschpahn ist gahr krankh worden, ist mihr
                <lb n="N023"/>recht angst er stirbt, dan er duett starkh bludt
             </p></div><div type="page"><pb facs="#facs_465" n="277 r" xml:id="Kasten_blau_45_8_0466.jpg" source="https://files.transkribus.eu/Get?id=HBFYUBJQRYQQHUNCGCJERLLT&amp;fileType=view"/><p facs="#facs_465_r5">
-               <lb n="N001"/>brechen. Ist mihr wohl leidt, das nit zue <rs type="place">Wie<seg type="blackening">h</seg>n</rs>
-               <lb n="N002"/>bin wegen des Pater. Ich due mich hiemit in
+               <lb n="N001"/>brechen. Ist mihr wohl leidt, das nit zue <rs type="place" ref="#emt_place_id__63">Wie<seg type="blackening">h</seg>n</rs>
+               <lb n="N002"/>bin wegen des <rs type="person" ref="#emt_person_id__277">Pater</rs>. Ich due mich hiemit in
                <lb n="N003"/>ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vndt wirde sterben
                <lb n="N004"/>ewer Durchlaucht
                <lb n="N005"/>ganz ergebenste trewgehorsa<supplied>m</supplied>ste
                <lb n="N006"/>do<supplied>c</supplied>hter
                <lb n="N007"/>EMT
-               <lb n="N008"/><rs type="place">Edenburg</rs> den <date when="1681-10-01" type="letter">1 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date> 
-               <lb n="N009"/>Der frit mit dem <rs type="person">Hoher</rs> vndt
-               <lb n="N010"/><rs type="person">Bischoff</rs> ist völlich gemacht, sie haben sich beide
+               <lb n="N008"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-10-01" type="letter">1 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date> 
+               <lb n="N009"/>Der frit mit dem <rs type="person" ref="#emt_person_id__74">Hoher</rs> vndt
+               <lb n="N010"/><rs type="person" ref="#emt_person_id__121">Bischoff</rs> ist völlich gemacht, sie haben sich beide
                <lb n="N011"/>cincerirt einer bestendigen vertreülichkeit.
-               <lb n="N012"/>Ewer Durchlaucht in <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> vertrawen, der <rs type="person">Schwarzenberg</rs>
+               <lb n="N012"/>Ewer Durchlaucht in <choice><expan>vnterdehnigstem</expan><abbr>vnt</abbr></choice> vertrawen, der <rs type="person" ref="#emt_person_id__149">Schwarzenberg</rs>
                <lb n="N013"/>hest alleweil zwischen sie, der siht nit gern, das
                <lb n="N014"/>guett freündt sein.
             </p></div></body>

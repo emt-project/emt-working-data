@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0489.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-11-26"/>
+               <date when-iso="1681-11-26">Mittwoch, 26. November 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -144,8 +145,8 @@
                <lb n="N010"/>ich meinem wuntsch vndt verlangen nach nit gnuechsam
                <lb n="N011"/>ausschprechen kan. Ich verhoffe in deßen, ewer Durchlaucht werden sich in
                <lb n="N012"/>guettem wohlstandt befinden, dan ich die lezten brif noch
-               <lb n="N013"/>nitt empfangen, seindt zue <rs type="place">Wien</rs> ligen blieben. Schike
-               <lb n="N014"/>heündt drumb selbige abzue hollen. Der <rs type="person">Locowiz</rs>
+         <lb n="N013"/>nitt empfangen, seindt zue <rs type="place" ref="#emt_place_id__63">Wien</rs> ligen blieben. Schike
+         <lb n="N014"/>heündt drumb selbige abzue hollen. Der <rs type="person" ref="#emt_person_id__12">Locowiz</rs>
                <lb n="N015"/>ist schon abgefertigt, gottgeb, das er etwas guetts ausricht.
                <lb n="N016"/>Mit dem lantag hoffe auch balt ein endt, wan sich
                <lb n="N017"/>nit widerumb die sachen endren, dan bey denen leüten
@@ -159,7 +160,7 @@
                <lb n="N005"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb n="N006"/>do<supplied>c</supplied>hter
                <lb n="N007"/>EMT
-               <lb n="N008"/><rs type="place">Edenburg</rs> den <date when="1681-11-26" type="letter">26 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
+               <lb n="N008"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-11-26" type="letter">26 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
             </p></div></body>
    </text>
 </TEI>

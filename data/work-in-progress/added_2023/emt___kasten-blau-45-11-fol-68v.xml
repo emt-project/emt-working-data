@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="emt___kasten-blau-45-11-fol-68v.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -73,7 +74,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1678-05-19">19.05.1678</date>
+               <date when-iso="1678-05-19">Donnerstag, 19. Mai 1678</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -201,9 +202,9 @@
    <text type="letter">
    <body>
   <div type="page"><pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=PHIAVOFCZSIKKYXHHMCEFQNM&amp;fileType=view" id="Kasten_blau_45-11_fol_67r.jpg"/><p facs="#facs_1_region_1677166408731_998">
-      <lb n="N001"/><note type="editorische Anmerkung">Die Zeilen 1 bis 3 stehen seitlich am Brief und gehören zum PS auf Seite 4.</note>So eben sagen mihr <unclear reason="offensichtlich sinnentstellende Korruptele: ihre">ewer</unclear> Mayestät, das der Cardinal Albrizi
+     <lb n="N001"/><note type="editorische Anmerkung">Die Zeilen 1 bis 3 stehen seitlich am Brief und gehören zum PS auf Seite 4.</note>So eben sagen mihr <unclear reason="offensichtlich sinnentstellende Korruptele: ihre">ewer</unclear> <rs type="person" ref="#emt_person_id__35">Mayestät</rs>, das der <rs type="person" ref="#emt_person_id__291">Cardinal Albrizi</rs>
       <lb n="N002"/>geschrieben, er hoffe, in 14 dagen werde das coadiutori werk bey
-      <lb n="N003"/>dehm Papst erhalten werden, gott gebe, das es wahr sey.
+     <lb n="N003"/>dehm <rs type="person" ref="#emt_person_id__219">Papst</rs> erhalten werden, gott gebe, das es wahr sey.
       <lb n="N004"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
       <lb n="N005"/>Bitte gehorsamist vmb vergebung, das bey vohriger
       <lb n="N006"/>post meine schuldichkeit nit habe abgelegt. Mihr
@@ -226,68 +227,68 @@
       <lb n="N023"/>befehl gedahn, vndt hier ist nuhnmehr schon
       <lb n="N024"/>ganz offenbahr, vndt macht kein mensch kein</p></div><div type="page"><pb facs="#facs_2" n="2" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=WRABTLWQKHGNYWTQZAWADBZR&amp;fileType=view" id="Kasten_blau_45-11_fol_67v.jpg"/><p facs="#facs_2_region_1677166577259_1125">
       <lb n="N001"/>geheimnus mehr daraus. Wen ihr Durchlaucht mit sollen
-      <lb n="N002"/>bringen, sagen ihr Mayestät, sey ihnen alles recht, wie
+         <lb n="N002"/>bringen, sagen ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>, sey ihnen alles recht, wie
       <lb n="N003"/>sie es machen wollen, vndt <supplied>habe</supplied> ich in dieser sach
       <lb n="N004"/>ganz niks mehrers erfahren können. Weillen ewer Durchlaucht
       <lb n="N005"/>niemant mit von vnten herauf gebracht,
       <lb n="N006"/>so werden auch nit so gahr vill sein als etwan
-      <lb n="N007"/>der Hamilton, Denzel, Schpiring vndt Egloff, dan ich bilt
-      <lb n="N008"/>mihr ein, der alte Serni werde nimmer so
-      <lb n="N009"/>weit reisen können, der Lemmel ist kein großer
+         <lb n="N007"/>der <rs type="person" ref="#emt_person_id__23">Hamilton</rs>, <rs type="person" ref="#emt_person_id__292">Denzel</rs>, <rs type="person" ref="#emt_person_id__182">Schpiring</rs> vndt <rs type="person" ref="#emt_person_id__293">Egloff</rs>, dan ich bilt
+         <lb n="N008"/>mihr ein, der alte <rs type="person" ref="#emt_person_id__294">Serni</rs> werde nimmer so
+         <lb n="N009"/>weit reisen können, der <rs type="person" ref="#emt_person_id__295">Lemmel</rs> ist kein großer
       <lb n="N010"/>cortigiano. Ewer Durchlaucht werden am besten wißen außzu
       <lb n="N011"/>klauben. Mit dem frawen zimmer, meine ich,
       <lb n="N012"/><seg type="blackening">hah</seg> habe es kein bedenken, dan es seint nuhr
-      <lb n="N013"/>die 5 freülen vndt Hamiltonin mit der Obrist Hoff-
-      <lb n="N014"/>meisterin. Die Hamilton hatt doch ihren ran<supplied>g</supplied> als kamere-
+         <lb n="N013"/>die 5 freülen vndt <rs type="person" ref="#emt_person_id__223">Hamiltonin</rs> mit der <rs type="person" ref="#emt_person_id__296">Obrist Hoff-</rs>
+            <lb n="N014"/><rs type="person" ref="#emt_person_id__296">meisterin</rs>. Die Hamilton hatt doch ihren ran<supplied>g</supplied> als kamere-
       <lb n="N015"/>hers fraw, so wirt das keine dificultet geben.
       <lb n="N016"/>Mit den übrigen leütten noch vill wehniger,
       <lb n="N017"/>also können ewer Durchlaucht mit bringen, wen sie wollen,
       <lb n="N018"/>dan so vill ich merke, sein ihr Mayestät faditerer.
-      <lb n="N019"/>Wegen meines bruederen wundert mich recht, das
+         <lb n="N019"/>Wegen meines <rs type="person" ref="#emt_person_id__18">bruederen</rs> wundert mich recht, das
       <lb n="N020"/>noch so still, dan schon ihr Mayestät etligen ministris
       <lb n="N021"/>ihr resolution gesacht, wie auch mihr erlaubt, das
-      <lb n="N022"/>ichs <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner vndt dem Schellerer sagen derf.
+         <lb n="N022"/>ichs <choice><expan>Pater</expan><abbr>P</abbr></choice> <rs type="person" ref="#emt_person_id__59">Danner</rs> vndt dem Schellerer sagen derf.
       <lb n="N023"/>So, mein ich, könen ewer Durchlaucht sich auch wohl ohne
       <lb n="N024"/>gros rumor etwas darnach richten. Die brief habe</p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=NEPMESENAGZWJQMUYVZSEHNU&amp;fileType=view" id="Kasten_blau_45-11_fol_68r.jpg"/><p facs="#facs_3_region_1677166738811_1259">
-      <lb n="N001"/>ihr Mayestät der Kaiserin überantwort, vndt wirt sie
+         <lb n="N001"/>ihr Mayestät der <rs type="person" ref="#emt_person_id__2">Kaiserin</rs> überantwort, vndt wirt sie
       <lb n="N002"/>auch heütt, wie sie mihr gesacht, ewer Durchlaucht antworten.
       <lb n="N003"/>Gott geb, das wegen der coadiutori auch so wohl
       <lb n="N004"/>ab geh, welches wohl von herzen wüntsche. Schike
       <lb n="N005"/>hiebey ewer Durchlaucht das antwort schreiben, so vom
-      <lb n="N006"/>Cuhrfürst <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> empfangen, vndt erwarte dero
-      <lb n="N007"/>befehl, was <seg type="blackening">wef</seg> weiters zue duen. Ihr Mayestät
+         <lb n="N006"/><rs type="person" ref="#emt_person_id__45">Cuhrfürst</rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> empfangen, vndt erwarte dero
+         <lb n="N007"/>befehl, was <seg type="blackening">wef</seg> weiters zue duen. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>
       <lb n="N008"/>werden gewis alles, was ewer Durchlaucht verlangen,
       <lb n="N009"/>darzue cooperiren, erwarte also dero befehl
       <lb n="N010"/>vndt sterbe
       <lb n="N011"/>ewer Durchlaucht
       <lb n="N012"/>ganzergebenste trewgehorsamste
       <lb n="N013"/>dochter
-      <lb n="N014"/>Wien den 19 maij  1678
+         <lb n="N014"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den 19 maij  1678
       <lb n="N015"/>EMT
-      <lb n="N016"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Der von Wangen ist gestern wek, offerirt sich, 
+         <lb n="N016"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> Der <rs type="person" ref="#emt_person_id__208">von Wangen</rs> ist gestern wek, offerirt sich, 
       <lb n="N017"/>gahr vill vor ewer Durchlaucht in der coadiutori
       <lb n="N018"/>zue duen. So hatt er auch vmb ein <seg type="blackening">??</seg> <add>schreiben</add> gebetten,
       <lb n="N019"/>welches ihm nit abschlagen können, ewer Durchlaucht werden
       <lb n="N020"/>schon selber wißen, was auf ihn sie sich verlaßen
       <lb n="N021"/>können. Er zeicht sich wohl gahr eifrich, ich hoffe auch,
       <lb n="N022"/>es sey allso. Aufs wehnigste bitte, gegen ihm niks
-      <lb n="N023"/>zu melden, welchs gegen den Köniksekh möchte
+         <lb n="N023"/>zu melden, welchs gegen den <rs type="person" ref="#emt_person_id__72">Köniksekh</rs> möchte
       <lb n="N024"/>sein, dan sie seint gahr guette freunt. Bitt
       <lb n="N025"/>hierauf kein antwort. Wegen ewer Durchlaucht anhero konft</p></div><div type="page"><pb facs="#facs_4" n="4" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=OYMENSBCNIVNLCILHUBOWYSR&amp;fileType=view" id="Kasten_blau_45-11_fol_68v.jpg"/><p facs="#facs_4_region_1677166906671_1412">
       <lb n="N001"/><choice><expan>Postscriptum</expan><abbr>PS</abbr></choice> habe wohl gewis mein bests gedahn, aber niks
       <lb n="N002"/>erhalten können bis auf halben julij, wie sch<supplied>o</supplied>n
-      <lb n="N003"/>geschrieben, dan ihr Mayestät den saurbrunnen werden
+         <lb n="N003"/>geschrieben, dan ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> den saurbrunnen werden
       <lb n="N004"/>brauchen im garten. Dorten, mues <supplied>ich</supplied> bekennen,
       <lb n="N005"/>können mihr kaum <unclear reason="unsichere Lesart wegen Korrektur">wohnen</unclear>, so eng ist es,
       <lb n="N006"/>vndt werden vohr halben julij nit wider
-      <lb n="N007"/>in die statt, so <seg type="blackening">biht</seg> <add>ist mir</add> auch wohl vohn herzen
+         <lb n="N007"/>in die <rs type="place" ref="#emt_place_id__63">statt</rs>, so <seg type="blackening">biht</seg> <add>ist mir</add> auch wohl vohn herzen
       <lb n="N008"/>leidt, das so lang noch mues deßen beraubt
       <lb n="N009"/>sein, welches ich iezt am meisten verlange,
-      <lb n="N010"/>aber ich habe mit dem Hoher auch daraus laßen
+         <lb n="N010"/>aber ich habe mit dem <rs type="person" ref="#emt_person_id__74">Hoher</rs> auch daraus laßen
       <lb n="N011"/><unclear reason="unsichere Lesart wegen Korrektur">reden</unclear>, er meint auch, es werd sich nit
       <lb n="N012"/>erheben laßen. Befehl mich vnterdehnig vndt
       <lb n="N013"/>auf diese beyde postscritta gahr nit oder
-      <lb n="N014"/>durch <choice><expan>Pater</expan><abbr>P</abbr></choice> Danner zue antworten. Befehl mich
+         <lb n="N014"/>durch <choice><expan>Pater</expan><abbr>P</abbr></choice> <rs type="person" ref="#emt_person_id__59">Danner</rs> zue antworten. Befehl mich
       <lb n="N015"/>vnterdehnig vndt sterbe, ewer Durchlaucht geh<supplied>o</supplied>rsam kint.</p></div>
 </body>
 

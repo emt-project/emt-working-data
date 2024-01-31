@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0481.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-11-07"/>
+               <date when-iso="1681-11-07">Freitag, 7. November 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -123,7 +124,7 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_480" n="287 r" xml:id="Kasten_blau_45_8_0481.jpg" source="https://files.transkribus.eu/Get?id=VAJLYZXVUGDIXCWSNJYAVUDK&amp;fileType=view"/><p facs="#facs_480_r1">
                <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb n="N002"/>Mitt der gelegen<supplied>heit</supplied> das der <rs type="person">Hermenstein</rs> hinauf reiset, hab
+         <lb n="N002"/>Mitt der gelegen<supplied>heit</supplied> das der <rs type="person" ref="#emt_person_id__297">Hermenstein</rs> hinauf reiset, hab
                <lb n="N003"/>ich nit vnterlaßen können, ewer Durchlaucht mit dißen zeilen
                <lb n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> auf zue warten, verhoffendt, das sich dieselbe
                <lb n="N005"/>in guttem wohlstandt befinden werden. Sag nochmahlen
@@ -138,10 +139,10 @@
                <lb n="N014"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb n="N015"/>dochter
                <lb n="N016"/>EMT
-               <lb n="N017"/><rs type="place">Edenburg</rs> den <date when="1681-11-07" type="letter">7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
+         <lb n="N017"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-11-07" type="letter">7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
                <lb n="N018"/>Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, <supplied>sie</supplied> wollen die
                <lb n="N019"/>schantlige cartera, die blabe, ihr
-               <lb n="N020"/>Durchlaucht meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> zuestellen,
+         <lb n="N020"/>Durchlaucht meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person" ref="#emt_person_id__10"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> zuestellen,
                <lb n="N021"/>damit, in deme sie es von ewer Durchlaucht handen empfanget,
                <lb n="N022"/>solches ersezen möge die heslichkeit der sachen.
             </p></div></body>

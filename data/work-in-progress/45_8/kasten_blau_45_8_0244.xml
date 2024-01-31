@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0244.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date when-iso="1679-09-27"/>
+               <date when-iso="1679-09-27">Mittwoch, 27. September 1679</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -238,7 +239,7 @@
                <lb n="N020"/>Das ewer Durchlaucht meines <rs type="person" ref="#emt_person_id__25">k<supplied>l</supplied>einen</rs>
                <lb n="N021"/>konterfait verlangen, ist mihr ein
                <lb n="N022"/><choice><expan>gnad</expan><abbr>g</abbr></choice>, allein ist mihr leidt, das ewer Durchlaucht <add>befehl</add> noch nit so balt
-               <lb n="N023"/>werde erfüllen können, dan der <rs type="person" ref="#emt_person_id__67">Hamilton</rs> zue <rs type="place"  ref="#emt_place_id__63">Wien</rs> blieben.
+               <lb n="N023"/>werde erfüllen können, dan der <rs type="person" ref="#emt_person_id__67">Hamilton</rs> zue <rs type="place" ref="#emt_place_id__63">Wien</rs> blieben.
                <lb n="N024"/>Hatt abe<supplied>r</supplied> gesagt, er wolle auch her kommen, vndt hier ist
                <lb n="N025"/>mein ich, kein guetter mahler, will aber vmb einen nachfragen
                <lb n="N026"/>laßen.

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0444.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date when-iso="1681-08-14"/>
+               <date when-iso="1681-08-14">Donnerstag, 14. August 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -149,10 +150,10 @@
                <lb n="N009"/>vohr die <choice><expan>gnädige</expan><abbr>g</abbr></choice> vohrsorch, so sie vohr vns
                <lb n="N010"/>ahlle dragen wegen des vngerischen lantags.
                <lb n="N011"/>Ewer Durchlaucht können <choice><expan>gnädigst</expan><abbr>g</abbr></choice> versichert sein, das es an
-               <lb n="N012"/>ihr <rs type="person">Mayestät</rs>, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> <supplied>Kaiser</supplied>, gewiß nit ermanglen
+         <lb n="N012"/>ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> <supplied>Kaiser</supplied>, gewiß nit ermanglen
                <lb n="N013"/>wirt. Sie seint izt einmahl mit ihren compi-
                <lb n="N014"/>lationes vertig, so werden mihr die andre
-               <lb n="N015"/>wochen widerumb auf <rs type="place">Edenburg</rs>, gott gebe
+         <lb n="N015"/>wochen widerumb auf <rs type="place" ref="#emt_place_id__72">Edenburg</rs>, gott gebe
                <lb n="N016"/>sein <choice><expan>gnade</expan><abbr>g</abbr></choice>, das balt ein guetter schluß heraus
                <lb n="N017"/>kommen möge, welches wohl hoch vonnöten. Ich
                <lb n="N018"/>habe mein hoffnung auf gott, er wirt alls richten
@@ -171,7 +172,7 @@
                <lb n="N009"/>ganzergebenste trewg<supplied>e</supplied>h<supplied>o</supplied>rsa<supplied>m</supplied>ste
                <lb n="N010"/>dochter
                <lb n="N011"/>EMT
-               <lb n="N012"/><rs type="place">Neüstatt</rs> den <date when="1681-08-14" type="letter">14 aug<supplied>u</supplied>st 1681</date>
+               <lb n="N012"/><rs type="place" ref="#emt_place_id__66">Neüstatt</rs> den <date when="1681-08-14" type="letter">14 aug<supplied>u</supplied>st 1681</date>
             </p></div></body>
    </text>
 </TEI>

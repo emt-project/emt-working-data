@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0453.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-09-03"/>
+               <date when-iso="1681-09-03">Mittwoch, 3. September 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -169,13 +170,13 @@
                <lb n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb n="N002"/>Es erfrewet mich von herzen, das ewer Durchlaucht sich
                <lb n="N003"/>in so guettem wohlstandt befinden vndt solche
-               <lb n="N004"/>consolation des <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Marcus</rs> anweßenheit empfangen
+         <lb n="N004"/>consolation des <choice><expan>Pater</expan><abbr>P</abbr></choice><rs type="person" ref="#emt_person_id__253"> Marcus</rs> anweßenheit empfangen
                <lb n="N005"/>haben. Bin wohl herzlich bedrüebt, das vohr
                <lb n="N006"/>dismahl dießes trosts mueß beraubet bleiben.
                <lb n="N007"/>Ich gedenkh mihr halt, <unclear reason="unsichere Lesart wegen Korrektur">herr</unclear>, ich bins nitt würdich,
                <lb n="N008"/>vndt hoffe mich zue beßeren, damit es auf ein
-               <lb n="N009"/>anders mahl möge geschehn. Wegen <rs type="person" continued="true">vetter</rs>
-               <lb n="N010"/><rs type="person" continued="true">Pfilipp</rs> ist wohl vill, ach, wan er nuhr dem
+         <lb n="N009"/>anders mahl möge geschehn. Wegen <rs type="person" ref="#emt_person_id__146">vetter</rs>
+         <lb n="N010"/><rs type="person" ref="#emt_person_id__146">Pfilipp</rs> ist wohl vill, ach, wan er nuhr dem
                <lb n="N011"/>liecht vndt der gnad, so er von gott empf-
                <lb n="N012"/>angen, nit mit gewalt widerstandt dähte,
                <lb n="N013"/>dan sonsten wehre es vast nit möglich, das
@@ -184,7 +185,7 @@
                <lb n="N016"/>wohl auch vill guetts mit seiner gegenwart
                <lb n="N017"/>könen außrichten in bekerung der vngelaubigen
                <lb n="N018"/>vndt auch der kaltgelaubigen, auch ihre herzen
-               <lb n="N019"/>zumb friden vndt gehorsamb gegen ihr <rs type="person">Mayestät</rs>
+         <lb n="N019"/>zumb friden vndt gehorsamb gegen ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs>
                <lb n="N020"/>bewegen, weil es aber nit sein können, so
                <lb n="N021"/>hoffe, werde er es durch sein gebett von
                <lb n="N022"/>gott erhalten. Iezt meinen sie, bis sambstag werden
@@ -194,11 +195,11 @@
                <lb n="N003"/>iezt. Ich glaubs noch nit, bis ichs sich, hoff
                <lb n="N004"/>doch ein guetten ausgang, welchs gott wolle
                <lb n="N005"/>verleien, welcher es allein duen kan. Wan
-               <lb n="N006"/>ihr Mayestät werden können wegen der negotien,
+               <lb n="N006"/>ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> werden können wegen der negotien,
                <lb n="N007"/>so wolten sie gern nach vnser <choice><expan>lieben</expan><abbr>l</abbr></choice> <choice><expan>frauen</expan><abbr>fr</abbr></choice> dag
-               <lb n="N008"/>auf ein 8 dag auf <rs type="place">Eberstorf</rs>, damit
+               <lb n="N008"/>auf ein 8 dag auf <rs type="place" ref="#emt_place_id__15">Eberstorf</rs>, damit
                <lb n="N009"/>noch etwas von hirschen schießen könte vndt
-               <lb n="N010"/>luft schepfen, dan <rs type="place">hier</rs> kan man gahr niks
+               <lb n="N010"/>luft schepfen, dan <rs type="place" ref="#emt_place_id__72">hier</rs> kan man gahr niks
                <lb n="N011"/>dergleichen, haben mit harter müe ein kale
                <lb n="N012"/>kutt hüener gefunden. Seindt gestren draus
                <lb n="N013"/>gewesen, liegen aber so in den weingerten, das
@@ -211,18 +212,18 @@
                <lb n="N020"/>kan. Der hirsch, so ewer Durchlaucht gefangen, mueß
                <lb n="N021"/>wohl groß gewesen sein, das so vill
             </p></div><div type="page"><pb facs="#facs_454" n="271 r" xml:id="Kasten_blau_45_8_0455.jpg" source="https://files.transkribus.eu/Get?id=EWJQPHDMKIAXKQQFOLSCAKIF&amp;fileType=view"/><p facs="#facs_454_r2">
-               <lb n="N001"/>hatt gewogen. Sonsten seint im <rs type="place">Norgau</rs> die
-               <lb n="N002"/>hirsch größer als bey <rs type="place">Neuburg</rs>. Ich due mich
+               <lb n="N001"/>hatt gewogen. Sonsten seint im <rs type="place" ref="#emt_place_id__158">Norgau</rs> die
+               <lb n="N002"/>hirsch größer als bey <rs type="place" ref="#emt_place_id__39">Neuburg</rs>. Ich due mich
                <lb n="N003"/>hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich
                <lb n="N004"/>sterben werde
                <lb n="N005"/>ewer Durchlaucht
                <lb n="N006"/>ganzergebenste trewgehor-
                <lb n="N007"/>samste dochter
                <lb n="N008"/>EMT
-               <lb n="N009"/><rs type="place">Edenburg</rs> den <date when="1681-09-03" type="letter">3 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1681</date>
+               <lb n="N009"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-09-03" type="letter">3 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1681</date>
                <lb n="N010"/>Gestren vndt heündt sicht man hir ein stern
                <lb n="N011"/>vmb mittag, das halten sie vohr ein guetts
-               <lb n="N012"/>omen des lantags, eß geschicht aber wohl öffeter,
+               <lb n="N012"/>omen des <rs type="org" ref="emt_institution_id__15">lantags</rs>, eß geschicht aber wohl öffeter,
                <lb n="N013"/>das mans sicht.
             </p></div></body>
    </text>

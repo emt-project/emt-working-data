@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0437.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date when-iso="1681-07-26"/>
+               <date when-iso="1681-07-26">Samstag, 26. Juli 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -168,7 +169,7 @@
                <lb n="N003"/>empfangen, weil daraus ewer Durchlaucht guetten woh<supplied>l</supplied>standt vernom<supplied>men</supplied>.
                <lb n="N004"/>Gottlob das ewer Durchlaucht große sorchfalt, vor welche ich
                <lb n="N005"/>ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vntr</abbr></choice> dankh erstatte, ohne noht geweßen,
-               <lb n="N006"/>dan ihr <rs type="person">Mayestät</rs> wegen <choice><expan>remissio</expan><abbr>r</abbr></choice> der diarea zue bett gelegen,
+         <lb n="N006"/>dan ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> wegen <choice><expan>remissio</expan><abbr>r</abbr></choice> der diarea zue bett gelegen,
                <lb n="N007"/>sich wohl auch erbrochen, aber nuhr am anfang
                <lb n="N008"/>in der nacht ein wehnig von einer alteration
                <lb n="N009"/>empfunden. Befinden sich aber iezt aller wohl
@@ -177,21 +178,21 @@
                <lb n="N012"/>schreib, dan das könen ewer Durchlaucht versichert sein,
                <lb n="N013"/>das ich allezeit aller auf das genaweste
                <lb n="N014"/>berichten werde. Gottlob, das iezt alles wider
-               <lb n="N015"/>gahr guett ist. Es hatt mihr der <rs type="person">Schellerer</rs>
-               <lb n="N016"/>gesagt, das ewer Durchlaucht die <rs type="person"><choice><expan>herren</expan><abbr>h</abbr></choice> <choice><expan>brüder</expan><abbr>br</abbr></choice></rs> balt wolten auf
-               <lb n="N017"/><rs type="place">Rohm</rs> schiken, vndt ob sie mögten <rs type="place">hier</rs> dor<supplied>ch</supplied> komen.
+         <lb n="N015"/>gahr guett ist. Es hatt mihr der <rs type="person" ref="#emt_person_id__66">Schellerer</rs>
+         <lb n="N016"/>gesagt, das ewer Durchlaucht die <rs type="person" ref="#emt_person_id__29"/><rs type="person" ref="#emt_person_id__128"><choice><expan>herren</expan><abbr>h</abbr></choice> <choice><expan>brüder</expan><abbr>br</abbr></choice></rs> balt wolten auf
+         <lb n="N017"/><rs type="place" ref="#emt_place_id__90">Rohm</rs> schiken, vndt ob sie mögten <rs type="place" ref="#emt_place_id__66">hier</rs> dor<supplied>ch</supplied> komen.
                <lb n="N018"/>So werden sie ihr Mayestät zwahr gahr angenehm
                <lb n="N019"/>sein, aber ich förchte, es wirt nit sein
                <lb n="N020"/>können, dan leider die üble sucht widerum
-               <lb n="N021"/>in <rs type="place">Steirmark</rs> eingerißen vndt allso zue
+         <lb n="N021"/>in <rs type="place" ref="#emt_place_id__155">Steirmark</rs> eingerißen vndt allso zue
                <lb n="N022"/>besorgen, das die paß nit werden offen we<supplied>r</supplied>den,
             </p></div><div type="page"><pb facs="#facs_437" n="261 v" xml:id="Kasten_blau_45_8_0438.jpg" source="https://files.transkribus.eu/Get?id=AJMUKDEAORSABQROYUCPWRSW&amp;fileType=view"/><p facs="#facs_437_r1">
                <lb n="N001"/>wirt, welchs mihr wohl vnerhört leidt were.
                <lb n="N002"/>Iezt gehn mihr fleisig auf die iagen, haben geste<supplied>r</supplied>n
                <lb n="N003"/>ain hirsch gefangen, welcher 500 <choice><expan>pfund</expan><abbr>lb</abbr></choice> gewogen hatt. Izt
                <lb n="N004"/>brauch ich mein cuhr, vndt am samstag wirt
-               <lb n="N005"/>ihr Mayestät die <rs type="person">Kaiserin</rs> heraus kommen, vnt
-               <lb n="N006"/>darnach werden mihr zu ihr auf <rs type="place">Mainerstorf</rs>,
+               <lb n="N005"/>ihr Mayestät die <rs type="person" ref="#emt_person_id__2">Kaiserin</rs> heraus kommen, vnt
+               <lb n="N006"/>darnach werden mihr zu ihr auf <rs type="place" ref="#emt_place_id__153">Mainerstorf</rs>,
                <lb n="N007"/>das also, wan ich filleicht konftige post
                <lb n="N008"/>versaumet, ich aniezte daruohr vmb
                <lb n="N009"/>vergebung bitte. Will mich aber befleisen
@@ -202,18 +203,18 @@
                <lb n="N014"/>ganz ergebenste trew
                <lb n="N015"/>gehorsamste dochter
                <lb n="N016"/>EMT
-               <lb n="N017"/><rs type="place">Neüstatt</rs> den <date when="1681-07-26" type="letter">26 julij 1681</date>
-               <lb n="N018"/>Es haben mihr ihr Mayestät der Kaiser gesagt, was der
-               <lb n="N019"/><rs type="person">Grana</rs> geschriben wegen des <rs type="org">priorat</rs>. Ich vermeine aber,
-               <lb n="N020"/>ewer Durchlaucht solten sich mit meinem <rs type="person"><choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice></rs> <choice><expan>Ludwig</expan><abbr>Ld</abbr></choice> nit vber
+               <lb n="N017"/><rs type="place" ref="#emt_place_id__66">Neüstatt</rs> den <date when="1681-07-26" type="letter">26 julij 1681</date>
+               <lb n="N018"/>Es haben mihr ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> der Kaiser gesagt, was der
+               <lb n="N019"/><rs type="person" ref="#emt_person_id__186">Grana</rs> geschriben wegen des <rs type="org" ref="emt_institution_id__9">priorat</rs>. Ich vermeine aber,
+               <lb n="N020"/>ewer Durchlaucht solten sich mit meinem <rs type="person" ref="#emt_person_id__29"><choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>br</abbr></choice></rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> nit vber
                <lb n="N021"/>eilen, dan es noch <seg type="blackening">flegt</seg> zeit vndt <seg type="blackening">fe</seg> die sache doch noch
                <lb n="N022"/>nit desperat ist. Mich bedunkt einmahl nit, das er
                <lb n="N023"/>zu einem rechten pfafen daugt, wan er noch den
             </p></div><div type="page"><pb facs="#facs_438" n="262 r" xml:id="Kasten_blau_45_8_0439.jpg" source="https://files.transkribus.eu/Get?id=PWWWZBCRKBOBTOXHHPHEHDIL&amp;fileType=view"/><p facs="#facs_438_r3">
-               <lb n="N001"/>degen führen derf, wirt es ihme noch leichter sein. <rs type="person">Er</rs> ist
+               <lb n="N001"/>degen führen derf, wirt es ihme noch leichter sein. <rs type="person" ref="#emt_person_id__29">Er</rs> ist
                <lb n="N002"/>noch iung, wirt schon noch ein glükh bekommen. Ich vermein,
                <lb n="N003"/>als wan ein gelegenheit aus keme, ewer Durchlaucht solten ihn
-               <lb n="N004"/>laßen einwehnig den krieg probiren mit seinem <rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice><choice><expan>Liebden</expan><abbr>Ld</abbr></choice></rs>,
+               <lb n="N004"/>laßen einwehnig den krieg probiren mit seinem <rs type="person" ref="#emt_person_id__124"><choice><expan>bruder</expan><abbr>b</abbr></choice><choice><expan>Liebden</expan><abbr>Ld</abbr></choice></rs>,
                <lb n="N005"/>kostet fast niks. Bitt <choice><expan>vnterdehnigst</expan><abbr>vntr</abbr></choice> vmb vergebung, das
                <lb n="N006"/>dises schreib, vermein es gewis aus trewem herzen.
                <lb n="N007"/>Ist zwar ein große vermeßenheit von mir, aber

@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0414.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -78,7 +79,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1681-05-01"/>
+               <date when-iso="1681-05-01">Donnerstag, 1. Mai 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -190,7 +191,7 @@
                <lb n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date when="1681-04-25" type="letter">25 passato</date> hatt mich
                <lb n="N003"/>von herzen erfrewet, ihn deme ich daraus ewer Durchlaucht
                <lb n="N004"/>guetten wohlstandt vernommen, wie auch meines
-               <lb n="N005"/><rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Allexander</rs> völlige gesundtheit. Gott wolle sie
+         <lb n="N005"/><rs type="person" ref="#emt_person_id__127"><choice><expan>bruder</expan><abbr>b</abbr></choice> Allexander</rs> völlige gesundtheit. Gott wolle sie
                <lb n="N006"/>verners darbey erhalten vndt ewer Durchlaucht disen
                <lb n="N007"/>heüntigen dag noch vnzahlbahr vilmahl mit
                <lb n="N008"/>allem contento laßen erleben, welches ich ewer
@@ -206,7 +207,7 @@
                <lb n="N002"/>wehnig ein bues, wan aber nuhr was ist, so ist schon
                <lb n="N003"/>der müeh werdt. Die kinder seindt gottlob ver-
                <lb n="N004"/>wichenen sontag gelüklich angelangt vndt wohl
-               <lb n="N005"/>auf. Der <rs type="person">Josephl</rs> ist zwar noch etwas mager,
+               <lb n="N005"/>auf. Der <rs type="person" ref="#emt_person_id__25">Josephl</rs> ist zwar noch etwas mager,
                <lb n="N006"/>dan so balt ist nit möglich, das sich kan föllich
                <lb n="N007"/>erhollen auf 3 wochen dopplete terzian vndt die
                <lb n="N008"/>kräftig. Izt ist der meiste krieg vmbs eßen
@@ -222,9 +223,9 @@
             </p></div><div type="page"><pb facs="#facs_415" n="241 r" xml:id="Kasten_blau_45_8_0416.jpg" source="https://files.transkribus.eu/Get?id=XVAAGMHEIRGHXJGKTJJPMOHX&amp;fileType=view"/><p facs="#facs_415_r3">
                <lb n="N001"/>Haben ihnen auch vnter wegs hart am schiff salue
                <lb n="N002"/>geschoßen, welchs wir zwar wegen des kleinen
-               <lb n="N003"/><rs type="person">medel</rs> verbotten hatten, damit sie nit im schlaff
+               <lb n="N003"/><rs type="person" ref="#emt_person_id__111">medel</rs> verbotten hatten, damit sie nit im schlaff
                <lb n="N004"/>erschrek, sie hatt aber so ein guetten schlaff
-               <lb n="N005"/>gehabt, das es nit gehört, vndt der <rs type="person">Josep</rs> hat
+               <lb n="N005"/>gehabt, das es nit gehört, vndt der <rs type="person" ref="#emt_person_id__25">Josep</rs> hat
                <lb n="N006"/>es gern gehabt, wie wohl es ihnen ganz vnuersehen
                <lb n="N007"/>geschen. Darnach haben die trumelschlager müeßen
                <lb n="N008"/>zum schiff gehn, vndt den halben dag, den sie
@@ -233,14 +234,14 @@
                <lb n="N011"/>geht im niks mehr ab als das noch ein w<supplied>e</supplied>hnig
                <lb n="N012"/>mager. Er waxt aber zimlich, so kan nit wohl
                <lb n="N013"/>anders sein. Das klein medel hatt ein dicken
-               <lb n="N014"/>faisten kopf. Wegen <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Marco</rs> ist mihr
+               <lb n="N014"/>faisten kopf. Wegen <choice><expan>Pater</expan><abbr>P</abbr></choice><rs type="person" ref="#emt_person_id__253"> Marco</rs> ist mihr
                <lb n="N015"/>wohl leid, das nit wirt kommen, hab
                <lb n="N016"/>noch alleweil gehofft, gott geb sein <choice><expan>gnade</expan><abbr>g</abbr></choice>, das
                <lb n="N017"/>er vill guetts ausricht, wohran ich nit zweifle.
                <lb n="N018"/>Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das mihr
             </p></div><div type="page"><pb facs="#facs_416" n="241 v" xml:id="Kasten_blau_45_8_0417.jpg" source="https://files.transkribus.eu/Get?id=FIECJMKSYHUCLGDBFCDQIXSV&amp;fileType=view"/><p facs="#facs_416_r1">
                <lb n="N001"/>bir vndt wein schiken. Mit bir bin izt sonst schon
-               <lb n="N002"/>versehn von <rs type="place">landtobder Ens</rs>, welchs ich frisch
+               <lb n="N002"/>versehn von <rs type="place" ref="#emt_place_id__150">landtobder Ens</rs>, welchs ich frisch
                <lb n="N003"/>haben kan vndt nit in der gefahr steh, wie bey
                <lb n="N004"/>dem andern, das wegen der hiz saur werde, dan
                <lb n="N005"/>es in ein dag hie kan sein. Wein hab ich auch
@@ -252,11 +253,11 @@
                <lb n="N011"/>ganz ergebe<supplied>n</supplied>ste trew
                <lb n="N012"/>gehorsamste d<supplied>oc</supplied>hter
                <lb n="N013"/>EMT
-               <lb n="N014"/><rs type="place">Wien</rs> den <date when="1681-05-01" type="letter">1 maij 1681</date>
+               <lb n="N014"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when="1681-05-01" type="letter">1 maij 1681</date>
                <lb n="N015"/>Ist mihr wohl vnerhört leidt,
-               <lb n="N016"/>das mit dem <rs type="person">Scheller</rs> noch
+               <lb n="N016"/>das mit dem <rs type="person" ref="#emt_person_id__66">Scheller</rs> noch
                <lb n="N017"/>nit reden können, weil noch im
-               <lb n="N018"/>arest bin. Ihr <rs type="person">Mayestät</rs> aber werden ales
+               <lb n="N018"/>arest bin. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> aber werden ales
                <lb n="N019"/>gern duen, das weis ich schon. So ba<supplied>l</supplied>t
                <lb n="N020"/>als aufsten <supplied>kann</supplied>, werde mit im reden.
             </p></div></body>

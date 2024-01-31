@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0426.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date when-iso="1681-06-04"/>
+               <date when-iso="1681-06-04">Mittwoch, 4. Juni 1681</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -119,13 +120,13 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_425" n="252 r" xml:id="Kasten_blau_45_8_0426.jpg" source="https://files.transkribus.eu/Get?id=YPXFSFLQGOJMFNDRXNHHPTHG&amp;fileType=view"/><p facs="#facs_425_r1">
                <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb n="N002"/>Mitt gröstem leidt hab ich aus ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> 2 <choice><expan>gnädige</expan><abbr>g</abbr></choice>
+         <lb n="N002"/>Mitt gröstem leidt hab ich aus ihr Durchlaucht <rs type="person" ref="#emt_person_id__10"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> 2 <choice><expan>gnädige</expan><abbr>g</abbr></choice>
          <lb n="N003"/>schreiben vndt aus ewer Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> <choice><expan>postscriptum</expan><abbr>PS</abbr></choice> vernommen,
                <lb n="N004"/>das sie sich an einem terzian fieber übel-
                <lb n="N005"/>auf befinden. Hoffe zue gott, es werde nuhmero
                <lb n="N006"/>ganz widerumb ausgebliben sein. Woh nit, welchs
-               <lb n="N007"/>mihr wohl der höchste sch<supplied>m</supplied>erzen, schike ich den <rs type="person" continued="true">Doctor</rs>
-               <lb n="N008"/><rs type="person" continued="true">Hueber</rs> auf der post hinauf, dan ich mich schon
+         <lb n="N007"/>mihr wohl der höchste sch<supplied>m</supplied>erzen, schike ich den <rs type="person" ref="#emt_person_id__98">Doctor</rs>
+         <lb n="N008"/><rs type="person" ref="#emt_person_id__98">Hueber</rs> auf der post hinauf, dan ich mich schon
                <lb n="N009"/>so guett befindt, das mihr heündt trauet aus
                <lb n="N010"/>zue gehn. Von meinem zuestandt werden ewer
                <lb n="N011"/>Durchlaucht alles von Doctor Hueber vernemmen. Due
@@ -135,7 +136,7 @@
                <lb n="N015"/>ganzergebenste trewg<supplied>e</supplied>horsa<supplied>m</supplied>ste
                <lb n="N016"/>dochter
                <lb n="N017"/>EMT
-               <lb n="N018"/><rs type="place">Edenburg</rs> den <date when="1681-06-04" type="letter">4 junij 1681</date>
+         <lb n="N018"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-06-04" type="letter">4 junij 1681</date>
             </p></div></body>
    </text>
 </TEI>

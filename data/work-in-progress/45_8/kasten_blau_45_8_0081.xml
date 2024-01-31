@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0081.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
@@ -77,7 +78,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1677-09-12"/>
+               <date when-iso="1677-09-12">Sonntag, 12. September 1677</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
@@ -191,7 +192,7 @@
                <lb n="N003"/>sonsten wohl auf seint, werden die kräften auch
                <lb n="N004"/>balt widerumb vollich kommen. Was die coadiutori
                <lb n="N005"/>anlanget, so habe <seg type="blackening">mit</seg> durch <choice><expan>Pater</expan><abbr>P</abbr></choice><rs type="person" ref="#emt_person_id__59"> <choice><expan>Danner</expan><abbr>D</abbr></choice></rs> mit dem
-               <lb n="N006"/><rs type="person" ref="#emt_person_id__74>">Hoher</rs> daruon reden laßen, welcher mit dem <rs type="person" ref="#emt_person_id__66">Schellerer</rs>
+               <lb n="N006"/><rs type="person" ref="#emt_person_id__74&gt;">Hoher</rs> daruon reden laßen, welcher mit dem <rs type="person" ref="#emt_person_id__66">Schellerer</rs>
                <lb n="N007"/>die sach überlegt. Der Schellerer wirt morgen oder
                <lb n="N008"/>übermorgen zu mihr kommen, alsdan werde alles
                <lb n="N009"/>nach ihr Durchlaucht verlangen suechen zu richten vndt
