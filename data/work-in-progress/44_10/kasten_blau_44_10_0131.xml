@@ -79,7 +79,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__39">Neuburg</placeName>
-               <date when-iso="1709-09-27">Freitag, 27. September 1709</date>
+               <date notAfter="1709-09-27" notBefore="1709-09-22">zwischen 22. und 27. September 1709</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
