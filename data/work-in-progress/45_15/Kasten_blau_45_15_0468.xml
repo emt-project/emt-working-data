@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns='http://www.tei-c.org/ns/1.0' xml:id="kasten_blau_45_15_0468.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kasten_blau_45_15_0468.xml"
+	xml:base="https://id.acdh.oeaw.ac.at/emt">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type='main'>Kasten_blau_45_15_0468</title>
-				<title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+				<title type="main">Kasten_blau_45_15_0468</title>
+				<title type="sub">Familiensache. Dynastische Handlungsspielräume in der
+					Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg
+					(1655-1720)</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>tranScriptorium</publisher>
@@ -16,7 +19,8 @@
 							<msIdentifier>
 								<country>Deutschland</country>
 								<settlement>München</settlement>
-								<repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/15</idno>
+								<repository>Bayerisches Hauptstaatsarchiv</repository>
+								<idno>Kasten blau, 45/15</idno>
 								<idno/>
 							</msIdentifier>
 							<history>
@@ -32,36 +36,49 @@
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-	<facsimile xml:id='facs_1'>
-		<surface ulx='0' uly='0' lrx='1728' lry='2804'>
-			<graphic url='Kasten_blau_45_15_0465.jpg' width='1728px' height='2804px'/>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1728" lry="2804">
+			<graphic url="Kasten_blau_45_15_0465.jpg" width="1728px" height="2804px"/>
 		</surface>
 	</facsimile>
-	<facsimile xml:id='facs_2'>
-		<surface ulx='0' uly='0' lrx='1780' lry='2808'>
-			<graphic url='Kasten_blau_45_15_0466.jpg' width='1780px' height='2808px'/>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1780" lry="2808">
+			<graphic url="Kasten_blau_45_15_0466.jpg" width="1780px" height="2808px"/>
 		</surface>
 	</facsimile>
-	<facsimile xml:id='facs_3'>
-		<surface ulx='0' uly='0' lrx='1780' lry='2808'>
-			<graphic url='Kasten_blau_45_15_0467.jpg' width='1780px' height='2808px'/>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="1780" lry="2808">
+			<graphic url="Kasten_blau_45_15_0467.jpg" width="1780px" height="2808px"/>
 		</surface>
 	</facsimile>
-	<facsimile xml:id='facs_4'>
-		<surface ulx='0' uly='0' lrx='1780' lry='2808'>
-			<graphic url='Kasten_blau_45_15_0468.jpg' width='1780px' height='2808px'/>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="1780" lry="2808">
+			<graphic url="Kasten_blau_45_15_0468.jpg" width="1780px" height="2808px"/>
 		</surface>
 	</facsimile>
 	<text>
 		<body>
-			<pb facs='#facs_1' n='1' xml:id="Kasten_blau_45_15_0465.jpg" source="https://files.transkribus.eu/Get?id=VTQPURTDLDHZENYRJFLUAHWV&amp;fileType=view"/>
-			<p></p>
-			<pb facs='#facs_2' n='2' xml:id="Kasten_blau_45_15_0466.jpg" source="https://files.transkribus.eu/Get?id=VEHCSDLIYDOYJSMWMKADTKKZ&amp;fileType=view"/>
-			<p></p>
-			<pb facs='#facs_3' n='3' xml:id="Kasten_blau_45_15_0467.jpg" source="https://files.transkribus.eu/Get?id=DBNSSODAVAATWCTPOTPEHDYA&amp;fileType=view"/>
-			<p></p>
-			<pb facs='#facs_4' n='4' xml:id="Kasten_blau_45_15_0468.jpg" source="https://files.transkribus.eu/Get?id=OPXWOYIYCJEHJUQGTSVQYFZL&amp;fileType=view"/>
-			<p></p>
+
+			<div type="page">
+				<pb facs="#facs_1" n="1" xml:id="Kasten_blau_45_15_0465.jpg"
+					source="https://files.transkribus.eu/Get?id=VTQPURTDLDHZENYRJFLUAHWV&amp;fileType=view"/>
+				<p/>
+			</div>
+			<div type="page">
+				<pb facs="#facs_2" n="2" xml:id="Kasten_blau_45_15_0466.jpg"
+					source="https://files.transkribus.eu/Get?id=VEHCSDLIYDOYJSMWMKADTKKZ&amp;fileType=view"/>
+				<p/>
+			</div>
+			<div type="page">
+				<pb facs="#facs_3" n="3" xml:id="Kasten_blau_45_15_0467.jpg"
+					source="https://files.transkribus.eu/Get?id=DBNSSODAVAATWCTPOTPEHDYA&amp;fileType=view"/>
+				<p/>
+			</div>
+			<div type="page">
+				<pb facs="#facs_4" n="4" xml:id="Kasten_blau_45_15_0468.jpg"
+					source="https://files.transkribus.eu/Get?id=OPXWOYIYCJEHJUQGTSVQYFZL&amp;fileType=view"/>
+				<p/>
+			</div>
 		</body>
 	</text>
 </TEI>
