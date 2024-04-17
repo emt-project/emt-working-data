@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">nan, o.O. am 1695.09.?</title>
+            <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 1695.09.29</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>nan</author>
             <editor>
@@ -68,22 +68,22 @@
             <term>Schreiber</term>
             <term>Dechiffrierung</term>
          </ab>
-            <ab type="notes">Dies ist die Transkription der chiffrierten Passage aus <ref target="#Kasten_blau_Korrespondenzakten_1147_0182.jpg">folgendem Brief.</ref></ab>
+            <ab type="notes"></ab>
         </abstract>
         <abstract n="regest">
-            <p/>
+           <p>Transkription der chiffrierten Passage aus <ref target="#Kasten_blau_Korrespondenzakten_1147_0182.xml">JW an EMT, 29.09.1695.</ref></p>
          </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#">nan</persName>
+               <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date notBefore="1695-09-01" notAfter="1695-09-30">September 1695</date>
+               <date when-iso="1695-09-29">Donnerstag, 29. September 1695</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">nan</persName>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <placeName ref="#"/>
                 <date/>
             </correspAction>
@@ -92,6 +92,7 @@
       <revisionDesc status="draft">
          <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
          <change who="aspitzbart" when="2023-04-05">added metadata, still incomplete</change>
+         <change who="aspitzbart" when="2024-04-17">completed metadata, referencing another letter</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -126,7 +127,7 @@
    <text type="letter">
    <body>
   <div type="page"><pb facs="#facs_1" n="1" xml:id="Kasten_blau_44_3f_0059.jpg" source="https://files.transkribus.eu/Get?id=ENOGXSIITQFTWJFHIXNHFKMZ&amp;fileType=view"/><p facs="#facs_1_r1">
-     <lb n="N001"/>p. fang an von der haubtsach, waß anlangt, waß<note type="editorische Anmerkung">Einzeln ausgewiesen, gehört verlinkt zu KA_1147_0182 vom 29.9.95</note>
+     <lb n="N001"/>p. fang an von der haubtsach, waß anlangt, waß
       <lb n="N002"/>der Seyler soll gesagt haben, wegen deß aequivalents</p><p facs="#facs_1_r2">
          <lb n="N001"/>der zwey ohrten, ist nichts, vnd haben ihr <choice><expan>Mayestät</expan><abbr>May</abbr></choice>
       <lb n="N002"/>auch aller ohrten desavoviren lasßen, in Schweden
