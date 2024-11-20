@@ -103,15 +103,7 @@
          <change who="aspitzbart" when="2023-04-11">added metadata</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <surface lrx="1656" lry="2452" ulx="0" uly="0" xml:id="facs_283">
-         <graphic height="2452px" url="Kasten_blau_44_8_0283.jpg" width="1656px"/>
-         <zone points="580,2050 580,2209 826,2209 826,2050" rendition="TextRegion" xml:id="facs_283_r1">
-            <zone points="580,2201 607,2200 634,2201 662,2203 689,2205 716,2207 744,2209 771,2209 798,2207 826,2203 826,2053 798,2057 771,2059 744,2059 716,2057 689,2055 662,2053 634,2051 607,2050 580,2051" rendition="Line" xml:id="facs_283_r1l1"/></zone>
-         <zone points="793,770 793,924 812,924 812,770" rendition="TextRegion" xml:id="facs_283_r2">
-            <zone points="793,920 812,924 812,774 793,770" rendition="Line" xml:id="facs_283_r2l1"/></zone>
-      </surface>
-
+   <facsimile>  
       <surface lrx="1358" lry="1679" ulx="0" uly="0" xml:id="facs_284">
          <graphic height="1679px" url="Kasten_blau_44_8_0284.jpg" width="1358px"/>
          <zone points="189,148 189,1481 1280,1481 1280,148" rendition="TextRegion" xml:id="facs_284_r1">
@@ -146,32 +138,9 @@
          <zone points="1256,1501 1256,1651 1280,1651 1280,1501" rendition="TextRegion" xml:id="facs_285_r2">
             <zone points="1256,1651 1280,1651 1280,1501 1256,1501" rendition="Line" xml:id="facs_285_r2l1"/></zone>
       </surface>
-
-      <surface lrx="2486" lry="1638" ulx="0" uly="0" xml:id="facs_286">
-         <graphic height="1638px" url="Kasten_blau_44_8_0286.jpg" width="2486px"/>
-         <zone points="200,802 200,925 269,925 269,802" rendition="TextRegion" xml:id="facs_286_r1">
-            <zone points="207,835 255,832 255,802 207,805" rendition="Line" xml:id="facs_286_r1l1"/>
-            <zone points="204,877 222,879 222,849 204,847" rendition="Line" xml:id="facs_286_r1l2"/>
-            <zone points="200,919 234,921 269,925 269,895 234,891 200,889" rendition="Line" xml:id="facs_286_r1l3"/></zone>
-         <zone points="920,619 920,897 1607,897 1607,619" rendition="TextRegion" xml:id="facs_286_r2">
-            <zone points="948,694 980,691 1012,689 1045,688 1077,688 1110,688 1142,688 1174,689 1207,691 1239,693 1272,695 1304,699 1336,700 1369,704 1401,707 1434,710 1466,714 1498,716 1531,719 1563,721 1596,722 1596,653 1563,652 1531,650 1498,647 1466,645 1434,641 1401,638 1369,635 1336,631 1304,630 1272,626 1239,624 1207,622 1174,620 1142,619 1110,619 1077,619 1045,619 1012,620 980,622 948,625" rendition="Line" xml:id="facs_286_r2l1"/>
-            <zone points="920,772 954,774 988,775 1023,777 1057,780 1091,783 1126,785 1160,788 1194,792 1229,795 1263,799 1297,802 1332,805 1366,809 1400,812 1435,816 1469,820 1503,824 1538,827 1572,832 1607,835 1607,769 1572,766 1538,761 1503,758 1469,754 1435,750 1400,746 1366,743 1332,739 1297,736 1263,733 1229,729 1194,726 1160,722 1126,719 1091,717 1057,714 1023,711 988,709 954,708 920,706" rendition="Line" xml:id="facs_286_r2l2"/>
-            <zone points="935,897 960,896 986,895 1012,895 1038,894 1064,894 1090,892 1116,892 1142,891 1168,891 1194,891 1220,891 1246,891 1272,891 1298,891 1298,825 1272,825 1246,825 1220,825 1194,825 1168,825 1142,825 1116,826 1090,826 1064,828 1038,828 1012,829 986,829 960,830 935,831" rendition="Line" xml:id="facs_286_r2l3"/></zone>
-      </surface>
-
-
    </facsimile>
    <text type="letter">
-      <body>
-         <div type="page">
-            <pb facs="#facs_283" n="160 r" xml:id="Kasten_blau_44_8_0283.jpg" source="https://files.transkribus.eu/Get?id=OHVIBUFLFPEKKUGVDVGADGTE&amp;fileType=view"/>
-            <p facs="#facs_283_r1">
-               <lb n="N001"/>
-            </p>
-            <p facs="#facs_283_r2">
-               <lb n="N001"/>
-            </p>
-         </div>
+      <body>   
          <div type="page">
             <pb facs="#facs_284" n="161 r" xml:id="Kasten_blau_44_8_0284.jpg" source="https://files.transkribus.eu/Get?id=GSDYHOCBBTMHNRJQMQKFGBRE&amp;fileType=view"/>
             <p facs="#facs_284_r1">
@@ -206,19 +175,6 @@
             </p>
             <p facs="#facs_285_r2">
                <lb n="N001"/>
-            </p>
-         </div>
-         <div type="page">
-            <pb facs="#facs_286" n="162 r" xml:id="Kasten_blau_44_8_0286.jpg" source="https://files.transkribus.eu/Get?id=OTEXOQKMCFCWSRIBQNMWYLCG&amp;fileType=view"/>
-            <p facs="#facs_286_r1">
-               <lb n="N001"/>
-               <lb n="N002"/>
-               <lb n="N003"/>
-            </p>
-            <p facs="#facs_286_r2">
-               <lb n="N001"/>
-               <lb n="N002"/>
-               <lb n="N003"/>
             </p>
          </div>
       </body>
