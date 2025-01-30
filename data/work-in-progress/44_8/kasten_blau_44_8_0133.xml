@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0130.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Johann Adolph von Brederode, Probst zu Sankt Servatius in Maastricht an Eleonora Magdalena von Pfalz-Neuburg, Aachen, am 1701.06.04
+            </title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau</idno>
+                        
+                        <idno>44/8</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1701-06-04"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">58705</idno>
+                  <idno type="transkribus-doc-id">565905</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>Schreiber</term>
+         </ab>
+         <ab type="notes"></ab>
+        </abstract>
+        <abstract n="regest">
+           <p>Drittbrief, beigelegt zu <ref type="#Kasten_blau_44_8_0130.xml">EMT an JW, am 1701.05.19</ref>
+           </p>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Johann Adolph von Brederode, Probst zu Sankt Servatius in Maastricht</persName>
+               <placeName ref="#emt_place_id__35">Maastricht</placeName>
+               <date when-iso="1701-06-04"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart">Drittbrief abgetrennt, Metadaten ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>        
+<surface lrx="1808" lry="2698" ulx="0" uly="0" xml:id="facs_133">
+         <graphic height="2698px" url="Kasten_blau_44_8_0133.jpg" width="1808px"/>
+         <zone points="134,116 134,2543 1756,2543 1756,116" rendition="TextRegion" xml:id="facs_133_r1">
+            <zone points="127,232 165,235 190,210 241,183 371,171 367,51 121,52" rendition="Line" xml:id="facs_133_r1l1"/>
+            <zone points="1632,326 1658,323 1672,341 1689,351 1697,346 1737,356 1752,256 1714,239 1692,249 1680,245 1674,250 1665,245 1653,253 1643,251" rendition="Line" xml:id="facs_133_r1l2"/>
+            <zone points="380,375 1524,399 1655,387 1655,327 1568,275 1446,335 1350,302 1299,331 1173,256 1063,330 521,308 380,344" rendition="Line" xml:id="facs_133_r1l3"/>
+            <zone points="315,515 430,462 625,487 784,448 1186,531 1364,463 1724,469 1705,415 1420,420 1346,373 1223,431 917,359 781,428 560,424 466,370 314,416" rendition="Line" xml:id="facs_133_r1l4"/>
+            <zone points="342,605 509,552 592,604 888,558 1298,611 1412,563 1555,610 1647,568 1724,605 1765,538 1448,454 1236,533 985,478 889,504 787,447 645,518 344,493" rendition="Line" xml:id="facs_133_r1l5"/>
+            <zone points="303,706 359,720 444,649 1289,653 1403,697 1526,651 1753,663 1753,613 686,617 449,570 303,619" rendition="Line" xml:id="facs_133_r1l6"/>
+            <zone points="339,756 1257,744 1358,783 1484,749 1567,794 1761,757 1761,692 1557,651 1371,712 1062,657 923,711 751,649 663,705 457,659 339,718" rendition="Line" xml:id="facs_133_r1l7"/>
+            <zone points="279,916 477,838 696,844 792,912 904,841 1740,859 1740,810 1478,761 1339,805 856,769 676,802 430,744 278,813" rendition="Line" xml:id="facs_133_r1l8"/>
+            <zone points="308,982 565,939 1065,992 1168,942 1732,965 1732,902 1531,916 1313,847 1190,886 1107,843 765,907 670,847 599,887 502,843 308,924" rendition="Line" xml:id="facs_133_r1l9"/>
+            <zone points="329,1066 607,1025 810,1041 888,1104 1059,1040 1476,1038 1554,1090 1747,1046 1747,997 1557,962 1402,1001 1095,971 914,1006 847,958 741,996 679,960 584,998 329,981" rendition="Line" xml:id="facs_133_r1l10"/>
+            <zone points="324,1166 559,1162 624,1205 859,1147 1645,1147 1599,1085 1480,1118 1100,1051 994,1113 593,1109 459,1053 324,1085" rendition="Line" xml:id="facs_133_r1l11"/>
+            <zone points="325,1282 1369,1272 1683,1238 1738,1181 1618,1154 1503,1203 1213,1145 1120,1206 562,1213 446,1172 324,1214" rendition="Line" xml:id="facs_133_r1l12"/>
+            <zone points="323,1391 404,1354 667,1417 833,1358 916,1403 1029,1355 1290,1400 1347,1362 1660,1360 1647,1311 1260,1312 1121,1248 968,1307 789,1259 677,1312 519,1259 323,1306" rendition="Line" xml:id="facs_133_r1l13"/>
+            <zone points="329,1481 970,1455 1146,1516 1268,1453 1673,1479 1752,1460 1751,1348 1435,1419 998,1422 839,1377 744,1418 328,1414" rendition="Line" xml:id="facs_133_r1l14"/>
+            <zone points="293,1598 998,1540 1482,1554 1590,1606 1656,1553 1750,1571 1749,1492 1532,1468 1364,1516 1221,1469 1131,1518 1049,1461 876,1458 719,1513 581,1465 291,1516" rendition="Line" xml:id="facs_133_r1l15"/>
+            <zone points="287,1675 619,1662 692,1715 890,1637 1056,1650 1153,1715 1366,1635 1697,1653 1725,1586 1585,1608 1477,1554 1384,1603 955,1571 768,1607 587,1566 286,1624" rendition="Line" xml:id="facs_133_r1l16"/>
+            <zone points="344,1782 734,1743 1184,1746 1307,1796 1512,1735 1675,1762 1674,1688 1414,1661 1151,1716 963,1702 859,1644 699,1715 532,1667 343,1688" rendition="Line" xml:id="facs_133_r1l17"/>
+            <zone points="350,1864 450,1904 576,1851 1721,1842 1720,1800 1494,1753 1122,1814 1039,1777 349,1797" rendition="Line" xml:id="facs_133_r1l18"/>
+            <zone points="362,2009 593,1938 1274,1944 1632,2006 1754,1963 1755,1901 1612,1842 1400,1912 1234,1861 878,1915 651,1875 362,1908" rendition="Line" xml:id="facs_133_r1l19"/>
+            <zone points="1691,2025 1704,2024 1707,2020 1711,2022 1714,2018 1722,2023 1727,2019 1738,2024 1747,2023 1743,1946 1726,1945 1711,1957 1687,1956" rendition="Line" xml:id="facs_133_r1l20"/>
+            <zone points="364,2185 428,2128 607,2155 674,2089 781,2074 1144,2119 1301,2067 1683,2083 1722,2076 1720,2012 1158,1977 1058,2045 846,1956 723,2002 594,1939 359,2059" rendition="Line" xml:id="facs_133_r1l21"/>
+            <zone points="632,2190 1682,2179 1743,2167 1741,2066 1493,2132 1366,2078 1097,2133 1030,2088 916,2110 786,2074 631,2141" rendition="Line" xml:id="facs_133_r1l22"/>
+            <zone points="613,2264 792,2238 978,2275 1164,2244 1549,2268 1588,2237 1735,2273 1751,2194 1679,2177 1612,2222 983,2161 613,2213" rendition="Line" xml:id="facs_133_r1l23"/>
+            <zone points="636,2347 1068,2328 1204,2358 1406,2327 1704,2361 1704,2294 1582,2245 1496,2289 1427,2253 1313,2274 1170,2244 1070,2294 950,2298 795,2238 732,2289 636,2297" rendition="Line" xml:id="facs_133_r1l24"/>
+            <zone points="723,2479 799,2473 841,2436 941,2411 1051,2439 1079,2416 1171,2428 1169,2357 1141,2364 1069,2326 1023,2362 957,2377 911,2363 859,2379 810,2359 720,2391" rendition="Line" xml:id="facs_133_r1l25"/>
+            <zone points="973,2525 982,2525 995,2534 1009,2531 1015,2536 1053,2531 1060,2536 1080,2535 1080,2448 1071,2448 1066,2442 1057,2448 1051,2442 1031,2451 1020,2448 1010,2453 1006,2449 995,2460 973,2460" rendition="Line" xml:id="facs_133_r1l26"/></zone>
+      </surface>
+      
+
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div type="page"><pb facs="#facs_133" n="75 r" xml:id="Kasten_blau_44_8_0133.jpg"/><p facs="#facs_133_r1">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+               <lb n="N006"/>
+               <lb n="N007"/>
+               <lb n="N008"/>
+               <lb n="N009"/>
+               <lb n="N010"/>
+               <lb n="N011"/>
+               <lb n="N012"/>
+               <lb n="N013"/>
+               <lb n="N014"/>
+               <lb n="N015"/>
+               <lb n="N016"/>
+               <lb n="N017"/>
+               <lb n="N018"/>
+               <lb n="N019"/>
+               <lb n="N020"/>
+               <lb n="N021"/>
+               <lb n="N022"/>
+               <lb n="N023"/>
+               <lb n="N024"/>
+               <lb n="N025"/>
+               <lb n="N026"/>
+            </p></div></body>
+   </text>
+</TEI>

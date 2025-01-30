@@ -3,11 +3,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1701.04.12</title>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1701.12.14</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
-               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+               <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+               <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
             </editor>
             <funder>
                <name>FWF - Der Wissenschaftsfonds</name>
@@ -50,7 +52,7 @@
                         <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-04-12"/></origin>
+                        <origin><origDate when-iso="1701-12-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -69,7 +71,7 @@
          </ab>
          <ab type="notes">Datum: eindeutig 1701, allerdings hat sie sich auch schon manchmal geirrt beim Jahr. 10. wohl korrigiert aus 12., möglich wäre auch 14. korrigiert aus 12.</ab>
         </abstract>
-        <abstract n="regest">
+         <abstract n="regest">
             <p/>
          </abstract>
          <langUsage>
@@ -79,7 +81,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1701-04-12">Dienstag, 12. April 1701</date>
+               <date when-iso="1701-12-14">Dienstag, 14. Dezember 1701</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
