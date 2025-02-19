@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0130.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Maria Magdalena von Heiligen Sacrament, Priorin, Maria Agnes vom Heiligen Geist, Catharina Teresia von Jesus an Eleonora Magdalena von Pfalz-Neuburg, Aachen, am 1701.06.02</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau</idno>
+                        
+                        <idno>44/8</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1701-06-02"/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">58705</idno>
+                  <idno type="transkribus-doc-id">565905</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>Schreiber</term>
+         </ab>
+         <ab type="notes"></ab>
+        </abstract>
+        <abstract n="regest">
+           <p>Drittbrief, beigelegt zu <ref target="#Kasten_blau_44_8_0130.xml">EMT an JW, am 1701.05.19</ref>
+           </p>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__551 #emt_person_id__552 #emt__person_id__553">Maria Magdalena vom Heiligen Sacrament, Priorin, Maria Agnes vom Heiligen Geist, Catharina Teresia von Jesus</persName>
+               <placeName ref="#emt_place_id__3">Aachen</placeName>
+               <date when-iso="1701-06-02"/>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                <placeName ref="#"/>
+                <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="aspitzbart">Drittbrief abgetrennt, Metadaten ergänzt</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>    
+      <surface lrx="1808" lry="2698" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="2698px" url="Kasten_blau_44_8_0132.jpg" width="1808px"/>
+         <zone points="176,108 176,2506 1738,2506 1738,108" rendition="TextRegion" xml:id="facs_1_r1">
+            <zone points="170,219 211,218 281,164 308,173 379,160 425,125 413,33 376,22 348,33 235,26 147,38" rendition="Line" xml:id="facs_1_r1l1"/>
+            <zone points="442,348 623,329 854,384 1016,325 1096,385 1414,384 1487,332 1673,325 1673,243 1320,273 1210,211 1103,256 961,217 883,274 680,293 551,249 442,293" rendition="Line" xml:id="facs_1_r1l2"/>
+            <zone points="334,456 766,433 954,481 1112,443 1196,493 1365,430 1675,439 1722,379 1411,398 1258,359 1119,399 1034,345 757,410 494,332 334,398" rendition="Line" xml:id="facs_1_r1l3"/>
+            <zone points="306,543 622,529 729,580 869,536 942,582 1150,582 1704,530 1638,475 1208,504 1119,447 926,511 766,433 672,476 613,442 517,502 306,472" rendition="Line" xml:id="facs_1_r1l4"/>
+            <zone points="309,641 1746,656 1746,558 904,597 591,540 309,584" rendition="Line" xml:id="facs_1_r1l5"/>
+            <zone points="342,798 608,723 711,769 1386,728 1675,764 1737,739 1737,650 1295,649 1199,703 778,632 341,698" rendition="Line" xml:id="facs_1_r1l6"/>
+            <zone points="1325,782 1338,782 1341,785 1346,785 1350,789 1354,785 1362,785 1362,748 1354,748 1343,758 1339,758 1336,755 1325,755" rendition="Line" xml:id="facs_1_r1l7"/>
+            <zone points="1437,803 1447,801 1454,796 1468,794 1462,757 1453,759 1450,758 1445,762 1431,764" rendition="Line" xml:id="facs_1_r1l8"/>
+            <zone points="351,898 692,827 788,868 900,833 971,890 1147,848 1208,880 1305,837 1692,832 1722,786 1649,758 1305,803 1145,738 1090,776 836,748 623,792 568,749 351,793" rendition="Line" xml:id="facs_1_r1l9"/>
+            <zone points="328,958 568,925 1108,940 1163,979 1309,941 1633,995 1740,946 1741,861 1513,913 1359,847 1252,911 1153,848 927,903 683,839 328,909" rendition="Line" xml:id="facs_1_r1l10"/>
+            <zone points="1404,1049 1411,1049 1416,1046 1420,1048 1433,1036 1442,1035 1434,960 1425,961 1417,971 1396,975" rendition="Line" xml:id="facs_1_r1l11"/>
+            <zone points="336,1046 588,1094 716,1040 875,1105 957,1063 1074,1102 1240,1053 1385,1090 1413,984 1257,954 1043,1025 930,965 837,988 775,939 590,982 497,935 336,982" rendition="Line" xml:id="facs_1_r1l12"/>
+            <zone points="1091,1121 1107,1121 1108,1119 1117,1119 1117,1087 1108,1087 1107,1085 1105,1085 1099,1091 1091,1091" rendition="Line" xml:id="facs_1_r1l13"/>
+            <zone points="314,1189 657,1146 817,1205 1272,1152 1684,1191 1695,1097 1503,1142 1432,1095 1310,1113 1243,1056 1098,1122 960,1064 878,1106 550,1076 315,1118" rendition="Line" xml:id="facs_1_r1l14"/>
+            <zone points="287,1295 490,1251 545,1292 1225,1260 1348,1310 1708,1269 1577,1166 1330,1231 1099,1162 925,1220 700,1172 591,1216 481,1154 288,1217" rendition="Line" xml:id="facs_1_r1l15"/>
+            <zone points="311,1389 803,1360 1130,1422 1397,1362 1616,1414 1716,1399 1717,1296 1109,1328 893,1260 557,1336 422,1285 312,1325" rendition="Line" xml:id="facs_1_r1l16"/>
+            <zone points="283,1482 729,1458 949,1531 1077,1471 1222,1533 1304,1474 1425,1509 1619,1471 1658,1406 1472,1380 1352,1434 1243,1375 1131,1422 1040,1386 656,1410 545,1363 283,1432" rendition="Line" xml:id="facs_1_r1l17"/>
+            <zone points="331,1564 736,1555 832,1604 1140,1562 1196,1603 1667,1548 1644,1472 1284,1540 1113,1502 946,1531 731,1459 332,1488" rendition="Line" xml:id="facs_1_r1l18"/>
+            <zone points="304,1722 409,1719 496,1662 590,1688 663,1677 718,1709 791,1675 878,1721 998,1692 998,1617 913,1593 842,1615 749,1560 646,1612 588,1568 538,1609 490,1591 442,1609 387,1567 304,1592" rendition="Line" xml:id="facs_1_r1l19"/>
+            <zone points="245,1956 307,1942 377,1894 439,1912 455,1901 475,1906 529,1870 558,1880 556,1795 493,1793 448,1753 418,1751 405,1738 339,1742 299,1769 281,1754 240,1764" rendition="Line" xml:id="facs_1_r1l20"/>
+            <zone points="702,1945 826,1895 991,1899 1066,1936 1199,1892 1458,1892 1545,1924 1682,1892 1682,1801 1451,1860 1332,1787 1153,1821 1101,1785 929,1846 849,1780 702,1808" rendition="Line" xml:id="facs_1_r1l21"/>
+            <zone points="722,2017 1439,1999 1450,1937 1384,1947 1257,1893 1094,1946 936,1933 865,1898 769,1961 721,1944" rendition="Line" xml:id="facs_1_r1l22"/>
+            <zone points="684,2154 952,2124 1056,2167 1198,2113 1696,2142 1705,2023 1527,2023 1354,2085 1156,2028 976,2076 820,2022 682,2057" rendition="Line" xml:id="facs_1_r1l23"/>
+            <zone points="702,2259 849,2269 972,2223 1020,2249 1489,2236 1606,2267 1649,2260 1650,2157 1561,2135 1465,2184 1296,2194 953,2124 703,2145" rendition="Line" xml:id="facs_1_r1l24"/>
+            <zone points="1170,2435 1192,2442 1198,2439 1220,2451 1231,2444 1308,2450 1322,2446 1324,2417 1306,2411 1294,2416 1278,2404 1246,2404 1238,2396 1223,2399 1217,2393 1196,2403 1171,2405" rendition="Line" xml:id="facs_1_r1l25"/>
+            <zone points="1171,2482 1186,2479 1199,2490 1241,2500 1271,2485 1321,2482 1352,2501 1386,2491 1391,2440 1326,2443 1309,2453 1232,2441 1221,2449 1175,2438" rendition="Line" xml:id="facs_1_r1l26"/>
+            <zone points="854,2481 879,2487 894,2479 905,2488 921,2487 926,2492 935,2492 943,2406 931,2403 904,2413 892,2401 883,2404 875,2396 862,2398" rendition="Line" xml:id="facs_1_r1l27"/></zone>
+      </surface>  
+   </facsimile>
+   <text type="letter">
+      <body><div type="page"><pb facs="#facs_1" n="74 r" xml:id="Kasten_blau_44_8_0132.jpg" source="https://files.transkribus.eu/Get?id=ZZTDRIPQRUNNOLAKYYJCLVBC&amp;fileType=view"/><p facs="#facs_1_r1">
+         <lb n="N001"/>
+         <lb n="N002"/>
+         <lb n="N003"/>
+         <lb n="N004"/>
+         <lb n="N005"/>
+         <lb n="N006"/>
+         <lb n="N007"/>
+         <lb n="N008"/>
+         <lb n="N009"/>
+         <lb n="N010"/>
+         <lb n="N011"/>
+         <lb n="N012"/>
+         <lb n="N013"/>
+         <lb n="N014"/>
+         <lb n="N015"/>
+         <lb n="N016"/>
+         <lb n="N017"/>
+         <lb n="N018"/>
+         <lb n="N019"/>
+         <lb n="N020"/>
+         <lb n="N021"/>
+         <lb n="N022"/>
+         <lb n="N023"/>
+         <lb n="N024"/>
+         <lb n="N025"/> 
+         <lb n="N026"/>
+         <lb n="N027"/>
+      </p></div>
+      </body>
+   </text>
+</TEI>

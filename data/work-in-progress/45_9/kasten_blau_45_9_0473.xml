@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_9_0470.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, Wien am 1685.10.11.</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>München</settlement>
+                                <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/9</idno>
+                                
+                                <idno/>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate when-iso="1685-10-11"/></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">118102</idno>
+                        <idno type="transkribus-doc-id">833675</idno>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>eigenhändig</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__63">Wien</placeName>
+                    <date when-iso="1685-09-27">Donnerstag, 11. Oktober 1685</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ulx="0" uly="0" lrx="800" lry="1192" xml:id="facs_1">
+            <graphic url="Kasten_blau_45_9_0473.jpg" width="800px" height="1192px"/>
+            <zone points="20,264 20,1191 787,1191 787,264" rendition="TextRegion" xml:id="facs_1_r1">
+                <zone points="152,340 191,353 218,332 376,343 483,314 533,333 578,313 613,328 716,301 793,309 790,268 571,271 513,240 367,267 148,259" rendition="Line" xml:id="facs_1_r1l1"/>
+                <zone points="123,393 291,382 327,404 578,365 744,373 776,367 775,333 668,308 522,335 482,315 393,354 364,336 303,356 121,348" rendition="Line" xml:id="facs_1_r1l2"/>
+                <zone points="112,470 249,441 405,471 485,429 603,413 787,435 782,371 676,362 609,399 562,382 411,405 294,391 247,417 146,394 109,421" rendition="Line" xml:id="facs_1_r1l3"/>
+                <zone points="102,528 249,498 371,514 430,480 479,498 748,476 762,436 586,433 535,462 477,450 387,478 343,452 240,446 98,478" rendition="Line" xml:id="facs_1_r1l4"/>
+                <zone points="102,611 148,612 211,567 289,578 320,559 386,582 514,540 762,542 756,481 641,503 564,482 460,523 420,507 255,539 95,537" rendition="Line" xml:id="facs_1_r1l5"/>
+                <zone points="87,656 147,648 201,671 322,629 528,630 619,592 758,590 754,550 646,545 412,594 357,569 83,613" rendition="Line" xml:id="facs_1_r1l6"/>
+                <zone points="84,719 458,704 511,670 581,689 769,656 765,611 697,638 609,606 474,641 296,643 189,684 78,649" rendition="Line" xml:id="facs_1_r1l7"/>
+                <zone points="78,784 180,792 263,756 348,785 549,721 620,757 700,719 762,720 759,679 599,703 528,685 376,726 346,709 288,729 242,710 73,727" rendition="Line" xml:id="facs_1_r1l8"/>
+                <zone points="78,861 144,839 278,829 495,843 547,826 544,760 507,757 452,782 335,776 269,805 116,775 75,792" rendition="Line" xml:id="facs_1_r1l9"/>
+                <zone points="211,905 221,910 232,904 252,911 274,895 304,892 309,896 320,892 319,845 300,848 289,858 258,833 236,847 210,840" rendition="Line" xml:id="facs_1_r1l10"/>
+                <zone points="433,971 483,972 500,959 528,975 544,959 637,961 690,943 727,956 776,934 775,910 742,914 707,899 648,908 615,891 558,911 524,893 431,929" rendition="Line" xml:id="facs_1_r1l11"/>
+                <zone points="514,1019 531,1020 540,1012 562,1017 581,1009 604,1024 627,1027 636,1023 630,956 609,963 577,955 569,962 558,960 542,967 534,976 511,985" rendition="Line" xml:id="facs_1_r1l13"/>
+                <zone points="15,956 45,951 131,978 174,953 239,959 265,946 288,957 317,944 317,905 290,892 253,911 213,905 174,922 139,910 109,921 15,896" rendition="Line" xml:id="facs_1_r1l12"/>
+            </zone>
+        </surface>
+    </facsimile> 
+ <text type="letter">
+   <body>
+<div type="page"><pb facs="#facs_1" n="279 r" xml:id="Kasten_blau_45_9_0473.jpg" source="https://files.transkribus.eu/Get?id=XBHORMRWBZVSDIDXYRVWXWPP&amp;fileType=view"/><p facs="#facs_1_r1">
+    <lb n="N001"/><seg type="comment">Durchleüchtiger Cuhrfürst</seg>, herzallerliebster herr vatter
+    <lb n="N002"/>Weil mihr noch nit erlaubt vill zu schreiben,
+    <lb n="N003"/>also werde dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben mit könftiger
+    <lb n="N004"/>post beantworten. Due mich nuhr hirmit in ewer
+    <lb n="N005"/>Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehlen vnd berichten, das ich
+    <lb n="N006"/>mich sonst gottlob wohl auf befind vnd
+    <lb n="N007"/>dis außer des bets schreiben due. Ihr <rs type="person" ref="#emt_person_id__35">Mayestät</rs> seint
+    <lb n="N008"/>zue <rs type="place" ref="#emt_place_id__112">Closterneüburg</rs> auf einem iagen, ist das
+    <lb n="N009"/>erste sawiagen. Ich werde sterben
+    <lb n="N010"/>ewer Durchlaucht
+    <lb n="N011"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> trewgeho<supplied>r</supplied>sa<supplied>m</supplied>ste d<supplied>o</supplied>chter
+    <lb n="N012"/>EMT
+    <lb n="N013"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when="1685-10-11" type="letter">11 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1685</date></p></div>
+   </body>
+ </text>
+</TEI>
