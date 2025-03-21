@@ -167,7 +167,7 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_466" n="279 r" xml:id="Kasten_blau_45_8_0467.jpg" source="https://files.transkribus.eu/Get?id=OAHNHXLGOMKSEXSWPHFDBQWJ&amp;fileType=view"/><p facs="#facs_466_r1">
                <lb n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
-               <lb n="N002"/>Aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom <date when="1681-09-26" type="letter">26 passato</date> hab ich mit
+               <lb n="N002"/>Aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice> schreiben vom <date type="letter" when-iso="1681-09-26">26 passato</date> hab ich mit
                <lb n="N003"/>großen freüden ewer Durchlaucht guetten wohlstandt vernommen,
                <lb n="N004"/>vndt das zwahr mit der bürst noch langsamb her
                <lb n="N005"/>geht, aber doch <seg type="blackening">schon</seg> <add>noch</add> so einen guetten hirsch geschoßen
@@ -222,7 +222,7 @@
                <lb n="N009"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb n="N010"/>do<supplied>c</supplied>hter
                <lb n="N011"/>EMT
-               <lb n="N012"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date when="1681-10-08" type="letter">8 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
+               <lb n="N012"/><rs type="place" ref="#emt_place_id__72">Edenburg</rs> den <date type="letter" when-iso="1681-10-08">8 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1681</date>
             </p></div></body>
    </text>
 </TEI>
