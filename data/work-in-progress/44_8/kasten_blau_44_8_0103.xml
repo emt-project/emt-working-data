@@ -761,7 +761,19 @@
             <pb facs="#facs_110" n="59 v" xml:id="Kasten_blau_44_8_0110.jpg" ed="36 v" source="https://files.transkribus.eu/Get?id=TXZHLLMIJDTDKMZJIMWYKSEE&amp;fileType=view"/>
             <p facs="#facs_110_r1"> </p>
          </div>
-         <div type="page"><pb facs="#facs_111" n="15 r" xml:id="Kasten_blau_44_8_0031.jpg" source="https://files.transkribus.eu/Get?id=WFAISODOSYMNPOJLPTJIDOAX&amp;fileType=view"/><p facs="#facs_111_r1">
+         <div type="attachment">
+            <head>Beilage</head>
+            <ab>
+               <date when-iso="1700-12-18">1700.12.18</date>
+               <placeName><rs type="place" ref="#emt_place_id__238">Rom</rs></placeName>
+               <persName type="sender">keine Angabe</persName>
+               <persName type="recipient">keine Angabe</persName>
+               <lang>italienisch</lang>
+               <note type="attachmentType">Kopie</note>
+               <note type="content">Zeitung aus Rom.</note>
+            </ab>
+           <div type="page">
+            <pb facs="#facs_111" n="15 r" xml:id="Kasten_blau_44_8_0031.jpg" source="https://files.transkribus.eu/Get?id=WFAISODOSYMNPOJLPTJIDOAX&amp;fileType=view"/><p facs="#facs_111_r1">
             <lb n="N001"/>
             <lb n="N002"/>
             <lb n="N003"/>
@@ -1059,6 +1071,7 @@
             <lb n="N033"/>
             <lb n="N034"/>
          </p></div>
+     </div>
       </body>
    </text>
 </TEI>
