@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0179.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_7_0179.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -9,7 +11,9 @@
                von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Johann Wilhelm von Pfalz-Neuburg</author>
             <editor>
-               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+               <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+               <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
             </editor>
             <funder>
                <name>FWF - Der Wissenschaftsfonds</name>
@@ -54,7 +58,9 @@
                         <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1696-11-08"/></origin>
+                        <origin>
+                           <origDate when-iso="1696-11-08"/>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -336,34 +342,192 @@
       <body>
          <div type="page">
             <pb facs="#facs_1" n="99 r" xml:id="Kasten_blau_44_7_0179.jpg" ed="90 r" source="https://files.transkribus.eu/Get?id=ZFSEKVKFLDIUDVFFQOSVXMVN&amp;fileType=view"/>
-            <p facs="#facs_1_r1"> </p>
+                        <p facs="#facs_1_r1">
+             <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            </p>
          </div>
          <div type="page">
             <pb facs="#facs_2" n="99 v" xml:id="Kasten_blau_44_7_0180.jpg" ed="90 v" source="https://files.transkribus.eu/Get?id=ALAOQRHXBQMYFKBEOTDRTLIH&amp;fileType=view"/>
-            <p facs="#facs_2_r1"> </p>
+            <p facs="#facs_2_r1"><lb n="N001"/>
+                 <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            <lb n="N022"/>
+            </p>
          </div>
          <div type="page">
             <pb facs="#facs_3" n="100 r" xml:id="Kasten_blau_44_7_0181.jpg" ed="91 r" source="https://files.transkribus.eu/Get?id=HUHGLQIPLMSJHZKBMPRLPNFJ&amp;fileType=view"/>
-            <p facs="#facs_3_r1"> </p>
-            <p facs="#facs_3_r2"> </p>
+             <p facs="#facs_3_r1"> 
+            <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            <lb n="N022"/>
+            <lb n="N023"/>
+            </p>
+            <p facs="#facs_3_r2"> <lb n="N001"/></p>
          </div>
          <div type="page">
             <pb facs="#facs_4" n="100 v" xml:id="Kasten_blau_44_7_0182.jpg" ed="91 v" source="https://files.transkribus.eu/Get?id=LJFVFXRLXJLSPNPZHZFHKUAG&amp;fileType=view"/>
-            <p facs="#facs_4_r1"> </p>
+             <p facs="#facs_4_r1">
+            <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            <lb n="N022"/>
+            </p>
          </div>
          <div type="page">
             <pb facs="#facs_5" n="101 r" xml:id="Kasten_blau_44_7_0183.jpg" ed="94 r" source="https://files.transkribus.eu/Get?id=WJHAQSKQNCVSIBULTWOULRUP&amp;fileType=view"/>
-            <p facs="#facs_5_r1"> </p>
-            <p facs="#facs_5_r2"> </p>
-            <p facs="#facs_5_r3"> </p>
+            <p facs="#facs_5_r1">
+            <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            </p>
+            <p facs="#facs_5_r2"> <lb n="N001"/></p>
+            <p facs="#facs_5_r3"></p>
          </div>
          <div type="page">
             <pb facs="#facs_6" n="101 v" xml:id="Kasten_blau_44_7_0184.jpg" ed="94 v" source="https://files.transkribus.eu/Get?id=WQRZHHRTLLKDOZHXZTMYMXRI&amp;fileType=view"/>
-            <p facs="#facs_6_r1"> </p>
+             <p facs="#facs_6_r1"> 
+            <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            </p>
          </div>
          <div type="page">
             <pb facs="#facs_7" n="102 r" xml:id="Kasten_blau_44_7_0185.jpg" ed="95 r" source="https://files.transkribus.eu/Get?id=ASDONUIRFMEKMZXSBDQJIPGF&amp;fileType=view"/>
-            <p facs="#facs_7_r1"> </p>
+             <p facs="#facs_7_r1">
+            <lb n="N001"/>
+            <lb n="N002"/>
+            <lb n="N003"/>
+            <lb n="N004"/>
+            <lb n="N005"/>
+            <lb n="N006"/>
+            <lb n="N007"/>
+            <lb n="N008"/>
+            <lb n="N009"/>
+            <lb n="N010"/>
+            <lb n="N011"/>
+            <lb n="N012"/>
+            <lb n="N013"/>
+            <lb n="N014"/>
+            <lb n="N015"/>
+            <lb n="N016"/>
+            <lb n="N017"/>
+            <lb n="N018"/>
+            <lb n="N019"/>
+            <lb n="N020"/>
+            <lb n="N021"/>
+            <lb n="N022"/>
+            <lb n="N023"/>
+            </p>
          </div>
       </body>
 
