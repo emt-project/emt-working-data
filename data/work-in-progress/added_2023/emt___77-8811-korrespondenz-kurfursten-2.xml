@@ -148,7 +148,7 @@
    <text type="letter">
       <body>
          <div type="page">
-            <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=UOFGTUNJUALQXVCTDVBIVJUC&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00073.jpg"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001" source="https://files.transkribus.eu/Get?id=UOFGTUNJUALQXVCTDVBIVJUC&amp;fileType=view"/>
             <p facs="#facs_1_region_1674814763093_1286">
                <lb n="N001"/>Durchleüchtiger Fürst, mein herz allerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb n="N002"/>Ich hette dero liebsts schreiben vom <date type="letter" when-iso="1687-06-18">18ten passato</date>
@@ -171,7 +171,7 @@
             </p>
          </div>
          <div type="page">
-            <pb facs="#facs_2" n="2" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=SYRJIFDTZAUDUJUJDPABROCR&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00075.jpg"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=SYRJIFDTZAUDUJUJDPABROCR&amp;fileType=view"/>
             <p facs="#facs_2_tr_1">
                <lb n="N001"/>geschikt, dero Liebden zu recomendirn, wan der <rs type="person" ref="#emt_person_id__902">kerl</rs>
                <lb n="N002"/>dauglich darzue ist, woll ihn dero Liebden laßen recomen-
@@ -192,16 +192,28 @@
                <lb n="N017"/>weil es zue schapht wehr kommen.
             </p>
          </div>
+         <div type="attachment">
+            <head>Beilage</head>
+            <ab>
+               <date notBefore="1687-01-01" notAfter="1687-12-31">1687.??.??</date>
+               <placeName>o.O.</placeName>
+               <persName type="sender"><rs type="person" ref="#emt_person_id__901">Katharina Eva Keisgens, vereh. Groß</rs></persName>
+               <persName type="recipient"><rs type="person" ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg </rs></persName>
+               <lang>deutsch</lang>
+               <note type="attachmentType">Ausfertigung</note>
+               <note type="content">Als Tochter von EMTs ehemaliger Amme bittet sie für ihren Mann Johann Groß um eine Stelle als Kanzleidiener, die die Kaiserin bei ihrem Bruder Johann Wilhelm erwirken soll.</note>
+            </ab>
+            
          <div type="page">
-            <pb facs="#facs_3" n="3" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=EGBEXZCCXSVOXOGFFFWANLNI&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00076-20230117_145354.jpg" rend="90"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0002" source="https://files.transkribus.eu/Get?id=EGBEXZCCXSVOXOGFFFWANLNI&amp;fileType=view" rend="90"/>
          </div>
          <div type="page">
-            <pb facs="#facs_4" n="4" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=JMFXVYPJLGIOFFSIXNUUJHMT&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00077-20230117_145401.jpg" rend="90"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=JMFXVYPJLGIOFFSIXNUUJHMT&amp;fileType=view" rend="90"/>
          </div>
          <div type="page">
-            <pb facs="#facs_5" n="5" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=CJSNZTISCWAQRCXNKSWYIGBL&amp;fileType=view" id="77_8811_Korrespondenz Karlsruhe_00078-20230117_145408.jpg" rend="90"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0004" source="https://files.transkribus.eu/Get?id=CJSNZTISCWAQRCXNKSWYIGBL&amp;fileType=view" rend="90"/>
+         </div>
          </div>
       </body>
-      
-   </text>
+         </text>
 </TEI>
