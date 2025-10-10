@@ -79,7 +79,7 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date when-iso="1695-11-23">Mittwoch, 23. November 1695</date>
+               <date type="letter" when-iso="1695-11-23">Mittwoch, 23. November 1695</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
@@ -201,14 +201,14 @@
       <lb n="N016"/>das man nit kunt wißen, woh her oder woh hin,
         <lb n="N017"/>auch selbst ein diener, <unclear reason="chiffriert">der ihn nit kent</unclear>, 
       <lb n="N018"/>von Nustorf einen mit nachricht der ankonft an
-        <lb n="N019"/><unclear reason="chiffriert">den Schäfer schiken</unclear>, welcher in 
+           <lb n="N019"/><unclear reason="chiffriert"><rs type="person" ref="#emt_person_id__979">den Schäfer</rs> schiken</unclear>, welcher in 
       <lb n="N020"/>dort abholen vndt weiters instruiren wurd. Also bin
       <lb n="N021"/>ich sicher, das nimand niks innen wirt. Überschik</p></div><div type="page"><pb facs="#facs_3" n="10 r" xml:id="Korrespondenzakten_1147_0014.jpg" ed="108 r" source="https://files.transkribus.eu/Get?id=GDQKQFBRJKNAHEZACDGIULYL&amp;fileType=view"/><p facs="#facs_3_r1">
       <lb n="N001"/>hierbey dero Liebden dise sachen alle wider vndt auch dis
-            <lb n="N002"/>memorial vom <rs type="person" ref="#emt_person_id__979">Scheffer</rs> wegen des Irrmans
+            <lb n="N002"/>memorial vom <rs type="person" ref="#emt_person_id__979">Scheffer</rs> wegen des <rs type="person" ref="#emt_person_id__1017">Irrmans</rs>
       <lb n="N003"/>kinder. Bit, dero Liebden wollens ihnen laßen befohlen sein, die
       <lb n="N004"/>armen weißl kommen sonst vmb das ihrige,
-      <lb n="N005"/>der <unclear reason="offensichtlich sinnentstellende Korruptele: abgeschmachte">abgeschamchte</unclear> Holthausen duet, was er will.
+            <lb n="N005"/>der <unclear reason="offensichtlich sinnentstellende Korruptele: abgeschmachte">abgeschamchte</unclear> <rs type="person" ref="#emt_person_id__1019">Holthausen</rs> duet, was er will.
       <lb n="N006"/>Ist mihr einmahl vnmöglich, heündt auf
       <lb n="N007"/>die andren puncten, so mihr dero Liebden im vohrigen brif
       <lb n="N008"/>geschriben, zu antworten, weil die z<supplied>e</supplied>it zukurz. Due
@@ -216,8 +216,8 @@
       <lb n="N010"/>dero Liebden
       <lb n="N011"/>getre<supplied>w</supplied>ste schw<supplied>e</supplied>ster
       <lb n="N012"/>Eleonora
-            <lb n="N013"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when="1695-11-23" type="letter">23ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1695</date>
-      <lb n="N014"/>Ihr Mayestät haben die sachen aufgehebt,
+            <lb n="N013"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1695-11-23">23ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1695</date>
+            <lb n="N014"/><rs type="person" ref="#emt_person_id__35">Ihr Mayestät</rs> haben die sachen aufgehebt,
       <lb n="N015"/>sie werdens bey sich behalten.</p></div>
 </body>
 
