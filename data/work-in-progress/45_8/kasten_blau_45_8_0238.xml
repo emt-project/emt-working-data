@@ -123,7 +123,7 @@
    <text type="letter">
       <body><div type="page"><pb facs="#facs_238" n="135 r" xml:id="Kasten_blau_45_8_0238.jpg" source="https://files.transkribus.eu/Get?id=BKUEHMPSFFECWOCOBOIVQSZE&amp;fileType=view"/><p facs="#facs_238_r1">
                <lb n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date type="letter" when-iso="1679-08-13">13 dies</date> habe wohl empfangen.
+         <lb n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <note type="editorische_Anmerkung">Fehler in der Monatsangabe durch die Schreiberin. Als korrektes Sendedatum wird hier der 13. Juli 1679 vermutet.<date type="letter" when-iso="1679-07-13">13 dies</date></note> habe wohl empfangen.
                <lb n="N003"/>Bitte vnterdehnig vmb vergebung, das heütt
          <lb n="N004"/>nit auf alles antworten kan. Der <rs type="person" ref="#emt_person_id__66">Schellerer</rs>
                <lb n="N005"/>wirt ewer Durchlaucht alles berichten. Weil mihr
@@ -142,7 +142,7 @@
                <lb n="N018"/>ganzergebenste trewgehor-
                <lb n="N019"/>samste dochter
                <lb n="N020"/>EMT
-         <lb n="N021"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1679-08-15">13 aug<supplied>u</supplied>st 1679</date>
+         <lb n="N021"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <unclear reason="unsichere Lesart"><date notBefore="1679-08-13" notAfter="1679-08-15">13 aug<supplied>u</supplied>st 1679</date></unclear>
             </p></div></body>
    </text>
 </TEI>
