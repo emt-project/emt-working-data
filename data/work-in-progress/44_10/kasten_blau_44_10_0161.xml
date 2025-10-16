@@ -354,7 +354,18 @@
             <p facs="#facs_3_region_1669816721637_450">
                <lb n="N001"/></p>
          </div>
-         <div type="page">
+         <div type="attachment">
+            <head>Beilage 1</head>
+            <ab>
+               <date when-iso="1709-10-10">1709.10.10</date>
+               <placeName>o.O.</placeName>
+               <persName type="sender"><rs type="person" ref="#emt_person_id__14">Franziska Sibylla Augusta von Baden-Baden, geb. Sachsen-Lauenburg</rs> (erschlossen)</persName>
+               <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+               <lang>deutsch</lang>
+               <note type="attachmentType">Kopie</note>
+               <note type="content">Schreiben der verwitweten Markgräfin, in dem diese den Kurfürsten von der geplanten heirat der Prinzessin von Pfalz-Neuburg mit dem Grafen von Löwenstein in Kenntnis setzt.</note>
+            </ab>
+            <div type="page">
             <pb facs="#facs_4" n="99 r" xml:id="Kasten_blau_44_10_0164.jpg" ed="4" source="https://files.transkribus.eu/Get?id=FNMIQPVHQRDTKAJMJGWNLKMM&amp;fileType=view"/>
             <p facs="#facs_4_r1">
                <lb n="N001"/>
@@ -399,6 +410,18 @@
                <lb n="N007"/>
                <lb n="N008"/></p>
          </div>
+            </div>
+         <div type="attachment">
+            <head>Beilage 2</head>
+            <ab>
+               <date when-iso="1709-11-01">1709.11.01</date>
+               <placeName>o.O.</placeName>
+               <persName type="sender"><rs type="person" ref="#emt_person_id__14">Franziska Sibylla Augusta von Baden-Baden, geb. Sachsen-Lauenburg</rs> (erschlossen)</persName>
+               <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+               <lang>deutsch</lang>
+               <note type="attachmentType">Kopie</note>
+               <note type="content">Schreiben der verwitweten Markgräfin wegen der geplanten Heirat der Prinzessin von Pfalz-Neuburg mit dem Grafen von Löwenstein</note>
+            </ab>
          <div type="page">
             <pb facs="#facs_6" n="6" xml:id="Kasten_blau_44_10_0166.jpg" ed="100 r" source="https://files.transkribus.eu/Get?id=TOBTYQXZQEQPXRCHVRRFLIHZ&amp;fileType=view"/>
             <p facs="#facs_6_r1">
@@ -445,6 +468,7 @@
                <lb n="N008"/>
                <lb n="N009"/></p>
          </div>
+            </div>
       </body>
 
    </text>
