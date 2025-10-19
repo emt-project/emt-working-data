@@ -181,6 +181,9 @@
             <zone points="492,382 530,374 530,344 492,352" rendition="Line" xml:id="facs_2_r2l10"/>
          </zone>
       </surface>
+      <surface ulx="0" uly="0" lrx="1940" lry="2913" xml:id="facs_3">
+         <graphic url="Kasten_blau_44_11_0054.jpg" width="1940px" height="2913px"/>
+      </surface> 
    </facsimile>
 
    <text type="letter">
@@ -254,6 +257,19 @@
                <lb n="N009"/>
                <lb n="N010"/></p>
          </div>
+         <div type="attachment">
+            <head>Beilage</head>
+            <ab>
+               <date when-iso="1712-05-08">1712.05.08</date>
+               <placeName>o.O.</placeName>
+               <persName type="sender"><rs type="person" ref="#emt_person_id__38">Maria Anna von Spanien, geb. Pfalz-Neuburg</rs></persName>
+               <persName type="recipient"><rs type="person" ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</rs></persName>
+               <lang>deutsch</lang>
+               <note type="attachmentType">Kopie</note>
+               <note type="content">Die Königin versichert ihre anhaltende Treue und Dienstbereitschaft, Näheres, was sie nicht wagt, der Feder anzuvertrauen, werde der Überbringer sagen.</note>
+            </ab>
+        <div type="page"><pb facs="#facs_3" n="1" xml:id="Kasten_blau_44_11_0054.jpg" source="https://files.transkribus.eu/Get?id=QKDSRBPLOBDEQYXRDIMNFSKP&amp;fileType=view"/></div>
+      </div>
       </body>
 
    </text>
