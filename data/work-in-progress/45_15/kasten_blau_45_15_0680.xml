@@ -263,7 +263,19 @@
       <lb n="N015"/><choice><expan>vnterdehnigste</expan><abbr>vd</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgehors</abbr></choice> dochter
       <lb n="N016"/>EMT
      <lb n="N017"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1689-05-05">5ten maij 1689</date></p></div>
-  <div type="page"><pb facs="#facs_2" n="78 r" xml:id="Kasten_blau_45_15_0681.jpg" source="https://files.transkribus.eu/Get?id=SKDCEPRZPUIGKXZGWTATWTKM&amp;fileType=view"/><p facs="#facs_2_r1">
+      <div type="attachment">
+         <head>Beilage</head>
+         <ab>
+            <date when-iso="1689-04-06">1689.04.06</date>
+            <placeName><rs type="place" ref="#emt_place_id__36">Madrid</rs></placeName>
+            <persName type="sender"><rs type="person" ref="#emt_person_id__37">Maria Anna von Spanien, geb. Österreich</rs></persName>
+            <persName type="recipient"><rs type="person" ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</rs></persName>
+            <lang>deutsch</lang>
+            <note type="attachmentType">Kopie</note>
+            <note type="content">Die Königin-Witwe ist erfreut über die Niederkunft ihrer Enkelin, der Kurfürstin von Bayern. 
+               Umfangreiche Ausführungen zur Eheschließung des Königs von Spanien mit Maria Anna von Pfalz-Neuburg</note>
+         </ab>  
+      <div type="page"><pb facs="#facs_2" n="78 r" xml:id="Kasten_blau_45_15_0681.jpg" source="https://files.transkribus.eu/Get?id=SKDCEPRZPUIGKXZGWTATWTKM&amp;fileType=view"/><p facs="#facs_2_r1">
       <lb n="N001"/>
       <lb n="N002"/>
       <lb n="N003"/>
@@ -374,6 +386,7 @@
       <lb n="N023"/>
       <lb n="N024"/>
       <lb n="N025"/></p></div>
- </body>
+</div>
+   </body>
  </text>
 </TEI>
