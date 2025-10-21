@@ -258,34 +258,7 @@
             <zone points="512,769 522,773 529,769 543,770 553,763 560,766 575,757 610,762 610,717 591,718 584,712 564,722 554,714 544,712 527,725 512,724" rendition="Line" xml:id="facs_4_r2l15"/>
          </zone>
       </surface>
-      <surface ulx="0" uly="0" lrx="800" lry="1277" xml:id="facs_5">
-         <graphic url="%2Ffiles.jpeg" width="800px" height="1277px"/>
-         <zone points="48,99 48,1069 776,1069 776,99" rendition="TextRegion" xml:id="facs_5_r1">
-            <zone points="371,147 403,143 429,131 444,132 469,147 505,145 505,0 371,-1" rendition="Line" xml:id="facs_5_r1l1"/>
-            <zone points="109,179 760,185 760,151 677,131 330,151 109,129" rendition="Line" xml:id="facs_5_r1l2"/>
-            <zone points="116,227 760,222 754,179 677,193 587,174 555,197 490,180 116,180" rendition="Line" xml:id="facs_5_r1l3"/>
-            <zone points="43,265 128,252 275,275 418,254 528,272 753,248 694,223 139,230 43,190" rendition="Line" xml:id="facs_5_r1l4"/>
-            <zone points="54,295 116,313 671,291 781,309 763,258 279,277 54,260" rendition="Line" xml:id="facs_5_r1l5"/>
-            <zone points="55,343 708,348 764,343 764,305 55,313" rendition="Line" xml:id="facs_5_r1l6"/>
-            <zone points="118,384 501,398 577,374 644,394 761,382 761,347 732,342 282,342 169,360 118,340" rendition="Line" xml:id="facs_5_r1l7"/>
-            <zone points="120,433 766,422 765,381 250,401 119,384" rendition="Line" xml:id="facs_5_r1l8"/>
-            <zone points="117,472 313,487 383,466 491,484 764,454 763,423 698,413 530,439 360,426 258,444 183,425 117,443" rendition="Line" xml:id="facs_5_r1l9"/>
-            <zone points="127,512 268,522 315,505 367,525 413,506 574,519 770,498 756,460 690,483 521,469 405,488 126,470" rendition="Line" xml:id="facs_5_r1l10"/>
-            <zone points="116,551 588,557 757,530 756,509 716,495 581,519 115,520" rendition="Line" xml:id="facs_5_r1l11"/>
-            <zone points="131,602 402,591 438,609 496,589 547,605 602,580 655,597 778,575 777,542 664,564 432,546 232,571 130,554" rendition="Line" xml:id="facs_5_r1l12"/>
-            <zone points="124,643 426,646 616,620 674,636 775,621 774,574 445,614 404,596 123,598" rendition="Line" xml:id="facs_5_r1l13"/>
-            <zone points="130,687 714,673 748,662 748,630 544,633 472,654 431,639 305,654 213,631 129,650" rendition="Line" xml:id="facs_5_r1l14"/>
-            <zone points="120,724 269,729 366,707 409,728 533,707 685,718 749,707 748,677 674,664 585,687 484,673 379,691 253,674 211,692 164,676 119,695" rendition="Line" xml:id="facs_5_r1l15"/>
-            <zone points="128,766 601,753 659,769 705,743 755,757 754,730 689,714 620,733 127,723" rendition="Line" xml:id="facs_5_r1l16"/>
-            <zone points="139,813 758,795 757,755 138,778" rendition="Line" xml:id="facs_5_r1l17"/>
-            <zone points="131,854 753,835 752,812 674,791 574,816 373,797 260,819 220,803 130,813" rendition="Line" xml:id="facs_5_r1l18"/>
-            <zone points="139,889 196,904 234,886 469,896 530,880 614,897 765,875 764,839 138,862" rendition="Line" xml:id="facs_5_r1l19"/>
-            <zone points="133,949 341,925 396,944 762,925 752,887 585,905 511,887 347,905 225,888 190,912 132,898" rendition="Line" xml:id="facs_5_r1l20"/>
-            <zone points="143,991 189,974 266,992 402,967 457,980 728,965 726,931 683,922 649,939 511,929 370,951 270,932 232,958 142,957" rendition="Line" xml:id="facs_5_r1l21"/>
-            <zone points="136,1026 688,1016 747,1002 746,975 134,988" rendition="Line" xml:id="facs_5_r1l22"/>
-            <zone points="138,1085 284,1060 408,1082 454,1048 726,1059 764,1044 763,1013 136,1035" rendition="Line" xml:id="facs_5_r1l23"/>
-         </zone>
-      </surface>
+      
    </facsimile>
 
    <text type="letter">
@@ -308,10 +281,7 @@
             <p facs="#facs_4_r1"> </p>
             <p facs="#facs_4_r2"> </p>
          </div>
-         <div type="page">
-            <pb facs="#facs_5" n="5" xml:id="img_0005" source="https://files.transkribus.eu/Get?id=KQSRFHLTTRZSQTOQGDJQQIJB&amp;fileType=view"/>
-            <p facs="#facs_5_r1"> </p>
-         </div>
+         
       </body>
 
    </text>

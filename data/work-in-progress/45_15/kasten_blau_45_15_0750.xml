@@ -307,7 +307,19 @@
       <lb n="N010"/>EMT
      <lb n="N011"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1689-07-05">5ten julij 1689</date> 
       <lb n="N012"/>Hirbey kombt der schpanische brif, so mit lezterer post hab bekommen.</p></div>
-   <div type="page"><pb facs="#facs_3" n="125 r" xml:id="Kasten_blau_45_15_0756.jpg" source="https://files.transkribus.eu/Get?id=GFQKWYMQEDNQLFKUMGZRFZOZ&amp;fileType=view"/><p facs="#facs_3_r1">
+      <div type="attachment">
+         <head>Beilage</head>
+         <ab>
+            <date when-iso="1689-06-01">1689.06.01</date>
+            <placeName><rs type="place" ref="#emt_place_id__10">Madrid, Buen Retiro</rs></placeName>
+            <persName type="sender"><rs type="person" ref="#emt_person_id__37">Maria Anna von Spanien, geb. Österreich</rs></persName>
+            <persName type="recipient"><rs type="person" ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</rs></persName>
+            <lang>deutsch</lang>
+            <note type="attachmentType">Kopie</note>
+            <note type="content">Die Königin-Witwe äußert sich zum Beisetzung ihrer Schwester Maria Anna in Wien und betont noch einmal
+               ihre Freude über die Entscheidung des Königs für Maria Anna von Pfalz-Neuburg. Ausführungen zur Reise; Übermittlung eines Briefes aus Portugal</note>
+         </ab>  
+      <div type="page"><pb facs="#facs_3" n="125 r" xml:id="Kasten_blau_45_15_0756.jpg" source="https://files.transkribus.eu/Get?id=GFQKWYMQEDNQLFKUMGZRFZOZ&amp;fileType=view"/><p facs="#facs_3_r1">
          <lb n="N001"/>
          <lb n="N002"/>
          <lb n="N003"/>
@@ -439,6 +451,7 @@
          <lb n="N017"/>
          <lb n="N018"/>
          <lb n="N019"/></p></div> 
+   </div>
    </body>
    </text>
 </TEI>

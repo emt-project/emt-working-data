@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">O.A. an O.E., o.O. am 1688.?.?</title>
+            <title type="main">Philipp Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, o.O. am 1688.05.?</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>?an ?</author>
             <editor>
@@ -71,19 +71,22 @@
          <ab type="notes">Konzept; Stellungnahme einer ungenannten Person zur Amtsinhabe des Grafen Starhemberg in Düsseldorf</ab>
         </abstract>
         <abstract n="regest">
-            <p/>
-         </abstract>
+           <p>Der Graf von Starhemberg habe die Stelle als Obersthofmeister der Erzherzogin nicht verlangt und sei bereit,
+              sich völlig der Entscheidung des Kaisers zu unterwerfen. Dies solle sein Bruder dem Kaiser persönlich kommunizieren.
+              <note>Es handelt sich hier um die zweite Seite eines Briefes, von dem die erste fehlt; vermutlich eine Antwort des 
+                 Kurfürsten an die Kaiserin auf deren Brief vom <ref target="kasten_blau_44_2b_0012.xml">20. Mai 1688</ref>.</note></p>
+        </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#">o.A.</persName>
+               <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date notBefore="1688-01-01" notAfter="1688-12-31" datingMethod="durch_Editor*innen_erschlossen"/>
+               <date notBefore="1688-05-01" notAfter="1688-05-31" datingMethod="durch_Editor*innen_erschlossen"/>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">o.E.</persName>
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                 <placeName ref="#"/>
                 <date/>
             </correspAction>
