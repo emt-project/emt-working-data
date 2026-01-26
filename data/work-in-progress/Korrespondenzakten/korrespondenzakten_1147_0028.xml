@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="korrespondenzakten_1147_0021.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, o.O. am 12.04.1695</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz
+               von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>nan</author>
+            <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES
+               BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        <idno>Geheimes Hausarchiv, Korrespondenzakten 1147</idno>
+
+                        <idno/>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate/></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">149933</idno>
+                  <idno type="transkribus-doc-id">1012417</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="und">noch nicht bestimmt</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#"></placeName>
+               <date when-iso="1695-12-29">Mittwoch, 12. April 1690</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+               <placeName ref="#"/>
+               <date/>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-04">template populated with script
+            "create_templates.py"</change>
+         <change who="aspitzbart" when="2023-04-11">added metadata</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1772" lry="2472" xml:id="facs_1">
+         <graphic url="Korrespondenzakten_1147_0020.jpg" width="1772px" height="2472px"/>
+         <zone points="17,28 360,28 360,131 17,131" rendition="TextRegion" xml:id="facs_1_region_1669904851773_885">
+            <zone points="64,29 293,35 292,85 63,79" rendition="Line" xml:id="facs_1_line_1669904856137_888"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="800" lry="1259" xml:id="facs_9">
+         <graphic url="Korrespondenzakten_1147_0028.jpg" width="800px" height="1259px"/>
+         <zone points="43,53 43,714 780,714 780,53" rendition="TextRegion" xml:id="facs_9_r1">
+            <zone points="61,100 195,84 246,109 499,81 659,111 757,91 756,40 666,27 563,49 450,29 418,54 268,56 210,34 61,66" rendition="Line" xml:id="facs_9_r1l1"/>
+            <zone points="50,145 162,165 261,124 308,150 420,127 550,149 627,128 675,150 781,124 781,105 701,92 652,111 497,81 331,113 189,84 50,113" rendition="Line" xml:id="facs_9_r1l2"/>
+            <zone points="38,187 421,179 456,203 748,184 747,145 694,135 592,151 419,126 328,156 266,128 166,165 37,142" rendition="Line" xml:id="facs_9_r1l3"/>
+            <zone points="40,225 212,261 274,227 385,243 490,225 529,249 601,223 671,250 785,223 785,197 746,180 520,210 432,182 40,187" rendition="Line" xml:id="facs_9_r1l4"/>
+            <zone points="49,293 197,290 242,315 287,278 326,295 373,273 396,291 699,290 742,273 742,251 528,248 490,228 385,257 247,230 175,263 48,227" rendition="Line" xml:id="facs_9_r1l5"/>
+            <zone points="44,356 134,332 207,366 251,333 285,363 361,334 420,357 454,330 547,352 760,345 780,284 413,281 241,314 127,282 44,311" rendition="Line" xml:id="facs_9_r1l6"/>
+            <zone points="51,398 118,377 395,400 476,375 536,404 586,388 664,406 751,397 751,343 637,333 464,363 251,334 210,367 151,332 51,355" rendition="Line" xml:id="facs_9_r1l7"/>
+            <zone points="48,445 180,454 315,430 352,450 411,431 443,456 580,442 621,464 725,434 725,397 432,413 341,389 263,422 133,387 99,416 48,417" rendition="Line" xml:id="facs_9_r1l8"/>
+            <zone points="53,492 102,503 136,486 231,524 321,487 475,524 625,508 625,449 546,464 419,448 389,470 275,457 245,436 53,450" rendition="Line" xml:id="facs_9_r1l9"/>
+            <zone points="130,571 141,575 150,572 165,575 169,572 182,580 191,575 200,576 200,509 157,504 137,521 130,522" rendition="Line" xml:id="facs_9_r1l10"/>
+            <zone points="61,656 152,666 188,661 205,646 243,646 258,659 281,650 324,659 341,645 359,648 358,578 271,596 192,581 149,600 130,588 94,610 60,599" rendition="Line" xml:id="facs_9_r1l11"/>
+            <zone points="420,687 445,672 465,670 488,680 502,668 519,673 535,664 570,679 613,658 649,659 649,597 635,594 601,615 557,603 535,605 520,618 509,610 479,611 465,621 444,612 420,617" rendition="Line" xml:id="facs_9_r1l12"/>
+            <zone points="518,720 542,721 566,713 601,719 672,699 688,706 710,702 710,682 691,680 665,666 638,682 621,684 600,677 584,683 569,680 542,662 518,671" rendition="Line" xml:id="facs_9_r1l13"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="800" lry="1285" xml:id="facs_10">
+         <graphic url="Korrespondenzakten_1147_0029.jpg" width="800px" height="1285px"/>
+         <zone points="48,689 48,899 730,899 730,689" rendition="TextRegion" xml:id="facs_10_r1">
+            <zone points="72,725 97,719 155,754 193,723 240,724 254,714 269,722 318,719 317,683 292,676 265,687 233,679 221,687 179,674 159,688 122,673 71,685" rendition="Line" xml:id="facs_10_r1l1"/>
+            <zone points="45,805 147,773 238,796 279,764 422,786 526,761 608,771 726,749 734,698 691,686 554,721 453,680 329,750 255,714 154,754 102,727 42,737" rendition="Line" xml:id="facs_10_r1l2"/>
+            <zone points="627,813 637,809 644,811 645,808 660,812 667,806 692,807 710,801 722,804 719,756 707,757 692,745 676,750 670,757 662,754 656,757 647,748 639,754 623,752" rendition="Line" xml:id="facs_10_r1l3"/>
+            <zone points="57,838 97,843 131,827 191,850 250,836 300,851 336,849 335,768 268,773 252,765 235,782 211,775 193,792 147,773 89,801 56,795" rendition="Line" xml:id="facs_10_r1l4"/>
+            <zone points="161,901 172,901 192,913 221,900 237,908 267,902 285,913 299,912 296,849 280,849 274,856 260,845 192,851 177,840 158,841" rendition="Line" xml:id="facs_10_r1l5"/>
+         </zone>
+      </surface>
+   </facsimile>
+
+   <text type="letter">
+      <body>
+         <div type="page">
+            <pb facs="#facs_9" n="9" xml:id="Korrespondenzakten_1147_0028.jpg" source="https://files.transkribus.eu/Get?id=BFWAWVSBFDEWEYFHVWOFYHSR&amp;fileType=view"/>
+            <p facs="#facs_9_r1">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+               <lb n="N006"/>
+               <lb n="N007"/>
+               <lb n="N008"/>
+               <lb n="N009"/>
+               <lb n="N010"/>
+               <lb n="N011"/>
+               <lb n="N012"/>
+               <lb n="N013"/>
+            </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_10" n="10" xml:id="Korrespondenzakten_1147_0029.jpg" source="https://files.transkribus.eu/Get?id=SBHPWXYSTVIOIILGLEZZHLOD&amp;fileType=view"/>
+            <p facs="#facs_10_r1">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
