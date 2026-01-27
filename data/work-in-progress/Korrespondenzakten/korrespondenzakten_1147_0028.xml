@@ -88,12 +88,6 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="1772" lry="2472" xml:id="facs_1">
-         <graphic url="Korrespondenzakten_1147_0020.jpg" width="1772px" height="2472px"/>
-         <zone points="17,28 360,28 360,131 17,131" rendition="TextRegion" xml:id="facs_1_region_1669904851773_885">
-            <zone points="64,29 293,35 292,85 63,79" rendition="Line" xml:id="facs_1_line_1669904856137_888"/>
-         </zone>
-      </surface>
       <surface ulx="0" uly="0" lrx="800" lry="1259" xml:id="facs_9">
          <graphic url="Korrespondenzakten_1147_0028.jpg" width="800px" height="1259px"/>
          <zone points="43,53 43,714 780,714 780,53" rendition="TextRegion" xml:id="facs_9_r1">
@@ -127,7 +121,7 @@
    <text type="letter">
       <body>
          <div type="page">
-            <pb facs="#facs_9" n="9" xml:id="Korrespondenzakten_1147_0028.jpg" source="https://files.transkribus.eu/Get?id=BFWAWVSBFDEWEYFHVWOFYHSR&amp;fileType=view"/>
+            <pb facs="#facs_9" n="1" xml:id="Korrespondenzakten_1147_0028.jpg" source="https://files.transkribus.eu/Get?id=BFWAWVSBFDEWEYFHVWOFYHSR&amp;fileType=view"/>
             <p facs="#facs_9_r1">
                <lb n="N001"/>
                <lb n="N002"/>
@@ -145,7 +139,7 @@
             </p>
          </div>
          <div type="page">
-            <pb facs="#facs_10" n="10" xml:id="Korrespondenzakten_1147_0029.jpg" source="https://files.transkribus.eu/Get?id=SBHPWXYSTVIOIILGLEZZHLOD&amp;fileType=view"/>
+            <pb facs="#facs_10" n="2" xml:id="Korrespondenzakten_1147_0029.jpg" source="https://files.transkribus.eu/Get?id=SBHPWXYSTVIOIILGLEZZHLOD&amp;fileType=view"/>
             <p facs="#facs_10_r1">
                <lb n="N001"/>
                <lb n="N002"/>
