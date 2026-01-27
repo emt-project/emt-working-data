@@ -135,18 +135,10 @@
       </surface>
       <surface ulx="0" uly="0" lrx="800" lry="1202" xml:id="facs_2">
          <graphic url="Kasten_blau_44_6_0481.jpg" width="800px" height="1202px"/>
-         <zone points="70,599 70,679 152,679 152,599" rendition="TextRegion" xml:id="facs_2_r1">
-            <zone points="65,633 90,632 97,637 103,633 115,637 127,635 137,637 142,642 157,637 156,600 149,601 131,593 125,595 117,587 109,589 105,586 100,589 92,581 86,587 78,584 71,591 64,592" rendition="Line" xml:id="facs_2_r1l1"/>
-            <zone points="83,675 95,674 98,677 100,675 104,676 110,670 116,675 120,673 123,675 128,671 136,671 139,631 133,631 128,635 117,636 113,639 86,634" rendition="Line" xml:id="facs_2_r1l2"/>
-         </zone>
-         <zone points="104,1069 104,1201 200,1201 200,1069" rendition="TextRegion" xml:id="facs_2_r2">
-            <zone points="99,1177 130,1176 151,1183 169,1175 174,1180 181,1176 205,1177 205,1154 197,1151 185,1153 170,1149 166,1152 151,1147 140,1151 128,1142 118,1143 109,1136 99,1138" rendition="Line" xml:id="facs_2_r2l1"/>
-         </zone>
-         <zone points="128,66 128,1134 785,1134 785,66" rendition="TextRegion" xml:id="facs_2_r3">
+         <zone points="128,66 128,1134 785,1134 785,66" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="144,95 352,84 564,97 653,126 724,102 785,115 786,69 548,77 451,37 380,63 145,66" rendition="Line" xml:id="facs_2_r3l1"/>
             <zone points="125,137 177,161 239,131 280,153 332,134 555,160 662,139 780,163 791,120 693,106 636,130 566,97 501,111 357,84 125,118" rendition="Line" xml:id="facs_2_r3l2"/>
             <zone points="123,186 215,204 450,198 520,221 769,189 769,164 698,143 618,162 429,135 277,165 219,142 123,157" rendition="Line" xml:id="facs_2_r3l3"/>
-            <zone points="367,1144 377,1143 382,1139 390,1142 398,1135 402,1135 410,1144 415,1140 420,1140 422,1100 417,1100 414,1097 407,1098 404,1095 401,1098 397,1096 389,1100 369,1100" rendition="Line" xml:id="facs_2_r3l4"/>
          </zone>
       </surface>
    </facsimile>
@@ -155,7 +147,40 @@
       <body>
          <div type="page">
             <pb facs="#facs_1" n="303 r" xml:id="Kasten_blau_44_6_0480.jpg" ed="72 r" source="https://files.transkribus.eu/Get?id=JNOJODXQTELEANAMWQRJNYEU&amp;fileType=view"/>
-            <p facs="#facs_1_r1"> </p>
+            <p facs="#facs_1_r1">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+               <lb n="N006"/>
+               <lb n="N007"/>
+               <lb n="N008"/>
+               <lb n="N009"/>
+               <lb n="N010"/>
+               <lb n="N011"/>
+               <lb n="N012"/>
+               <lb n="N013"/>
+               <lb n="N014"/>
+               <lb n="N015"/>
+               <lb n="N016"/>
+               <lb n="N017"/>
+               <lb n="N018"/>
+               <lb n="N019"/>
+               <lb n="N020"/>
+               <lb n="N021"/>
+               <lb n="N022"/>
+               <lb n="N023"/>
+               <lb n="N024"/>
+               <lb n="N025"/>
+               <lb n="N026"/></p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_2" n="303 v" xml:id="Kasten_blau_44_6_0481.jpg" ed="72 v" source="https://files.transkribus.eu/Get?id=OQJKVOOBJUIYGEEOSMNOAMID&amp;fileType=view"/>
+            <p facs="#facs_2_r1">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/></p>
          </div>
       </body>
 
