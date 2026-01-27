@@ -74,7 +74,7 @@
             <ab type="notes">Konzept mit Unterschrift</ab>
          </abstract>
          <abstract n="regest">
-            <p> Nicht mit Datum, aber inhaltlich erwähnter Brief: <ref target="#Kasten_blau_44_11_0213.xml">EMT an JW 14.04.1714</ref>
+            <p> Nicht mit Datum, aber inhaltlich erwähnter Brief: <ref target="#kasten_blau_44_11_0213.xml">EMT an JW 14.04.1714</ref>
             </p>
             <p> Dankt für die Glückwünsche zu den Osterfeiertagen und zu seinem Geburtstag und
                wünscht ihr seinerseits beständige Gesundheit. – Bittet EMT, sich beim Kaiser für
@@ -151,9 +151,6 @@
       </surface>
       <surface ulx="0" uly="0" lrx="800" lry="1235" xml:id="facs_2">
          <graphic url="Kasten_blau_44_11_0212.jpg" width="800px" height="1235px"/>
-         <zone points="89,1101 89,1234 236,1234 236,1101" rendition="TextRegion" xml:id="facs_2_r1">
-            <zone points="84,1206 115,1217 128,1215 141,1228 183,1207 197,1221 226,1207 241,1207 242,1147 229,1144 219,1151 203,1145 170,1153 158,1146 141,1160 128,1162 111,1154 85,1164" rendition="Line" xml:id="facs_2_r1l1"/>
-         </zone>
          <zone points="383,81 383,1089 757,1089 757,81" rendition="TextRegion" xml:id="facs_2_r2">
             <zone points="665,100 669,101 671,103 673,102 673,104 676,104 677,106 680,104 681,106 686,107 693,81 683,78 677,71 673,70" rendition="Line" xml:id="facs_2_r2l1"/>
             <zone points="378,135 410,143 455,132 501,153 539,141 587,149 604,135 630,147 676,130 719,133 719,92 660,110 571,77 528,99 483,67 378,92" rendition="Line" xml:id="facs_2_r2l2"/>
@@ -251,6 +248,38 @@
             <p facs="#facs_1_r1"> </p>
             <p facs="#facs_1_r2"> </p>
             <p facs="#facs_2_r2"> </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_2" n="23 v" xml:id="Kasten_blau_44_11_0212.jpg" source="https://files.transkribus.eu/Get?id=GECWDNYTFECCDINMTRZPPPJI&amp;fileType=view"/>
+            
+            <p facs="#facs_2_r2">
+               <lb n="N001"/>
+               <lb n="N002"/>
+               <lb n="N003"/>
+               <lb n="N004"/>
+               <lb n="N005"/>
+               <lb n="N006"/>
+               <lb n="N007"/>
+               <lb n="N008"/>
+               <lb n="N009"/>
+               <lb n="N010"/>
+               <lb n="N011"/>
+               <lb n="N012"/>
+               <lb n="N013"/>
+               <lb n="N014"/>
+               <lb n="N015"/>
+               <lb n="N016"/>
+               <lb n="N017"/>
+               <lb n="N018"/>
+               <lb n="N019"/>
+               <lb n="N020"/>
+               <lb n="N021"/>
+               <lb n="N022"/>
+               <lb n="N023"/>
+               <lb n="N024"/>
+               <lb n="N025"/>
+               <lb n="N026"/>
+               <lb n="N027"/></p>
          </div>
          <div type="page">
             <pb facs="#facs_3" n="27 r" xml:id="Kasten_blau_44_11_0219.jpg" source="https://files.transkribus.eu/Get?id=ZSBNWAOAUNUYICBHXKFVCLBK&amp;fileType=view"/>
