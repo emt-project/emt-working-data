@@ -19,7 +19,7 @@
     </teiHeader>
     <facsimile>
         <surface lrx="2215" lry="3403" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="3403px" url="77_8811_Korrespondenz%20Karlsruhe_00151-20230117_150251.jpg" width="2215px" />
+            <graphic height="3403px" url="77_8811_Korrespondenz_Karlsruhe_00151-20230117_150251.jpg" width="2215px" />
             <graphic height="3403px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=EHKBACCTAJPZWCHLDVWXOSJM" width="2215px" />
             <zone points="38,0 382,0 382,160 38,160" rendition="TextRegion" xml:id="facs_1_tr_1">
                 <zone points="38,0 382,0 382,160 38,160" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
@@ -47,7 +47,7 @@
             </zone>
         </surface>
         <surface lrx="2429" lry="3777" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="3777px" url="77_8811_Korrespondenz%20Karlsruhe_00152-20230117_150259.jpg" width="2429px" />
+            <graphic height="3777px" url="77_8811_Korrespondenz_Karlsruhe_00152-20230117_150259.jpg" width="2429px" />
             <graphic height="3777px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ABJQXJLIEQCDHACTEXXPLTKI" width="2429px" />
             <zone points="226,1870 1187,1870 1187,2783 226,2783" rendition="TextRegion" xml:id="facs_2_tr_1">
                 <zone points="262,1870 363,1870 363,1931 262,1931" rendition="Line" xml:id="facs_2_tr_1_tl_1" />
@@ -66,7 +66,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="77_8811_Korrespondenz%20Karlsruhe_00151-20230117_150251.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=EHKBACCTAJPZWCHLDVWXOSJM" />
+                <pb facs="#facs_1" n="1" xml:id="77_8811_Korrespondenz_Karlsruhe_00151-20230117_150251.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=EHKBACCTAJPZWCHLDVWXOSJM" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                 </p>
@@ -93,7 +93,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="77_8811_Korrespondenz%20Karlsruhe_00152-20230117_150259.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ABJQXJLIEQCDHACTEXXPLTKI" />
+                <pb facs="#facs_2" n="2" xml:id="77_8811_Korrespondenz_Karlsruhe_00152-20230117_150259.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ABJQXJLIEQCDHACTEXXPLTKI" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
