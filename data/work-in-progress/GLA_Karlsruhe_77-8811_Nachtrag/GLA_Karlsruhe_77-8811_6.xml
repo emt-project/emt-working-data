@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main"></title>
+                <title type="main" />
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
                 <author>Eleonora Magdalena von Pfalz-Neuburg</author>
                 <editor>
@@ -51,7 +51,9 @@
                                 <idno>77 Nr. 8811</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate/></origin>
+                                <origin>
+                                    <origDate />
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -65,33 +67,33 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term></term>
-                    <term></term>
+                    <term />
+                    <term />
                 </ab>
             </abstract>
             <abstract n="regest">
-                <p/>
+                <p />
             </abstract>
             <langUsage>
-                <language ident=""/>
+                <language ident="" />
             </langUsage>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName/>
-                    <placeName/>
-                    <date/>
+                    <persName />
+                    <placeName />
+                    <date />
                 </correspAction>
                 <correspAction type="received">
-                    <persName/>
-                    <placeName ref="#"/>
-                    <date/>
+                    <persName />
+                    <placeName ref="#" />
+                    <date />
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2377" lry="3680" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="3680px" url="77_8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" width="2377px" />
+            <graphic height="3680px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" width="2377px" />
             <graphic height="3680px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" width="2377px" />
             <zone points="158,84 2316,84 2316,3572 158,3572" rendition="TextRegion" xml:id="facs_1_tr_1">
                 <zone points="158,84 528,84 528,145 158,145" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
@@ -130,7 +132,7 @@
             </zone>
         </surface>
         <surface lrx="2257" lry="3649" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="3649px" url="77_8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" width="2257px" />
+            <graphic height="3649px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" width="2257px" />
             <graphic height="3649px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" width="2257px" />
             <zone points="1039,115 2224,115 2224,863 1039,863" rendition="TextRegion" xml:id="facs_2_tr_1">
                 <zone points="1042,115 2200,115 2200,240 1042,240" rendition="Line" xml:id="facs_2_tr_1_tl_1" />
@@ -143,7 +145,7 @@
             </zone>
         </surface>
         <surface lrx="2278" lry="3635" ulx="0" uly="0" xml:id="facs_3">
-            <graphic height="3635px" url="77_8811_Korrespondenz_Karlsruhe_00162-20230117_150353.jpg" width="2278px" />
+            <graphic height="3635px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00162-20230117_150353.jpg" width="2278px" />
             <graphic height="3635px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=VXSCMTBMEPFWOPJNGTGGMACV" width="2278px" />
             <zone points="295,108 1059,108 1059,401 295,401" rendition="TextRegion" xml:id="facs_3_tr_2">
                 <zone points="435,108 552,108 552,231 435,231" rendition="Line" xml:id="facs_3_tr_2_tl_1" />
@@ -183,7 +185,7 @@
             </zone>
         </surface>
         <surface lrx="2127" lry="3568" ulx="0" uly="0" xml:id="facs_4">
-            <graphic height="3568px" url="77_8811_Korrespondenz_Karlsruhe_00163-20230117_150359.jpg" width="2127px" />
+            <graphic height="3568px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00163-20230117_150359.jpg" width="2127px" />
             <graphic height="3568px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=TLJEIPHVLPBTXCSOQZTEKOCQ" width="2127px" />
             <zone points="900,96 2097,96 2097,2323 900,2323" rendition="TextRegion" xml:id="facs_4_tr_1">
                 <zone points="954,96 2076,96 2076,203 954,203" rendition="Line" xml:id="facs_4_tr_1_tl_1" />
@@ -211,7 +213,7 @@
             </zone>
         </surface>
         <surface lrx="2217" lry="3553" ulx="0" uly="0" xml:id="facs_5">
-            <graphic height="3553px" url="77_8811_Korrespondenz_Karlsruhe_00164-20230117_150404.jpg" width="2217px" />
+            <graphic height="3553px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00164-20230117_150404.jpg" width="2217px" />
             <graphic height="3553px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DLQJWGCWEDGIUFKLEVFEPYQF" width="2217px" />
             <zone points="88,65 922,65 922,469 88,469" rendition="TextRegion" xml:id="facs_5_tr_2">
                 <zone points="185,65 409,65 409,121 185,121" rendition="Line" xml:id="facs_5_tr_2_tl_1" />
@@ -259,7 +261,7 @@
             </zone>
         </surface>
         <surface lrx="2284" lry="3611" ulx="0" uly="0" xml:id="facs_6">
-            <graphic height="3611px" url="77_8811_Korrespondenz_Karlsruhe_00165-20230117_150411.jpg" width="2284px" />
+            <graphic height="3611px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00165-20230117_150411.jpg" width="2284px" />
             <graphic height="3611px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=RSHDYMGSZTPIAWEFTDALQYYE" width="2284px" />
             <zone points="131,75 895,75 895,645 131,645" rendition="TextRegion" xml:id="facs_6_tr_1">
                 <zone points="131,75 447,75 447,180 131,180" rendition="Line" xml:id="facs_6_tr_1_tl_1" />
@@ -303,7 +305,7 @@
             </zone>
         </surface>
         <surface lrx="2359" lry="3899" ulx="0" uly="0" xml:id="facs_7">
-            <graphic height="3899px" url="77_8811_Korrespondenz_Karlsruhe_00166-20230117_150421.jpg" width="2359px" />
+            <graphic height="3899px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00166-20230117_150421.jpg" width="2359px" />
             <graphic height="3899px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DOGKJONQVLALRADCBAHPMPNW" width="2359px" />
             <zone points="1188,97 2313,97 2313,1396 1188,1396" rendition="TextRegion" xml:id="facs_7_tr_1">
                 <zone points="1215,97 2286,97 2286,215 1215,215" rendition="Line" xml:id="facs_7_tr_1_tl_1" />
@@ -324,7 +326,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="77_8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" />
+                <pb facs="#facs_1" n="1" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -362,7 +364,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="77_8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" />
+                <pb facs="#facs_2" n="2" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -374,7 +376,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="77_8811_Korrespondenz_Karlsruhe_00162-20230117_150353.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VXSCMTBMEPFWOPJNGTGGMACV" />
+                <pb facs="#facs_3" n="3" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00162-20230117_150353.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VXSCMTBMEPFWOPJNGTGGMACV" />
                 <p facs="#facs_3_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -413,7 +415,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="77_8811_Korrespondenz_Karlsruhe_00163-20230117_150359.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=TLJEIPHVLPBTXCSOQZTEKOCQ" />
+                <pb facs="#facs_4" n="4" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00163-20230117_150359.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=TLJEIPHVLPBTXCSOQZTEKOCQ" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -440,7 +442,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="77_8811_Korrespondenz_Karlsruhe_00164-20230117_150404.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DLQJWGCWEDGIUFKLEVFEPYQF" />
+                <pb facs="#facs_5" n="5" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00164-20230117_150404.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DLQJWGCWEDGIUFKLEVFEPYQF" />
                 <p facs="#facs_5_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -487,7 +489,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="77_8811_Korrespondenz_Karlsruhe_00165-20230117_150411.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RSHDYMGSZTPIAWEFTDALQYYE" />
+                <pb facs="#facs_6" n="6" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00165-20230117_150411.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RSHDYMGSZTPIAWEFTDALQYYE" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -530,7 +532,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="77_8811_Korrespondenz_Karlsruhe_00166-20230117_150421.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DOGKJONQVLALRADCBAHPMPNW" />
+                <pb facs="#facs_7" n="7" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00166-20230117_150421.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DOGKJONQVLALRADCBAHPMPNW" />
                 <p facs="#facs_7_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
