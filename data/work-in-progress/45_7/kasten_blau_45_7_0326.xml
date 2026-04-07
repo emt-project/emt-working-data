@@ -134,10 +134,10 @@
    <body>
   <div type="page"><pb facs="#facs_1" n="21 r" xml:id="Kasten_blau_45_7_0326.jpg" source="https://files.transkribus.eu/Get?id=MEZAQRJSIUYSGOLBMLZHZFSY&amp;fileType=view"/><p facs="#facs_1_r1">
       <lb n="N001"/>Durchleü<supplied>c</supplied>ht<supplied>i</supplied>ger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-      <lb n="N002"/>Dero liebsts sch<supplied>rei</supplied>ben vom 11ten dis hab woll empfangen. Beda<supplied>n</supplied>ke
+      <lb n="N002"/>Dero liebsts sch<supplied>rei</supplied>ben <ref target="#kasten_blau_45_7_0323.xml">vom 11ten dis</ref> hab woll empfangen. Beda<supplied>n</supplied>ke
       <lb n="N003"/>mich wegen der romanischen na<supplied>c</supplied>hricht, weillen selbige
       <lb n="N004"/>aber, wie ich seh, vill von dero vohrigen sch<supplied>re</supplied>iben dependirt,
-      <lb n="N005"/>mit welchen der Lecherain noch nit ankommen
+        <lb n="N005"/>mit welchen der <rs type="person" ref="#emt_person_id__1452">Lecherain</rs> noch nit ankommen
       <lb n="N006"/>ist, so werde selbige erwarten <supplied>und</supplied> mich indeßen diser
       <lb n="N007"/>gegeben nachricht mitt gegebener gelegenheit gebrauchen.
       <lb n="N008"/><supplied>Habe</supplied> anbey auch dero Liebden zu disen hernahenden alleluja alle
@@ -150,13 +150,13 @@
       <lb n="N015"/>dero Liebden
       <lb n="N016"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb n="N017"/>Eleonora
-      <lb n="N018"/>Wien den 20ten m<supplied>er</supplied>z 1706
+        <lb n="N018"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1702-03-20">20ten m<supplied>er</supplied>z 1706</date>
       <lb n="N019"/>verta folium</p></div><div type="page"><pb facs="#facs_2" n="21 v" xml:id="Kasten_blau_45_7_0327.jpg" source="https://files.transkribus.eu/Get?id=FDYZONVFXPJRZFITZDOXNSHZ&amp;fileType=view"/><p facs="#facs_2_r1">
-      <lb n="N001"/>Wegen der nunnen von Neüburg hab ich dem <choice><expan>Pater</expan><abbr>P</abbr></choice> Rector auch
+            <lb n="N001"/>Wegen der <rs type="place" ref="#emt_place_id__206">nunnen von Neüburg</rs> hab ich dem <rs type="person" ref="#emt_person_id__1672"><choice><expan>Pater</expan><abbr>P</abbr></choice> Rector</rs> auch
       <lb n="N002"/>zuesch<supplied>r</supplied>eiben laßen, das er mihr woll rahten <supplied>solle</supplied>, wie die sach a<supplied>n</supplied>zu-
-      <lb n="N003"/>greifen, hab noch kein antwort. Indesen seh ich, das die <choice><expan>Anna</expan><abbr>A</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> wider
+            <lb n="N003"/>greifen, hab noch kein antwort. Indesen seh ich, das die <rs type="person" ref="#emt_person_id__1259"><choice><expan>Anna</expan><abbr>A</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice></rs> wider
       <lb n="N004"/>in zimlihger freyheit, dan sie überall hinn schreibt, hatt
-      <lb n="N005"/>hier an die nunnen, auch auf Achen geschriben, die <choice><expan>würdige</expan><abbr>w</abbr></choice> <choice><expan>Mutter</expan><abbr>Mut</abbr></choice>
+            <lb n="N005"/>hier an <rs type="place" ref="#emt_place_id__299">die nunnen</rs>, auch auf <rs type="place" ref="#emt_place_id__531">Achen</rs> geschriben, die <rs type="person" ref="#emt_person_id__1673"><choice><expan>würdige</expan><abbr>w</abbr></choice></rs> <choice><expan>Mutter</expan><abbr>Mut</abbr></choice>
       <lb n="N006"/>ab<supplied>e</supplied>r hier hatt kein brif geben, sondern alle verbrent. Es wirt gutt sein,
       <lb n="N007"/>wan die <choice><expan>Mutter</expan><abbr>M</abbr></choice> <choice><expan>Anna Magdalena</expan><abbr>AMad</abbr></choice> wider ein wehnig in schranken gehalten wirt.</p></div>
 </body>
