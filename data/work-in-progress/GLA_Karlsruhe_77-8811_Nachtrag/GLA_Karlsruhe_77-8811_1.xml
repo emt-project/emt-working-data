@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main"></title>
+                <title type="main" />
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
                 <author>Eleonora Magdalena von Pfalz-Neuburg</author>
                 <editor>
@@ -51,7 +51,9 @@
                                 <idno>77 Nr. 8811</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate/></origin>
+                                <origin>
+                                    <origDate />
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -65,34 +67,33 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term></term>
-                    <term></term>
+                    <term />
+                    <term />
                 </ab>
             </abstract>
             <abstract n="regest">
-                <p/>
+                <p />
             </abstract>
             <langUsage>
-                <language ident=""/>
+                <language ident="" />
             </langUsage>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName/>
-                    <placeName/>
-                    <date/>
+                    <persName />
+                    <placeName />
+                    <date />
                 </correspAction>
                 <correspAction type="received">
-                    <persName/>
-                    <placeName ref="#"/>
-                    <date/>
+                    <persName />
+                    <placeName ref="#" />
+                    <date />
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
-    
     <facsimile>
         <surface lrx="2385" lry="3484" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="3484px" url="77_8811_Korrespondenz_Karlsruhe_00102-20230117_145851.jpg" width="2385px" />
+            <graphic height="3484px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00102-20230117_145851.jpg" width="2385px" />
             <graphic height="3484px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=QSDGGMUZUGUZGOKLWCTOEQKJ" width="2385px" />
             <zone points="84,48 1160,48 1160,352 84,352" rendition="TextRegion" xml:id="facs_1_r">
                 <zone points="393,138 531,138 531,171 393,171" rendition="Line" xml:id="facs_1_l_1" />
@@ -133,7 +134,7 @@
             </zone>
         </surface>
         <surface lrx="2030" lry="3252" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="3252px" url="77_8811_Korrespondenz_Karlsruhe_00103-20230117_145857.jpg" width="2030px" />
+            <graphic height="3252px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00103-20230117_145857.jpg" width="2030px" />
             <graphic height="3252px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DEYUZRDHZOLMAKRZVBGHYYHG" width="2030px" />
             <zone points="59,68 1992,68 1992,3163 59,3163" rendition="TextRegion" xml:id="facs_2_tr_1">
                 <zone points="1590,68 1951,68 1951,132 1590,132" rendition="Line" xml:id="facs_2_tr_1_tl_1" />
@@ -186,92 +187,92 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="77_8811_Korrespondenz_Karlsruhe_00102-20230117_145851.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QSDGGMUZUGUZGOKLWCTOEQKJ"/>
+                <pb facs="#facs_1" n="1" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00102-20230117_145851.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QSDGGMUZUGUZGOKLWCTOEQKJ" />
                 <p facs="#facs_1_r">
-                    <lb n="N001"/>
-                    <lb n="N002"/>
+                    <lb n="N001" />
+                    <lb n="N002" />
                 </p>
                 <p facs="#facs_1_tr_1">
-                    <lb n="N001"/>
-                    <lb n="N002"/>
-                    <lb n="N003"/>
-                    <lb n="N004"/>
-                    <lb n="N005"/>
-                    <lb n="N006"/>
-                    <lb n="N007"/>
-                    <lb n="N008"/>
-                    <lb n="N009"/>
-                    <lb n="N010"/>
-                    <lb n="N011"/>
-                    <lb n="N012"/>
-                    <lb n="N013"/>
-                    <lb n="N014"/>
-                    <lb n="N015"/>
-                    <lb n="N016"/>
-                    <lb n="N017"/>
-                    <lb n="N018"/>
-                    <lb n="N019"/>
-                    <lb n="N020"/>
-                    <lb n="N021"/>
-                    <lb n="N022"/>
-                    <lb n="N023"/>
-                    <lb n="N024"/>
-                    <lb n="N025"/>
-                    <lb n="N026"/>
-                    <lb n="N027"/>
-                    <lb n="N028"/>
-                    <lb n="N029"/>
-                    <lb n="N030"/>
-                    <lb n="N031"/>
+                    <lb n="N001" />
+                    <lb n="N002" />
+                    <lb n="N003" />
+                    <lb n="N004" />
+                    <lb n="N005" />
+                    <lb n="N006" />
+                    <lb n="N007" />
+                    <lb n="N008" />
+                    <lb n="N009" />
+                    <lb n="N010" />
+                    <lb n="N011" />
+                    <lb n="N012" />
+                    <lb n="N013" />
+                    <lb n="N014" />
+                    <lb n="N015" />
+                    <lb n="N016" />
+                    <lb n="N017" />
+                    <lb n="N018" />
+                    <lb n="N019" />
+                    <lb n="N020" />
+                    <lb n="N021" />
+                    <lb n="N022" />
+                    <lb n="N023" />
+                    <lb n="N024" />
+                    <lb n="N025" />
+                    <lb n="N026" />
+                    <lb n="N027" />
+                    <lb n="N028" />
+                    <lb n="N029" />
+                    <lb n="N030" />
+                    <lb n="N031" />
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="77_8811_Korrespondenz_Karlsruhe_00103-20230117_145857.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DEYUZRDHZOLMAKRZVBGHYYHG"/>
+                <pb facs="#facs_2" n="2" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00103-20230117_145857.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DEYUZRDHZOLMAKRZVBGHYYHG" />
                 <p facs="#facs_2_tr_1">
-                    <lb n="N001"/>
-                    <lb n="N002"/>
-                    <lb n="N003"/>
-                    <lb n="N004"/>
-                    <lb n="N005"/>
-                    <lb n="N006"/>
-                    <lb n="N007"/>
-                    <lb n="N008"/>
-                    <lb n="N009"/>
-                    <lb n="N010"/>
-                    <lb n="N011"/>
-                    <lb n="N012"/>
-                    <lb n="N013"/>
-                    <lb n="N014"/>
-                    <lb n="N015"/>
-                    <lb n="N016"/>
-                    <lb n="N017"/>
-                    <lb n="N018"/>
-                    <lb n="N019"/>
-                    <lb n="N020"/>
-                    <lb n="N021"/>
-                    <lb n="N022"/>
-                    <lb n="N023"/>
-                    <lb n="N024"/>
-                    <lb n="N025"/>
-                    <lb n="N026"/>
-                    <lb n="N027"/>
-                    <lb n="N028"/>
-                    <lb n="N029"/>
-                    <lb n="N030"/>
-                    <lb n="N031"/>
-                    <lb n="N032"/>
-                    <lb n="N033"/>
-                    <lb n="N034"/>
-                    <lb n="N035"/>
-                    <lb n="N036"/>
-                    <lb n="N037"/>
-                    <lb n="N038"/>
-                    <lb n="N039"/>
-                    <lb n="N040"/>
-                    <lb n="N041"/>
-                    <lb n="N042"/>
-                    <lb n="N043"/>
-                    <lb n="N044"/>
+                    <lb n="N001" />
+                    <lb n="N002" />
+                    <lb n="N003" />
+                    <lb n="N004" />
+                    <lb n="N005" />
+                    <lb n="N006" />
+                    <lb n="N007" />
+                    <lb n="N008" />
+                    <lb n="N009" />
+                    <lb n="N010" />
+                    <lb n="N011" />
+                    <lb n="N012" />
+                    <lb n="N013" />
+                    <lb n="N014" />
+                    <lb n="N015" />
+                    <lb n="N016" />
+                    <lb n="N017" />
+                    <lb n="N018" />
+                    <lb n="N019" />
+                    <lb n="N020" />
+                    <lb n="N021" />
+                    <lb n="N022" />
+                    <lb n="N023" />
+                    <lb n="N024" />
+                    <lb n="N025" />
+                    <lb n="N026" />
+                    <lb n="N027" />
+                    <lb n="N028" />
+                    <lb n="N029" />
+                    <lb n="N030" />
+                    <lb n="N031" />
+                    <lb n="N032" />
+                    <lb n="N033" />
+                    <lb n="N034" />
+                    <lb n="N035" />
+                    <lb n="N036" />
+                    <lb n="N037" />
+                    <lb n="N038" />
+                    <lb n="N039" />
+                    <lb n="N040" />
+                    <lb n="N041" />
+                    <lb n="N042" />
+                    <lb n="N043" />
+                    <lb n="N044" />
                 </p>
             </div>
         </body>
