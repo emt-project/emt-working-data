@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main" />
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am </title> 
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
                 <author>Eleonora Magdalena von Pfalz-Neuburg</author>
                 <editor>
@@ -67,24 +67,21 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term />
-                    <term />
+                    <term>Ausfertigung</term> 
+                    <term>Schreiber</term> 
                 </ab>
             </abstract>
-            <abstract n="regest">
-                <p />
-            </abstract>
             <langUsage>
-                <language ident="" />
+                <language ident="deu">deutsch</language> 
             </langUsage>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName />
-                    <placeName />
-                    <date />
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName> 
+                    <placeName ref="#emt_place_id__63">Wien</placeName>
+                    <date when-iso="1700-10-29">Freitag, 29. Oktober 1700</date> 
                 </correspAction>
                 <correspAction type="received">
-                    <persName />
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                     <placeName ref="#" />
                     <date />
                 </correspAction>
@@ -184,7 +181,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00156-20230117_150317.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NKPADNOGYNMYBRGQFSYDPUHK" />
+                <pb facs="#facs_1" n="66 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00156-20230117_150317.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NKPADNOGYNMYBRGQFSYDPUHK" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -212,7 +209,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00157-20230117_150325.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UNRLEIJEQVHKUZZMUFQBSZRA" />
+                <pb facs="#facs_2" n="66 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00157-20230117_150325.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UNRLEIJEQVHKUZZMUFQBSZRA" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -224,7 +221,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00158-20230117_150328.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HSXSOSXXQNGSTFPZPZRDGVXJ" />
+                <pb facs="#facs_3" n="67 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00158-20230117_150328.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HSXSOSXXQNGSTFPZPZRDGVXJ" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                 </p>
@@ -255,7 +252,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00159-20230117_150336.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZYQOUYMVWOOHDVXKTIVUYHBJ" />
+                <pb facs="#facs_4" n="67 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00159-20230117_150336.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZYQOUYMVWOOHDVXKTIVUYHBJ" />
                 <p facs="#facs_4_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
