@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main" />
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 02.04.1700</title> 
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
                 <author>Eleonora Magdalena von Pfalz-Neuburg</author>
                 <editor>
@@ -67,24 +67,24 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term />
-                    <term />
+                    <term>Ausfertigung</term>/>
+                    <term>Schreiber</term> 
                 </ab>
             </abstract>
             <abstract n="regest">
                 <p />
             </abstract>
             <langUsage>
-                <language ident="" />
+                <language ident="deu">deutsch</language> 
             </langUsage>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName />
-                    <placeName />
-                    <date />
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName> 
+                    <placeName ref="#emt_place_id__63">Wien</placeName>
+                    <date when-iso="1700-04-02">Freitag, 02. April 1700</date> 
                 </correspAction>
                 <correspAction type="received">
-                    <persName />
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                     <placeName ref="#" />
                     <date />
                 </correspAction>
