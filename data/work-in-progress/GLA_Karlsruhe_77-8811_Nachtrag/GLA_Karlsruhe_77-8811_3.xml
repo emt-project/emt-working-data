@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main" />
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 27.12.1699</title> 
                 <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
                 <author>Eleonora Magdalena von Pfalz-Neuburg</author>
                 <editor>
@@ -67,24 +67,24 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term />
-                    <term />
+                    <term>Konzept</term> 
+                    <term>Schreiber</term> 
                 </ab>
             </abstract>
             <abstract n="regest">
                 <p />
             </abstract>
             <langUsage>
-                <language ident="" />
+                <language ident="deu">deutsch</language> 
             </langUsage>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName />
-                    <placeName />
-                    <date />
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName> 
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1699-12-27">Sonntag, 27. Dezember 1699</date> 
                 </correspAction>
                 <correspAction type="received">
-                    <persName />
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                     <placeName ref="#" />
                     <date />
                 </correspAction>
@@ -251,7 +251,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00145-20230117_150213.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FEDDHGAXVASTLBALGAOLEKPN" />
+                <pb facs="#facs_1" n="61 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00145-20230117_150213.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FEDDHGAXVASTLBALGAOLEKPN" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -285,7 +285,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00146-20230117_150218.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XNBPLXIFNPHDNQSQYTRAEJXF" />
+                <pb facs="#facs_2" n="61 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00146-20230117_150218.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XNBPLXIFNPHDNQSQYTRAEJXF" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -302,7 +302,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00147-20230117_150225.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BMRTKVFTXBZWXWYQPQLUNAKN" />
+                <pb facs="#facs_3" n="62 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00147-20230117_150225.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BMRTKVFTXBZWXWYQPQLUNAKN" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -339,7 +339,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00148-20230117_150232.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=CBZWPMGZVHSBLWPFMNTADEXX" />
+                <pb facs="#facs_4" n="62 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00148-20230117_150232.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=CBZWPMGZVHSBLWPFMNTADEXX" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -354,7 +354,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00149-20230117_150238.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KRUSVHVSHRJBOIOQRSJGYKII" />
+                <pb facs="#facs_5" n="63 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00149-20230117_150238.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KRUSVHVSHRJBOIOQRSJGYKII" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -386,7 +386,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00150-20230117_150245.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LYHUHIWYCDWCVASYNGTQDMPU" />
+                <pb facs="#facs_6" n="63 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00150-20230117_150245.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LYHUHIWYCDWCVASYNGTQDMPU" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
