@@ -3,19 +3,86 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_28_2</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 18.05.1693</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_28</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_28_2</title>
-                    <idno type="Transkribus">15443804</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 28, Fasz. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2382066</idno>
+                        <idno type="transkribus-doc-id">15443804</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1693-05-18">Montag, 18. Mai 1693</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2705" lry="4082" ulx="0" uly="0" xml:id="facs_1">
@@ -154,97 +221,97 @@
                 <zone points="188,386 1277,386 1277,455 188,455" rendition="Line" xml:id="facs_8_tr_1_tl_5" />
             </zone>
         </surface>
-        <surface lrx="2728" lry="4108" ulx="0" uly="0" xml:id="facs_9">
-            <graphic height="4108px" url="HHStA_StAbt_Palatina_28_377r-383v_007.jpg" width="2728px" />
-            <graphic height="4108px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=JTTCXSZPIEMWELTGECRUDQSC" width="2728px" />
-            <zone points="68,229 2695,229 2695,3836 68,3836" rendition="TextRegion" xml:id="facs_9_tr_1">
-                <zone points="301,229 522,229 522,337 301,337" rendition="Line" xml:id="facs_9_tr_1_tl_1" />
-                <zone points="755,395 1671,395 1671,486 755,486" rendition="Line" xml:id="facs_9_tr_1_tl_2" />
-                <zone points="474,494 1029,494 1029,591 474,591" rendition="Line" xml:id="facs_9_tr_1_tl_3" />
-                <zone points="364,617 647,617 647,713 364,713" rendition="Line" xml:id="facs_9_tr_1_tl_4" />
-                <zone points="68,750 2590,750 2590,925 68,925" rendition="Line" xml:id="facs_9_tr_1_tl_5" />
-                <zone points="71,886 2666,886 2666,1086 71,1086" rendition="Line" xml:id="facs_9_tr_1_tl_6" />
-                <zone points="337,1026 2648,1026 2648,1224 337,1224" rendition="Line" xml:id="facs_9_tr_1_tl_7" />
-                <zone points="134,1155 2689,1155 2689,1388 134,1388" rendition="Line" xml:id="facs_9_tr_1_tl_8" />
-                <zone points="397,1292 1256,1292 1256,1400 397,1400" rendition="Line" xml:id="facs_9_tr_1_tl_9" />
-                <zone points="265,1450 2669,1450 2669,1683 265,1683" rendition="Line" xml:id="facs_9_tr_1_tl_12" />
-                <zone points="214,1608 2585,1608 2585,1806 214,1806" rendition="Line" xml:id="facs_9_tr_1_tl_13" />
-                <zone points="256,1746 2686,1746 2686,1943 256,1943" rendition="Line" xml:id="facs_9_tr_1_tl_14" />
-                <zone points="268,1912 2588,1912 2588,2103 268,2103" rendition="Line" xml:id="facs_9_tr_1_tl_15" />
-                <zone points="1083,2008 1310,2008 1310,2062 1083,2062" rendition="Line" xml:id="facs_9_tr_1_tl_16" />
-                <zone points="217,2052 2621,2052 2621,2232 217,2232" rendition="Line" xml:id="facs_9_tr_1_tl_17" />
-                <zone points="83,2164 2657,2164 2657,2406 83,2406" rendition="Line" xml:id="facs_9_tr_1_tl_18" />
-                <zone points="95,2329 2648,2329 2648,2528 95,2528" rendition="Line" xml:id="facs_9_tr_1_tl_19" />
-                <zone points="223,2474 2552,2474 2552,2678 223,2678" rendition="Line" xml:id="facs_9_tr_1_tl_20" />
-                <zone points="223,2641 2674,2641 2674,2845 223,2845" rendition="Line" xml:id="facs_9_tr_1_tl_21" />
-                <zone points="304,2819 2671,2819 2671,3024 304,3024" rendition="Line" xml:id="facs_9_tr_1_tl_22" />
-                <zone points="238,3001 2666,3001 2666,3155 238,3155" rendition="Line" xml:id="facs_9_tr_1_tl_23" />
-                <zone points="253,3174 2695,3174 2695,3334 253,3334" rendition="Line" xml:id="facs_9_tr_1_tl_24" />
-                <zone points="262,3328 2689,3328 2689,3490 262,3490" rendition="Line" xml:id="facs_9_tr_1_tl_25" />
-                <zone points="253,3504 2648,3504 2648,3681 253,3681" rendition="Line" xml:id="facs_9_tr_1_tl_26" />
-                <zone points="301,3697 2642,3697 2642,3836 301,3836" rendition="Line" xml:id="facs_9_tr_1_tl_27" />
-            </zone>
-        </surface>
-        <surface lrx="2727" lry="4144" ulx="0" uly="0" xml:id="facs_10">
-            <graphic height="4144px" url="HHStA_StAbt_Palatina_28_377r-383v_008.jpg" width="2727px" />
-            <graphic height="4144px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=BBNDUGOZKWSOLUCHJIIJDEKS" width="2727px" />
-            <zone points="101,363 2698,363 2698,3621 101,3621" rendition="TextRegion" xml:id="facs_10_tr_1">
-                <zone points="226,379 1597,379 1597,441 226,441" rendition="Line" xml:id="facs_10_tr_1_tl_1" />
-                <zone points="298,496 2585,496 2585,584 298,584" rendition="Line" xml:id="facs_10_tr_1_tl_4" />
-                <zone points="292,608 2636,608 2636,731 292,731" rendition="Line" xml:id="facs_10_tr_1_tl_5" />
-                <zone points="310,756 2657,756 2657,880 310,880" rendition="Line" xml:id="facs_10_tr_1_tl_6" />
-                <zone points="328,894 2648,894 2648,1039 328,1039" rendition="Line" xml:id="facs_10_tr_1_tl_7" />
-                <zone points="307,1088 2627,1088 2627,1199 307,1199" rendition="Line" xml:id="facs_10_tr_1_tl_8" />
-                <zone points="355,1196 2693,1196 2693,1346 355,1346" rendition="Line" xml:id="facs_10_tr_1_tl_10" />
-                <zone points="143,1346 2648,1346 2648,1501 143,1501" rendition="Line" xml:id="facs_10_tr_1_tl_11" />
-                <zone points="346,1519 2679,1519 2679,1645 346,1645" rendition="Line" xml:id="facs_10_tr_1_tl_12" />
-                <zone points="101,1573 271,1573 271,1681 101,1681" rendition="Line" xml:id="facs_10_tr_1_tl_13" />
-                <zone points="352,1667 2573,1667 2573,1806 352,1806" rendition="Line" xml:id="facs_10_tr_1_tl_14" />
-                <zone points="355,1817 2543,1817 2543,1949 355,1949" rendition="Line" xml:id="facs_10_tr_1_tl_16" />
-                <zone points="286,1976 2164,1976 2164,2102 286,2102" rendition="Line" xml:id="facs_10_tr_1_tl_17" />
-                <zone points="352,2166 2648,2166 2648,2296 352,2296" rendition="Line" xml:id="facs_10_tr_1_tl_19" />
-                <zone points="414,2346 2633,2346 2633,2465 414,2465" rendition="Line" xml:id="facs_10_tr_1_tl_20" />
-                <zone points="367,2512 2257,2512 2257,2642 367,2642" rendition="Line" xml:id="facs_10_tr_1_tl_21" />
-                <zone points="728,2770 2086,2770 2086,2842 728,2842" rendition="Line" xml:id="facs_10_tr_1_tl_24" />
-                <zone points="740,2929 1442,2929 1442,3013 740,3013" rendition="Line" xml:id="facs_10_tr_1_tl_26" />
-                <zone points="609,3021 2080,3021 2080,3112 609,3112" rendition="Line" xml:id="facs_10_tr_1_tl_27" />
-                <zone points="856,3191 2060,3191 2060,3296 856,3296" rendition="Line" xml:id="facs_10_tr_1_tl_28" />
-            </zone>
-        </surface>
-        <surface lrx="2693" lry="4060" ulx="0" uly="0" xml:id="facs_11">
+        <surface lrx="2693" lry="4060" ulx="0" uly="0" xml:id="facs_9">
             <graphic height="4060px" url="HHStA_StAbt_Palatina_28_377r-383v_009.jpg" width="2693px" />
             <graphic height="4060px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=LYQLLDYYHGICYAQTLXFJWRWQ" width="2693px" />
-            <zone points="665,2282 2206,2282 2206,3599 665,3599" rendition="TextRegion" xml:id="facs_11_tr_1">
-                <zone points="710,2282 2206,2282 2206,2373 710,2373" rendition="Line" xml:id="facs_11_tr_1_tl_1" />
-                <zone points="728,2354 2194,2354 2194,2438 728,2438" rendition="Line" xml:id="facs_11_tr_1_tl_2" />
-                <zone points="746,2445 2173,2445 2173,2533 746,2533" rendition="Line" xml:id="facs_11_tr_1_tl_3" />
-                <zone points="716,2524 2149,2524 2149,2604 716,2604" rendition="Line" xml:id="facs_11_tr_1_tl_4" />
-                <zone points="680,2600 2158,2600 2158,2687 680,2687" rendition="Line" xml:id="facs_11_tr_1_tl_5" />
-                <zone points="692,2692 2009,2692 2009,2762 692,2762" rendition="Line" xml:id="facs_11_tr_1_tl_7" />
-                <zone points="665,2759 2146,2759 2146,2840 665,2840" rendition="Line" xml:id="facs_11_tr_1_tl_8" />
-                <zone points="698,2829 2155,2829 2155,2911 698,2911" rendition="Line" xml:id="facs_11_tr_1_tl_9" />
-                <zone points="689,2911 2146,2911 2146,2993 689,2993" rendition="Line" xml:id="facs_11_tr_1_tl_10" />
-                <zone points="665,3001 2038,3001 2038,3082 665,3082" rendition="Line" xml:id="facs_11_tr_1_tl_11" />
-                <zone points="1650,3206 2160,3206 2160,3276 1650,3276" rendition="Line" xml:id="facs_11_tr_1_tl_12" />
+            <zone points="665,2282 2206,2282 2206,3599 665,3599" rendition="TextRegion" xml:id="facs_9_tr_1">
+                <zone points="710,2282 2206,2282 2206,2373 710,2373" rendition="Line" xml:id="facs_9_tr_1_tl_1" />
+                <zone points="728,2354 2194,2354 2194,2438 728,2438" rendition="Line" xml:id="facs_9_tr_1_tl_2" />
+                <zone points="746,2445 2173,2445 2173,2533 746,2533" rendition="Line" xml:id="facs_9_tr_1_tl_3" />
+                <zone points="716,2524 2149,2524 2149,2604 716,2604" rendition="Line" xml:id="facs_9_tr_1_tl_4" />
+                <zone points="680,2600 2158,2600 2158,2687 680,2687" rendition="Line" xml:id="facs_9_tr_1_tl_5" />
+                <zone points="692,2692 2009,2692 2009,2762 692,2762" rendition="Line" xml:id="facs_9_tr_1_tl_7" />
+                <zone points="665,2759 2146,2759 2146,2840 665,2840" rendition="Line" xml:id="facs_9_tr_1_tl_8" />
+                <zone points="698,2829 2155,2829 2155,2911 698,2911" rendition="Line" xml:id="facs_9_tr_1_tl_9" />
+                <zone points="689,2911 2146,2911 2146,2993 689,2993" rendition="Line" xml:id="facs_9_tr_1_tl_10" />
+                <zone points="665,3001 2038,3001 2038,3082 665,3082" rendition="Line" xml:id="facs_9_tr_1_tl_11" />
+                <zone points="1650,3206 2160,3206 2160,3276 1650,3276" rendition="Line" xml:id="facs_9_tr_1_tl_12" />
             </zone>
         </surface>
-        <surface lrx="2698" lry="4072" ulx="0" uly="0" xml:id="facs_12">
+        <surface lrx="2698" lry="4072" ulx="0" uly="0" xml:id="facs_10">
             <graphic height="4072px" url="HHStA_StAbt_Palatina_28_377r-383v_012.jpg" width="2698px" />
             <graphic height="4072px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=VGQYVEUEFWVIFAUPSWQZJZTY" width="2698px" />
         </surface>
-        <surface lrx="2709" lry="4096" ulx="0" uly="0" xml:id="facs_13">
+        <surface lrx="2709" lry="4096" ulx="0" uly="0" xml:id="facs_11">
             <graphic height="4096px" url="HHStA_StAbt_Palatina_28_377r-383v_013.jpg" width="2709px" />
             <graphic height="4096px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=SBNUQRWQYFGHOPAJDIVXOFMT" width="2709px" />
-            <zone points="1430,3730 2615,3730 2615,3899 1430,3899" rendition="TextRegion" xml:id="facs_13_tr_1">
-                <zone points="1430,3730 2615,3730 2615,3824 1430,3824" rendition="Line" xml:id="facs_13_tr_1_tl_1" />
-                <zone points="1507,3826 2236,3826 2236,3899 1507,3899" rendition="Line" xml:id="facs_13_tr_1_tl_2" />
+            <zone points="1430,3730 2615,3730 2615,3899 1430,3899" rendition="TextRegion" xml:id="facs_11_tr_1">
+                <zone points="1430,3730 2615,3730 2615,3824 1430,3824" rendition="Line" xml:id="facs_11_tr_1_tl_1" />
+                <zone points="1507,3826 2236,3826 2236,3899 1507,3899" rendition="Line" xml:id="facs_11_tr_1_tl_2" />
+            </zone>
+        </surface>
+        <surface lrx="2728" lry="4108" ulx="0" uly="0" xml:id="facs_12">
+            <graphic height="4108px" url="HHStA_StAbt_Palatina_28_377r-383v_007.jpg" width="2728px" />
+            <graphic height="4108px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=JTTCXSZPIEMWELTGECRUDQSC" width="2728px" />
+            <zone points="68,229 2695,229 2695,3836 68,3836" rendition="TextRegion" xml:id="facs_12_tr_1">
+                <zone points="301,229 522,229 522,337 301,337" rendition="Line" xml:id="facs_12_tr_1_tl_1" />
+                <zone points="755,395 1671,395 1671,486 755,486" rendition="Line" xml:id="facs_12_tr_1_tl_2" />
+                <zone points="474,494 1029,494 1029,591 474,591" rendition="Line" xml:id="facs_12_tr_1_tl_3" />
+                <zone points="364,617 647,617 647,713 364,713" rendition="Line" xml:id="facs_12_tr_1_tl_4" />
+                <zone points="68,750 2590,750 2590,925 68,925" rendition="Line" xml:id="facs_12_tr_1_tl_5" />
+                <zone points="71,886 2666,886 2666,1086 71,1086" rendition="Line" xml:id="facs_12_tr_1_tl_6" />
+                <zone points="337,1026 2648,1026 2648,1224 337,1224" rendition="Line" xml:id="facs_12_tr_1_tl_7" />
+                <zone points="134,1155 2689,1155 2689,1388 134,1388" rendition="Line" xml:id="facs_12_tr_1_tl_8" />
+                <zone points="397,1292 1256,1292 1256,1400 397,1400" rendition="Line" xml:id="facs_12_tr_1_tl_9" />
+                <zone points="265,1450 2669,1450 2669,1683 265,1683" rendition="Line" xml:id="facs_12_tr_1_tl_12" />
+                <zone points="214,1608 2585,1608 2585,1806 214,1806" rendition="Line" xml:id="facs_12_tr_1_tl_13" />
+                <zone points="256,1746 2686,1746 2686,1943 256,1943" rendition="Line" xml:id="facs_12_tr_1_tl_14" />
+                <zone points="268,1912 2588,1912 2588,2103 268,2103" rendition="Line" xml:id="facs_12_tr_1_tl_15" />
+                <zone points="1083,2008 1310,2008 1310,2062 1083,2062" rendition="Line" xml:id="facs_12_tr_1_tl_16" />
+                <zone points="217,2052 2621,2052 2621,2232 217,2232" rendition="Line" xml:id="facs_12_tr_1_tl_17" />
+                <zone points="83,2164 2657,2164 2657,2406 83,2406" rendition="Line" xml:id="facs_12_tr_1_tl_18" />
+                <zone points="95,2329 2648,2329 2648,2528 95,2528" rendition="Line" xml:id="facs_12_tr_1_tl_19" />
+                <zone points="223,2474 2552,2474 2552,2678 223,2678" rendition="Line" xml:id="facs_12_tr_1_tl_20" />
+                <zone points="223,2641 2674,2641 2674,2845 223,2845" rendition="Line" xml:id="facs_12_tr_1_tl_21" />
+                <zone points="304,2819 2671,2819 2671,3024 304,3024" rendition="Line" xml:id="facs_12_tr_1_tl_22" />
+                <zone points="238,3001 2666,3001 2666,3155 238,3155" rendition="Line" xml:id="facs_12_tr_1_tl_23" />
+                <zone points="253,3174 2695,3174 2695,3334 253,3334" rendition="Line" xml:id="facs_12_tr_1_tl_24" />
+                <zone points="262,3328 2689,3328 2689,3490 262,3490" rendition="Line" xml:id="facs_12_tr_1_tl_25" />
+                <zone points="253,3504 2648,3504 2648,3681 253,3681" rendition="Line" xml:id="facs_12_tr_1_tl_26" />
+                <zone points="301,3697 2642,3697 2642,3836 301,3836" rendition="Line" xml:id="facs_12_tr_1_tl_27" />
+            </zone>
+        </surface>
+        <surface lrx="2727" lry="4144" ulx="0" uly="0" xml:id="facs_13">
+            <graphic height="4144px" url="HHStA_StAbt_Palatina_28_377r-383v_008.jpg" width="2727px" />
+            <graphic height="4144px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=BBNDUGOZKWSOLUCHJIIJDEKS" width="2727px" />
+            <zone points="101,363 2698,363 2698,3621 101,3621" rendition="TextRegion" xml:id="facs_13_tr_1">
+                <zone points="226,379 1597,379 1597,441 226,441" rendition="Line" xml:id="facs_13_tr_1_tl_1" />
+                <zone points="298,496 2585,496 2585,584 298,584" rendition="Line" xml:id="facs_13_tr_1_tl_4" />
+                <zone points="292,608 2636,608 2636,731 292,731" rendition="Line" xml:id="facs_13_tr_1_tl_5" />
+                <zone points="310,756 2657,756 2657,880 310,880" rendition="Line" xml:id="facs_13_tr_1_tl_6" />
+                <zone points="328,894 2648,894 2648,1039 328,1039" rendition="Line" xml:id="facs_13_tr_1_tl_7" />
+                <zone points="307,1088 2627,1088 2627,1199 307,1199" rendition="Line" xml:id="facs_13_tr_1_tl_8" />
+                <zone points="355,1196 2693,1196 2693,1346 355,1346" rendition="Line" xml:id="facs_13_tr_1_tl_10" />
+                <zone points="143,1346 2648,1346 2648,1501 143,1501" rendition="Line" xml:id="facs_13_tr_1_tl_11" />
+                <zone points="346,1519 2679,1519 2679,1645 346,1645" rendition="Line" xml:id="facs_13_tr_1_tl_12" />
+                <zone points="101,1573 271,1573 271,1681 101,1681" rendition="Line" xml:id="facs_13_tr_1_tl_13" />
+                <zone points="352,1667 2573,1667 2573,1806 352,1806" rendition="Line" xml:id="facs_13_tr_1_tl_14" />
+                <zone points="355,1817 2543,1817 2543,1949 355,1949" rendition="Line" xml:id="facs_13_tr_1_tl_16" />
+                <zone points="286,1976 2164,1976 2164,2102 286,2102" rendition="Line" xml:id="facs_13_tr_1_tl_17" />
+                <zone points="352,2166 2648,2166 2648,2296 352,2296" rendition="Line" xml:id="facs_13_tr_1_tl_19" />
+                <zone points="414,2346 2633,2346 2633,2465 414,2465" rendition="Line" xml:id="facs_13_tr_1_tl_20" />
+                <zone points="367,2512 2257,2512 2257,2642 367,2642" rendition="Line" xml:id="facs_13_tr_1_tl_21" />
+                <zone points="728,2770 2086,2770 2086,2842 728,2842" rendition="Line" xml:id="facs_13_tr_1_tl_24" />
+                <zone points="740,2929 1442,2929 1442,3013 740,3013" rendition="Line" xml:id="facs_13_tr_1_tl_26" />
+                <zone points="609,3021 2080,3021 2080,3112 609,3112" rendition="Line" xml:id="facs_13_tr_1_tl_27" />
+                <zone points="856,3191 2060,3191 2060,3296 856,3296" rendition="Line" xml:id="facs_13_tr_1_tl_28" />
             </zone>
         </surface>
     </facsimile>
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="HHStA_StAbt_Palatina_28_377r-383v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJTSJYHVGCCTUETXYRFAAOTA" />
+                <pb facs="#facs_1" n="377 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJTSJYHVGCCTUETXYRFAAOTA" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -262,7 +329,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="HHStA_StAbt_Palatina_28_377r-383v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WCKOTWRSEBRUZWRDVCGHOMHF" />
+                <pb facs="#facs_2" n="377 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WCKOTWRSEBRUZWRDVCGHOMHF" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -278,7 +345,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="HHStA_StAbt_Palatina_28_377r-383v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MMMCCGBPHONTGZMOUGNMHSNO" />
+                <pb facs="#facs_3" n="378 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MMMCCGBPHONTGZMOUGNMHSNO" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -294,7 +361,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="HHStA_StAbt_Palatina_28_377r-383v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GZIDIFNAMZDHJFSNYIYJRIQX" />
+                <pb facs="#facs_4" n="378 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GZIDIFNAMZDHJFSNYIYJRIQX" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -311,7 +378,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="HHStA_StAbt_Palatina_28_377r-383v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SOYDNFHYRNREWUNDGMVDQKJB" />
+                <pb facs="#facs_5" n="379 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SOYDNFHYRNREWUNDGMVDQKJB" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -327,7 +394,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="HHStA_StAbt_Palatina_28_377r-383v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MTMMIXFDSELRUBLNNQEYZHSP" />
+                <pb facs="#facs_6" n="379 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MTMMIXFDSELRUBLNNQEYZHSP" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -344,7 +411,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="HHStA_StAbt_Palatina_28_377r-383v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=CQKKYSEXRKJPWWVAJPGTMUFR" />
+                <pb facs="#facs_7" n="383 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=CQKKYSEXRKJPWWVAJPGTMUFR" />
                 <p facs="#facs_7_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -362,7 +429,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_8" n="8" xml:id="HHStA_StAbt_Palatina_28_377r-383v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IFQIWGWMCLQIJLTDXYPBWZYZ" />
+                <pb facs="#facs_8" n="383 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IFQIWGWMCLQIJLTDXYPBWZYZ" />
                 <p facs="#facs_8_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -372,8 +439,35 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_9" n="9" xml:id="HHStA_StAbt_Palatina_28_377r-383v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JTTCXSZPIEMWELTGECRUDQSC" />
+                <pb facs="#facs_9" n="381 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LYQLLDYYHGICYAQTLXFJWRWQ" />
                 <p facs="#facs_9_tr_1">
+                    <lb n="N001" />
+                    <lb n="N002" />
+                    <lb n="N003" />
+                    <lb n="N004" />
+                    <lb n="N005" />
+                    <lb n="N006" />
+                    <lb n="N007" />
+                    <lb n="N008" />
+                    <lb n="N009" />
+                    <lb n="N010" />
+                    <lb n="N011" />
+                </p>
+            </div>
+            <div type="page">
+                <pb facs="#facs_10" n="382 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VGQYVEUEFWVIFAUPSWQZJZTY"/>
+                <p facs="#facs_10_tr_1">
+                    <lb n="N001" />
+                    <lb n="N002" /></p></div>
+            <div type="page">
+                <pb facs="#facs_11" n="382 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SBNUQRWQYFGHOPAJDIVXOFMT"/>
+                <p facs="#facs_11_tr_1">
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                </p></div>
+            <div type="page">
+                <pb facs="#facs_12" n="380 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JTTCXSZPIEMWELTGECRUDQSC" />
+                <p facs="#facs_12_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
                     <lb n="N003" />
@@ -402,8 +496,8 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_10" n="10" xml:id="HHStA_StAbt_Palatina_28_377r-383v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BBNDUGOZKWSOLUCHJIIJDEKS" />
-                <p facs="#facs_10_tr_1">
+                <pb facs="#facs_13" n="380 v" xml:id="HHStA_StAbt_Palatina_28_377r-383v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BBNDUGOZKWSOLUCHJIIJDEKS"/>
+                <p facs="#facs_13s_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
                     <lb n="N003" />
@@ -424,29 +518,6 @@
                     <lb n="N018" />
                     <lb n="N019" />
                     <lb n="N020" />
-                </p>
-            </div>
-            <div type="page">
-                <pb facs="#facs_11" n="11" xml:id="HHStA_StAbt_Palatina_28_377r-383v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LYQLLDYYHGICYAQTLXFJWRWQ" />
-                <p facs="#facs_11_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                </p>
-            </div>
-            <div type="page">
-                <pb facs="#facs_12" n="12" xml:id="HHStA_StAbt_Palatina_28_377r-383v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VGQYVEUEFWVIFAUPSWQZJZTY" />
-                <p facs="#facs_13_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
                 </p>
             </div>
         </body>
