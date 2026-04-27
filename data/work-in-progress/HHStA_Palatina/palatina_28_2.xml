@@ -3,19 +3,86 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_28_2</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 18.05.1693</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_28</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_28_2</title>
-                    <idno type="Transkribus">15443804</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 28, Fasz. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2382066</idno>
+                        <idno type="transkribus-doc-id">15443804</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1693-05-18">Montag, 18. Mai 1693</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2705" lry="4082" ulx="0" uly="0" xml:id="facs_1">
@@ -240,8 +307,6 @@
                 <zone points="856,3191 2060,3191 2060,3296 856,3296" rendition="Line" xml:id="facs_13_tr_1_tl_28" />
             </zone>
         </surface>
-        
-        
     </facsimile>
     <text>
         <body>
@@ -373,8 +438,7 @@
                     <lb n="N005" />
                 </p>
             </div>
-            
-             <div type="page">
+            <div type="page">
                 <pb facs="#facs_9" n="381 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LYQLLDYYHGICYAQTLXFJWRWQ" />
                 <p facs="#facs_9_tr_1">
                     <lb n="N001" />
@@ -389,7 +453,8 @@
                     <lb n="N010" />
                     <lb n="N011" />
                 </p>
-            </div><div type="page">
+            </div>
+            <div type="page">
                 <pb facs="#facs_10" n="382 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VGQYVEUEFWVIFAUPSWQZJZTY"/>
                 <p facs="#facs_10_tr_1">
                     <lb n="N001" />
@@ -455,8 +520,6 @@
                     <lb n="N020" />
                 </p>
             </div>
-            
-           
         </body>
     </text>
 </TEI>
