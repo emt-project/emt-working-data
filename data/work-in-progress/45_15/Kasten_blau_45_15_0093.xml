@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="Kasten_blau_45_15_0093.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Kasten_blau_45_15_0093</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>emt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">Kasten_blau_45_15_0093</title>
+                    <idno type="Transkribus">871085</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc />
+    </teiHeader>
+    <facsimile>
+        <surface lrx="800" lry="1190" ulx="0" uly="0" xml:id="facs_1">
+            <graphic height="1190px" url="FILE_0001_DEFAULT.jpeg" width="800px" />
+            <graphic height="1190px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=SMXBYYVPGOFJVRJHUSTQZWYI" width="800px" />
+            <zone points="37,210 776,210 776,1154 37,1154" rendition="TextRegion" xml:id="facs_1_r1">
+                <zone points="120,189 697,189 697,285 120,285" rendition="Line" xml:id="facs_1_r1l1" />
+                <zone points="102,252 766,252 766,326 102,326" rendition="Line" xml:id="facs_1_r1l2" />
+                <zone points="97,302 760,302 760,385 97,385" rendition="Line" xml:id="facs_1_r1l3" />
+                <zone points="101,348 782,348 782,435 101,435" rendition="Line" xml:id="facs_1_r1l4" />
+                <zone points="99,403 756,403 756,498 99,498" rendition="Line" xml:id="facs_1_r1l5" />
+                <zone points="91,464 619,464 619,562 91,562" rendition="Line" xml:id="facs_1_r1l6" />
+                <zone points="159,522 333,522 333,624 159,624" rendition="Line" xml:id="facs_1_r1l7" />
+                <zone points="399,597 768,597 768,682 399,682" rendition="Line" xml:id="facs_1_line_1642073711754_99" />
+                <zone points="509,670 665,670 665,732 509,732" rendition="Line" xml:id="facs_1_r1l9" />
+                <zone points="43,591 431,591 431,701 43,701" rendition="Line" xml:id="facs_1_line_1642073711754_100" />
+            </zone>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="page">
+                <pb facs="#facs_1" n="1" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SMXBYYVPGOFJVRJHUSTQZWYI" />
+                <p facs="#facs_1_r1">
+                    <lb n="N001" />Durchleüchtiger Fürst, herzall<choice>
+                        <expan />
+                        <abbr>e</abbr>
+                    </choice>r<choice>
+                        <expan />
+                        <abbr>l</abbr>
+                    </choice>i<choice>
+                        <expan />
+                        <abbr>e</abbr>
+                    </choice>bster <choice>
+                        <expan>herr</expan>
+                        <abbr>h</abbr>
+                    </choice>
+                    <choice>
+                        <expan>vatter</expan>
+                        <abbr>v</abbr>
+                    </choice>
+                    <lb n="N002" />                        
+                        Weil villeicht der Weikh dem curir möcht
+                    <lb n="N003" />vohrkommen, also hab durch diße zeilen <choice>
+                        <expan>vnterdehnigst</expan>
+                        <abbr>vt</abbr>
+                    </choice>
+                    <lb n="N004" />aufwarten wollen. Ewer Durchlaucht werden vom Deütsch<choice>
+                        <expan />
+                        <abbr>me</abbr>
+                    </choice>ist<choice>
+                        <expan />
+                        <abbr>er</abbr>
+                    </choice>
+                    <lb n="N005" />                        
+                        selbsten vernemmen, wie gott vns Offen
+                    <lb n="N006" />geschenkt hatt. Befehl mich <choice>
+                        <expan>vnterdehnigst</expan>
+                        <abbr>vd</abbr>
+                    </choice>
+                    <lb n="N007" />                        
+                        ewer Durchlaucht
+                    <lb n="N008" />
+                    <choice>
+                        <expan>vnterdehnigste</expan>
+                        <abbr>vnt</abbr>
+                    </choice>
+                    <choice>
+                        <expan>trewgehorsamste</expan>
+                        <abbr>trewgehos</abbr>
+                    </choice> do<supplied reason="">c</supplied>                        
+                        hter
+                    <lb n="N009" />                        
+                        EMT
+                    <lb n="N010" />Wien den 4ten <choice>
+                        <expan>septembris</expan>
+                        <abbr>7br</abbr>
+                    </choice>                        
+                        1686
+                    </p>
+                </div>
+            </body>
+        </text>
+    </TEI>
