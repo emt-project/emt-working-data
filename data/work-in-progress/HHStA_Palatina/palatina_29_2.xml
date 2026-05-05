@@ -3,19 +3,88 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_29_2</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 20.02.1700</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_29_Fasz_2</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_29_2</title>
-                    <idno type="Transkribus">15444428</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 29, Fasz. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2382089</idno>
+                        <idno type="transkribus-doc-id">15444428</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1700-02-20">Samstag, 20. Februar 1700</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2587" lry="3772" ulx="0" uly="0" xml:id="facs_1">
@@ -1149,7 +1218,7 @@
     </facsimile>
     <text>
         <body>
-            <div type="page"><pb facs="#facs_1" n="1" xml:id="HHStA_StAbt_Palatina_29_4r-26v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MSPUJGRQUOHOEHGRJHEZDZBR"/>
+            <div type="page"><pb facs="#facs_1" n="4 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MSPUJGRQUOHOEHGRJHEZDZBR"/>
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1165,7 +1234,7 @@
                     <lb n="N012" />
                     <lb n="N013" />
                     <lb n="N014" /></p></div>
-            <div type="page"><pb facs="#facs_2" n="2" xml:id="HHStA_StAbt_Palatina_29_4r-26v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LRZWRKURPMYBBYEWECIDVSZD" />
+            <div type="page"><pb facs="#facs_2" n="4 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LRZWRKURPMYBBYEWECIDVSZD" />
             <p facs="#facs_2_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1176,7 +1245,7 @@
                     <lb n="N007" />
                     <lb n="N008" />
                     <lb n="N009" /></p> </div>      
-            <div type="page"><pb facs="#facs_3" n="3" xml:id="HHStA_StAbt_Palatina_29_4r-26v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WCXYUKNHLLFPHAKTZJBGXIUS" />
+            <div type="page"><pb facs="#facs_3" n="5 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WCXYUKNHLLFPHAKTZJBGXIUS" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1190,7 +1259,7 @@
                     <lb n="N010" />
                     <lb n="N011" />
                     <lb n="N012" /></p></div>
-            <div type="page"><pb facs="#facs_4" n="4" xml:id="HHStA_StAbt_Palatina_29_4r-26v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GAXJOASHWKYMNNDAXSJRFPRA" />
+            <div type="page"><pb facs="#facs_4" n="5 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GAXJOASHWKYMNNDAXSJRFPRA" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1202,7 +1271,7 @@
                     <lb n="N008" />
                     <lb n="N009" />
                     <lb n="N010" /></p></div>
-            <div type="page"><pb facs="#facs_5" n="5" xml:id="HHStA_StAbt_Palatina_29_26v-36v_020.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NPZXAGFJIDDZESWIWWONKYGZ" />
+            <div type="page"><pb facs="#facs_5" n="36 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_020.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NPZXAGFJIDDZESWIWWONKYGZ" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1221,11 +1290,11 @@
                     <lb n="N015" />
                     <lb n="N016" />
                     <lb n="N017" /></p></div>
-            <div type="page"><pb facs="#facs_6" n="6" xml:id="HHStA_StAbt_Palatina_29_26v-36v_021.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ICPEEURNQFCSCSSGWFMLPZWB" />
+            <div type="page"><pb facs="#facs_6" n="36 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_021.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ICPEEURNQFCSCSSGWFMLPZWB" />
                 <p facs="#facs_6_tr_1"></p></div>
-            <div type="page"><pb facs="#facs_7" n="7" xml:id="HHStA_StAbt_Palatina_29_4r-26v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GMZVBALBOJOAWJNMIEDLLMAI" />
+            <div type="page"><pb facs="#facs_7" n="6 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GMZVBALBOJOAWJNMIEDLLMAI" />
                 <p facs="#facs_7_tr_1"></p></div>
-            <div type="page"><pb facs="#facs_8" n="8" xml:id="HHStA_StAbt_Palatina_29_4r-26v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HATLTSMVDBYVKEGDOZXWCGRR" />
+            <div type="page"><pb facs="#facs_8" n="6 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HATLTSMVDBYVKEGDOZXWCGRR" />
                 <p facs="#facs_9_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1244,7 +1313,7 @@
                     <lb n="N015" />
                     <lb n="N016" />
                     <lb n="N017" /></p></div>
-            <div type="page"><pb facs="#facs_9" n="9" xml:id="HHStA_StAbt_Palatina_29_4r-26v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YUZIOLZPMUMYXYIDYTRZMFIF" />
+            <div type="page"><pb facs="#facs_9" n="7 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YUZIOLZPMUMYXYIDYTRZMFIF" />
                 <p facs="#facs_9_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1262,7 +1331,7 @@
                     <lb n="N014" />
                     <lb n="N015" />
                     <lb n="N016" /></p></div>
-            <div type="page"><pb facs="#facs_10" n="10" xml:id="HHStA_StAbt_Palatina_29_4r-26v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VZNVOBENAVTBZYBMRWRKILBU" />
+            <div type="page"><pb facs="#facs_10" n="7 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VZNVOBENAVTBZYBMRWRKILBU" />
                 <p facs="#facs_10_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1283,8 +1352,7 @@
                     <lb n="N017" />
                     <lb n="N018" />
                     <lb n="N019" /></p></div>
-            <div type="page">
-                <pb facs="#facs_11" n="11" xml:id="HHStA_StAbt_Palatina_29_4r-26v_010.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WXSDACPTMPRZAGSQTQQQYVPN" />
+            <div type="page"><pb facs="#facs_11" n="8 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_010.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WXSDACPTMPRZAGSQTQQQYVPN" />
                 <p facs="#facs_11_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1306,8 +1374,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_12" n="12" xml:id="HHStA_StAbt_Palatina_29_4r-26v_011.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NHHMPDFXYKLKSZFJFEHFWXBC" />
+            <div type="page"><pb facs="#facs_12" n="8 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_011.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NHHMPDFXYKLKSZFJFEHFWXBC" />
                 <p facs="#facs_12_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1330,8 +1397,7 @@
                     <lb n="N019" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_13" n="13" xml:id="HHStA_StAbt_Palatina_29_4r-26v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FOLGLYWUBUIBPXVKYMDENZCC" />
+            <div type="page"><pb facs="#facs_13" n="9 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FOLGLYWUBUIBPXVKYMDENZCC" />
                 <p facs="#facs_13_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1356,8 +1422,7 @@
                     <lb n="N021" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_14" n="14" xml:id="HHStA_StAbt_Palatina_29_4r-26v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=PECXQUNSQYJGWJGMTQBDMUOX" />
+            <div type="page"><pb facs="#facs_14" n="9 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=PECXQUNSQYJGWJGMTQBDMUOX" />
                 <p facs="#facs_14_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1378,8 +1443,7 @@
                     <lb n="N017" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_15" n="15" xml:id="HHStA_StAbt_Palatina_29_4r-26v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ELCLHYGWOTXYDMWBQGBBHCCX" />
+            <div type="page"><pb facs="#facs_15" n="10 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ELCLHYGWOTXYDMWBQGBBHCCX" />
                 <p facs="#facs_15_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1405,13 +1469,11 @@
                     <lb n="N022" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_16" n="16" xml:id="HHStA_StAbt_Palatina_29_4r-26v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=EHWHOZAEZPOPJDENSTCZGHYZ" />
+            <div type="page"><pb facs="#facs_16" n="10 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=EHWHOZAEZPOPJDENSTCZGHYZ" />
                 <p facs="#facs_16_tr_1"></p></div>
-            <div type="page">
-                <pb facs="#facs_17" n="17" xml:id="HHStA_StAbt_Palatina_29_4r-26v_018.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YHTLAFHCVROCSVXICZVQQGRL" />
+            <div type="page"><pb facs="#facs_17" n="12 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_018.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YHTLAFHCVROCSVXICZVQQGRL" />
                 <p facs="#facs_17_tr_1"></p></div>
-            <div type="page"><pb facs="#facs_18" n="18" xml:id="HHStA_StAbt_Palatina_29_4r-26v_019.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XBXJEPJRMVBYEDPFCWXPDVOJ" />
+            <div type="page"><pb facs="#facs_18" n="12 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_019.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XBXJEPJRMVBYEDPFCWXPDVOJ" />
                 <p facs="#facs_18_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1429,7 +1491,7 @@
                     <lb n="N014" />
                     <lb n="N015" />
                     <lb n="N016" /></p></div>
-            <div type="page"><pb facs="#facs_19" n="19" xml:id="HHStA_StAbt_Palatina_29_4r-26v_020.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HUXLGXUMFRWHOLBMLQKHBIEH" />
+            <div type="page"><pb facs="#facs_19" n="13 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_020.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HUXLGXUMFRWHOLBMLQKHBIEH" />
                 <p facs="#facs_19_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1452,8 +1514,7 @@
                     <lb n="N019" />
                     <lb n="N020" />
                     <lb n="N021" /></p></div>
-            <div type="page">
-                <pb facs="#facs_20" n="20" xml:id="HHStA_StAbt_Palatina_29_4r-26v_021.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=REHUPNXGVPWSQIGIBYVBWZTY" />
+            <div type="page"><pb facs="#facs_20" n="13 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_021.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=REHUPNXGVPWSQIGIBYVBWZTY" />
                 <p facs="#facs_20_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1475,8 +1536,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_21" n="21" xml:id="HHStA_StAbt_Palatina_29_4r-26v_022.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KUIHQLYALCBANOBVZYVUBZFH" />
+            <div type="page"><pb facs="#facs_21" n="14 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_022.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KUIHQLYALCBANOBVZYVUBZFH" />
                 <p facs="#facs_21_tr_1">
                     <lb n="N001" />
                 </p>
@@ -1503,8 +1563,7 @@
                     <lb n="N020" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_22" n="22" xml:id="HHStA_StAbt_Palatina_29_4r-26v_023.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JLSOKNHSBKCLMXPNQDXZOSUP" />
+            <div type="page"><pb facs="#facs_22" n="14 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_023.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JLSOKNHSBKCLMXPNQDXZOSUP" />
                 <p facs="#facs_22_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1527,8 +1586,7 @@
                     <lb n="N019" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_23" n="23" xml:id="HHStA_StAbt_Palatina_29_4r-26v_024.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=TXWAKJDZHGDXASTYITHSPTKF" />
+            <div type="page"><pb facs="#facs_23" n="15 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_024.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=TXWAKJDZHGDXASTYITHSPTKF" />
                 <p facs="#facs_23_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1550,8 +1608,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_24" n="24" xml:id="HHStA_StAbt_Palatina_29_4r-26v_025.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DVHWVKQMHZLAQNOGWNBXMTLD" />
+            <div type="page"><pb facs="#facs_24" n="15 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_025.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DVHWVKQMHZLAQNOGWNBXMTLD" />
                 <p facs="#facs_24_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1573,8 +1630,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_25" n="25" xml:id="HHStA_StAbt_Palatina_29_4r-26v_026.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YEXNLCESDLPQAIKHKSCYLWRB" />
+            <div type="page"><pb facs="#facs_25" n="16 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_026.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YEXNLCESDLPQAIKHKSCYLWRB" />
                 <p facs="#facs_25_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1597,8 +1653,7 @@
                     <lb n="N019" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_26" n="26" xml:id="HHStA_StAbt_Palatina_29_4r-26v_027.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JWCJJSAHPQUPOYPQMTIEATXT" />
+            <div type="page"><pb facs="#facs_26" n="16 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_027.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JWCJJSAHPQUPOYPQMTIEATXT" />
                 <p facs="#facs_26_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1620,8 +1675,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_27" n="27" xml:id="HHStA_StAbt_Palatina_29_4r-26v_028.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XMIMSYDOBMFKIHLBGRLRPUQJ" />
+            <div type="page"><pb facs="#facs_27" n="17 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_028.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XMIMSYDOBMFKIHLBGRLRPUQJ" />
                 <p facs="#facs_27_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1646,8 +1700,7 @@
                     <lb n="N021" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_28" n="28" xml:id="HHStA_StAbt_Palatina_29_4r-26v_029.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KKBZYOIQESGFDBTIAKUFRFMD" />
+            <div type="page"><pb facs="#facs_28" n="17 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_029.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KKBZYOIQESGFDBTIAKUFRFMD" />
                 <p facs="#facs_28_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1672,8 +1725,7 @@
                     <lb n="N021" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_29" n="29" xml:id="HHStA_StAbt_Palatina_29_4r-26v_030.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OAQKZXERQMHHOWQXQCOMWQJR" />
+            <div type="page"><pb facs="#facs_29" n="18 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_030.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OAQKZXERQMHHOWQXQCOMWQJR" />
                 <p facs="#facs_29_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1696,8 +1748,7 @@
                     <lb n="N019" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_30" n="30" xml:id="HHStA_StAbt_Palatina_29_4r-26v_031.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSJCDHLZRQRPLURFANQQTWMF" />
+            <div type="page"><pb facs="#facs_30" n="18 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_031.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSJCDHLZRQRPLURFANQQTWMF" />
                 <p facs="#facs_30_tr_2">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1719,8 +1770,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_31" n="31" xml:id="HHStA_StAbt_Palatina_29_4r-26v_032.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=PIZJUBQKGJLRMMHUFOBELBCI" />
+            <div type="page"><pb facs="#facs_31" n="19 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_032.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=PIZJUBQKGJLRMMHUFOBELBCI" />
                 <p facs="#facs_31_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1742,8 +1792,7 @@
                     <lb n="N018" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_32" n="32" xml:id="HHStA_StAbt_Palatina_29_4r-26v_033.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OZFVPEXXGMYLLYQIQSEDZIFJ" />
+            <div type="page"><pb facs="#facs_32" n="19 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_033.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OZFVPEXXGMYLLYQIQSEDZIFJ" />
                 <p facs="#facs_32_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1767,8 +1816,7 @@
                     <lb n="N020" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_33" n="33" xml:id="HHStA_StAbt_Palatina_29_4r-26v_038.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XAXNTQZNNEBPZGCWOCIVFZYR" />
+            <div type="page"><pb facs="#facs_33" n="22 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_038.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XAXNTQZNNEBPZGCWOCIVFZYR" />
                 <p facs="#facs_33_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1796,8 +1844,7 @@
                     <lb n="N024" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_34" n="34" xml:id="HHStA_StAbt_Palatina_29_4r-26v_039.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MDMYYANZDNWLGSYCRXLPIFNX" />
+            <div type="page"><pb facs="#facs_34" n="22 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_039.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MDMYYANZDNWLGSYCRXLPIFNX" />
                 <p facs="#facs_34_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1823,8 +1870,7 @@
                     <lb n="N022" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_35" n="35" xml:id="HHStA_StAbt_Palatina_29_4r-26v_040.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XILBTVVOUYFRHBMYLRPCOIXF" />
+            <div type="page"><pb facs="#facs_35" n="23 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_040.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XILBTVVOUYFRHBMYLRPCOIXF" />
                 <p facs="#facs_35_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1851,8 +1897,7 @@
                     <lb n="N023" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_36" n="36" xml:id="HHStA_StAbt_Palatina_29_4r-26v_041.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZSDUJYILDQSOFOIPBQDNHYZK" />
+            <div type="page"><pb facs="#facs_36" n="23 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_041.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZSDUJYILDQSOFOIPBQDNHYZK" />
                 <p facs="#facs_36_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1878,8 +1923,7 @@
                     <lb n="N022" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_37" n="37" xml:id="HHStA_StAbt_Palatina_29_4r-26v_042.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AGRZYJQOMHGWLABDUYIAMXAI" />
+            <div type="page"><pb facs="#facs_37" n="24 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_042.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AGRZYJQOMHGWLABDUYIAMXAI" />
                 <p facs="#facs_37_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1905,23 +1949,20 @@
                     <lb n="N022" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_38" n="38" xml:id="HHStA_StAbt_Palatina_29_4r-26v_043.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SCDUDPZBCPJDNAVILULNSUXY" />
+            <div type="page"><pb facs="#facs_38" n="24 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_043.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SCDUDPZBCPJDNAVILULNSUXY" />
                 <p facs="#facs_38_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_39" n="39" xml:id="HHStA_StAbt_Palatina_29_4r-26v_046.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QVWGNXYMAQSEJOGLSCKDGNAL" />
+            <div type="page"><pb facs="#facs_39" n="26 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_046.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QVWGNXYMAQSEJOGLSCKDGNAL" />
                 <p facs="#facs_39_tr_1">
                     <lb n="N001" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_40" n="40" xml:id="HHStA_StAbt_Palatina_29_26v-36v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QPQHIPUMUQCDSHYHAEDNLQPF" />
+            <div type="page"><pb facs="#facs_40" n="26 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QPQHIPUMUQCDSHYHAEDNLQPF" />
                 <p facs="#facs_40_tr_1"></p></div>
-            <div type="page"><pb facs="#facs_41" n="41" xml:id="HHStA_StAbt_Palatina_29_26v-36v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ESOPZJEIDZYGJOPVYDDPODJV" />
+            <div type="page"><pb facs="#facs_41" n="27 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ESOPZJEIDZYGJOPVYDDPODJV" />
                 <p facs="#facs_41_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1940,8 +1981,7 @@
                     <lb n="N015" />
                     <lb n="N016" />
                     <lb n="N017" /></p></div>
-            <div type="page">
-                <pb facs="#facs_42" n="42" xml:id="HHStA_StAbt_Palatina_29_26v-36v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YYVNRLDXTSXZGMOGRSVOUIDY" />
+            <div type="page"><pb facs="#facs_42" n="27 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YYVNRLDXTSXZGMOGRSVOUIDY" />
                 <p facs="#facs_42_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1960,8 +2000,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_43" n="43" xml:id="HHStA_StAbt_Palatina_29_26v-36v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ELXIVNHNZNLYXNAPSCECYIWW" />
+            <div type="page"><pb facs="#facs_43" n="28 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ELXIVNHNZNLYXNAPSCECYIWW" />
                 <p facs="#facs_43_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1980,8 +2019,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_44" n="44" xml:id="HHStA_StAbt_Palatina_29_26v-36v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VMNLYUOZDQYXGDSVMAMGTDOF" />
+            <div type="page"><pb facs="#facs_44" n="28 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VMNLYUOZDQYXGDSVMAMGTDOF" />
                 <p facs="#facs_44_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -1999,8 +2037,7 @@
                     <lb n="N014" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_45" n="45" xml:id="HHStA_StAbt_Palatina_29_26v-36v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SVHTCBRWFNQKWGSVVZCNSRPJ" />
+            <div type="page"><pb facs="#facs_45" n="29 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SVHTCBRWFNQKWGSVVZCNSRPJ" />
                 <p facs="#facs_45_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2019,8 +2056,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_46" n="46" xml:id="HHStA_StAbt_Palatina_29_26v-36v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJENXVLXGRIGWWUSOZXUIAFQ" />
+            <div type="page"><pb facs="#facs_46" n="29 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJENXVLXGRIGWWUSOZXUIAFQ" />
                 <p facs="#facs_46_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2040,8 +2076,7 @@
                     <lb n="N016" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_47" n="47" xml:id="HHStA_StAbt_Palatina_29_26v-36v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JAQGPHEOIFRRWTVMVOORQTOU" />
+            <div type="page"><pb facs="#facs_47" n="30 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JAQGPHEOIFRRWTVMVOORQTOU" />
                 <p facs="#facs_47_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2060,8 +2095,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_48" n="48" xml:id="HHStA_StAbt_Palatina_29_26v-36v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RYTJVODTNRZRGVNFQTOHYKIC" />
+            <div type="page"><pb facs="#facs_48" n="30 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RYTJVODTNRZRGVNFQTOHYKIC" />
                 <p facs="#facs_48_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2080,8 +2114,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_49" n="49" xml:id="HHStA_StAbt_Palatina_29_26v-36v_010.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJVUXAKTXYYAKERGSMIUIWXI" />
+            <div type="page"><pb facs="#facs_49" n="31 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_010.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QJVUXAKTXYYAKERGSMIUIWXI" />
                 <p facs="#facs_49_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2100,8 +2133,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_50" n="50" xml:id="HHStA_StAbt_Palatina_29_26v-36v_011.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RQOPYSRNNNMGGICEAHSEIGEB" />
+            <div type="page"><pb facs="#facs_50" n="31 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_011.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=RQOPYSRNNNMGGICEAHSEIGEB" />
                 <p facs="#facs_50_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2121,8 +2153,7 @@
                     <lb n="N016" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_51" n="51" xml:id="HHStA_StAbt_Palatina_29_26v-36v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MKOBLIQHIFCZQHPXUUSCJBSP" />
+            <div type="page"><pb facs="#facs_51" n="32 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_012.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MKOBLIQHIFCZQHPXUUSCJBSP" />
                 <p facs="#facs_51_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2142,8 +2173,7 @@
                     <lb n="N016" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_52" n="52" xml:id="HHStA_StAbt_Palatina_29_26v-36v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AKSAWBKHKOUAPYQCCVOXPFWL" />
+            <div type="page"><pb facs="#facs_52" n="32 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AKSAWBKHKOUAPYQCCVOXPFWL" />
                 <p facs="#facs_52_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2162,8 +2192,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_53" n="53" xml:id="HHStA_StAbt_Palatina_29_26v-36v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QBNRUELYRNVGGYHWAEBAVPDG" />
+            <div type="page"><pb facs="#facs_53" n="33 r" xml:id="HHStA_StAbt_Palatina_29_26v-36v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QBNRUELYRNVGGYHWAEBAVPDG" />
                 <p facs="#facs_53_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -2182,8 +2211,7 @@
                     <lb n="N015" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_54" n="54" xml:id="HHStA_StAbt_Palatina_29_26v-36v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YNXASIWJUUWMAJBMMTGFDXUX" />
+            <div type="page"><pb facs="#facs_54" n="33 v" xml:id="HHStA_StAbt_Palatina_29_26v-36v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YNXASIWJUUWMAJBMMTGFDXUX" />
                 <p facs="#facs_54_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
