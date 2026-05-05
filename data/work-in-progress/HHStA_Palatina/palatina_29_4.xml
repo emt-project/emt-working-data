@@ -3,20 +3,87 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_29_4</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 10.12.1702</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_29_Fasz_4</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_29_4</title>
-                    <idno type="Transkribus">15832563</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 29, Fasz. 4</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2395610</idno>
+                        <idno type="transkribus-doc-id">15832563</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage />
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1700-04-07">Sonntag, 10. Dezember 1702</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -188,7 +255,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="HHStA_StAbt_Palatina_29_176r-179v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DWIJTAGLPOEYTWRODQKKDXHP" />
+                <pb facs="#facs_1" n="176 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_001.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DWIJTAGLPOEYTWRODQKKDXHP" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -206,7 +273,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="HHStA_StAbt_Palatina_29_176r-179v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ADDMCGFCDTLRDPADUESMDBHY" />
+                <pb facs="#facs_2" n="176 v" xml:id="HHStA_StAbt_Palatina_29_176r-179v_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ADDMCGFCDTLRDPADUESMDBHY" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -222,7 +289,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="HHStA_StAbt_Palatina_29_176r-179v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WQUZYKVISQBAWBFCGYCNQFHM" />
+                <pb facs="#facs_3" n="177 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WQUZYKVISQBAWBFCGYCNQFHM" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -238,7 +305,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="HHStA_StAbt_Palatina_29_176r-179v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BIRUXXSNBCKNXENMVETWFYXI" />
+                <pb facs="#facs_4" n="177 v" xml:id="HHStA_StAbt_Palatina_29_176r-179v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BIRUXXSNBCKNXENMVETWFYXI" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -254,7 +321,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="HHStA_StAbt_Palatina_29_176r-179v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZMEZQRFVBAIBGTBETTYXEXYD" />
+                <pb facs="#facs_5" n="178 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZMEZQRFVBAIBGTBETTYXEXYD" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -270,7 +337,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="HHStA_StAbt_Palatina_29_176r-179v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NKPITCIRGFURUKARPVBEFESB" />
+                <pb facs="#facs_6" n="178 v" xml:id="HHStA_StAbt_Palatina_29_176r-179v_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NKPITCIRGFURUKARPVBEFESB" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -289,7 +356,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="HHStA_StAbt_Palatina_29_176r-179v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WWWCGHDOGXNKPSNTNZTUMEAB" />
+                <pb facs="#facs_7" n="179 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WWWCGHDOGXNKPSNTNZTUMEAB" />
                 <p facs="#facs_7_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -320,7 +387,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_8" n="8" xml:id="HHStA_StAbt_Palatina_29_176r-179v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GDSJFOSWEEVUDWTSAWCBYOJB" />
+                <pb facs="#facs_8" n="179 v" xml:id="HHStA_StAbt_Palatina_29_176r-179v_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GDSJFOSWEEVUDWTSAWCBYOJB" />
                 <p facs="#facs_8_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
