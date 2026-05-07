@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an ?, o.O. am 1704.?.?</title>
+            <title type="main">Leopold I. an Johann Wilhelm von Pfalz-Neuburg, o.O. am ?.?.1704</title>
             <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
             <author>Eleonora Magdalena von Pfalz-Neuburg</author>
             <editor>
@@ -64,25 +64,27 @@
       <profileDesc>
          <abstract>
           <ab type="abstract-terms">
-            <term>Konzept</term>
-            <term>eigenhändig</term>
+             <term>Abschrift (?)</term>
+             <term>eigenhändig von Kaiserin Eleonora Magdalena</term>
          </ab>
-         
         </abstract>
         <abstract n="regest">
-            <p/>
+           <p>Das vorliegende Blatt weist die Handschrift der Kaiserin auf. Auf Grund von Inhalt und Wortwahl ist zu vermuten,
+              dass es sich um die Abschrift eines Briefs Kaiser Leopolds I. an Kurfürst Johann Wilhelm von Pfalz-Neuburg von August 1704 handelt. 
+              Auf der Rückseite findet sich eine konzeptartige Variante des Briefanfangs in abweichendem Wortlaut. Zur Überlieferungssituation passt, 
+              dass Johann Wilhelm seiner Schwester am 29.10.1704 für die Transkription eines für ihn unleserlichen eigenhändigen Schreibens des Kaisers dankte.</p>
          </abstract>
          <langUsage>
             <language ident="deu">deutsch</language>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <persName ref="#emt_person_id__35" cert="low">Leopold I.</persName>
                <placeName ref="#">o.O.</placeName>
-               <date notBefore="1704-01-01" notAfter="1704-12-31" datingMethod="ermittelt_durch_Editor*innen"/>
+               <date notBefore="1704-08-11" notAfter="1704-09-30" datingMethod="ermittelt_durch_Editor*innen"/>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#">?</persName>
+                <persName ref="#emt_person_id__18" cert="low">Johann Wilhelm von Pfalz-Neuburg</persName>
                 <placeName ref="#"/>
                 <date/>
             </correspAction>
@@ -117,6 +119,21 @@
         <zone points="83,1064 115,1058 157,1085 203,1067 248,1090 298,1089 300,1012 259,1007 239,990 223,990 169,1023 127,1000 108,1016 84,1014" rendition="Line" xml:id="facs_1_r1l21"/>
       </zone>
   </surface>
+      <surface ulx="0" uly="0" lrx="800" lry="1216" xml:id="facs_2">
+         <graphic url="Kasten_blau_45_7_0053.jpg" width="800px" height="1216px"/>
+         <zone points="55,90 55,620 775,620 775,90" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="93,145 132,157 227,117 271,139 501,138 564,112 694,117 745,146 744,94 715,86 660,100 589,77 507,98 466,75 346,98 244,68 92,91" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="76,195 741,167 739,112 606,134 553,112 501,144 366,129 215,159 187,137 75,153" rendition="Line" xml:id="facs_2_r1l2"/>
+            <zone points="65,243 180,218 328,257 438,216 533,238 700,205 731,224 752,218 751,166 554,172 520,197 200,184 109,212 63,194" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="50,289 162,271 295,298 410,286 442,260 480,286 615,291 712,260 766,271 765,229 740,218 508,250 423,221 329,257 289,233 181,258 140,231 92,253 49,237" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="69,339 135,326 252,362 386,327 451,358 613,309 754,302 752,265 638,294 450,274 291,303 246,275 162,271 67,294" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="59,415 102,395 216,421 241,396 391,373 563,382 644,356 697,379 742,360 740,321 657,314 559,348 514,330 360,353 314,337 246,367 224,350 196,369 57,368" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="59,446 211,449 249,471 539,418 648,438 778,419 766,349 645,395 543,371 458,409 330,381 210,423 116,399 57,420" rendition="Line" xml:id="facs_2_r1l7"/>
+            <zone points="59,525 253,495 539,508 635,458 782,465 778,419 649,437 539,418 220,480 177,455 115,480 53,468" rendition="Line" xml:id="facs_2_r1l8"/>
+            <zone points="58,571 113,551 400,572 455,539 622,547 779,516 774,460 491,517 259,498 198,531 54,528" rendition="Line" xml:id="facs_2_r1l9"/>
+            <zone points="59,616 157,644 314,623 401,633 524,581 523,546 484,556 447,540 401,572 367,564 325,580 219,556 160,592 124,574 58,577" rendition="Line" xml:id="facs_2_r1l10"/>
+         </zone>
+      </surface>
 </facsimile>
 
    <text type="letter">
@@ -141,6 +158,18 @@
       <lb n="N017"/>vngeleg<supplied>en</supplied>h<supplied>e</supplied>it beßer sein. Bezie mich in <unclear reason="unsichere Lesart">vbr<supplied>i</supplied>gen</unclear> auf den
       <lb n="N018"/>Neßelraht vndt versicher sich meines bestendigen
       <lb n="N019"/>vertrawen etc.</p></div>
+      <div type="page"><pb facs="#facs_2" n="27 v" xml:id="Kasten_blau_45_7_0053.jpg" source="https://files.transkribus.eu/Get?id=LGVLASJRMMTGJXWMTXVRPUMU&amp;fileType=view"/>
+         <p facs="#facs_2_r1">
+         <lb n="N001"/><choice><expan>Durchleuchtiger</expan><abbr>Durchlecht</abbr></choice> <unclear reason="unklare Abkürzung: wahrscheinlich et cetera">etc.</unclear>. Gleich wie ewer <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> durch <rs type="person" cert="low" ref="#emt_person_id__1501">dero Cammerer, den</rs>
+         <lb n="N002"/><rs type="person" cert="low" ref="#emt_person_id__1501">von Neßelraht</rs> iungst gemeldt, beantworte hermit
+         <lb n="N003"/>dero 3 schreiben vom 3ten, 6ten vndt 8ten dis, dern ersters <rs type="person" ref="#emt_person_id__23">der Hamilton</rs>,
+         <lb n="N004"/>das ander der von Neßelraht, das 3ten der <rs type="person" ref="#emt_person_id__1502">Gollonisch</rs> woll
+         <lb n="N005"/>überbracht haben. Vndt bedarf es v<supplied>o</supplied>rderist keiner ent-
+         <lb n="N006"/>schuld<supplied>i</supplied>gung, das sie mihr nit ehnder geantwort vnd
+         <lb n="N007"/>auch den Golloniz bis auf <rs type="place" ref="#emt_place_id__47">Prag</rs> mit genommen vndt auch
+         <lb n="N008"/>bis zu dero obreis bey ihnen behaben haben, in dem mihr gahr
+         <lb n="N009"/>zu woll bekandt, das bey solchen occasionen man nit vill
+         <lb n="N010"/>zeit zum sch<supplied>rei</supplied>ben hatt. Ewer <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> disfals w</p></div>
 </body>
 
    </text>
