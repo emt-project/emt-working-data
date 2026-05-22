@@ -136,33 +136,7 @@
         <zone points="69,1201 122,1212 277,1197 346,1218 431,1215 431,1152 359,1145 244,1149 181,1135 100,1108 68,1122" rendition="Line" xml:id="facs_2_r1l20"/>
       </zone>
   </surface>
-  <surface ulx="0" uly="0" lrx="800" lry="1234" xml:id="facs_3">
-    <graphic url="%2Ffiles.jpeg" width="800px" height="1234px"/>
-    <zone points="36,31 36,1146 760,1146 760,31" rendition="TextRegion" xml:id="facs_3_r1">
-        <zone points="405,136 482,123 506,135 568,125 590,138 618,127 762,124 761,87 652,109 624,86 563,100 547,87 505,90 477,108 404,102" rendition="Line" xml:id="facs_3_r1l4"/>
-        <zone points="72,178 200,157 457,164 497,143 762,151 748,120 71,133" rendition="Line" xml:id="facs_3_r1l5"/>
-        <zone points="80,185 768,180 767,145 677,140 548,169 323,151 80,172" rendition="Line" xml:id="facs_3_line_1646727749481_200"/>
-        <zone points="77,195 680,210 756,200 757,174 78,173" rendition="Line" xml:id="facs_3_r1l8"/>
-        <zone points="84,245 373,224 498,239 554,229 553,196 331,219 205,198 134,223 83,214" rendition="Line" xml:id="facs_3_line_1646727758437_206"/>
-        <zone points="52,265 727,247 740,204 574,209 503,235 123,243 51,226" rendition="Line" xml:id="facs_3_r1l11"/>
-        <zone points="51,290 508,267 738,268 737,246 673,246 606,243 574,260 515,243 51,265" rendition="Line" xml:id="facs_3_line_1646727764971_210"/>
-        <zone points="77,326 434,287 500,302 523,284 726,305 747,286 513,267 231,292 76,282" rendition="Line" xml:id="facs_3_line_1646727803666_224"/>
-        <zone points="48,331 458,317 525,301 761,320 749,291 553,283 447,296 295,295 48,319" rendition="Line" xml:id="facs_3_line_1646727828190_229"/>
-        <zone points="58,330 82,333 104,331 150,330 187,326 228,324 276,322 314,322 369,319 410,321 443,319 488,315 545,310 605,309 664,306 696,305 726,305 742,303 748,353 728,355 697,355 666,356 607,359 547,360 492,365 446,369 410,371 369,369 315,372 277,372 230,374 191,376 153,380 106,381 82,383 52,380" rendition="Line" xml:id="facs_3_line_1653730862707_1154"/>
-        <zone points="53,353 199,351 304,344 398,347 470,336 570,335 631,331 682,327 740,326 741,376 684,377 634,381 572,385 474,386 401,397 305,394 201,401 54,403" rendition="Line" xml:id="facs_3_line_1650523861967_352"/>
-        <zone points="45,401 746,374 739,339 365,367 336,343 266,367 44,351" rendition="Line" xml:id="facs_3_r1l26"/>
-        <zone points="48,400 188,386 577,370 601,381 601,400 557,405 362,424 49,439" rendition="Line" xml:id="facs_3_line_1653731073864_1192"/>
-        <zone points="362,410 715,387 716,409 362,424" rendition="Line" xml:id="facs_3_line_1653731064351_1186"/>
-        <zone points="53,480 106,457 523,453 755,421 51,439" rendition="Line" xml:id="facs_3_line_1646727916281_265"/>
-        <zone points="49,488 254,473 274,489 318,468 358,486 462,460 506,478 533,454 596,470 717,445 754,460 738,429 82,474 48,457" rendition="Line" xml:id="facs_3_r1l33"/>
-        <zone points="38,512 753,489 755,461 37,491" rendition="Line" xml:id="facs_3_line_1646906322283_307"/>
-        <zone points="45,534 538,526 680,496 727,511 742,480 44,510" rendition="Line" xml:id="facs_3_r1l36"/>
-        <zone points="54,510 83,508 110,505 158,500 203,509 235,507 265,508 292,505 329,504 330,554 295,555 267,558 236,557 200,559 156,550 116,555 87,558 57,560" rendition="Line" xml:id="facs_3_line_1653731287803_1215"/>
-        <zone points="32,581 686,567 720,558 719,512 624,535 594,515 521,537 323,524 289,555 216,528 171,553 31,548" rendition="Line" xml:id="facs_3_r1l38"/>
-        <zone points="36,627 658,619 746,590 699,561 576,567 535,596 500,570 339,604 264,583 188,607 145,586 35,596" rendition="Line" xml:id="facs_3_r1l39"/>
-        <zone points="43,682 81,696 199,678 245,691 311,674 332,688 353,670 382,686 434,673 432,630 402,648 372,638 330,656 246,635 187,653 120,640 84,660 42,659" rendition="Line" xml:id="facs_3_r1l40"/>
-      </zone>
-  </surface>
+  
 </facsimile>
 
    <text type="letter">
@@ -180,7 +154,8 @@
       <lb n="N010"/>gesacht, das er hatt erlaubnus bege<supplied>r</supplied>t, auf
         <lb n="N011"/><rs type="place" ref="#emt_place_id__39">Neüburg</rs> zu g<supplied>e</supplied>hen, wie ichs ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> gesch<supplied>r</supplied>iben
       <lb n="N012"/>hab. Darnach habens gesacht, es hetten ihn vnterwegs
-      <lb n="N013"/>reüter angefallen, vndt man wüst nit, woh er sey.</p></div><div type="page"><pb facs="#facs_2" n="54 v" xml:id="Kasten_blau_44_7_0097.jpg" ed="48 v" source="https://files.transkribus.eu/Get?id=UGUCJRWDLCPVGDHYPSBRARDO&amp;fileType=view"/><p facs="#facs_2_r1">
+      <lb n="N013"/>reüter angefallen, vndt man wüst nit, woh er sey.</p></div>
+      <div type="page"><pb facs="#facs_2" n="54 v" xml:id="Kasten_blau_44_7_0097.jpg" ed="48 v" source="https://files.transkribus.eu/Get?id=UGUCJRWDLCPVGDHYPSBRARDO&amp;fileType=view"/><p facs="#facs_2_r1">
       <lb n="N001"/>Einmahl bitt ich, ewer Durchlaucht wollen glauben, das ich
       <lb n="N002"/>lieber sterben wolte, als ewer Durchlaucht einige vn-
             <lb n="N003"/>warheit berichten, das die <rs type="person" ref="#emt_person_id__1067">Geßers</rs> so durch <unclear reason="offensichtlich sinnentstellende Korruptele: Satzteil fehlt">??</unclear>. Die
@@ -200,29 +175,8 @@
       <lb n="N017"/>ewer Durchlaucht
       <lb n="N018"/><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trghors</abbr></choice> do<supplied>c</supplied>hter
       <lb n="N019"/>Eleonora
-            <lb n="N020"/><rs type="place" ref="#emt_place_id__18">Fauorita</rs> den <date when-iso="1696-06-13">13ten junij 1696</date></p></div><div type="page"><pb facs="#facs_3" n="3" xml:id="img_0003" source="https://files.transkribus.eu/Get?id=PCMERGXFMJPOWPZHPIZTPBXO&amp;fileType=view"/><p facs="#facs_3_r1">
-      <lb n="N001"/><note type="editorische_Anmerkung">Seite zeitgenössisch dechiffriert</note>der <unclear>Quiros</unclear> aus dem
-                  <lb n="N002"/>Kan dero Liebden auch nit bergen was <unclear reason="chiffriert">der <rs type="person" ref="#emt_person_id__1068">Kuiros</rs> aus <rs type="place" ref="#emt_place_id__12">dem</rs> </unclear> 
-                  <lb n="N003"/>Hag hier her schreibt und ich mit
-                  <lb n="N004"/><unclear reason="chiffriert"><rs type="place" ref="#emt_place_id__12">Hag</rs> hier her schreibt und ich mit</unclear>
-      <lb n="N005"/>verwunderung gelesen
-         <lb n="N006"/><unclear reason="chiffriert">verwunderung gelesen</unclear> dise formalia
-         <lb n="N007"/>l'on m'aaverty la semaine passée qu'<unclear reason="chiffriert">u</unclear>n
-         <lb n="N008"/><unclear reason="chiffriert">l'on m'aaverty la semaine passee qu'on </unclear> 
-      <lb n="N009"/>des princes alliées (qu'on veut mes-
-         <lb n="N010"/><unclear reason="chiffriert">des princes alliez (qu'on veut mes</unclear>
-      <lb n="N011"/>me soit un electeur) avoit veut anvoie
-         <lb n="N012"/><unclear reason="chiffriert">me soit un electeur) avoit envoier </unclear>
-      <lb n="N013"/>un emissaire au comte d' Arcourt 
-                  <lb n="N014"/><unclear reason="chiffriert">un emissaire au <rs type="person" ref="#emt_person_id__827">comte d'Arcourt</rs></unclear>
-      <lb n="N015"/>gouuerneur de Luxenbourgh pour en-
-                  <lb n="N016"/><unclear reason="chiffriert"><rs type="person" ref="#emt_person_id__57">gouuerneur de luxenbuirg</rs> pour en</unclear>
-      <lb n="N017"/>ramer quelque negotiantion secu
-         <lb n="N018"/><unclear reason="chiffriert">tamer quelque negotiation sec</unclear>
-      <lb n="N019"/>rete de paix
-         <lb n="N020"/><unclear reason="chiffriert">rete de paix</unclear>, also das dero Liebden sehn, das die sach
-      <lb n="N021"/>nit so secret wie mihr glauben, weswegen dan mit
-      <lb n="N022"/>grösten cautela zue gehen ist.</p></div>
+            <lb n="N020"/><rs type="place" ref="#emt_place_id__18">Fauorita</rs> den <date when-iso="1696-06-13">13ten junij 1696</date></p></div>
+      
 </body>
 
    </text>
