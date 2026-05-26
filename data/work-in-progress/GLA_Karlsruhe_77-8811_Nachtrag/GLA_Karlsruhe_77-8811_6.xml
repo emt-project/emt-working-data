@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="GLA_Karlsruhe_77-8811_6.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
     <teiHeader>
         <fileDesc>
@@ -52,7 +52,7 @@
                             </msIdentifier>
                             <history>
                                 <origin>
-                                    <origDate />
+                                    <origDate/>
                                 </origin>
                             </history>
                         </msDesc>
@@ -72,7 +72,7 @@
                 </ab>
             </abstract>
             <abstract n="regest">
-                <p />
+                <p/>
             </abstract>
             <langUsage>
                 <language ident="deu">deutsch</language> 
@@ -85,116 +85,116 @@
            </correspAction>
                 <correspAction type="received">
                     <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                    <placeName ref="#" />
-                    <date />
+                    <placeName ref="#"/>
+                    <date/>
                 </correspAction>
             </correspDesc>
         </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2377" lry="3680" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="3680px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" width="2377px" />
-            <graphic height="3680px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" width="2377px" />
+            <graphic height="3680px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" width="2377px"/>
+            <graphic height="3680px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" width="2377px"/>
             <zone points="158,84 2316,84 2316,3572 158,3572" rendition="TextRegion" xml:id="facs_1_tr_1">
-                <zone points="158,84 528,84 528,145 158,145" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
-                <zone points="471,147 620,147 620,205 471,205" rendition="Line" xml:id="facs_1_tr_1_tl_2" />
-                <zone points="0,0 0,0 0,0 0,0" rendition="Line" xml:id="facs_1_l_2" />
-                <zone points="373,404 913,404 913,510 373,510" rendition="Line" xml:id="facs_1_tr_1_tl_4" />
-                <zone points="1205,258 2259,258 2259,327 1205,327" rendition="Line" xml:id="facs_1_l" />
-                <zone points="1080,404 2286,404 2286,503 1080,503" rendition="Line" xml:id="facs_1_tr_1_tl_5" />
-                <zone points="1110,519 2289,519 2289,597 1110,597" rendition="Line" xml:id="facs_1_tr_1_tl_6" />
-                <zone points="1107,599 2256,599 2256,689 1107,689" rendition="Line" xml:id="facs_1_tr_1_tl_7" />
-                <zone points="1098,682 2277,682 2277,790 1098,790" rendition="Line" xml:id="facs_1_tr_1_tl_8" />
-                <zone points="1116,792 2295,792 2295,886 1116,886" rendition="Line" xml:id="facs_1_tr_1_tl_9" />
-                <zone points="1092,905 2301,905 2301,997 1092,997" rendition="Line" xml:id="facs_1_tr_1_tl_10" />
-                <zone points="1116,987 2304,987 2304,1090 1116,1090" rendition="Line" xml:id="facs_1_tr_1_tl_11" />
-                <zone points="1104,1097 2259,1097 2259,1217 1104,1217" rendition="Line" xml:id="facs_1_tr_1_tl_12" />
-                <zone points="1134,1204 2241,1204 2241,1313 1134,1313" rendition="Line" xml:id="facs_1_tr_1_tl_13" />
-                <zone points="1113,1321 2253,1321 2253,1418 1113,1418" rendition="Line" xml:id="facs_1_tr_1_tl_14" />
-                <zone points="1068,1414 2256,1414 2256,1529 1068,1529" rendition="Line" xml:id="facs_1_tr_1_tl_15" />
-                <zone points="1119,1509 2265,1509 2265,1621 1119,1621" rendition="Line" xml:id="facs_1_tr_1_tl_16" />
-                <zone points="1134,1622 2310,1622 2310,1734 1134,1734" rendition="Line" xml:id="facs_1_tr_1_tl_17" />
-                <zone points="1110,1729 2268,1729 2268,1847 1110,1847" rendition="Line" xml:id="facs_1_tr_1_tl_18" />
-                <zone points="1101,1852 1569,1852 1569,1958 1101,1958" rendition="Line" xml:id="facs_1_tr_1_tl_19" />
-                <zone points="1122,1977 2241,1977 2241,2077 1122,2077" rendition="Line" xml:id="facs_1_tr_1_tl_20" />
-                <zone points="1101,2084 2310,2084 2310,2185 1101,2185" rendition="Line" xml:id="facs_1_tr_1_tl_21" />
-                <zone points="1125,2182 2268,2182 2268,2285 1125,2285" rendition="Line" xml:id="facs_1_tr_1_tl_22" />
-                <zone points="1110,2293 2286,2293 2286,2402 1110,2402" rendition="Line" xml:id="facs_1_tr_1_tl_23" />
-                <zone points="1098,2398 2298,2398 2298,2507 1098,2507" rendition="Line" xml:id="facs_1_tr_1_tl_24" />
-                <zone points="1107,2520 2316,2520 2316,2623 1107,2623" rendition="Line" xml:id="facs_1_tr_1_tl_25" />
-                <zone points="1107,2630 2289,2630 2289,2739 1107,2739" rendition="Line" xml:id="facs_1_tr_1_tl_26" />
-                <zone points="1107,2741 2301,2741 2301,2844 1107,2844" rendition="Line" xml:id="facs_1_tr_1_tl_27" />
-                <zone points="1089,2855 2316,2855 2316,2963 1089,2963" rendition="Line" xml:id="facs_1_tr_1_tl_28" />
-                <zone points="1089,2976 2270,2976 2270,3074 1089,3074" rendition="Line" xml:id="facs_1_tr_1_tl_29" />
-                <zone points="1098,3067 2262,3067 2262,3182 1098,3182" rendition="Line" xml:id="facs_1_tr_1_tl_30" />
-                <zone points="1074,3180 2217,3180 2217,3295 1074,3295" rendition="Line" xml:id="facs_1_tr_1_tl_31" />
-                <zone points="1089,3288 2283,3288 2283,3402 1089,3402" rendition="Line" xml:id="facs_1_tr_1_tl_32" />
+                <zone points="158,84 528,84 528,145 158,145" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+                <zone points="471,147 620,147 620,205 471,205" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+                <zone points="0,0 0,0 0,0 0,0" rendition="Line" xml:id="facs_1_l_2"/>
+                <zone points="373,404 913,404 913,510 373,510" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+                <zone points="1205,258 2259,258 2259,327 1205,327" rendition="Line" xml:id="facs_1_l"/>
+                <zone points="1080,404 2286,404 2286,503 1080,503" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+                <zone points="1110,519 2289,519 2289,597 1110,597" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+                <zone points="1107,599 2256,599 2256,689 1107,689" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+                <zone points="1098,682 2277,682 2277,790 1098,790" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+                <zone points="1116,792 2295,792 2295,886 1116,886" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+                <zone points="1092,905 2301,905 2301,997 1092,997" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+                <zone points="1116,987 2304,987 2304,1090 1116,1090" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+                <zone points="1104,1097 2259,1097 2259,1217 1104,1217" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+                <zone points="1134,1204 2241,1204 2241,1313 1134,1313" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+                <zone points="1113,1321 2253,1321 2253,1418 1113,1418" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+                <zone points="1068,1414 2256,1414 2256,1529 1068,1529" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+                <zone points="1119,1509 2265,1509 2265,1621 1119,1621" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+                <zone points="1134,1622 2310,1622 2310,1734 1134,1734" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+                <zone points="1110,1729 2268,1729 2268,1847 1110,1847" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+                <zone points="1101,1852 1569,1852 1569,1958 1101,1958" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+                <zone points="1122,1977 2241,1977 2241,2077 1122,2077" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+                <zone points="1101,2084 2310,2084 2310,2185 1101,2185" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+                <zone points="1125,2182 2268,2182 2268,2285 1125,2285" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+                <zone points="1110,2293 2286,2293 2286,2402 1110,2402" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+                <zone points="1098,2398 2298,2398 2298,2507 1098,2507" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+                <zone points="1107,2520 2316,2520 2316,2623 1107,2623" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+                <zone points="1107,2630 2289,2630 2289,2739 1107,2739" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+                <zone points="1107,2741 2301,2741 2301,2844 1107,2844" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+                <zone points="1089,2855 2316,2855 2316,2963 1089,2963" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+                <zone points="1089,2976 2270,2976 2270,3074 1089,3074" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+                <zone points="1098,3067 2262,3067 2262,3182 1098,3182" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+                <zone points="1074,3180 2217,3180 2217,3295 1074,3295" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+                <zone points="1089,3288 2283,3288 2283,3402 1089,3402" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
             </zone>
         </surface>
         <surface lrx="2257" lry="3649" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="3649px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" width="2257px" />
-            <graphic height="3649px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" width="2257px" />
+            <graphic height="3649px" url="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" width="2257px"/>
+            <graphic height="3649px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" width="2257px"/>
             <zone points="1039,115 2224,115 2224,863 1039,863" rendition="TextRegion" xml:id="facs_2_tr_1">
-                <zone points="1042,115 2200,115 2200,240 1042,240" rendition="Line" xml:id="facs_2_tr_1_tl_1" />
-                <zone points="1057,216 2206,216 2206,345 1057,345" rendition="Line" xml:id="facs_2_tr_1_tl_2" />
-                <zone points="1086,324 2224,324 2224,442 1086,442" rendition="Line" xml:id="facs_2_tr_1_tl_3" />
-                <zone points="1039,427 2206,427 2206,562 1039,562" rendition="Line" xml:id="facs_2_tr_1_tl_4" />
-                <zone points="1066,508 2123,508 2123,643 1066,643" rendition="Line" xml:id="facs_2_tr_1_tl_5" />
-                <zone points="1045,623 2170,623 2170,758 1045,758" rendition="Line" xml:id="facs_2_tr_1_tl_6" />
-                <zone points="1045,752 2212,752 2212,863 1045,863" rendition="Line" xml:id="facs_2_tr_1_tl_7" />
+                <zone points="1042,115 2200,115 2200,240 1042,240" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+                <zone points="1057,216 2206,216 2206,345 1057,345" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+                <zone points="1086,324 2224,324 2224,442 1086,442" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+                <zone points="1039,427 2206,427 2206,562 1039,562" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+                <zone points="1066,508 2123,508 2123,643 1066,643" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+                <zone points="1045,623 2170,623 2170,758 1045,758" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+                <zone points="1045,752 2212,752 2212,863 1045,863" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
             </zone>
         </surface>
      </facsimile>
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="68 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP" />
+                <pb facs="#facs_1" n="68 r" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00160-20230117_150338.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=AOGTDZUIWVKFOUYDNMAZKPCP"/>
                 <p facs="#facs_1_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
-                    <lb n="N016" />
-                    <lb n="N017" />
-                    <lb n="N018" />
-                    <lb n="N019" />
-                    <lb n="N020" />
-                    <lb n="N021" />
-                    <lb n="N022" />
-                    <lb n="N023" />
-                    <lb n="N024" />
-                    <lb n="N025" />
-                    <lb n="N026" />
-                    <lb n="N027" />
-                    <lb n="N028" />
-                    <lb n="N029" />
-                    <lb n="N030" />
-                    <lb n="N031" />
-                    <lb n="N032" />
-                    <lb n="N033" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
+                    <lb n="N016"/>
+                    <lb n="N017"/>
+                    <lb n="N018"/>
+                    <lb n="N019"/>
+                    <lb n="N020"/>
+                    <lb n="N021"/>
+                    <lb n="N022"/>
+                    <lb n="N023"/>
+                    <lb n="N024"/>
+                    <lb n="N025"/>
+                    <lb n="N026"/>
+                    <lb n="N027"/>
+                    <lb n="N028"/>
+                    <lb n="N029"/>
+                    <lb n="N030"/>
+                    <lb n="N031"/>
+                    <lb n="N032"/>
+                    <lb n="N033"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="68 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC" />
+                <pb facs="#facs_2" n="68 v" xml:id="GLA_Karlsruhe_77-8811_Korrespondenz_Karlsruhe_00161-20230117_150347.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YMNKTCRDCBNHPMUDWWXAWFGC"/>
                 <p facs="#facs_2_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
                 </p>
             </div>
         </body>
