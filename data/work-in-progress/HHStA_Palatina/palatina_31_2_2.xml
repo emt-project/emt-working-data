@@ -3,19 +3,88 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_31_2_2</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 12.07.1711</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_31</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_31_2_2</title>
-                    <idno type="Transkribus">15922666</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 31, Fasz. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2398848</idno>
+                        <idno type="transkribus-doc-id">15922666</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>eigenhändig</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1711-07-12">Sonntag, 12. Juli 1711</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2566" lry="3672" ulx="0" uly="0" xml:id="facs_1">
@@ -78,7 +147,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="HHStA_StAbt_Palatina_31_11r-20v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MPXKKCTVPIYBRDOFSMRVXLLI" />
+                <pb facs="#facs_1" n="17 r" xml:id="HHStA_StAbt_Palatina_31_11r-20v_013.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MPXKKCTVPIYBRDOFSMRVXLLI" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -97,7 +166,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="HHStA_StAbt_Palatina_31_11r-20v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSLSWFBXIYRMCIKTGGOXXYCZ" />
+                <pb facs="#facs_2" n="17 v" xml:id="HHStA_StAbt_Palatina_31_11r-20v_014.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSLSWFBXIYRMCIKTGGOXXYCZ" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -115,7 +184,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="HHStA_StAbt_Palatina_31_11r-20v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OUESHMUBDAEYOYJXINUYKVLD" />
+                <pb facs="#facs_3" n="18 r" xml:id="HHStA_StAbt_Palatina_31_11r-20v_015.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OUESHMUBDAEYOYJXINUYKVLD" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
