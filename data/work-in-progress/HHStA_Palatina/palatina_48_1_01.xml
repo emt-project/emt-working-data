@@ -3,20 +3,87 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_48_1_01</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 03.02.1703</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_48</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_48_1_01</title>
-                    <idno type="Transkribus">15923304</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 48, Fasz. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2398882</idno>
+                        <idno type="transkribus-doc-id">15923304</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage />
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1711-06-07">Samstag, 3. Februar 1703</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -163,7 +230,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="StAb_Pfalz-Neuburg_48_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VWNWIFFSZNYLIYKLEWGLKPPU" />
+                <pb facs="#facs_1" n="19 r" xml:id="StAb_Pfalz-Neuburg_48_002.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VWNWIFFSZNYLIYKLEWGLKPPU" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -180,7 +247,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="StAb_Pfalz-Neuburg_48_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FXBUTCELRTEABKGYQKJFHMQR" />
+                <pb facs="#facs_2" n="19 v" xml:id="StAb_Pfalz-Neuburg_48_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FXBUTCELRTEABKGYQKJFHMQR" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -195,7 +262,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="StAb_Pfalz-Neuburg_48_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SUDBCISJENEFMNIXWHFILCVP" />
+                <pb facs="#facs_3" n="20 r" xml:id="StAb_Pfalz-Neuburg_48_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SUDBCISJENEFMNIXWHFILCVP" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -210,7 +277,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="StAb_Pfalz-Neuburg_48_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KDLDMOMIOKSMMRSPYLTQGROJ" />
+                <pb facs="#facs_4" n="20 v" xml:id="StAb_Pfalz-Neuburg_48_005.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KDLDMOMIOKSMMRSPYLTQGROJ" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -225,7 +292,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="StAb_Pfalz-Neuburg_48_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BHJYBTGGHCFNWTFQMOBOGJNG" />
+                <pb facs="#facs_5" n="21 r" xml:id="StAb_Pfalz-Neuburg_48_006.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BHJYBTGGHCFNWTFQMOBOGJNG" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -242,7 +309,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="StAb_Pfalz-Neuburg_48_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YGKHUBSKLTWBFLWSQTJWXCAZ" />
+                <pb facs="#facs_6" n="21 v" xml:id="StAb_Pfalz-Neuburg_48_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YGKHUBSKLTWBFLWSQTJWXCAZ" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -274,7 +341,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="StAb_Pfalz-Neuburg_48_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LCQEKTKTCONONWCWCVIKDQNR" />
+                <pb facs="#facs_7" n="22 r" xml:id="StAb_Pfalz-Neuburg_48_008.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LCQEKTKTCONONWCWCVIKDQNR" />
                 <p facs="#facs_8_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -283,7 +350,9 @@
                     <lb n="N005" />
                     <lb n="N006" />
                     <lb n="N007" />
-                </p>
+                </p></div>
+            <div type="page">
+                    <pb facs="#facs_8" n="22 v" xml:id="StAb_Pfalz-Neuburg_48_009.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DKDSEOPOFWLOFBKRHAFMUQZB" />
                 <p facs="#facs_8_r">
                     <lb n="N001" />
                     <lb n="N002" />
