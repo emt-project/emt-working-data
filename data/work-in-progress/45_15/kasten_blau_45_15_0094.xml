@@ -3,19 +3,91 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Kasten_blau_45_15_0094</title>
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, 04.09.1686</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>emt</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">Kasten_blau_45_15_0094</title>
-                    <idno type="Transkribus">871087</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>München</settlement>
+                                <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/15</idno>
+                                
+                                <idno/>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate/></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">118102</idno>
+                        <idno type="transkribus-doc-id">871087</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>eigenhändig</term>
+                </ab>
+                
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__63" cert="high">Wien</placeName>
+                    <date notBefore="1686-09-05">Donnerstag, 5. September 1686</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="800" lry="1190" ulx="0" uly="0" xml:id="facs_1">
@@ -51,7 +123,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=COIZHXHILWXRGSIRZCDGAQIT" />
+                <pb facs="#facs_1" n="60 r" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=COIZHXHILWXRGSIRZCDGAQIT" />
                 <p facs="#facs_1_r1">
                     <lb facs="#facs_1_r1l3" n="N001" />                        
                         Durchleüchtiger Cuhrfürst, herz allerliebsten heren vattern
@@ -68,7 +140,7 @@
                     </choice>
                     <lb n="N005" />schr<supplied>e</supplied>                        
                         iben vom 23ten passato. Ich hoff, der Erzherzigin reis
-                    <lb n="N006" />werde woll abgehen. Wegen der <unclear alternative="könnte\u0020das\u0020\u0022Verrin\u0022\u0020heißen,\u0020also\u0020eine\u0020Person\u0020gemeint\u0020sein?">verein</unclear>                        
+                    <lb n="N006" />werde woll abgehen. Wegen der verein                        
                         haben ihr Mayestät
                     <lb n="N007" />                        
                         vermeint, sie haben schon geantwort. Morgen kombt
@@ -110,39 +182,12 @@
                         vnd sterbe
                     <lb n="N017" />                        
                         ewer Durchlaucht
-                    <lb n="N018" />
-                    <choice>
-                        <expan>vnterdehnigste</expan>
-                        <abbr>vn</abbr>
-                    </choice>
-                    <choice>
-                        <expan>trewgehorsamste</expan>
-                        <abbr>trwgos</abbr>
-                    </choice> do<choice>
-                        <expan />
-                        <abbr>c</abbr>
-                    </choice>h<choice>
-                        <expan />
-                        <abbr>te</abbr>
-                    </choice>                        
-                        r
-                    <lb n="N019" />                        
-                        EMT
-                    <lb n="N020" />Wien den 5ten <choice>
-                        <expan>septembris</expan>
-                        <abbr>7br</abbr>
-                    </choice>                        
-                        1686
-                    <lb n="N021" />
-                    <choice>
-                        <expan>Pater</expan>
-                        <abbr>P</abbr>
-                    </choice>                        
-                        Marco wirt morgen oder
-                    <lb n="N022" />                        
-                        vbermorgen her kommen. Ihr Mayestät werden ihn bis
-                    <lb n="N023" />                        
-                        auf Neuburg liuern.
+                    <lb n="N018" /><choice><expan>vnterdehnigste</expan><abbr>vn</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trwgos</abbr></choice> do<choice><expan>c</expan><abbr>h</abbr></choice> <choice><expan>ter</expan><abbr>r</abbr></choice>
+                    <lb n="N019" />EMT
+                    <lb n="N020" />Wien den 5ten <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1686
+                    <lb n="N021" /><choice><expan>Pater</expan><abbr>P</abbr></choice> Marco wirt morgen oder
+                    <lb n="N022" />vbermorgen her kommen. Ihr Mayestät werden ihn bis
+                    <lb n="N023" />auf Neuburg liuern.
                         
                     </p>
                 </div>
