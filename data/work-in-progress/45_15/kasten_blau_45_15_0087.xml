@@ -3,19 +3,91 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Kasten_blau_45_15_0087</title>
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, 29.08.1686</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>emt</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">Kasten_blau_45_15_0087</title>
-                    <idno type="Transkribus">871084</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>München</settlement>
+                                <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/15</idno>
+                                
+                                <idno/>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate/></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">118102</idno>
+                        <idno type="transkribus-doc-id">871084</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>eigenhändig</term>
+                </ab>
+                
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__63" cert="high">Wien</placeName>
+                    <date notBefore="1686-08-29">Donnerstag, 29. August 1686</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="800" lry="1204" ulx="0" uly="0" xml:id="facs_1">
@@ -128,233 +200,106 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KSKSUUYGWMBQUZCXRMLSXTGK" />
+                <pb facs="#facs_1" n="56 r" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KSKSUUYGWMBQUZCXRMLSXTGK" />
                 <p facs="#facs_1_r2">
-                    <lb facs="#facs_1_r2l1" n="N001" />                        
-                        Durchleüchtiger Fürst, herzallerliebster herr vatter
-                    <lb n="N002" />Ich bitt <choice>
-                        <expan>vnterdehnigst</expan>
-                        <abbr>vnt</abbr>
-                    </choice>, ewer Durchlaucht wollen mit dero <choice>
-                        <expan>vnterdehnigstem</expan>
-                        <abbr>vd</abbr>
-                    </choice>
-                    <lb n="N003" />                        
-                        kint kein eintschuldigung machen, ist mihr
-                    <lb n="N004" />                        
-                        angst in vngnaden zue sein, dan ewer Durchlaucht
-                    <lb n="N005" />iah woll wißen, das ich <unclear alternative="korrigiert\u0020aus\u0020\u0022das\u0022">als</unclear> dero <choice>
-                        <expan>gehorsamstes</expan>
-                        <abbr>g</abbr>
-                    </choice>                        
-                        kindt
-                    <lb n="N006" />                        
-                        mihr vohr die groste gnad scheze, wan ewer
-                    <lb n="N007" />                        
-                        Durchlaucht dero gelegenheit nachkommen vnd mihr
-                    <lb n="N008" />                        
-                        genuech, wan ich nuhr weis, das ewer Durchlaucht sich
-                    <lb n="N009" />                        
-                        in guttem wolstand befinden, warbey der
-                    <lb n="N010" />                        
-                        almechtige ewer Durchlaucht bestendig erhalten wolle.
-                    <lb n="N011" />                        
-                        Das die Erzherzogin auch in einer hoffnung ist,
-                    <lb n="N012" />                        
-                        freüdt mich vnd hoffe ich woll, weil sie sich
-                    <lb n="N013" />                        
-                        auf die aderlaß wohl befindet, es werde
-                    <lb n="N014" />                        
-                        dißmahl wohl abgehen. Wie es zue Offen steht,
-                    <lb n="N015" />                        
-                        werden ewer Durchlaucht aus diesen bey ligenden von meinen
-                    <lb n="N016" />                        
-                        brudren wie auch aus denen dagzettel vernemmen.
-                    <lb n="N017" />                        
-                        Der Hoffkanzler geht heütt hinunter, so woll
-                    <lb n="N018" />mitt dem Herzoch als <unclear alternative="muss\u0020eindeutig\u0020\u0022Cuhrfürsten\u0022\u0020heißen">Cuhrfürstin</unclear>                        
+                    <lb n="N001" />Durchleüchtiger Fürst, herzallerliebster herr vatter
+                    <lb n="N002" />Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, ewer Durchlaucht wollen mit dero <choice><expan>vnterdehnigstem</expan><abbr>vd</abbr></choice>
+                    <lb n="N003" />kint kein eintschuldigung machen, ist mihr
+                    <lb n="N004" />angst in vngnaden zue sein, dan ewer Durchlaucht
+                    <lb n="N005" />iah woll wißen, das ich <unclear reason="korrigiert">als</unclear> dero <choice><expan>gehorsamstes</expan><abbr>g</abbr></choice>kindt
+                    <lb n="N006" />mihr vohr die groste gnad scheze, wan ewer
+                    <lb n="N007" />Durchlaucht dero gelegenheit nachkommen vnd mihr
+                    <lb n="N008" />genuech, wan ich nuhr weis, das ewer Durchlaucht sich
+                    <lb n="N009" />in guttem wolstand befinden, warbey der
+                    <lb n="N010" />almechtige ewer Durchlaucht bestendig erhalten wolle.
+                    <lb n="N011" />Das die Erzherzogin auch in einer hoffnung ist,
+                    <lb n="N012" />freüdt mich vnd hoffe ich woll, weil sie sich
+                    <lb n="N013" />auf die aderlaß wohl befindet, es werde
+                    <lb n="N014" />dißmahl wohl abgehen. Wie es zue Offen steht,
+                    <lb n="N015" />werden ewer Durchlaucht aus diesen bey ligenden von meinen
+                    <lb n="N016" />brudren wie auch aus denen dagzettel vernemmen.
+                    <lb n="N017" />Der Hoffkanzler geht heütt hinunter, so woll
+                    <lb n="N018" />mitt dem Herzoch als <unclear reason="muss eindeutig Cuhrfürsten heißen">Cuhrfürstin</unclear>                        
                         zue vntereden wie
-                        
                     </p>
                 </div>
                 <div type="page">
-                    <pb facs="#facs_2" n="2" xml:id="FILE_0002_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HCSZPOUPOUEOMFYKVJKEPSNC" />
+                    <pb facs="#facs_2" n="56 v" xml:id="FILE_0002_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HCSZPOUPOUEOMFYKVJKEPSNC" />
                     <p facs="#facs_2_r1">
-                        <lb facs="#facs_2_r1l1" n="N001" />                            
-                            operationen zue befördern vnd die könftige einzurichten,
-                        <lb facs="#facs_2_r1l2" n="N002" />gott geb sein gnad. Den <choice>
-                            <expan>Pater</expan>
-                            <abbr>P</abbr>
-                        </choice>                            
-                            Marco werden ihr
-                        <lb n="N003" />                            
-                            Mayestät auf Neüburg laßen liuren. Ich hoff aber, er
-                        <lb n="N004" />                            
-                            werd noch bey der armade bleiben, auf das wehnigste
-                        <lb n="N005" />biß <supplied>es</supplied>                            
-                            mit Offen ein end nimbt, welches gott glükhlich
-                        <lb n="N006" />                            
-                            verleyen wolle. Das die sachen mit Portugal so
-                        <lb n="N007" />                            
-                            weit gottlob kommen, freüdt mich von herzen,
-                        <lb n="N008" />                            
-                            vnd werden gewiß ihr Mayestät niks vnterlaßen, was
-                        <lb n="N009" />                            
-                            sie cooperiren können, von Schpanien etwas zue
-                        <lb n="N010" />                            
-                            erhalten. Schwehr aber wirts hergehn, wan man
-                        <lb n="N011" />                            
-                            ihnen nuhr andre pretext vohrzeigen derf. Allein
-                        <lb n="N012" />                            
-                            mueß ich bekennen, ist mihr suspect, das der Embergador
-                        <lb n="N013" />                            
-                            nuhr dißes müntlich vohrbracht vnd gahr kein
-                        <lb n="N014" />                            
-                            creditiu vom König gebracht. Ihr Mayestät kombt es
-                        <lb n="N015" />                            
-                            auch etwas frembt fohr, vnd will ich iah nit
-                        <lb n="N016" />                            
-                            hoffen, das der mensch etwan dis vohrgebracht mit
-                        <lb n="N017" />                            
-                            gutter manier wekh zue kommen. Ihr Mayestät aber, wie
-                        <lb n="N018" />                            
-                            auch sie mit dem Hoffkanzler daraus gerett, vermeinen,
-                        <lb n="N019" />                            
-                            wan ewer Durchlaucht etwelchen vertrauten drinnen hetten,
-                        <lb n="N020" />                            
-                            der schon in diser materi negotirt hette, den kunten
+                        <lb n="N001" />operationen zue befördern vnd die könftige einzurichten,
+                        <lb n="N002" />gott geb sein gnad. Den <choice><expan>Pater</expan><abbr>P</abbr></choice>Marco werden ihr
+                        <lb n="N003" />Mayestät auf Neüburg laßen liuren. Ich hoff aber, er
+                        <lb n="N004" />werd noch bey der armade bleiben, auf das wehnigste
+                        <lb n="N005" />biß <supplied>es</supplied>mit Offen ein end nimbt, welches gott glükhlich
+                        <lb n="N006" />verleyen wolle. Das die sachen mit Portugal so
+                        <lb n="N007" />weit gottlob kommen, freüdt mich von herzen,
+                        <lb n="N008" />vnd werden gewiß ihr Mayestät niks vnterlaßen, was
+                        <lb n="N009" />sie cooperiren können, von Schpanien etwas zue
+                        <lb n="N010" />erhalten. Schwehr aber wirts hergehn, wan man
+                        <lb n="N011" />ihnen nuhr andre pretext vohrzeigen derf. Allein
+                        <lb n="N012" />mueß ich bekennen, ist mihr suspect, das der Embergador
+                        <lb n="N013" />nuhr dißes müntlich vohrbracht vnd gahr kein
+                        <lb n="N014" />creditiu vom König gebracht. Ihr Mayestät kombt es
+                        <lb n="N015" />auch etwas frembt fohr, vnd will ich iah nit
+                        <lb n="N016" />hoffen, das der mensch etwan dis vohrgebracht mit
+                        <lb n="N017" />gutter manier wekh zue kommen. Ihr Mayestät aber, wie
+                        <lb n="N018" />auch sie mit dem Hoffkanzler daraus gerett, vermeinen,
+                        <lb n="N019" />wan ewer Durchlaucht etwelchen vertrauten drinnen hetten,
+                        <lb n="N020" />der schon in diser materi negotirt hette, den kunten
                         </p>
                     </div>
                     <div type="page">
-                        <pb facs="#facs_3" n="3" xml:id="FILE_0003_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ICHIIJBLNNJSJRETGMDEQJRE" />
+                        <pb facs="#facs_3" n="57 r" xml:id="FILE_0003_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ICHIIJBLNNJSJRETGMDEQJRE" />
                         <p facs="#facs_3_r1">
-                            <lb n="N001" />                                
-                                auch in secreto vnter einem andren pretext
-                            <lb n="N002" />                                
-                                audienz machen begeren vnd dem König auch nuhr
-                            <lb n="N003" />                                
-                                ein müntligs compliment über dis, was der
-                            <lb n="N004" />                                
-                                Embergador angebracht, machen laßen, mit disen
-                            <lb n="N005" />                                
-                                keme man aus dem draumb. Doch werden ewer
-                            <lb n="N006" />
-                            <unclear reason="abbrev" alternative="Durchlaucht\u0020oder\u0020Liebden">Liebden</unclear> zum besten wißen, was sie vohr s<supplied>i</supplied>                                
-                                cherheit in
-                            <lb n="N007" />                                
-                                diser sach haben oder was zum besten sein wirt.
-                            <lb n="N008" />                                
-                                Mein bruder, der Bischoff, hatt verlangt, die ort
-                            <lb n="N009" />                                
-                                in Vngarn zue sehn, Rab, Komorn, Neüheüsel vnd,
-                            <lb n="N010" />                                
-                                wan gott gnad gebe, gahr Offen. Also haben ihm ihr
-                            <lb n="N011" />                                
-                                Mayestät erlaubt dise kleine reis zue duen. Der
-                            <lb n="N012" />
-                            <choice>
-                                <expan>Pater</expan>
-                                <abbr>P</abbr>
-                            </choice>                                
-                                Herwarts ist mit ihm, damit er nit zu weit
-                            <lb n="N013" />                                
-                                hinunter geh, woh es gefährlich möcht sein. Wegen des
-                            <lb n="N014" />                                
-                                Berchtrams, so ist es nit des Könisekh schuldt,
-                            <lb n="N015" />das noch nit expedirt <supplied>ist</supplied>                                
-                                , sondern der Berchtrams selber,
-                            <lb n="N016" />welch<supplied>e</supplied>                                
-                                r wegen der meriten so hinein gesezt müeßen
-                            <lb n="N017" />werden, noch nit eingeben <supplied>hat</supplied>                                
-                                , wie der Hoffkanzler alles
-                            <lb n="N018" />dem Ihrsch ausfürlich schreiben wirt. Bitt auch <choice>
-                                <expan>vnterdehnigst</expan>
-                                <abbr>vnt</abbr>
-                            </choice>
-                            <lb n="N019" />                                
-                                vmb vergebung, das ich mit vohriger post mein
-                            <lb n="N020" />                                
-                                schuldichkeit nit hab abgelegt. Seindt gahr schpaht
-                            <lb n="N021" />                                
-                                vom iagen kommen vnd förcht ich, heündt auch
+                            <lb n="N001" />auch in secreto vnter einem andren pretext
+                            <lb n="N002" />audienz machen begeren vnd dem König auch nuhr
+                            <lb n="N003" />ein müntligs compliment über dis, was der
+                            <lb n="N004" />Embergador angebracht, machen laßen, mit disen
+                            <lb n="N005" />keme man aus dem draumb. Doch werden ewer
+                            <lb n="N006" /><unclear reason="unklare Abkürzung, Durchlaucht oder Liebden">Liebden</unclear> zum besten wißen, was sie vohr s<supplied>i</supplied> cherheit in
+                            <lb n="N007" />diser sach haben oder was zum besten sein wirt.
+                            <lb n="N008" />Mein bruder, der Bischoff, hatt verlangt, die ort
+                            <lb n="N009" />in Vngarn zue sehn, Rab, Komorn, Neüheüsel vnd,
+                            <lb n="N010" />wan gott gnad gebe, gahr Offen. Also haben ihm ihr
+                            <lb n="N011" />Mayestät erlaubt dise kleine reis zue duen. Der
+                            <lb n="N012" /><choice><expan>Pater</expan><abbr>P</abbr></choice> Herwarts ist mit ihm, damit er nit zu weit
+                            <lb n="N013" />hinunter geh, woh es gefährlich möcht sein. Wegen des
+                            <lb n="N014" />Berchtrams, so ist es nit des Könisekh schuldt,
+                            <lb n="N015" />das noch nit expedirt <supplied>ist</supplied>, sondern der Berchtrams selber,
+                            <lb n="N016" />welch<supplied>e</supplied>r wegen der meriten so hinein gesezt müeßen
+                            <lb n="N017" />werden, noch nit eingeben <supplied>hat</supplied>, wie der Hoffkanzler alles
+                            <lb n="N018" />dem Ihrsch ausfürlich schreiben wirt. Bitt auch <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>
+                            <lb n="N019" />vmb vergebung, das ich mit vohriger post mein
+                            <lb n="N020" />schuldichkeit nit hab abgelegt. Seindt gahr schpaht
+                            <lb n="N021" />vom iagen kommen vnd förcht ich, heündt auch
                             </p>
                         </div>
                         <div type="page">
-                            <pb facs="#facs_4" n="4" xml:id="FILE_0004_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ENIDWKFBFQNPYIKYETZUPUPG" />
+                            <pb facs="#facs_4" n="57 v" xml:id="FILE_0004_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ENIDWKFBFQNPYIKYETZUPUPG" />
                             <p facs="#facs_4_r2">
-                                <lb n="N001" />wehnig oder gahr nit ihr Durchlaucht <choice>
-                                    <expan>fraw</expan>
-                                    <abbr>f</abbr>
-                                </choice>
-                                <choice>
-                                    <expan>mutter</expan>
-                                    <abbr>m</abbr>
-                                </choice> konen <choice>
-                                    <expan>vnterdehnigst</expan>
-                                    <abbr>vd</abbr>
-                                </choice>                                    
-                                    zue bedienen,
+                                <lb n="N001" />wehnig oder gahr nit ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice> konen <choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> zue bedienen,
                                 <lb n="N002" />weilen mihr heünt in der königin kloster gewesen, <supplied>und</supplied>
-                                <lb n="N003" />                                    
-                                    ihr Mayestät gestern eingenommen vnd dem nachen
-                                <lb n="N004" />                                    
-                                    heündt noch nit allerdings eingericht, also werden
-                                <lb n="N005" />                                    
-                                    sie etwas früher schloffen gehn. Also mus enten,
-                                <lb n="N006" />mich in ewer Durchlaucht <choice>
-                                    <expan>gnade</expan>
-                                    <abbr>g</abbr>
-                                </choice>
-                                <choice>
-                                    <expan>vnterdehnigst</expan>
-                                    <abbr>vd</abbr>
-                                </choice> b<supplied>e</supplied>f<supplied>e</supplied>                                    
-                                    hlen, die ich
-                                <lb n="N007" />                                    
-                                    sterben werde
-                                <lb n="N008" />                                    
-                                    ewer Durchlaucht
-                                <lb n="N009" />
-                                <choice>
-                                    <expan>vnterdehnigste</expan>
-                                    <abbr>vnt</abbr>
-                                </choice>
-                                <choice>
-                                    <expan>trewgehorsamste</expan>
-                                    <abbr>trewgehos</abbr>
-                                </choice> do<supplied>c</supplied>                                    
-                                    hter
-                                <lb n="N010" />                                    
-                                    EMT
-                                <lb n="N011" />Wien den 29ten aug<supplied>u</supplied>                                    
-                                    st 1686
-                                <lb n="N012" />                                    
-                                    Disen walischen brief hatt mihr der Cardinal
-                                <lb n="N013" />                                    
-                                    Bonuisi geben, also überschike ihn gehorsamist. Den
-                                <lb n="N014" />                                    
-                                    mensch aber kenn ich nit, mein bruder wirt
-                                <lb n="N015" />                                    
-                                    zum besten wißen, waß er vohr capacitet hatt.
-                                <lb n="N016" />                                    
-                                    Es hatt auch der Deütschmeister einen anstoß mit
-                                <lb n="N017" />                                    
-                                    dem brandenburgischen General gehabt. Er selbsten
-                                <lb n="N018" />schreibt mihr nuhr, er vnterwerf sich <supplied>dem</supplied>                                    
-                                    , was sein
-                                <lb n="N019" />General daruon verd iudiciren. Der Herzog von Lottri<supplied>n</supplied>                                    
-                                    g
-                                <lb n="N020" />                                    
-                                    aber schreibt ihr Mayestät die sach ausführlich vnd zeigt
-                                <lb n="N021" />                                    
-                                    klar, das der Schönekh große insolens, mein bruder aber
-                                <lb n="N022" />                                    
-                                    gleiche prudenz vnd retenue darbey gebraucht,
-                                <lb n="N023" />also, das wan etwas vohr ewer Durchlaucht käme, ewer Durchlaucht ihm nit <choice>
-                                    <expan>vngnädig</expan>
-                                    <abbr>vng</abbr>
-                                </choice>                                    
-                                    wollen sein.
+                                <lb n="N003" />ihr Mayestät gestern eingenommen vnd dem nachen
+                                <lb n="N004" />heündt noch nit allerdings eingericht, also werden
+                                <lb n="N005" />sie etwas früher schloffen gehn. Also mus enten,
+                                <lb n="N006" />mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice><choice><expan>vnterdehnigst</expan><abbr>vd</abbr></choice> b<supplied>e</supplied>f<supplied>e</supplied>hlen, die ich
+                                <lb n="N007" />sterben werde
+                                <lb n="N008" />ewer Durchlaucht
+                                <lb n="N009" /><choice><expan>vnterdehnigste</expan><abbr>vnt</abbr></choice> <choice><expan>trewgehorsamste</expan><abbr>trewgehos</abbr></choice> do<supplied>c</supplied>hter
+                                <lb n="N010" />EMT
+                                <lb n="N011" />Wien den 29ten aug<supplied>u</supplied>st 1686
+                                <lb n="N012" />Disen walischen brief hatt mihr der Cardinal
+                                <lb n="N013" />Bonuisi geben, also überschike ihn gehorsamist. Den
+                                <lb n="N014" />mensch aber kenn ich nit, mein bruder wirt
+                                <lb n="N015" />zum besten wißen, waß er vohr capacitet hatt.
+                                <lb n="N016" />Es hatt auch der Deütschmeister einen anstoß mit
+                                <lb n="N017" />dem brandenburgischen General gehabt. Er selbsten
+                                <lb n="N018" />schreibt mihr nuhr, er vnterwerf sich <supplied>dem</supplied>, was sein
+                                <lb n="N019" />General daruon verd iudiciren. Der Herzog von Lottri<supplied>n</supplied>g
+                                <lb n="N020" />aber schreibt ihr Mayestät die sach ausführlich vnd zeigt
+                                <lb n="N021" />klar, das der Schönekh große insolens, mein bruder aber
+                                <lb n="N022" />gleiche prudenz vnd retenue darbey gebraucht,
+                                <lb n="N023" />also, das wan etwas vohr ewer Durchlaucht käme, ewer Durchlaucht ihm nit <choice><expan>vngnädig</expan><abbr>vng</abbr></choice>wollen sein.
                                 </p>
                             </div>
                         </body>
