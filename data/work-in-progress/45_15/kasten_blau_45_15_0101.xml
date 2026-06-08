@@ -3,19 +3,91 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Kasten_blau_45_15_0101_duplicated</title>
+                <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, 28.11.1686</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name><name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name><name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>emt</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">Kasten_blau_45_15_0101_duplicated</title>
-                    <idno type="Transkribus">871091</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>München</settlement>
+                                <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 45/15</idno>
+                                
+                                <idno/>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate/></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">118102</idno>
+                        <idno type="transkribus-doc-id">871091</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>eigenhändig</term>
+                </ab>
+                
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__63">Wien</placeName>
+                    <date notBefore="1686-11-28">Donnerstag, 28. November 1686</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="800" lry="1195" ulx="0" uly="0" xml:id="facs_1">
@@ -77,7 +149,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NDQWWUAKUJKPBRHJUYPLVLOS" />
+                <pb facs="#facs_1" n="64 r" xml:id="FILE_0001_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NDQWWUAKUJKPBRHJUYPLVLOS" />
                 <p facs="#facs_1_r1">
                     <lb facs="#facs_1_r1l1" n="N001" />                        
                         Durchleüchtiger Cuhrfürst, mein herzallerliebster herr vatter
@@ -89,8 +161,7 @@
                     <lb n="N003" />2 posten dero <choice>
                         <expan>gnädige</expan>
                         <abbr>g</abbr>
-                    </choice> schr<supplied>e</supplied>                        
-                        iben nit ausführlich beantwort
+                    </choice> schr<supplied>e</supplied>iben nit ausführlich beantwort
                     <lb n="N004" />                        
                         hab. Mein braut ist vhrsach daran gewesen, vnd ist
                     <lb n="N005" />                        
@@ -132,7 +203,7 @@
                     </p>
                 </div>
                 <div type="page">
-                    <pb facs="#facs_2" n="2" xml:id="FILE_0002_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GTHWPVRWOTTCJFJINVNKTOSK" />
+                    <pb facs="#facs_2" n="64 v" xml:id="FILE_0002_DEFAULT.jpeg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=GTHWPVRWOTTCJFJINVNKTOSK" />
                     <p facs="#facs_2_r1">
                         <lb facs="#facs_2_r1l1" n="N001" />                            
                             wehr woll ein großes werk. Ihr Mayestät werden gewis niks
@@ -142,11 +213,11 @@
                             secondiren. Aber man schreibt von dort, das so wehnig
                         <lb n="N004" />                            
                             vohrhanden, das sie dem curir, welcher die zeitung von
-                        <lb n="N005" />Offen bracht, 100 <comment comment="Doppia\u003a\u0020italienischer\u0020Doppeldukat">dopien</comment> verert vnd nachh<supplied>er</supplied>                            
+                        <lb n="N005" />Offen bracht, 100 dopien verert vnd nachh<supplied>er</supplied>                            
                             s selbige nit
                         <lb n="N006" />                            
                             bezahlen können. Hingegen soll die regirende fraw ihrer
-                        <lb n="N007" />schwester in Sauoia ein present von 100 <unclear reason="abbrev" alternative="m\u0020für\u0020Tausend">m</unclear>                            
+                        <lb n="N007" />schwester in Sauoia ein present von 100 <unclear reason="Abkürzung für 1000">m</unclear>                            
                             geschikt haben,
                         <lb n="N008" />welches aber woll etwas wehniger wirt gew<supplied>e</supplied>                            
                             sen sein. Dis
@@ -157,9 +228,9 @@
                             vertrawen. Ob ich iezt die reis auf Prag
                         <lb n="N010" />in der kelt vnd schlimmen Weg werd können <supplied>machen</supplied>                            
                             , steh ich sehr
-                        <lb n="N011" />an, in dem ich iezt iust in das 7te monat <add place="über\u0020der\u0020Zeile\u0020eingefügt">vnd 8te</add>                            
+                        <lb n="N011" />an, in dem ich iezt iust in das 7te monat <add place="über Zeile eingefügt">vnd 8te</add>                            
                             trette,
-                        <lb n="N012" />welche <unclear alternative="korrigiert\u0020aus\u0020das">die</unclear> gefärligiste <unclear alternative="korrigiert\u0020aus\u0020ist">seint</unclear>                            
+                        <lb n="N012" />welche <unclear reason="korrigiert aus das">die</unclear> gefärligiste <unclear reason="korrigiert aus ist">seint</unclear>                            
                             . Im übrigen werd ich gewis niks
                         <lb n="N013" />                            
                             vnterlaßen, was werd können darzue zue cooperiren.
