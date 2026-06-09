@@ -1,406 +1,474 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="palatina_48_1_07.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">palatina_48_1_07</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 07.06.1711</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+               <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+               <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+               <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+               <name ref="https://orcid.org/0009-0000-4293-6606">Dorota Vargová</name>
+               </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>HHStA_Palatina_48</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">palatina_48_1_07</title>
-                    <idno type="Transkribus">15923384</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Österreich</country>
+                                <settlement>Wien</settlement>
+                                <repository>Österreichisches Staatsarchiv</repository>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 48, Fasz. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2398882</idno>
+                        <idno type="transkribus-doc-id">15923384</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
-            <langUsage />
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Ausfertigung</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
+                    <date when-iso="1711-06-28">Sonntag, 28. Juni 1711</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2578" lry="3616" ulx="0" uly="0" xml:id="facs_1">
-            <graphic height="3616px" url="StAb_Pfalz-Neuburg_48_066.jpg" width="2578px" />
-            <graphic height="3616px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTAITTSIMLFHNNCPCTVFKWCW" width="2578px" />
+            <graphic height="3616px" url="StAb_Pfalz-Neuburg_48_066.jpg" width="2578px"/>
+            <graphic height="3616px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTAITTSIMLFHNNCPCTVFKWCW" width="2578px"/>
             <zone points="352,317 2550,317 2550,2947 352,2947" rendition="TextRegion" xml:id="facs_1_tr_1">
-                <zone points="384,317 2509,317 2509,424 384,424" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
-                <zone points="399,425 2413,425 2413,525 399,525" rendition="Line" xml:id="facs_1_tr_1_tl_2" />
-                <zone points="352,1719 2550,1719 2550,1838 352,1838" rendition="Line" xml:id="facs_1_tr_1_tl_3" />
-                <zone points="402,1847 2521,1847 2521,1946 402,1946" rendition="Line" xml:id="facs_1_tr_1_tl_4" />
-                <zone points="375,1973 2518,1973 2518,2076 375,2076" rendition="Line" xml:id="facs_1_tr_1_tl_5" />
-                <zone points="366,2080 2494,2080 2494,2191 366,2191" rendition="Line" xml:id="facs_1_tr_1_tl_6" />
-                <zone points="390,2193 2535,2193 2535,2301 390,2301" rendition="Line" xml:id="facs_1_tr_1_tl_7" />
-                <zone points="396,2309 2503,2309 2503,2417 396,2417" rendition="Line" xml:id="facs_1_tr_1_tl_8" />
-                <zone points="384,2454 2497,2454 2497,2552 384,2552" rendition="Line" xml:id="facs_1_tr_1_tl_9" />
-                <zone points="384,2588 2467,2588 2467,2685 384,2685" rendition="Line" xml:id="facs_1_tr_1_tl_10" />
-                <zone points="372,2707 2476,2707 2476,2825 372,2825" rendition="Line" xml:id="facs_1_tr_1_tl_11" />
-                <zone points="372,2822 2488,2822 2488,2947 372,2947" rendition="Line" xml:id="facs_1_tr_1_tl_12" />
+                <zone points="384,317 2509,317 2509,424 384,424" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+                <zone points="399,425 2413,425 2413,525 399,525" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+                <zone points="352,1719 2550,1719 2550,1838 352,1838" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+                <zone points="402,1847 2521,1847 2521,1946 402,1946" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+                <zone points="375,1973 2518,1973 2518,2076 375,2076" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+                <zone points="366,2080 2494,2080 2494,2191 366,2191" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+                <zone points="390,2193 2535,2193 2535,2301 390,2301" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+                <zone points="396,2309 2503,2309 2503,2417 396,2417" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+                <zone points="384,2454 2497,2454 2497,2552 384,2552" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+                <zone points="384,2588 2467,2588 2467,2685 384,2685" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+                <zone points="372,2707 2476,2707 2476,2825 372,2825" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+                <zone points="372,2822 2488,2822 2488,2947 372,2947" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
             </zone>
         </surface>
         <surface lrx="2568" lry="3585" ulx="0" uly="0" xml:id="facs_2">
-            <graphic height="3585px" url="StAb_Pfalz-Neuburg_48_067.jpg" width="2568px" />
-            <graphic height="3585px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=OAHLVCDVYMWNGGCDCJGGGBYV" width="2568px" />
+            <graphic height="3585px" url="StAb_Pfalz-Neuburg_48_067.jpg" width="2568px"/>
+            <graphic height="3585px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=OAHLVCDVYMWNGGCDCJGGGBYV" width="2568px"/>
             <zone points="483,1724 2531,1724 2531,2966 483,2966" rendition="TextRegion" xml:id="facs_2_tr_1">
-                <zone points="552,1724 2504,1724 2504,1825 552,1825" rendition="Line" xml:id="facs_2_tr_1_tl_1" />
-                <zone points="537,1858 2453,1858 2453,1954 537,1954" rendition="Line" xml:id="facs_2_tr_1_tl_2" />
-                <zone points="546,1977 2495,1977 2495,2067 546,2067" rendition="Line" xml:id="facs_2_tr_1_tl_3" />
-                <zone points="543,2095 2444,2095 2444,2186 543,2186" rendition="Line" xml:id="facs_2_tr_1_tl_4" />
-                <zone points="543,2196 2528,2196 2528,2308 543,2308" rendition="Line" xml:id="facs_2_tr_1_tl_5" />
-                <zone points="507,2330 2516,2330 2516,2422 507,2422" rendition="Line" xml:id="facs_2_tr_1_tl_6" />
-                <zone points="483,2437 2513,2437 2513,2534 483,2534" rendition="Line" xml:id="facs_2_tr_1_tl_7" />
-                <zone points="522,2550 2516,2550 2516,2650 522,2650" rendition="Line" xml:id="facs_2_tr_1_tl_8" />
-                <zone points="516,2656 2531,2656 2531,2754 516,2754" rendition="Line" xml:id="facs_2_tr_1_tl_9" />
-                <zone points="498,2755 2510,2755 2510,2846 498,2846" rendition="Line" xml:id="facs_2_tr_1_tl_10" />
-                <zone points="522,2864 2513,2864 2513,2966 522,2966" rendition="Line" xml:id="facs_2_tr_1_tl_11" />
+                <zone points="552,1724 2504,1724 2504,1825 552,1825" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+                <zone points="537,1858 2453,1858 2453,1954 537,1954" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+                <zone points="546,1977 2495,1977 2495,2067 546,2067" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+                <zone points="543,2095 2444,2095 2444,2186 543,2186" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+                <zone points="543,2196 2528,2196 2528,2308 543,2308" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+                <zone points="507,2330 2516,2330 2516,2422 507,2422" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+                <zone points="483,2437 2513,2437 2513,2534 483,2534" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+                <zone points="522,2550 2516,2550 2516,2650 522,2650" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+                <zone points="516,2656 2531,2656 2531,2754 516,2754" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+                <zone points="498,2755 2510,2755 2510,2846 498,2846" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+                <zone points="522,2864 2513,2864 2513,2966 522,2966" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
             </zone>
         </surface>
         <surface lrx="2541" lry="3606" ulx="0" uly="0" xml:id="facs_3">
-            <graphic height="3606px" url="StAb_Pfalz-Neuburg_48_072.jpg" width="2541px" />
-            <graphic height="3606px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=REMUCWGQTNFNOHBPVKJIZISZ" width="2541px" />
+            <graphic height="3606px" url="StAb_Pfalz-Neuburg_48_072.jpg" width="2541px"/>
+            <graphic height="3606px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=REMUCWGQTNFNOHBPVKJIZISZ" width="2541px"/>
             <zone points="370,781 2507,781 2507,3028 370,3028" rendition="TextRegion" xml:id="facs_3_tr_1">
-                <zone points="382,1756 2486,1756 2486,1836 382,1836" rendition="Line" xml:id="facs_3_tr_1_tl_2" />
-                <zone points="385,1884 2504,1884 2504,1960 385,1960" rendition="Line" xml:id="facs_3_tr_1_tl_3" />
-                <zone points="2340,1930 2447,1930 2447,1968 2340,1968" rendition="Line" xml:id="facs_3_tr_1_tl_4" />
-                <zone points="373,1984 2507,1984 2507,2086 373,2086" rendition="Line" xml:id="facs_3_tr_1_tl_5" />
-                <zone points="382,2074 2486,2074 2486,2201 382,2201" rendition="Line" xml:id="facs_3_tr_1_tl_6" />
-                <zone points="388,2211 2423,2211 2423,2338 388,2338" rendition="Line" xml:id="facs_3_tr_1_tl_7" />
-                <zone points="379,2332 2453,2332 2453,2466 379,2466" rendition="Line" xml:id="facs_3_tr_1_tl_8" />
-                <zone points="388,2435 2480,2435 2480,2586 388,2586" rendition="Line" xml:id="facs_3_tr_1_tl_9" />
-                <zone points="370,2540 2450,2540 2450,2717 370,2717" rendition="Line" xml:id="facs_3_tr_1_tl_10" />
-                <zone points="382,2659 2486,2659 2486,2813 382,2813" rendition="Line" xml:id="facs_3_tr_1_tl_11" />
-                <zone points="400,2775 2423,2775 2423,2920 400,2920" rendition="Line" xml:id="facs_3_tr_1_tl_12" />
-                <zone points="385,2925 1368,2925 1368,3027 385,3027" rendition="Line" xml:id="facs_3_tr_1_tl_14" />
+                <zone points="382,1756 2486,1756 2486,1836 382,1836" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+                <zone points="385,1884 2504,1884 2504,1960 385,1960" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+                <zone points="2340,1930 2447,1930 2447,1968 2340,1968" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+                <zone points="373,1984 2507,1984 2507,2086 373,2086" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+                <zone points="382,2074 2486,2074 2486,2201 382,2201" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+                <zone points="388,2211 2423,2211 2423,2338 388,2338" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+                <zone points="379,2332 2453,2332 2453,2466 379,2466" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+                <zone points="388,2435 2480,2435 2480,2586 388,2586" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+                <zone points="370,2540 2450,2540 2450,2717 370,2717" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+                <zone points="382,2659 2486,2659 2486,2813 382,2813" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+                <zone points="400,2775 2423,2775 2423,2920 400,2920" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+                <zone points="385,2925 1368,2925 1368,3027 385,3027" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
             </zone>
         </surface>
         <surface lrx="2562" lry="3601" ulx="0" uly="0" xml:id="facs_4">
-            <graphic height="3601px" url="StAb_Pfalz-Neuburg_48_073.jpg" width="2562px" />
-            <graphic height="3601px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=HXWUSHUSCRXDKVNGHQDLPOMH" width="2562px" />
+            <graphic height="3601px" url="StAb_Pfalz-Neuburg_48_073.jpg" width="2562px"/>
+            <graphic height="3601px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=HXWUSHUSCRXDKVNGHQDLPOMH" width="2562px"/>
             <zone points="20,120 2529,120 2529,3600 20,3600" rendition="TextRegion" xml:id="facs_4_tr_1">
-                <zone points="197,159 883,159 883,262 197,262" rendition="Line" xml:id="facs_4_tr_1_tl_2" />
-                <zone points="1397,120 2275,120 2275,210 1397,210" rendition="Line" xml:id="facs_4_tr_1_tl_1" />
-                <zone points="1367,266 2421,266 2421,356 1367,356" rendition="Line" xml:id="facs_4_tr_1_tl_3" />
-                <zone points="1298,426 2529,426 2529,528 1298,528" rendition="Line" xml:id="facs_4_tr_1_tl_4" />
-                <zone points="1328,528 2493,528 2493,630 1328,630" rendition="Line" xml:id="facs_4_tr_1_tl_5" />
-                <zone points="1328,623 2460,623 2460,731 1328,731" rendition="Line" xml:id="facs_4_tr_1_tl_6" />
-                <zone points="1328,747 2352,747 2352,846 1328,846" rendition="Line" xml:id="facs_4_tr_1_tl_7" />
-                <zone points="522,1744 2502,1744 2502,1843 522,1843" rendition="Line" xml:id="facs_4_tr_1_tl_8" />
-                <zone points="528,1905 2505,1905 2505,2005 528,2005" rendition="Line" xml:id="facs_4_tr_1_tl_9" />
-                <zone points="492,2040 2514,2040 2514,2150 492,2150" rendition="Line" xml:id="facs_4_tr_1_tl_10" />
-                <zone points="483,2207 1376,2207 1376,2312 483,2312" rendition="Line" xml:id="facs_4_tr_1_tl_11" />
-                <zone points="435,2365 1167,2365 1167,2494 435,2494" rendition="Line" xml:id="facs_4_tr_1_tl_12" />
-                <zone points="713,2971 2487,2971 2487,3145 713,3145" rendition="Line" xml:id="facs_4_tr_1_tl_15" />
-                <zone points="716,3109 2520,3109 2520,3265 716,3265" rendition="Line" xml:id="facs_4_tr_1_tl_16" />
-                <zone points="2009,3237 2481,3237 2481,3333 2009,3333" rendition="Line" xml:id="facs_4_tr_1_tl_17" />
-                <zone points="683,3411 2481,3411 2481,3499 683,3499" rendition="Line" xml:id="facs_4_tr_1_tl_20" />
-                <zone points="35,2768 468,2768 468,2876 35,2876" rendition="Line" xml:id="facs_4_tr_1_tl_13" />
-                <zone points="35,2879 522,2879 522,2992 35,2992" rendition="Line" xml:id="facs_4_tr_1_tl_14" />
-                <zone points="41,3342 194,3342 194,3401 41,3401" rendition="Line" xml:id="facs_4_tr_1_tl_18" />
-                <zone points="44,3413 537,3413 537,3480 44,3480" rendition="Line" xml:id="facs_4_tr_1_tl_19" />
-                <zone points="20,3494 513,3494 513,3542 20,3542" rendition="Line" xml:id="facs_4_tr_1_tl_22" />
-                <zone points="101,3542 328,3542 328,3581 101,3581" rendition="Line" xml:id="facs_4_tr_1_tl_23" />
+                <zone points="197,159 883,159 883,262 197,262" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+                <zone points="1397,120 2275,120 2275,210 1397,210" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+                <zone points="1367,266 2421,266 2421,356 1367,356" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+                <zone points="1298,426 2529,426 2529,528 1298,528" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+                <zone points="1328,528 2493,528 2493,630 1328,630" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+                <zone points="1328,623 2460,623 2460,731 1328,731" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+                <zone points="1328,747 2352,747 2352,846 1328,846" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+                <zone points="522,1744 2502,1744 2502,1843 522,1843" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+                <zone points="528,1905 2505,1905 2505,2005 528,2005" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+                <zone points="492,2040 2514,2040 2514,2150 492,2150" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+                <zone points="483,2207 1376,2207 1376,2312 483,2312" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+                <zone points="435,2365 1167,2365 1167,2494 435,2494" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+                <zone points="713,2971 2487,2971 2487,3145 713,3145" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+                <zone points="716,3109 2520,3109 2520,3265 716,3265" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+                <zone points="2009,3237 2481,3237 2481,3333 2009,3333" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+                <zone points="683,3411 2481,3411 2481,3499 683,3499" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+                <zone points="35,2768 468,2768 468,2876 35,2876" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+                <zone points="35,2879 522,2879 522,2992 35,2992" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+                <zone points="41,3342 194,3342 194,3401 41,3401" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+                <zone points="44,3413 537,3413 537,3480 44,3480" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+                <zone points="20,3494 513,3494 513,3542 20,3542" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+                <zone points="101,3542 328,3542 328,3581 101,3581" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
             </zone>
         </surface>
         <surface lrx="2241" lry="3506" ulx="0" uly="0" xml:id="facs_5">
-            <graphic height="3506px" url="StAb_Pfalz-Neuburg_48_068.jpg" width="2241px" />
-            <graphic height="3506px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=SQUKNLAIRNGBIMKXYXCQYCGX" width="2241px" />
+            <graphic height="3506px" url="StAb_Pfalz-Neuburg_48_068.jpg" width="2241px"/>
+            <graphic height="3506px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=SQUKNLAIRNGBIMKXYXCQYCGX" width="2241px"/>
             <zone points="379,494 2230,494 2230,3336 379,3336" rendition="TextRegion" xml:id="facs_5_tr_1">
-                <zone points="433,579 2206,579 2206,651 433,651" rendition="Line" xml:id="facs_5_tr_1_tl_2" />
-                <zone points="498,714 2212,714 2212,777 498,777" rendition="Line" xml:id="facs_5_tr_1_tl_3" />
-                <zone points="1090,795 1239,795 1239,838 1090,838" rendition="Line" xml:id="facs_5_tr_1_tl_4" />
-                <zone points="465,831 2230,831 2230,894 465,894" rendition="Line" xml:id="facs_5_tr_1_tl_5" />
-                <zone points="379,917 2209,917 2209,1022 379,1022" rendition="Line" xml:id="facs_5_tr_1_tl_6" />
-                <zone points="471,1031 2165,1031 2165,1135 471,1135" rendition="Line" xml:id="facs_5_tr_1_tl_7" />
-                <zone points="477,1147 2186,1147 2186,1249 477,1249" rendition="Line" xml:id="facs_5_tr_1_tl_8" />
-                <zone points="480,1259 2183,1259 2183,1361 480,1361" rendition="Line" xml:id="facs_5_tr_1_tl_9" />
-                <zone points="480,1378 2186,1378 2186,1478 480,1478" rendition="Line" xml:id="facs_5_tr_1_tl_10" />
-                <zone points="468,1493 2162,1493 2162,1595 468,1595" rendition="Line" xml:id="facs_5_tr_1_tl_11" />
-                <zone points="477,1613 2162,1613 2162,1712 477,1712" rendition="Line" xml:id="facs_5_tr_1_tl_12" />
-                <zone points="468,1726 2138,1726 2138,1840 468,1840" rendition="Line" xml:id="facs_5_tr_1_tl_13" />
-                <zone points="462,1852 2150,1852 2150,1954 462,1954" rendition="Line" xml:id="facs_5_tr_1_tl_14" />
-                <zone points="477,1971 2200,1971 2200,2064 477,2064" rendition="Line" xml:id="facs_5_tr_1_tl_15" />
-                <zone points="489,2088 2183,2088 2183,2178 489,2178" rendition="Line" xml:id="facs_5_tr_1_tl_16" />
-                <zone points="495,2201 2141,2201 2141,2297 495,2297" rendition="Line" xml:id="facs_5_tr_1_tl_17" />
-                <zone points="504,2321 2200,2321 2200,2414 504,2414" rendition="Line" xml:id="facs_5_tr_1_tl_18" />
-                <zone points="492,2437 2203,2437 2203,2524 492,2524" rendition="Line" xml:id="facs_5_tr_1_tl_19" />
-                <zone points="489,2555 2153,2555 2153,2641 489,2641" rendition="Line" xml:id="facs_5_tr_1_tl_20" />
-                <zone points="489,2675 2144,2675 2144,2757 489,2757" rendition="Line" xml:id="facs_5_tr_1_tl_21" />
-                <zone points="504,2790 2171,2790 2171,2877 504,2877" rendition="Line" xml:id="facs_5_tr_1_tl_22" />
-                <zone points="498,2912 1588,2912 1588,2993 498,2993" rendition="Line" xml:id="facs_5_tr_1_tl_23" />
-                <zone points="498,3017 2162,3017 2162,3103 498,3103" rendition="Line" xml:id="facs_5_tr_1_tl_24" />
-                <zone points="498,3133 2177,3133 2177,3220 498,3220" rendition="Line" xml:id="facs_5_tr_1_tl_25" />
-                <zone points="513,3249 2129,3249 2129,3336 513,3336" rendition="Line" xml:id="facs_5_tr_1_tl_26" />
+                <zone points="433,579 2206,579 2206,651 433,651" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+                <zone points="498,714 2212,714 2212,777 498,777" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+                <zone points="1090,795 1239,795 1239,838 1090,838" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+                <zone points="465,831 2230,831 2230,894 465,894" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+                <zone points="379,917 2209,917 2209,1022 379,1022" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+                <zone points="471,1031 2165,1031 2165,1135 471,1135" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+                <zone points="477,1147 2186,1147 2186,1249 477,1249" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+                <zone points="480,1259 2183,1259 2183,1361 480,1361" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+                <zone points="480,1378 2186,1378 2186,1478 480,1478" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+                <zone points="468,1493 2162,1493 2162,1595 468,1595" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+                <zone points="477,1613 2162,1613 2162,1712 477,1712" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+                <zone points="468,1726 2138,1726 2138,1840 468,1840" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+                <zone points="462,1852 2150,1852 2150,1954 462,1954" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+                <zone points="477,1971 2200,1971 2200,2064 477,2064" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+                <zone points="489,2088 2183,2088 2183,2178 489,2178" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+                <zone points="495,2201 2141,2201 2141,2297 495,2297" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+                <zone points="504,2321 2200,2321 2200,2414 504,2414" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+                <zone points="492,2437 2203,2437 2203,2524 492,2524" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+                <zone points="489,2555 2153,2555 2153,2641 489,2641" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+                <zone points="489,2675 2144,2675 2144,2757 489,2757" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+                <zone points="504,2790 2171,2790 2171,2877 504,2877" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+                <zone points="498,2912 1588,2912 1588,2993 498,2993" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+                <zone points="498,3017 2162,3017 2162,3103 498,3103" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+                <zone points="498,3133 2177,3133 2177,3220 498,3220" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+                <zone points="513,3249 2129,3249 2129,3336 513,3336" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
             </zone>
         </surface>
         <surface lrx="2254" lry="3480" ulx="0" uly="0" xml:id="facs_6">
-            <graphic height="3480px" url="StAb_Pfalz-Neuburg_48_069.jpg" width="2254px" />
-            <graphic height="3480px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=QDCEQJRYKXXUOJHCXYBRAFYQ" width="2254px" />
+            <graphic height="3480px" url="StAb_Pfalz-Neuburg_48_069.jpg" width="2254px"/>
+            <graphic height="3480px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=QDCEQJRYKXXUOJHCXYBRAFYQ" width="2254px"/>
             <zone points="385,548 2223,548 2223,3372 385,3372" rendition="TextRegion" xml:id="facs_6_tr_1">
-                <zone points="408,548 2202,548 2202,650 408,650" rendition="Line" xml:id="facs_6_tr_1_tl_1" />
-                <zone points="405,666 2196,666 2196,769 405,769" rendition="Line" xml:id="facs_6_tr_1_tl_2" />
-                <zone points="405,784 2223,784 2223,892 405,892" rendition="Line" xml:id="facs_6_tr_1_tl_3" />
-                <zone points="414,915 901,915 901,1008 414,1008" rendition="Line" xml:id="facs_6_tr_1_tl_4" />
-                <zone points="405,1032 2214,1032 2214,1122 405,1122" rendition="Line" xml:id="facs_6_tr_1_tl_5" />
-                <zone points="423,1143 2136,1143 2136,1231 423,1231" rendition="Line" xml:id="facs_6_tr_1_tl_6" />
-                <zone points="411,1239 2187,1239 2187,1341 411,1341" rendition="Line" xml:id="facs_6_tr_1_tl_7" />
-                <zone points="411,1357 2220,1357 2220,1459 411,1459" rendition="Line" xml:id="facs_6_tr_1_tl_8" />
-                <zone points="411,1478 2193,1478 2193,1577 411,1577" rendition="Line" xml:id="facs_6_tr_1_tl_9" />
-                <zone points="414,1587 2119,1587 2119,1692 414,1692" rendition="Line" xml:id="facs_6_tr_1_tl_10" />
-                <zone points="385,1718 2172,1718 2172,1817 385,1817" rendition="Line" xml:id="facs_6_tr_1_tl_11" />
-                <zone points="408,1829 2113,1829 2113,1934 408,1934" rendition="Line" xml:id="facs_6_tr_1_tl_12" />
-                <zone points="399,1955 2220,1955 2220,2049 399,2049" rendition="Line" xml:id="facs_6_tr_1_tl_13" />
-                <zone points="420,2066 2187,2066 2187,2159 420,2159" rendition="Line" xml:id="facs_6_tr_1_tl_14" />
-                <zone points="426,2181 2172,2181 2172,2282 426,2282" rendition="Line" xml:id="facs_6_tr_1_tl_15" />
-                <zone points="411,2297 2119,2297 2119,2396 411,2396" rendition="Line" xml:id="facs_6_tr_1_tl_16" />
-                <zone points="405,2419 2092,2419 2092,2515 405,2515" rendition="Line" xml:id="facs_6_tr_1_tl_17" />
-                <zone points="387,2516 2163,2516 2163,2625 387,2625" rendition="Line" xml:id="facs_6_tr_1_tl_18" />
-                <zone points="399,2635 2181,2635 2181,2736 399,2736" rendition="Line" xml:id="facs_6_tr_1_tl_19" />
-                <zone points="399,2754 2214,2754 2214,2859 399,2859" rendition="Line" xml:id="facs_6_tr_1_tl_20" />
-                <zone points="405,2873 2181,2873 2181,2976 405,2976" rendition="Line" xml:id="facs_6_tr_1_tl_21" />
-                <zone points="405,2993 2199,2993 2199,3089 405,3089" rendition="Line" xml:id="facs_6_tr_1_tl_22" />
-                <zone points="402,3092 2166,3092 2166,3197 402,3197" rendition="Line" xml:id="facs_6_tr_1_tl_23" />
-                <zone points="393,3214 1650,3214 1650,3311 393,3311" rendition="Line" xml:id="facs_6_tr_1_tl_25" />
-                <zone points="2029,3300 2178,3300 2178,3372 2029,3372" rendition="Line" xml:id="facs_6_tr_1_tl_26" />
+                <zone points="408,548 2202,548 2202,650 408,650" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+                <zone points="405,666 2196,666 2196,769 405,769" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+                <zone points="405,784 2223,784 2223,892 405,892" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+                <zone points="414,915 901,915 901,1008 414,1008" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
+                <zone points="405,1032 2214,1032 2214,1122 405,1122" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+                <zone points="423,1143 2136,1143 2136,1231 423,1231" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+                <zone points="411,1239 2187,1239 2187,1341 411,1341" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+                <zone points="411,1357 2220,1357 2220,1459 411,1459" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+                <zone points="411,1478 2193,1478 2193,1577 411,1577" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+                <zone points="414,1587 2119,1587 2119,1692 414,1692" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+                <zone points="385,1718 2172,1718 2172,1817 385,1817" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+                <zone points="408,1829 2113,1829 2113,1934 408,1934" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+                <zone points="399,1955 2220,1955 2220,2049 399,2049" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+                <zone points="420,2066 2187,2066 2187,2159 420,2159" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+                <zone points="426,2181 2172,2181 2172,2282 426,2282" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+                <zone points="411,2297 2119,2297 2119,2396 411,2396" rendition="Line" xml:id="facs_6_tr_1_tl_16"/>
+                <zone points="405,2419 2092,2419 2092,2515 405,2515" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+                <zone points="387,2516 2163,2516 2163,2625 387,2625" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+                <zone points="399,2635 2181,2635 2181,2736 399,2736" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+                <zone points="399,2754 2214,2754 2214,2859 399,2859" rendition="Line" xml:id="facs_6_tr_1_tl_20"/>
+                <zone points="405,2873 2181,2873 2181,2976 405,2976" rendition="Line" xml:id="facs_6_tr_1_tl_21"/>
+                <zone points="405,2993 2199,2993 2199,3089 405,3089" rendition="Line" xml:id="facs_6_tr_1_tl_22"/>
+                <zone points="402,3092 2166,3092 2166,3197 402,3197" rendition="Line" xml:id="facs_6_tr_1_tl_23"/>
+                <zone points="393,3214 1650,3214 1650,3311 393,3311" rendition="Line" xml:id="facs_6_tr_1_tl_25"/>
+                <zone points="2029,3300 2178,3300 2178,3372 2029,3372" rendition="Line" xml:id="facs_6_tr_1_tl_26"/>
             </zone>
         </surface>
         <surface lrx="2208" lry="3501" ulx="0" uly="0" xml:id="facs_7">
-            <graphic height="3501px" url="StAb_Pfalz-Neuburg_48_070.jpg" width="2208px" />
-            <graphic height="3501px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WPWZXXRJQOUJVEBJDIZCRMWQ" width="2208px" />
+            <graphic height="3501px" url="StAb_Pfalz-Neuburg_48_070.jpg" width="2208px"/>
+            <graphic height="3501px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WPWZXXRJQOUJVEBJDIZCRMWQ" width="2208px"/>
             <zone points="411,544 2184,544 2184,3336 411,3336" rendition="TextRegion" xml:id="facs_7_tr_1">
-                <zone points="438,544 2125,544 2125,649 438,649" rendition="Line" xml:id="facs_7_tr_1_tl_1" />
-                <zone points="450,679 2169,679 2169,779 450,779" rendition="Line" xml:id="facs_7_tr_1_tl_2" />
-                <zone points="432,792 2134,792 2134,895 432,895" rendition="Line" xml:id="facs_7_tr_1_tl_3" />
-                <zone points="468,913 2169,913 2169,1000 468,1000" rendition="Line" xml:id="facs_7_tr_1_tl_4" />
-                <zone points="483,1022 2172,1022 2172,1119 483,1119" rendition="Line" xml:id="facs_7_tr_1_tl_5" />
-                <zone points="450,1138 2110,1138 2110,1232 450,1232" rendition="Line" xml:id="facs_7_tr_1_tl_6" />
-                <zone points="477,1247 2139,1247 2139,1349 477,1349" rendition="Line" xml:id="facs_7_tr_1_tl_7" />
-                <zone points="465,1366 2169,1366 2169,1459 465,1459" rendition="Line" xml:id="facs_7_tr_1_tl_8" />
-                <zone points="462,1492 2151,1492 2151,1582 462,1582" rendition="Line" xml:id="facs_7_tr_1_tl_9" />
-                <zone points="480,1603 2160,1603 2160,1694 480,1694" rendition="Line" xml:id="facs_7_tr_1_tl_10" />
-                <zone points="474,1723 1614,1723 1614,1814 474,1814" rendition="Line" xml:id="facs_7_tr_1_tl_11" />
-                <zone points="411,1848 2166,1848 2166,1936 411,1936" rendition="Line" xml:id="facs_7_tr_1_tl_12" />
-                <zone points="474,1954 2163,1954 2163,2054 474,2054" rendition="Line" xml:id="facs_7_tr_1_tl_13" />
-                <zone points="471,2072 2184,2072 2184,2174 471,2174" rendition="Line" xml:id="facs_7_tr_1_tl_14" />
-                <zone points="477,2177 2139,2177 2139,2292 477,2292" rendition="Line" xml:id="facs_7_tr_1_tl_15" />
-                <zone points="456,2308 2137,2308 2137,2402 456,2402" rendition="Line" xml:id="facs_7_tr_1_tl_16" />
-                <zone points="480,2404 2151,2404 2151,2519 480,2519" rendition="Line" xml:id="facs_7_tr_1_tl_17" />
-                <zone points="462,2523 2137,2523 2137,2634 462,2634" rendition="Line" xml:id="facs_7_tr_1_tl_18" />
-                <zone points="471,2655 1101,2655 1101,2754 471,2754" rendition="Line" xml:id="facs_7_tr_1_tl_19" />
-                <zone points="429,2762 2163,2762 2163,2877 429,2877" rendition="Line" xml:id="facs_7_tr_1_tl_20" />
-                <zone points="480,2875 2139,2875 2139,2995 480,2995" rendition="Line" xml:id="facs_7_tr_1_tl_21" />
-                <zone points="477,2983 2151,2983 2151,3104 477,3104" rendition="Line" xml:id="facs_7_tr_1_tl_22" />
-                <zone points="480,3102 2104,3102 2104,3217 480,3217" rendition="Line" xml:id="facs_7_tr_1_tl_23" />
-                <zone points="480,3222 2005,3222 2005,3336 480,3336" rendition="Line" xml:id="facs_7_tr_1_tl_24" />
+                <zone points="438,544 2125,544 2125,649 438,649" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+                <zone points="450,679 2169,679 2169,779 450,779" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
+                <zone points="432,792 2134,792 2134,895 432,895" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+                <zone points="468,913 2169,913 2169,1000 468,1000" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+                <zone points="483,1022 2172,1022 2172,1119 483,1119" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+                <zone points="450,1138 2110,1138 2110,1232 450,1232" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+                <zone points="477,1247 2139,1247 2139,1349 477,1349" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+                <zone points="465,1366 2169,1366 2169,1459 465,1459" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+                <zone points="462,1492 2151,1492 2151,1582 462,1582" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+                <zone points="480,1603 2160,1603 2160,1694 480,1694" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+                <zone points="474,1723 1614,1723 1614,1814 474,1814" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+                <zone points="411,1848 2166,1848 2166,1936 411,1936" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+                <zone points="474,1954 2163,1954 2163,2054 474,2054" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+                <zone points="471,2072 2184,2072 2184,2174 471,2174" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+                <zone points="477,2177 2139,2177 2139,2292 477,2292" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+                <zone points="456,2308 2137,2308 2137,2402 456,2402" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+                <zone points="480,2404 2151,2404 2151,2519 480,2519" rendition="Line" xml:id="facs_7_tr_1_tl_17"/>
+                <zone points="462,2523 2137,2523 2137,2634 462,2634" rendition="Line" xml:id="facs_7_tr_1_tl_18"/>
+                <zone points="471,2655 1101,2655 1101,2754 471,2754" rendition="Line" xml:id="facs_7_tr_1_tl_19"/>
+                <zone points="429,2762 2163,2762 2163,2877 429,2877" rendition="Line" xml:id="facs_7_tr_1_tl_20"/>
+                <zone points="480,2875 2139,2875 2139,2995 480,2995" rendition="Line" xml:id="facs_7_tr_1_tl_21"/>
+                <zone points="477,2983 2151,2983 2151,3104 477,3104" rendition="Line" xml:id="facs_7_tr_1_tl_22"/>
+                <zone points="480,3102 2104,3102 2104,3217 480,3217" rendition="Line" xml:id="facs_7_tr_1_tl_23"/>
+                <zone points="480,3222 2005,3222 2005,3336 480,3336" rendition="Line" xml:id="facs_7_tr_1_tl_24"/>
             </zone>
         </surface>
         <surface lrx="2240" lry="3491" ulx="0" uly="0" xml:id="facs_8">
-            <graphic height="3491px" url="StAb_Pfalz-Neuburg_48_071.jpg" width="2240px" />
-            <graphic height="3491px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DWFFQDAJVMFOLSVFJACGLRSD" width="2240px" />
+            <graphic height="3491px" url="StAb_Pfalz-Neuburg_48_071.jpg" width="2240px"/>
+            <graphic height="3491px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DWFFQDAJVMFOLSVFJACGLRSD" width="2240px"/>
             <zone points="361,544 2231,544 2231,2272 361,2272" rendition="TextRegion" xml:id="facs_8_tr_1">
-                <zone points="375,544 2181,544 2181,631 375,631" rendition="Line" xml:id="facs_8_tr_1_tl_1" />
-                <zone points="361,673 2199,673 2199,762 361,762" rendition="Line" xml:id="facs_8_tr_1_tl_2" />
-                <zone points="417,780 2184,780 2184,879 417,879" rendition="Line" xml:id="facs_8_tr_1_tl_3" />
-                <zone points="432,902 2222,902 2222,992 432,992" rendition="Line" xml:id="facs_8_tr_1_tl_4" />
-                <zone points="426,1013 2228,1013 2228,1109 426,1109" rendition="Line" xml:id="facs_8_tr_1_tl_5" />
-                <zone points="459,1138 2207,1138 2207,1222 459,1222" rendition="Line" xml:id="facs_8_tr_1_tl_6" />
-                <zone points="453,1245 2154,1245 2154,1332 453,1332" rendition="Line" xml:id="facs_8_tr_1_tl_7" />
-                <zone points="435,1360 1864,1360 1864,1443 435,1443" rendition="Line" xml:id="facs_8_tr_1_tl_8" />
-                <zone points="405,1481 2227,1481 2227,1565 405,1565" rendition="Line" xml:id="facs_8_tr_1_tl_9" />
-                <zone points="420,1591 2227,1591 2227,1683 420,1683" rendition="Line" xml:id="facs_8_tr_1_tl_10" />
-                <zone points="417,1719 2231,1719 2231,1797 417,1797" rendition="Line" xml:id="facs_8_tr_1_tl_11" />
-                <zone points="444,1865 1897,1865 1897,1907 444,1907" rendition="Line" xml:id="facs_8_tr_1_tl_14" />
-                <zone points="438,1950 2175,1950 2175,2041 438,2041" rendition="Line" xml:id="facs_8_tr_1_tl_15" />
-                <zone points="438,2060 2202,2060 2202,2150 438,2150" rendition="Line" xml:id="facs_8_tr_1_tl_16" />
-                <zone points="453,2188 1790,2188 1790,2272 453,2272" rendition="Line" xml:id="facs_8_tr_1_tl_17" />
+                <zone points="375,544 2181,544 2181,631 375,631" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+                <zone points="361,673 2199,673 2199,762 361,762" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+                <zone points="417,780 2184,780 2184,879 417,879" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+                <zone points="432,902 2222,902 2222,992 432,992" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+                <zone points="426,1013 2228,1013 2228,1109 426,1109" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+                <zone points="459,1138 2207,1138 2207,1222 459,1222" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+                <zone points="453,1245 2154,1245 2154,1332 453,1332" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+                <zone points="435,1360 1864,1360 1864,1443 435,1443" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+                <zone points="405,1481 2227,1481 2227,1565 405,1565" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+                <zone points="420,1591 2227,1591 2227,1683 420,1683" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+                <zone points="417,1719 2231,1719 2231,1797 417,1797" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+                <zone points="444,1865 1897,1865 1897,1907 444,1907" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+                <zone points="438,1950 2175,1950 2175,2041 438,2041" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
+                <zone points="438,2060 2202,2060 2202,2150 438,2150" rendition="Line" xml:id="facs_8_tr_1_tl_16"/>
+                <zone points="453,2188 1790,2188 1790,2272 453,2272" rendition="Line" xml:id="facs_8_tr_1_tl_17"/>
             </zone>
         </surface>
     </facsimile>
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="StAb_Pfalz-Neuburg_48_066.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTAITTSIMLFHNNCPCTVFKWCW" />
+                <pb facs="#facs_1" n="131 r" xml:id="StAb_Pfalz-Neuburg_48_066.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZTAITTSIMLFHNNCPCTVFKWCW"/>
                 <p facs="#facs_1_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="StAb_Pfalz-Neuburg_48_067.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OAHLVCDVYMWNGGCDCJGGGBYV" />
+                <pb facs="#facs_2" n="131 v" xml:id="StAb_Pfalz-Neuburg_48_067.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=OAHLVCDVYMWNGGCDCJGGGBYV"/>
                 <p facs="#facs_2_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="StAb_Pfalz-Neuburg_48_072.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=REMUCWGQTNFNOHBPVKJIZISZ" />
+                <pb facs="#facs_3" n="134 r" xml:id="StAb_Pfalz-Neuburg_48_072.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=REMUCWGQTNFNOHBPVKJIZISZ"/>
                 <p facs="#facs_3_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="StAb_Pfalz-Neuburg_48_073.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HXWUSHUSCRXDKVNGHQDLPOMH" />
+                <pb facs="#facs_4" n="134 v" xml:id="StAb_Pfalz-Neuburg_48_073.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HXWUSHUSCRXDKVNGHQDLPOMH"/>
                 <p facs="#facs_4_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
-                    <lb n="N016" />
-                    <lb n="N017" />
-                    <lb n="N018" />
-                    <lb n="N019" />
-                    <lb n="N020" />
-                    <lb n="N021" />
-                    <lb n="N022" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
+                    <lb n="N016"/>
+                    <lb n="N017"/>
+                    <lb n="N018"/>
+                    <lb n="N019"/>
+                    <lb n="N020"/>
+                    <lb n="N021"/>
+                    <lb n="N022"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="StAb_Pfalz-Neuburg_48_068.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SQUKNLAIRNGBIMKXYXCQYCGX" />
+                <pb facs="#facs_5" n="132 r" xml:id="StAb_Pfalz-Neuburg_48_068.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SQUKNLAIRNGBIMKXYXCQYCGX"/>
                 <p facs="#facs_5_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
-                    <lb n="N016" />
-                    <lb n="N017" />
-                    <lb n="N018" />
-                    <lb n="N019" />
-                    <lb n="N020" />
-                    <lb n="N021" />
-                    <lb n="N022" />
-                    <lb n="N023" />
-                    <lb n="N024" />
-                    <lb n="N025" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
+                    <lb n="N016"/>
+                    <lb n="N017"/>
+                    <lb n="N018"/>
+                    <lb n="N019"/>
+                    <lb n="N020"/>
+                    <lb n="N021"/>
+                    <lb n="N022"/>
+                    <lb n="N023"/>
+                    <lb n="N024"/>
+                    <lb n="N025"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="StAb_Pfalz-Neuburg_48_069.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QDCEQJRYKXXUOJHCXYBRAFYQ" />
+                <pb facs="#facs_6" n="132 r" xml:id="StAb_Pfalz-Neuburg_48_069.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=QDCEQJRYKXXUOJHCXYBRAFYQ"/>
                 <p facs="#facs_6_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
-                    <lb n="N016" />
-                    <lb n="N017" />
-                    <lb n="N018" />
-                    <lb n="N019" />
-                    <lb n="N020" />
-                    <lb n="N021" />
-                    <lb n="N022" />
-                    <lb n="N023" />
-                    <lb n="N024" />
-                    <lb n="N025" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
+                    <lb n="N016"/>
+                    <lb n="N017"/>
+                    <lb n="N018"/>
+                    <lb n="N019"/>
+                    <lb n="N020"/>
+                    <lb n="N021"/>
+                    <lb n="N022"/>
+                    <lb n="N023"/>
+                    <lb n="N024"/>
+                    <lb n="N025"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="StAb_Pfalz-Neuburg_48_070.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WPWZXXRJQOUJVEBJDIZCRMWQ" />
+                <pb facs="#facs_7" n="133 r" xml:id="StAb_Pfalz-Neuburg_48_070.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WPWZXXRJQOUJVEBJDIZCRMWQ"/>
                 <p facs="#facs_7_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
-                    <lb n="N016" />
-                    <lb n="N017" />
-                    <lb n="N018" />
-                    <lb n="N019" />
-                    <lb n="N020" />
-                    <lb n="N021" />
-                    <lb n="N022" />
-                    <lb n="N023" />
-                    <lb n="N024" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
+                    <lb n="N016"/>
+                    <lb n="N017"/>
+                    <lb n="N018"/>
+                    <lb n="N019"/>
+                    <lb n="N020"/>
+                    <lb n="N021"/>
+                    <lb n="N022"/>
+                    <lb n="N023"/>
+                    <lb n="N024"/>
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_8" n="8" xml:id="StAb_Pfalz-Neuburg_48_071.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DWFFQDAJVMFOLSVFJACGLRSD" />
+                <pb facs="#facs_8" n="133 v" xml:id="StAb_Pfalz-Neuburg_48_071.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=DWFFQDAJVMFOLSVFJACGLRSD"/>
                 <p facs="#facs_8_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                    <lb n="N012" />
-                    <lb n="N013" />
-                    <lb n="N014" />
-                    <lb n="N015" />
+                    <lb n="N001"/>
+                    <lb n="N002"/>
+                    <lb n="N003"/>
+                    <lb n="N004"/>
+                    <lb n="N005"/>
+                    <lb n="N006"/>
+                    <lb n="N007"/>
+                    <lb n="N008"/>
+                    <lb n="N009"/>
+                    <lb n="N010"/>
+                    <lb n="N011"/>
+                    <lb n="N012"/>
+                    <lb n="N013"/>
+                    <lb n="N014"/>
+                    <lb n="N015"/>
                 </p>
             </div>
         </body>
