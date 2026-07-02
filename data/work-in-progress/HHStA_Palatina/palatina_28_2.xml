@@ -468,6 +468,18 @@
                     <lb n="N001"/>
                     <lb n="N002"/>
                 </p></div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1693-05-07">07.05.1693</date>
+                    <placeName><rs type="place" ref="#emt_place_id__20">Frankfurt</rs></placeName>
+                    <persName type="sender">Bürgermeister und Rath der Stadt Frankfurts></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_12" n="380 r" xml:id="HHStA_StAbt_Palatina_28_377r-383v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JTTCXSZPIEMWELTGECRUDQSC"/>
                 <p facs="#facs_12_tr_1">
@@ -523,6 +535,7 @@
                     <lb n="N020"/>
                 </p>
             </div>
+        </div>
         </body>
     </text>
 </TEI>
