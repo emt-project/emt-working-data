@@ -227,6 +227,18 @@
                     <lb n="N021"/>
                 </p>
             </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1705-02-27">27.02.1705</date>
+                    <placeName>o.O.</placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__1452">Claude-François de Lescheraine</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>französisch</lang>
+                    <note type="attachmentType">Extrakt</note>
+                    <note type="content">Extrakt aus dem Brief von Comte de Lescheraine, Gesandter vom Kurfürsten von der Pfalz in England.</note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_3" n="24 r" xml:id="HHStA_StAbt_Palatina_30_23r-24v_003.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NWVYRYMAKVXUWLPHJAILVBBP"/>
                 <p facs="#facs_3_tr_1">
@@ -264,6 +276,7 @@
             <div type="page">
                 <pb facs="#facs_4" n="24 v" xml:id="HHStA_StAbt_Palatina_30_23r-24v_004.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BMDVDJVBDUHMMNABEXSNTOUA"/>
             </div>
+        </div>
         </body>
     </text>
 </TEI>

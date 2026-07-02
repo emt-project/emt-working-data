@@ -356,6 +356,17 @@
                     <lb n="N014"/>
                 </p>
             </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date></date>
+                    <placeName></placeName>
+                    <persName type="sender"></persName>
+                    <lang></lang>
+                    <note type="attachmentType">Extrakt</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_7" n="179 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WWWCGHDOGXNKPSNTNZTUMEAB"/>
                 <p facs="#facs_7_tr_1">
@@ -411,6 +422,7 @@
                     <lb n="N019"/>
                 </p>
             </div>
+          </div>
         </body>
     </text>
 </TEI>
