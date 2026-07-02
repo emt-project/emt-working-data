@@ -648,6 +648,18 @@
                     <lb n="N009"/>
                 </p>
             </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1711-09-12">12.09.1711</date>
+                    <placeName>Amberg</placeName>
+                    <persName type="sender">Oberpfälzische Regierung</persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Extrakt</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_11" n="166 r" xml:id="StAb_Pfalz-Neuburg_48_132.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=LOPNWDAPVENJUHOHQXCAQICQ"/>
                 <p facs="#facs_11_tr_1">
@@ -872,6 +884,19 @@
                     <lb n="N011"/>
                 </p>
             </div>
+            </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date>o.D.</date>
+                    <placeName>o.O.</placeName>
+                    <persName type="sender"></persName>
+                    <persName type="recipient"></persName>
+                    <lang></lang>
+                    <note type="attachmentType">Extrakt</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_21" n="164 r" xml:id="StAb_Pfalz-Neuburg_48_128.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WCFAMQLUVSBWOPNKEOROCEEB"/>
                 <p facs="#facs_21_tr_1">
@@ -890,6 +915,8 @@
                     <lb n="N013"/>
                 </p>
             </div>
+            </div>
+            
         </body>
     </text>
 </TEI>

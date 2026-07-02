@@ -377,7 +377,17 @@
                     <lb n="N006"/>
                 </p></div>
             
-            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1711-05-23">23.05.1711</date>
+                    <placeName><rs type="place" ref="#emt_place_id__37">Mainz</rs></placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__761">Kurmainz</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Kurpfalz</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_4" n="116 r" xml:id="StAb_Pfalz-Neuburg_48_036.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IYGUWIHYKYEUWOWQGYLTXAIU"/>
                 <p facs="#facs_4_tr_1">
@@ -431,8 +441,19 @@
                     <lb n="N022"/>
                 </p>
             </div>
+            </div>
             
-            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1711-05-28">28.05.1711</date>
+                    <placeName><rs type="place" ref="#emt_place_id__248">Trier</rs></placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__618">Trier</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_6" n="118 r" xml:id="StAb_Pfalz-Neuburg_48_040.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ZHUQFNEOSHGMEXGAMNDBYXSQ"/>
                 <p facs="#facs_6_tr_1">
@@ -464,6 +485,19 @@
                 <pb facs="#facs_7" n="118 v" xml:id="StAb_Pfalz-Neuburg_48_041.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BEAERIKYDWJQOEUNUTYTHSEA"/>
                 <p facs="#facs_7_tr_1"/>
             </div>
+            </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1711-05-23">23.05.1711</date>
+                    <placeName></placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__15">Preußen</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_8" n="120 r" xml:id="StAb_Pfalz-Neuburg_48_044.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=CFIDGLLILHSYCRDNKGNDXKLD"/>
                 <p facs="#facs_8_tr_1">
@@ -537,6 +571,19 @@
                 <pb facs="#facs_11" n="121 v" xml:id="StAb_Pfalz-Neuburg_48_047.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=EFXEMAUYLDFKEOIANHBIPLJB"/>
                 <p facs="#facs_11_tr_1"/>
             </div>
+            </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1711-05-24">24.05.1711</date>
+                    <placeName><rs type="place" ref="#emt_place_id__884">Hannover</rs></placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__1237">Braunschweig-Lüneburg</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_12" n="122 r" xml:id="StAb_Pfalz-Neuburg_48_048.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UZRSJQPNVJLTRLFTYORGFMTD"/>
                 <p facs="#facs_12_tr_1">
@@ -566,7 +613,9 @@
             </div>
             <div type="page">
                 <pb facs="#facs_13" n="122 v" xml:id="StAb_Pfalz-Neuburg_48_049.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JPELYTIOGWGTLETMWRPSLGHX"/>
-                <p facs="#facs_13_tr_1"/></div>
+                <p facs="#facs_13_tr_1"/>
+            </div>
+            </div>
             
         </body>
     </text>

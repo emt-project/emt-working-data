@@ -590,6 +590,18 @@
                     <lb n="N019"/>
                 </p>
             </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1712-03-06">06.03.1712</date>
+                    <placeName><rs type="place" ref="#emt_place_id__13">Düsseldorf</rs></placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__31">Kaiser Karl VI.</rs></persName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_13" n="172 r" xml:id="StAb_Pfalz-Neuburg_48_144.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IWJFGKIVEGMVDCTKRTXNATYA"/>
                 <p facs="#facs_13_tr_1">
@@ -711,6 +723,8 @@
                     <lb n="N022"/>
                 </p>
             </div>
+            </div>
+            
         </body>
     </text>
 </TEI>

@@ -323,6 +323,18 @@
                     <lb n="N020"/>
                 </p>
             </div>
+            
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date notBefore="1711-09-02" notAfter="1711-09-06">zwischen 02.09.1711-06.09.1711</date>
+                    <placeName>o.O.</placeName>
+                    <persName type="sender"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
+                    <persName type="recipient"><rs type="person" ref="#emt_person_id__492">Großherzog von Toskana</rs></persName>
+                    <lang>italienisch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content"></note>
+                </ab>
             <div type="page">
                 <pb facs="#facs_5" n="146 r" xml:id="StAb_Pfalz-Neuburg_48_096.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=HQSQHPVHTTQBVXSJWTEQSMIK"/>
                 <p facs="#facs_5_tr_1">
@@ -383,6 +395,7 @@
                     <lb n="N008"/>
                     <lb n="N009"/>
                 </p>
+            </div>
             </div>
         </body>
     </text>
