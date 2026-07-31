@@ -68,7 +68,11 @@
                 </ab>
             </abstract>
             <abstract n="regest">
-                <p/>
+                <p>Kann die Truppen, die er seit Kriegsbeginn den kaiserlichen und alliierten Armeen zur Verfügung gestellt hat,
+                    nicht länger ohne ausreichende Beihilfe unterhalten. Vertraut darauf, dass seinen Truppen im kurkölnischen Sauerland,
+                    im Herzogtum Westfalen samt der Feste Recklinghausen, der Reichsstadt Aachen und (einigen kleineren Territorien)
+                    ähnliche Kontributions- und Quartierrechte gewährt werden wie den kurbrandenburgischen in früheren Kriegen.
+                    Bittet um EMTs Vermittlung, damit ihm nicht andere zuvorkommen.</p>
             </abstract>
             <langUsage>
                 <language ident="deu">deutsch</language>
@@ -356,18 +360,8 @@
                     <lb n="N014"/>
                 </p>
             </div>
-            
-            <div type="attachment">
-                <head>Beilage</head>
-                <ab>
-                    <date></date>
-                    <placeName></placeName>
-                    <persName type="sender"></persName>
-                    <lang></lang>
-                    <note type="attachmentType">Extrakt</note>
-                    <note type="content"></note>
-                </ab>
             <div type="page">
+                <head>Extrakt</head>
                 <pb facs="#facs_7" n="179 r" xml:id="HHStA_StAbt_Palatina_29_176r-179v_007.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WWWCGHDOGXNKPSNTNZTUMEAB"/>
                 <p facs="#facs_7_tr_1">
                     <lb n="N001"/>
@@ -422,7 +416,7 @@
                     <lb n="N019"/>
                 </p>
             </div>
-          </div>
+          
         </body>
     </text>
 </TEI>
