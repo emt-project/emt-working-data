@@ -68,13 +68,22 @@
                 </ab>
             </abstract>
             <abstract n="regest">
-                <p>EMT wird sich erinnern, dass JW durch ein einstimmiges Gutachten des Kurfürstenkollegiums auf dem Reichstag in Regensburg nach der Achterklärung gegen 
-                    die Kurfürsten (Joseph Clemens) von Köln und (Maximilian II. Emanuel) Bayern die nach der böhmischen Krone zweite weltliche Kurwürde seiner Ahnen samt dem Truchsessamt,
-                    der Oberpfalz mit der Grafschaft Cham  ohne Einschränkungen erhalten hat. Kaiser Joseph I. hat dies genehmigt und auch im Lehensbrief für die Oberpfalz vom 23.06.1708 bewilligt.
-                    Dann wurden aber die zur Oberpfalz gehörigen Pflegämter Rotenberg und Hartenstein der Reichsstadt Nürnberg übergeben. Nachdem der jetzt regierende Kaiser (Karl VI.)
-                    in seiner Wahlkapitulation das erwähnte, auszugsweise beiliegende Gutachten beschworen hat, hofft JW auf Restitution. Legt auch einen Auszug eines Berichts seiner 
-                    kurpfälzischen Regierung bei; diesem zufolge werden die katholischen Untertanen der beiden Pflegämter von den derzeitigen unkatholischen Inhabern unterdrückt, 
-                    sodass zu befürchten ist, dass sie wegziehen oder den lutherischen Glauben annehmen könnten. Bittet daher um EMTs Unterstützung.</p>
+                <p>EMT wird sich erinnern, dass JW durch ein einstimmiges Gutachten des 
+                    <rs type="org" ref="#emt_institution_id__25">Kurfürstenkollegiums</rs> auf dem <rs type="org" ref="#emt_institution_id__8">Reichstag</rs> in 
+                    <rs type="place" ref="#emt_place_id__116">Regensburg</rs> nach der Achterklärung gegen 
+                    die Kurfürsten (Joseph Clemens) <rs type="person" ref="#emt_person_id__24">von Köln</rs> und (Maximilian II. Emanuel) 
+                    <rs type="person" ref="#emt_person_id__139">Bayern</rs> die nach der böhmischen Krone zweite weltliche Kurwürde seiner Ahnen samt dem Truchsessamt,
+                    der <rs type="place" ref="#emt_place_id__648">Oberpfalz</rs> mit der <rs type="place" ref="#emt_place_id__653">Grafschaft Cham</rs> 
+                    ohne Einschränkungen erhalten hat. <rs type="person" ref="#emt_person_id__25">Kaiser Joseph I.</rs> hat dies genehmigt 
+                    und auch im Lehensbrief für die Oberpfalz vom 23.06.1708 bewilligt.
+                    Dann wurden aber die zur Oberpfalz gehörigen <rs type="place" ref="#emt_place_id__808">Pflegämter Rotenberg</rs> und 
+                    <rs type="place" ref="#emt_place_id__807">Hartenstein</rs> der <rs type="place" ref="#emt_place_id__809">Reichsstadt Nürnberg</rs> 
+                    übergeben. Nachdem der jetzt regierende <rs type="person" ref="#emt_person_id__31">Kaiser</rs> (Karl VI.) in seiner 
+                    Wahlkapitulation das erwähnte, auszugsweise beiliegende Gutachten beschworen hat, hofft JW auf Restitution. 
+                    Legt auch einen Auszug eines Berichts seiner <rs type="org" ref="#emt_institution_id__261">oberpfälzischen Regierung</rs> 
+                    bei; diesem zufolge werden die katholischen Untertanen der beiden Pflegämter 
+                    von den derzeitigen unkatholischen Inhabern unterdrückt, sodass zu befürchten ist, dass sie wegziehen 
+                    oder den lutherischen Glauben annehmen könnten. Bittet daher um EMTs Unterstützung.</p>
             </abstract>
             <langUsage>
                 <language ident="deu">deutsch</language>
@@ -700,8 +709,8 @@
                 <head>Beilage</head>
                 <ab>
                     <date when-iso="1711-09-12">12.09.1711</date>
-                    <placeName>Amberg</placeName>
-                    <persName type="sender">Oberpfälzische Regierung</persName>
+                    <placeName><rs type="place" ref="#emt_place_id__975">Amberg</rs></placeName>
+                    <persName type="sender"><rs type="org" ref="#emt_institution_id__261">Oberpfälzische Regierung</rs></persName>
                     <persName type="recipient"><rs type="person" ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</rs></persName>
                     <lang>deutsch</lang>
                     <note type="attachmentType">Extrakt</note>
