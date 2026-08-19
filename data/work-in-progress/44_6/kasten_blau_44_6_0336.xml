@@ -48,9 +48,8 @@
                      <msIdentifier>
                         <country>Deutschland</country>
                         <settlement>München</settlement>
-                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/6</idno>
-                        
-                        <idno/>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                         <idno>Kasten blau, 44/6, f. 217r-223v</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate when-iso="1694-12-31"/></origin>
@@ -61,6 +60,23 @@
                   <idno type="transkribus-col-id">130497</idno>
                   <idno type="transkribus-doc-id">896365</idno>
                </witness>
+                <witness n="3">
+                    <msDesc>
+                        <msIdentifier>
+                            <country>Deutschland</country>
+                            <settlement>München</settlement>
+                            <repository>Bayerisches Hauptstaatsarchiv</repository>
+                            <idno>Geheimes Hausarchiv, Korrespondenzakten 1147, f.78r-83r</idno>
+                        </msIdentifier>
+                        <history>
+                            <origin><origDate when-iso="1693-10-28"/></origin>
+                        </history>
+                    </msDesc>
+                </witness>
+                <witness n="4">
+                    <idno type="transkribus-col-id">130497</idno>
+                    <idno type="transkribus-doc-id">896365</idno>
+                </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
