@@ -49,13 +49,32 @@
                                 <country>Österreich</country>
                                 <settlement>Wien</settlement>
                                 <repository>Österreichisches Staatsarchiv</repository>
-                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 28, Fasz. 1</idno>
+                                <idno>Haus-, Hof- und Staatsarchiv, Staatenabteilung, Palatina 28, Fasz. 1, f. 350r-351v</idno>
                             </msIdentifier>
                         </msDesc>
                     </witness>
                     <witness n="2">
                         <idno type="transkribus-col-id">2382066</idno>
                         <idno type="transkribus-doc-id">15443643</idno>
+                    </witness>
+                    <witness n="3">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>München</settlement>
+                                <repository>Bayerisches Hauptstaatsarchiv</repository>
+                                <idno>Kasten blau, 44/6, f. 173r-174r</idno>
+                                
+                                <idno/>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate when-iso="1694-10-07"/></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="4">
+                        <idno type="transkribus-col-id">130497</idno>
+                        <idno type="transkribus-doc-id">896366</idno>
                     </witness>
                 </listWit>
             </sourceDesc>
@@ -356,7 +375,6 @@
             </div>
             <div type="page">
                  <head>Konzept</head>
-                 <p>München, Bayerisches Hauptstaatsarchiv, Kasten blau, 44/6</p>
                 <pb facs="#facs_5" n="173 r" xml:id="Kasten_blau_44_6_0271.jpg" source="https://files.transkribus.eu/Get?id=FJIGPWJQSQCCKWDRZASYECYZ&amp;fileType=view"/>
                 <p facs="#facs_5_r1"> </p>
                 <p facs="#facs_5_r2"> </p>
