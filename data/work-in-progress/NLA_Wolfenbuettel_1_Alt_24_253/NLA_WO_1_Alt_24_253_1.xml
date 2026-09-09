@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="NLA_WO_1_Alt_24_253_1.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">NLA_WO_1_Alt_24_253_1</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>NLA_Wolfenbuettel_1_Alt_24_253</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title type="main">NLA_WO_1_Alt_24_253_1</title>
+                    <idno type="Transkribus">18726476</idno>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc />
+    </teiHeader>
+    <facsimile>
+        <surface lrx="822" lry="1280" ulx="0" uly="0" xml:id="facs_1">
+            <graphic height="1280px" url="wolfenbuettel_1706_12_10.jpg" width="822px" />
+            <graphic height="1280px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=FUMMBKATHEWHOBZSBAUMHKMR" width="822px" />
+            <zone points="63,67 819,67 819,1180 63,1180" rendition="TextRegion" xml:id="facs_1_tr_1">
+                <zone points="223,67 386,67 386,110 223,110" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
+                <zone points="95,147 744,147 744,194 95,194" rendition="Line" xml:id="facs_1_tr_1_tl_2" />
+                <zone points="94,199 731,199 731,246 94,246" rendition="Line" xml:id="facs_1_tr_1_tl_3" />
+                <zone points="90,252 740,252 740,296 90,296" rendition="Line" xml:id="facs_1_tr_1_tl_4" />
+                <zone points="105,313 424,313 424,359 105,359" rendition="Line" xml:id="facs_1_tr_1_tl_5" />
+                <zone points="67,394 819,394 819,448 67,448" rendition="Line" xml:id="facs_1_tr_1_tl_6" />
+                <zone points="63,448 801,448 801,498 63,498" rendition="Line" xml:id="facs_1_tr_1_tl_7" />
+                <zone points="68,493 798,493 798,545 68,545" rendition="Line" xml:id="facs_1_tr_1_tl_8" />
+                <zone points="80,544 792,544 792,592 80,592" rendition="Line" xml:id="facs_1_tr_1_tl_9" />
+                <zone points="72,586 793,586 793,647 72,647" rendition="Line" xml:id="facs_1_tr_1_tl_10" />
+                <zone points="80,636 796,636 796,703 80,703" rendition="Line" xml:id="facs_1_tr_1_tl_11" />
+                <zone points="90,691 786,691 786,749 90,749" rendition="Line" xml:id="facs_1_tr_1_tl_12" />
+                <zone points="79,754 446,754 446,804 79,804" rendition="Line" xml:id="facs_1_tr_1_tl_13" />
+                <zone points="265,842 552,842 552,888 265,888" rendition="Line" xml:id="facs_1_tr_1_tl_14" />
+                <zone points="260,886 649,886 649,936 260,936" rendition="Line" xml:id="facs_1_tr_1_tl_15" />
+                <zone points="79,949 804,949 804,1026 79,1026" rendition="Line" xml:id="facs_1_tr_1_tl_16" />
+                <zone points="68,1005 801,1005 801,1079 68,1079" rendition="Line" xml:id="facs_1_tr_1_tl_17" />
+                <zone points="64,1053 811,1053 811,1125 64,1125" rendition="Line" xml:id="facs_1_tr_1_tl_18" />
+                <zone points="67,1106 792,1106 792,1180 67,1180" rendition="Line" xml:id="facs_1_tr_1_tl_19" />
+            </zone>
+        </surface>
+    </facsimile>
+    <text>
+        <body>
+            <div type="page">
+                <pb facs="#facs_1" n="1" xml:id="wolfenbuettel_1706_12_10.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FUMMBKATHEWHOBZSBAUMHKMR" />
+                <p facs="#facs_1_tr_1">
+                    <lb n="N001" />
+                    <lb n="N002" />
+                    <lb n="N003" />
+                    <lb n="N004" />
+                    <lb n="N005" />
+                    <lb n="N006" />
+                    <lb n="N007" />
+                    <lb n="N008" />
+                    <lb n="N009" />
+                    <lb n="N010" />
+                    <lb n="N011" />
+                    <lb n="N012" />
+                    <lb n="N013" />
+                    <lb n="N014" />
+                    <lb n="N015" />
+                    <lb n="N016" />
+                    <lb n="N017" />
+                    <lb n="N018" />
+                    <lb n="N019" />
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
