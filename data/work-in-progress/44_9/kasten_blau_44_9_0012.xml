@@ -48,9 +48,8 @@
                      <msIdentifier>
                         <country>Deutschland</country>
                         <settlement>München</settlement>
-                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/9</idno>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository><idno>Kasten blau, 44/9, f. 7r-7v</idno>
                         
-                        <idno/>
                      </msIdentifier>
                      <history>
                         <origin><origDate when-iso="1706-12-18"/></origin>
@@ -61,6 +60,19 @@
                   <idno type="transkribus-col-id">142911</idno>
                   <idno type="transkribus-doc-id">950855</idno>
                </witness>
+               <witness n="3">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>Wolfenbüttel</settlement>
+                        <repository>Niedersächsisches Landesarchiv, Abt. Wolfenbüttel</repository><idno>1 Alt 24, Nr. 253, f.38r-38v</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+               <witness n="4">
+                  <idno type="transkribus-col-id">2503747</idno>
+                  <idno type="transkribus-doc-id">18726495</idno>
+               </witness>
             </listWit>
          </sourceDesc>
       </fileDesc>
@@ -69,6 +81,8 @@
           <ab type="abstract-terms">
             <term>Ausfertigung</term>
             <term>eigenhändig</term>
+             <term>Extrakt</term>
+             <term>Schreiber</term>
          </ab>
          
         </abstract>
@@ -146,7 +160,49 @@
         <zone points="239,1075 301,1067 324,1080 345,1061 403,1065 435,1079 464,1064 464,1126 457,1128 398,1120 376,1127 360,1117 341,1134 324,1127 298,1138 279,1126 230,1141 221,1139" rendition="Line" xml:id="facs_2_line_1654767493086_113"/>
       </zone>
   </surface>
-</facsimile>
+
+      <surface lrx="1752" lry="2800" ulx="0" uly="0" xml:id="facs_3">
+         <graphic height="2800px" url="wolfenbuettel_1706_12_18_1v2.jpg" width="1752px" />
+         <graphic height="2800px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WUWCBLLEHYCVUBMUGDYFFWES" width="1752px" />
+         <zone points="142,96 1722,96 1722,2558 142,2558" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="306,160 1558,160 1558,286 306,286" rendition="Line" xml:id="facs_3_tr_1_tl_2" />
+            <zone points="266,280 1644,280 1644,398 266,398" rendition="Line" xml:id="facs_3_tr_1_tl_3" />
+            <zone points="266,387 1141,387 1141,482 266,482" rendition="Line" xml:id="facs_3_tr_1_tl_4" />
+            <zone points="280,496 1144,496 1144,599 280,599" rendition="Line" xml:id="facs_3_tr_1_tl_6" />
+            <zone points="198,655 1690,655 1690,766 198,766" rendition="Line" xml:id="facs_3_tr_1_tl_7" />
+            <zone points="176,761 1722,761 1722,856 176,856" rendition="Line" xml:id="facs_3_tr_1_tl_8" />
+            <zone points="164,866 1692,866 1692,955 164,955" rendition="Line" xml:id="facs_3_tr_1_tl_9" />
+            <zone points="174,975 1712,975 1712,1061 174,1061" rendition="Line" xml:id="facs_3_tr_1_tl_10" />
+            <zone points="186,1086 1722,1086 1722,1179 186,1179" rendition="Line" xml:id="facs_3_tr_1_tl_11" />
+            <zone points="176,1198 1704,1198 1704,1283 176,1283" rendition="Line" xml:id="facs_3_tr_1_tl_12" />
+            <zone points="164,1300 1691,1300 1691,1402 164,1402" rendition="Line" xml:id="facs_3_tr_1_tl_13" />
+            <zone points="144,1411 1676,1411 1676,1502 144,1502" rendition="Line" xml:id="facs_3_tr_1_tl_14" />
+            <zone points="166,1525 1700,1525 1700,1619 166,1619" rendition="Line" xml:id="facs_3_tr_1_tl_15" />
+            <zone points="146,1627 1672,1627 1672,1728 146,1728" rendition="Line" xml:id="facs_3_tr_1_tl_16" />
+            <zone points="158,1755 1668,1755 1668,1850 158,1850" rendition="Line" xml:id="facs_3_tr_1_tl_17" />
+            <zone points="158,1863 1680,1863 1680,1961 158,1961" rendition="Line" xml:id="facs_3_tr_1_tl_18" />
+            <zone points="142,1990 1700,1990 1700,2091 142,2091" rendition="Line" xml:id="facs_3_tr_1_tl_19" />
+            <zone points="156,2100 1712,2100 1712,2203 156,2203" rendition="Line" xml:id="facs_3_tr_1_tl_20" />
+            <zone points="158,2209 1700,2209 1700,2334 158,2334" rendition="Line" xml:id="facs_3_tr_1_tl_21" />
+            <zone points="150,2346 1706,2346 1706,2445 150,2445" rendition="Line" xml:id="facs_3_tr_1_tl_22" />
+            <zone points="148,2464 1626,2464 1626,2558 148,2558" rendition="Line" xml:id="facs_3_tr_1_tl_23" />
+         </zone>
+      </surface>
+      <surface lrx="1670" lry="2737" ulx="0" uly="0" xml:id="facs_4">
+         <graphic height="2737px" url="wolfenbuettel_1706_12_18_2v2.jpg" width="1670px" />
+         <graphic height="2737px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=YSOIYGRNZVLHGPWGXXGDRTDA" width="1670px" />
+         <zone points="204,169 1642,169 1642,971 204,971" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="266,169 1632,169 1632,341 266,341" rendition="Line" xml:id="facs_4_tr_1_tl_1" />
+            <zone points="242,269 1638,269 1638,449 242,449" rendition="Line" xml:id="facs_4_tr_1_tl_2" />
+            <zone points="256,383 1628,383 1628,549 256,549" rendition="Line" xml:id="facs_4_tr_1_tl_3" />
+            <zone points="258,490 1620,490 1620,645 258,645" rendition="Line" xml:id="facs_4_tr_1_tl_4" />
+            <zone points="204,621 1642,621 1642,758 204,758" rendition="Line" xml:id="facs_4_tr_1_tl_6" />
+            <zone points="214,745 1624,745 1624,869 214,869" rendition="Line" xml:id="facs_4_tr_1_tl_7" />
+            <zone points="218,873 978,873 978,971 218,971" rendition="Line" xml:id="facs_4_tr_1_tl_8" />
+         </zone>
+      </surface>
+      
+   </facsimile>
 
    <text type="letter">
    <body>
@@ -165,7 +221,8 @@
       <lb n="N012"/>Also dero Liebden die sach dahin wollen dirigiren, das die <choice><expan>Prinzessin</expan><abbr>Priz</abbr></choice> dero Liebden einen
         <lb n="N013"/>brif an die <rs type="person" ref="#emt_person_id__109">Keiserin</rs>, mein libste <choice><expan>fraw</expan><abbr>f</abbr></choice> dochter <choice><expan>Mayestät</expan><abbr>My</abbr></choice>, überschike, warinnen
       <lb n="N014"/>sie selbiger die ahnemung vnsers glauben eröffne vndt in ahn-
-      <lb n="N015"/>sehung ihrer naheten anuerwantschafft vmb ihre protection</p></div><div type="page"><pb facs="#facs_2" n="7 v" xml:id="Kasten_blau_44_9_0013.jpg" ed="4 v" source="https://files.transkribus.eu/Get?id=AISWBWKFMLKDGAZOLQWMHVEV&amp;fileType=view"/><p facs="#facs_2_r1">
+      <lb n="N015"/>sehung ihrer naheten anuerwantschafft vmb ihre protection</p></div>
+      <div type="page"><pb facs="#facs_2" n="7 v" xml:id="Kasten_blau_44_9_0013.jpg" ed="4 v" source="https://files.transkribus.eu/Get?id=AISWBWKFMLKDGAZOLQWMHVEV&amp;fileType=view"/><p facs="#facs_2_r1">
       <lb n="N001"/>erbitte vndt die erlaubnus, sich persönlich dahir vnter selbige
       <lb n="N002"/>zu sezen vndt zu genießen. Auf welchen brif hernach man einrichten
             <lb n="N003"/>wirt, wan vndt wie die <rs type="person" ref="#emt_person_id__110"><choice><expan>Prinzessin</expan><abbr>Pze</abbr></choice></rs> ihre reis antretten könne. Dero Liebden haben
@@ -190,6 +247,46 @@
       <lb n="N022"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
       <lb n="N023"/>Eleonora
             <lb n="N024"/><rs type="place" ref="#emt_place_id__63">Wien</rs> den <date when-iso="1706-12-18">18ten <choice><expan>decembris</expan><abbr>10br</abbr></choice> 1706</date></p></div>
+      
+      <div type="page">
+         <pb facs="#facs_3" n="38 r" xml:id="wolfenbuettel_1706_12_18_1v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=WUWCBLLEHYCVUBMUGDYFFWES" />
+         <p facs="#facs_3_tr_1">
+            <lb n="N001" />
+            <lb n="N002" />
+            <lb n="N003" />
+            <lb n="N004" />
+            <lb n="N005" />
+            <lb n="N006" />
+            <lb n="N007" />
+            <lb n="N008" />
+            <lb n="N009" />
+            <lb n="N010" />
+            <lb n="N011" />
+            <lb n="N012" />
+            <lb n="N013" />
+            <lb n="N014" />
+            <lb n="N015" />
+            <lb n="N016" />
+            <lb n="N017" />
+            <lb n="N018" />
+            <lb n="N019" />
+            <lb n="N020" />
+            <lb n="N021" />
+         </p>
+      </div>
+      <div type="page">
+         <pb facs="#facs_4" n="38 v" xml:id="wolfenbuettel_1706_12_18_2v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=YSOIYGRNZVLHGPWGXXGDRTDA" />
+         <p facs="#facs_4_tr_1">
+            <lb n="N001" />
+            <lb n="N002" />
+            <lb n="N003" />
+            <lb n="N004" />
+            <lb n="N005" />
+            <lb n="N006" />
+            <lb n="N007" />
+         </p>
+      </div>
+      
 </body>
 
    </text>
