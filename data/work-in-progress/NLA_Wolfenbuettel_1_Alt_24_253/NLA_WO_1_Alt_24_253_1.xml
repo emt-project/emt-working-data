@@ -48,12 +48,9 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>Deutschland</country>
-                                <settlement>München</settlement>
+                                <settlement>Wolfenbüttel</settlement>
                                 <repository>Niedersächsisches Landesarchiv, Abt. Wolfenbüttel</repository><idno>1 Alt 24, Nr. 253</idno>
                             </msIdentifier>
-                            <history>
-                                <origin><origDate when-iso="1686-02-03"/></origin>
-                            </history>
                         </msDesc>
                     </witness>
                     <witness n="2">
@@ -66,8 +63,8 @@
         <profileDesc>
             <abstract>
                 <ab type="abstract-terms">
-                    <term>Ausfertigung</term>
-                    <term>eigenhändig</term>
+                    <term>Extrakt</term>
+                    <term>Schreiber</term>
                 </ab>
             </abstract>
             <abstract n="regest">
@@ -80,10 +77,10 @@
                 <correspAction type="sent">
                     <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                     <placeName ref="#emt_place_id__63">Wien</placeName>
-                    <date when-iso="1686-02-03">Sonntag, 3. Februar 1686</date>
+                    <date when-iso="1706-12-10">Freitag, 10. Dezember 1706</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                     <placeName ref="#"/>
                     <date/>
                 </correspAction>
@@ -123,7 +120,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="wolfenbuettel_1706_12_10.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FUMMBKATHEWHOBZSBAUMHKMR" />
+                <pb facs="#facs_1" n="20 r" xml:id="wolfenbuettel_1706_12_10.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=FUMMBKATHEWHOBZSBAUMHKMR" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
