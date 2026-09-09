@@ -3,19 +3,91 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">NLA_WO_1_Alt_24_253_3</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, o.O. am 08.01.1707</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                    <name ref="https://orcid.org/0009-0000-4293-6606">Dorota Vargová</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>NLA_Wolfenbuettel_1_Alt_24_253</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">NLA_WO_1_Alt_24_253_3</title>
-                    <idno type="Transkribus">18726495</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>Wolfenbüttel</settlement>
+                                <repository>Niedersächsisches Landesarchiv, Abt. Wolfenbüttel</repository><idno>1 Alt 24, Nr. 253</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2503747</idno>
+                        <idno type="transkribus-doc-id">18726495</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Abschrift</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <abstract n="regest">
+                <p/>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                    <placeName ref="#">o.O.</placeName>
+                    <date when-iso="1707-02-05">Samstag, 05. Februar 1707</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="1800" lry="3023" ulx="0" uly="0" xml:id="facs_1">
@@ -64,7 +136,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="wolfenbuettel_1707_02_05_1v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KEIVWQIJBULQFNEKJHTSWZZS" />
+                <pb facs="#facs_1" n="61 r" xml:id="wolfenbuettel_1707_02_05_1v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=KEIVWQIJBULQFNEKJHTSWZZS" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -88,7 +160,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="wolfenbuettel_1707_02_05_2v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JXNEVWXLWDLKGMSKMHLZFHCI" />
+                <pb facs="#facs_2" n="61 v" xml:id="wolfenbuettel_1707_02_05_2v2.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=JXNEVWXLWDLKGMSKMHLZFHCI" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
