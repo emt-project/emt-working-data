@@ -1856,7 +1856,18 @@
                     <lb n="N020"/>
                 </p>
             </div>
-            <div type="page"><pb facs="#facs_33" n="22 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_038.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XAXNTQZNNEBPZGCWOCIVFZYR"/>
+            </div>
+            <div type="attachment">
+                <head>Beilage</head>
+                <ab>
+                    <date when-iso="1700-01-26">26.01.1700</date>
+                    <placeName><rs type="place" ref="#emt_place_id__13">Düsseldorf</rs></placeName>
+                    <lang>deutsch</lang>
+                    <note type="attachmentType">Kopie</note>
+                    <note type="content">Abschrift eines Bündnisvertrags (5 Artikel) zwischen JW und dem <rs type="person" ref="#emt_person_id__1317">Bischof 
+                            von Würzburg</rs> (Johann Philipp von Greiffenclau zu Vollraths).</note>
+                </ab>
+                <div type="page"><pb facs="#facs_33" n="22 r" xml:id="HHStA_StAbt_Palatina_29_4r-26v_038.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XAXNTQZNNEBPZGCWOCIVFZYR"/>
                 <p facs="#facs_33_tr_1">
                     <lb n="N001"/>
                     <lb n="N002"/>
@@ -1884,18 +1895,6 @@
                     <lb n="N024"/>
                 </p>
             </div>
-            </div>
-            
-            <div type="attachment">
-                <head>Beilage</head>
-                <ab>
-                    <date>o.D.</date>
-                    <placeName>o.O.</placeName>
-                    <lang>deutsch</lang>
-                    <note type="attachmentType">Kopie</note>
-                    <note type="content">Abschrift eines Bündnisvertrags (5 Artikel) zwischen JW und dem <rs type="person" ref="#emt_person_id__1317">Bischof 
-                            von Würzburg</rs> (Johann Philipp von Greiffenclau zu Vollraths).</note>
-                </ab>
             <div type="page"><pb facs="#facs_34" n="22 v" xml:id="HHStA_StAbt_Palatina_29_4r-26v_039.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=MDMYYANZDNWLGSYCRXLPIFNX"/>
                 <p facs="#facs_34_tr_1">
                     <lb n="N001"/>
@@ -2019,8 +2018,8 @@
             <div type="attachment">
                 <head>Beilage</head>
                 <ab>
-                    <date>o.D.</date>
-                    <placeName>o.O.</placeName>
+                    <date when-iso="1700-01-26" datingMethod="ermittelt_durch_Editor*innen">o.D. (26.01.1700)</date>
+                    <placeName>o.O. (<rs type="place" ref="#emt_place_id__13" cert="high">Düsseldorf</rs>)</placeName>
                     <lang>deutsch</lang>
                     <note type="attachmentType">Kopie</note>
                     <note type="content">Abschrift eines Bündnisvertrags (17 Punkte) zwischen JW und dem <rs type="person" ref="#emt_person_id__1317">Bischof 
