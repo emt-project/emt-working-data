@@ -265,6 +265,44 @@
          </zone>
       </surface>
       
+      <surface lrx="1895" lry="2285" ulx="0" uly="0" xml:id="facs_8">
+         <graphic height="2285px" url="GLA_Karlsruhe_77_8806c_01_05.jpg" width="1895px" />
+         <graphic height="2285px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=TUPYITXTSXRLSNPLOEQWEKQM" width="1895px" />
+         <zone points="0,0 1864,0 1864,2252 0,2252" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="296,188 1594,188 1594,278 296,278" rendition="Line" xml:id="facs_8_tr_1_tl_3" />
+            <zone points="300,302 1648,302 1648,397 300,397" rendition="Line" xml:id="facs_8_tr_1_tl_4" />
+            <zone points="0,1155 1854,1155 1854,1255 0,1255" rendition="Line" xml:id="facs_8_tr_1_tl_5" />
+            <zone points="4,1257 1864,1257 1864,1361 4,1361" rendition="Line" xml:id="facs_8_tr_1_tl_6" />
+            <zone points="0,1360 1808,1360 1808,1474 0,1474" rendition="Line" xml:id="facs_8_tr_1_tl_7" />
+            <zone points="18,1484 1844,1484 1844,1588 18,1588" rendition="Line" xml:id="facs_8_tr_1_tl_8" />
+            <zone points="22,1608 1830,1608 1830,1699 22,1699" rendition="Line" xml:id="facs_8_tr_1_tl_9" />
+            <zone points="26,1723 1748,1723 1748,1810 26,1810" rendition="Line" xml:id="facs_8_tr_1_tl_10" />
+            <zone points="26,1838 1820,1838 1820,1930 26,1930" rendition="Line" xml:id="facs_8_tr_1_tl_11" />
+            <zone points="26,1943 1812,1943 1812,2037 26,2037" rendition="Line" xml:id="facs_8_tr_1_tl_12" />
+            <zone points="26,2062 1826,2062 1826,2152 26,2152" rendition="Line" xml:id="facs_8_tr_1_tl_13" />
+            <zone points="42,2162 1768,2162 1768,2252 42,2252" rendition="Line" xml:id="facs_8_tr_1_tl_14" />
+         </zone>
+      </surface>
+      <surface lrx="1907" lry="2296" ulx="0" uly="0" xml:id="facs_9">
+         <graphic height="2296px" url="GLA_Karlsruhe_77_8806c_01_06.jpg" width="1907px" />
+         <graphic height="2296px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=NWBPCHTXANWAFFTCZSZNAEHL" width="1907px" />
+         <zone points="26,384 1844,384 1844,2281 26,2281" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="50,384 1764,384 1764,487 50,487" rendition="Line" xml:id="facs_9_tr_1_tl_1" />
+            <zone points="64,507 1794,507 1794,621 64,621" rendition="Line" xml:id="facs_9_tr_1_tl_2" />
+            <zone points="54,639 1832,639 1832,741 54,741" rendition="Line" xml:id="facs_9_tr_1_tl_3" />
+            <zone points="34,758 1808,758 1808,870 34,870" rendition="Line" xml:id="facs_9_tr_1_tl_4" />
+            <zone points="28,884 1844,884 1844,995 28,995" rendition="Line" xml:id="facs_9_tr_1_tl_5" />
+            <zone points="538,1250 1036,1250 1036,1355 538,1355" rendition="Line" xml:id="facs_9_tr_1_tl_6" />
+            <zone points="802,1461 1832,1461 1832,1539 802,1539" rendition="Line" xml:id="facs_9_tr_1_tl_7" />
+            <zone points="1060,1549 1404,1549 1404,1621 1060,1621" rendition="Line" xml:id="facs_9_tr_1_tl_9" />
+            <zone points="26,1517 652,1517 652,1614 26,1614" rendition="Line" xml:id="facs_9_tr_1_tl_8" />
+            <zone points="54,1614 196,1614 196,1703 54,1703" rendition="Line" xml:id="facs_9_tr_1_tl_10" />
+            <zone points="42,1802 974,1802 974,1898 42,1898" rendition="Line" xml:id="facs_9_tr_1_tl_11" />
+            <zone points="38,1919 534,1919 534,2000 38,2000" rendition="Line" xml:id="facs_9_tr_1_tl_12" />
+            <zone points="928,2178 1884,2178 1884,2279 928,2279" rendition="Line" xml:id="facs_9_tr_1_tl_13" />
+         </zone>
+      </surface>
+      
    </facsimile>
 
    <text type="letter">
@@ -440,7 +478,56 @@
    </div>
    
 </div>
-
+      <div type="attachment">
+         <head>Beilage</head>
+         <ab>
+            <date when-iso="1701-04-08">08.04.1701</date>
+            <placeName ref="#emt_place_id__39">Neuburg an der Donau</placeName>
+            <persName type="sender"><rs type="person" ref="#emt_person_id__10">Pfalz-Neuburg, Elisabeth Amalie von, geb. Hessen-Darmstadt</rs></persName>
+            <lang>deutsch</lang>
+            <note type="attachmentType">Ausfertigung</note>
+            <note type="content"></note>
+         </ab>
+         <div type="page">
+            <pb facs="#facs_8" n="205 r" xml:id="GLA_Karlsruhe_77_8806c_01_05.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=TUPYITXTSXRLSNPLOEQWEKQM" />
+            <p facs="#facs_8_tr_1">
+               <lb n="N001" />
+               <lb n="N002" />
+               <lb n="N003" />
+               <lb n="N004" />
+               <lb n="N005" />
+               <lb n="N006" />
+               <lb n="N007" />
+               <lb n="N008" />
+               <lb n="N009" />
+               <lb n="N010" />
+               <lb n="N011" />
+               <lb n="N012" />
+            </p>
+         </div>
+         <div type="page">
+            <pb facs="#facs_9" n="205 v" xml:id="GLA_Karlsruhe_77_8806c_01_06.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NWBPCHTXANWAFFTCZSZNAEHL" />
+            <p facs="#facs_9_tr_1">
+               <lb n="N001" />
+               <lb n="N002" />
+               <lb n="N003" />
+               <lb n="N004" />
+               <lb n="N005" />
+               <lb n="N006" />
+               <lb n="N007" />
+               <lb n="N008" />
+               <lb n="N009" />
+               <lb n="N010" />
+               <lb n="N011" />
+               <lb n="N012" />
+               <lb n="N013" />
+            </p>
+         </div>
+         
+         
+         
+         
+      </div>
    </body>
 
    </text>
