@@ -268,37 +268,7 @@
                 <zone points="310,3604 1530,3604 1530,3715 310,3715" rendition="Line" xml:id="facs_4_tr_1_tl_27" />
             </zone>
         </surface>
-        <surface lrx="2332" lry="3567" ulx="0" uly="0" xml:id="facs_5">
-            <graphic height="3567px" url="GLA_Karlsruhe_77_8806b_02_05.jpg" width="2332px" />
-            <graphic height="3567px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=XIHKXEOHUBCRBTNKOOACNEPB" width="2332px" />
-            <zone points="83,8 2301,8 2301,3341 83,3341" rendition="TextRegion" xml:id="facs_5_tr_1">
-                <zone points="272,1088 2161,1088 2161,1264 272,1264" rendition="Line" xml:id="facs_5_tr_1_tl_2" />
-                <zone points="90,1274 2301,1274 2301,1465 90,1465" rendition="Line" xml:id="facs_5_tr_1_tl_3" />
-                <zone points="86,1462 2250,1462 2250,1655 86,1655" rendition="Line" xml:id="facs_5_tr_1_tl_5" />
-                <zone points="116,1668 2301,1668 2301,1853 116,1853" rendition="Line" xml:id="facs_5_tr_1_tl_7" />
-                <zone points="83,1877 2253,1877 2253,2047 83,2047" rendition="Line" xml:id="facs_5_tr_1_tl_9" />
-                <zone points="29,2080 2211,2080 2211,2273 29,2273" rendition="Line" xml:id="facs_5_tr_1_tl_10" />
-                <zone points="89,2285 2176,2285 2176,2481 89,2481" rendition="Line" xml:id="facs_5_tr_1_tl_11" />
-                <zone points="101,2494 2205,2494 2205,2705 101,2705" rendition="Line" xml:id="facs_5_tr_1_tl_12" />
-                <zone points="56,2728 2131,2728 2131,2889 56,2889" rendition="Line" xml:id="facs_5_tr_1_tl_13" />
-                <zone points="84,2954 2062,2954 2062,3130 84,3130" rendition="Line" xml:id="facs_5_tr_1_tl_16" />
-                <zone points="89,3173 2265,3173 2265,3341 89,3341" rendition="Line" xml:id="facs_5_tr_1_tl_18" />
-            </zone>
-        </surface>
-        <surface lrx="2343" lry="3570" ulx="0" uly="0" xml:id="facs_6">
-            <graphic height="3570px" url="GLA_Karlsruhe_77_8806b_02_06.jpg" width="2343px" />
-            <graphic height="3570px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=UFDZHTPPXYLJVWBYLQRAWUKK" width="2343px" />
-            <zone points="62,179 2259,179 2259,1444 62,1444" rendition="TextRegion" xml:id="facs_6_tr_1">
-                <zone points="95,179 2302,179 2302,330 95,330" rendition="Line" xml:id="facs_6_tr_1_tl_1" />
-                <zone points="62,410 2135,410 2135,566 62,566" rendition="Line" xml:id="facs_6_tr_1_tl_3" />
-                <zone points="92,620 1149,620 1149,766 92,766" rendition="Line" xml:id="facs_6_tr_1_tl_4" />
-                <zone points="481,946 645,946 645,988 481,988" rendition="Line" xml:id="facs_6_l" />
-                <zone points="1486,991 2008,991 2008,1120 1486,1120" rendition="Line" xml:id="facs_6_tr_1_tl_5" />
-                <zone points="1408,1168 1955,1168 1955,1330 1408,1330" rendition="Line" xml:id="facs_6_tr_1_tl_8" />
-                <zone points="107,1152 1172,1152 1172,1299 107,1299" rendition="Line" xml:id="facs_6_tr_1_tl_6" />
-            </zone>
-        </surface>
-    </facsimile>
+      </facsimile>
     <text>
         <body>
             <div type="page">
@@ -475,34 +445,6 @@
                     <lb n="N027" />
                 </p>
             </div>
-            <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="GLA_Karlsruhe_77_8806b_02_05.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=XIHKXEOHUBCRBTNKOOACNEPB" />
-                <p facs="#facs_5_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                    <lb n="N008" />
-                    <lb n="N009" />
-                    <lb n="N010" />
-                    <lb n="N011" />
-                </p>
-            </div>
-            <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="GLA_Karlsruhe_77_8806b_02_06.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UFDZHTPPXYLJVWBYLQRAWUKK" />
-                <p facs="#facs_6_tr_1">
-                    <lb n="N001" />
-                    <lb n="N002" />
-                    <lb n="N003" />
-                    <lb n="N004" />
-                    <lb n="N005" />
-                    <lb n="N006" />
-                    <lb n="N007" />
-                </p>
-            </div>
-        </body>
+         </body>
     </text>
 </TEI>
