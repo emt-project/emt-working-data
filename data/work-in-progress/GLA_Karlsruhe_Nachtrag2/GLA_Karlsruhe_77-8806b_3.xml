@@ -3,19 +3,91 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">GLA_Karlsruhe_77-8806b_3</title>
+                <title type="main">Johann Wilhelm von Pfalz-Neuburg an Eleonora Magdalena von Pfalz-Neuburg, Düsseldorf am 05.11.1701</title>
+                <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+                <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+                <editor>
+                    <name ref="https://orcid.org/0000-0002-8621-5162">Katrin Keller</name>
+                    <name ref="https://orcid.org/0000-0002-8676-3935">Ines Peper</name>
+                    <name ref="https://orcid.org/0000-0002-1389-896X">Anna Spitzbart</name>
+                    <name ref="https://orcid.org/0009-0000-4293-6606">Dorota Vargová</name>
+                </editor>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
             </titleStmt>
+            <editionStmt>
+                <edition>EMT</edition>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <name>N. N.</name>
+                </respStmt>
+            </editionStmt>
             <publicationStmt>
-                <p>GLA_Karlsruhe_Nachtrag 2</p>
+                <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2023">2023</date>
+                <availability>
+                    <licence>
+                        <p>copyright</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>
-                    <title type="main">GLA_Karlsruhe_77-8806b_3</title>
-                    <idno type="Transkribus">19892489</idno>
-                </bibl>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>Deutschland</country>
+                                <settlement>Karlsruhe</settlement>
+                                <repository>Generallandesarchiv Karlsruhe</repository>
+                                <idno>77 Nr. 8806b</idno>
+                            </msIdentifier>
+                            <history>
+                                <origin>
+                                    <origDate/>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                    <witness n="2">
+                        <idno type="transkribus-col-id">2577744</idno>
+                        <idno type="transkribus-doc-id">19892489</idno>
+                    </witness>
+                </listWit>
             </sourceDesc>
         </fileDesc>
-        <profileDesc />
+        <profileDesc>
+            <abstract>
+                <ab type="abstract-terms">
+                    <term>Konzept</term>
+                    <term>Schreiber</term>
+                </ab>
+            </abstract>
+            <langUsage>
+                <language ident="deu">deutsch</language> 
+            </langUsage>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName> 
+                    <placeName ref="#emt_place_id__13">Düsseldorf</placeName> 
+                    <date when-iso="1701-05-11">Mittwoch, 11. Mai 1701</date> 
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+                    <placeName ref="#"/>
+                    <date/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
     </teiHeader>
     <facsimile>
         <surface lrx="2506" lry="4014" ulx="0" uly="0" xml:id="facs_1">
@@ -423,7 +495,7 @@
     <text>
         <body>
             <div type="page">
-                <pb facs="#facs_1" n="1" xml:id="GLA_Karlsruhe_77_8806b_03_01.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NYSMAAUPHJQWSBZTKALEZJZZ" />
+                <pb facs="#facs_1" n="195 r" xml:id="GLA_Karlsruhe_77_8806b_03_01.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NYSMAAUPHJQWSBZTKALEZJZZ" />
                 <p facs="#facs_1_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -460,7 +532,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_2" n="2" xml:id="GLA_Karlsruhe_77_8806b_03_02.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ULXTATLZGOAEUNGXNTYGYAGT" />
+                <pb facs="#facs_2" n="195 v" xml:id="GLA_Karlsruhe_77_8806b_03_02.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=ULXTATLZGOAEUNGXNTYGYAGT" />
                 <p facs="#facs_2_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -493,7 +565,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_3" n="3" xml:id="GLA_Karlsruhe_77_8806b_03_03.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SNDXEOEBIFFUEJMGMSKNNLQW" />
+                <pb facs="#facs_3" n="196 r" xml:id="GLA_Karlsruhe_77_8806b_03_03.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SNDXEOEBIFFUEJMGMSKNNLQW" />
                 <p facs="#facs_3_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -525,7 +597,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_4" n="4" xml:id="GLA_Karlsruhe_77_8806b_03_04.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VXELTWDEAHPXDKOJQBTOLYBO" />
+                <pb facs="#facs_4" n="196 v" xml:id="GLA_Karlsruhe_77_8806b_03_04.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VXELTWDEAHPXDKOJQBTOLYBO" />
                 <p facs="#facs_4_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -557,7 +629,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_5" n="5" xml:id="GLA_Karlsruhe_77_8806b_03_05.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IRTXLCETPTHIHWRYAQUTDSSM" />
+                <pb facs="#facs_5" n="197 r" xml:id="GLA_Karlsruhe_77_8806b_03_05.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=IRTXLCETPTHIHWRYAQUTDSSM" />
                 <p facs="#facs_5_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -589,7 +661,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_6" n="6" xml:id="GLA_Karlsruhe_77_8806b_03_06.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSNQNRISIMGNAHVIUOEYKCPH" />
+                <pb facs="#facs_6" n="197 v" xml:id="GLA_Karlsruhe_77_8806b_03_06.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=BSNQNRISIMGNAHVIUOEYKCPH" />
                 <p facs="#facs_6_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -621,7 +693,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_7" n="7" xml:id="GLA_Karlsruhe_77_8806b_03_07.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NZPVBPEWEOAJYIZQYXXTPSYU" />
+                <pb facs="#facs_7" n="198 r" xml:id="GLA_Karlsruhe_77_8806b_03_07.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NZPVBPEWEOAJYIZQYXXTPSYU" />
                 <p facs="#facs_7_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -653,7 +725,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_8" n="8" xml:id="GLA_Karlsruhe_77_8806b_03_08.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VIMCIPCAROGHTKPYFVMOGDYL" />
+                <pb facs="#facs_8" n="198 v" xml:id="GLA_Karlsruhe_77_8806b_03_08.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=VIMCIPCAROGHTKPYFVMOGDYL" />
                 <p facs="#facs_8_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -693,7 +765,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_9" n="9" xml:id="GLA_Karlsruhe_77_8806b_03_09.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SYKQWMIKFJLASTTRGSDROKEY" />
+                <pb facs="#facs_9" n="199 r" xml:id="GLA_Karlsruhe_77_8806b_03_09.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=SYKQWMIKFJLASTTRGSDROKEY" />
                 <p facs="#facs_9_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -726,7 +798,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_10" n="10" xml:id="GLA_Karlsruhe_77_8806b_03_10.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NAMUNARZJNJBPXJQTNASHYBX" />
+                <pb facs="#facs_10" n="199 v" xml:id="GLA_Karlsruhe_77_8806b_03_10.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=NAMUNARZJNJBPXJQTNASHYBX" />
                 <p facs="#facs_10_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
@@ -789,7 +861,7 @@
                 </p>
             </div>
             <div type="page">
-                <pb facs="#facs_11" n="11" xml:id="GLA_Karlsruhe_77_8806b_03_11.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UFYKZTWZVNOJBFUSCTWBENIJ" />
+                <pb facs="#facs_11" n="214 r" xml:id="GLA_Karlsruhe_77_8806b_03_11.jpg" source="https://files.transkribus.eu/Get?fileType=view&amp;id=UFYKZTWZVNOJBFUSCTWBENIJ" />
                 <p facs="#facs_11_tr_1">
                     <lb n="N001" />
                     <lb n="N002" />
